@@ -1,0 +1,2 @@
+module AttributeValueSimilarPatternsHelper
+end

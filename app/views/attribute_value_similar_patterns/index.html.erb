@@ -1,0 +1,35 @@
+<h1>Listing attribute_value_similar_patterns</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Attribute value</th>
+      <th>Value</th>
+      <th>Paragraph</th>
+      <th>Sentence</th>
+      <th>Word</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @attribute_value_similar_patterns.each do |attribute_value_similar_pattern| %>
+      <tr>
+        <td><%= attribute_value_similar_pattern.attribute_value_id %></td>
+        <td><%= attribute_value_similar_pattern.value %></td>
+        <td><%= attribute_value_similar_pattern.paragraph %></td>
+        <td><%= attribute_value_similar_pattern.sentence %></td>
+        <td><%= attribute_value_similar_pattern.word %></td>
+        <td><%= link_to 'Show', attribute_value_similar_pattern %></td>
+        <td><%= link_to 'Edit', edit_attribute_value_similar_pattern_path(attribute_value_similar_pattern) %></td>
+        <td><%= link_to 'Destroy', attribute_value_similar_pattern, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Attribute value similar pattern', new_attribute_value_similar_pattern_path %>

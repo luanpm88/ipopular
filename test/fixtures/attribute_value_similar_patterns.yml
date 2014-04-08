@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  attribute_value_id: 1
+  value: MyText
+  paragraph: 1
+  sentence: 1
+  word: 1
+
+two:
+  attribute_value_id: 1
+  value: MyText
+  paragraph: 1
+  sentence: 1
+  word: 1

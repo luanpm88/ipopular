@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  content: MyText
+  content_html: MyText
+  content_plain: MyText
+  infobox_template_id: 1
+  for_test: 1
+
+two:
+  name: MyText
+  content: MyText
+  content_html: MyText
+  content_plain: MyText
+  infobox_template_id: 1
+  for_test: 1

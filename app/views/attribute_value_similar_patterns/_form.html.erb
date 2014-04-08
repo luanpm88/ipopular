@@ -1,0 +1,37 @@
+<%= form_for(@attribute_value_similar_pattern) do |f| %>
+  <% if @attribute_value_similar_pattern.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@attribute_value_similar_pattern.errors.count, "error") %> prohibited this attribute_value_similar_pattern from being saved:</h2>
+
+      <ul>
+      <% @attribute_value_similar_pattern.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :attribute_value_id %><br>
+    <%= f.number_field :attribute_value_id %>
+  </div>
+  <div class="field">
+    <%= f.label :value %><br>
+    <%= f.text_area :value %>
+  </div>
+  <div class="field">
+    <%= f.label :paragraph %><br>
+    <%= f.number_field :paragraph %>
+  </div>
+  <div class="field">
+    <%= f.label :sentence %><br>
+    <%= f.number_field :sentence %>
+  </div>
+  <div class="field">
+    <%= f.label :word %><br>
+    <%= f.number_field :word %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
