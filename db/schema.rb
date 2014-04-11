@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140408030802) do
+ActiveRecord::Schema.define(version: 20140409003448) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -39,6 +39,8 @@ ActiveRecord::Schema.define(version: 20140408030802) do
     t.integer  "article_id"
     t.integer  "attribute_id"
     t.integer  "infobox_template_id"
+    t.text     "window_pre"
+    t.text     "window_post"
   end
 
   create_table "attribute_values", force: true do |t|

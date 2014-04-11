@@ -1,0 +1,7 @@
+PRE	value_of_token=seal	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=brown,	type=String	POS=JJ
+PRE	value_of_token=cardinal	type=String	alphanum_char=1	POS=JJ
+PRE	value_of_token=red,	type=String	POS=JJ
+PRE	value_of_token=and	type=String	alphanum_char=1	POS=CC
+VAL	value_of_token=white.	type=String	alphanum_char_dot=1	token_4=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=3	sentence=2	word=9
+

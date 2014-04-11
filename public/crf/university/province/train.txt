@@ -1,0 +1,17 @@
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=university	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=located	type=String	alphanum_char=1	POS=VBN
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=Halifax,	type=String	POS=NNP
+VAL	value_of_token=Nova	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=8
+VAL	value_of_token=Scotia,	type=String	POS=NNP	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=8
+POT	value_of_token=Canada.	type=String	alphanum_char_dot=1	token_4=1	POS=NNP
+
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=time	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=Governor	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+VAL	value_of_token=Nova	type=String	alphanum_char=1	POS=NNP	small_token=1	paragraph=4	sentence=0	word=26
+VAL	value_of_token=Scotia.	type=String	alphanum_char_dot=1	token_4=1	POS=NNP	small_token=1	paragraph=4	sentence=0	word=26
+

@@ -1,0 +1,13 @@
+PRE	value_of_token=Chancellor	type=String	alphanum_char=1	POS=NNP
+VAL	value_of_token=Matthew	type=String	alphanum_char=1	POS=NNP	small_token=1	paragraph=2	sentence=1	word=1
+VAL	value_of_token=Goldstein,	type=String	POS=NNP	paragraph=2	sentence=1	word=1
+POT	value_of_token=who	type=String	alphanum_char=1	POS=WP
+POT	value_of_token=recently	type=String	alphanum_char=1	POS=RB
+POT	value_of_token=championed	type=String	alphanum_char=1	POS=VBD
+POT	value_of_token=higher	type=String	alphanum_char=1	POS=JJR
+POT	value_of_token=education	type=String	alphanum_char=1	POS=NN
+
+VAL	value_of_token=Fred	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=0	sentence=4	word=0
+VAL	value_of_token=Fountain;	type=String	POS=NNP	small_token=1	long_paragraph=1	paragraph=0	sentence=4	word=0
+POT	value_of_token=Dr.	type=String	alphanum_char_dot=1	token_4=1	POS=NNP
+

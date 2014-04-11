@@ -1,0 +1,132 @@
+PRE	value_of_token=university	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=(Medical	type=String	POS=JJ
+PRE	value_of_token=Doctoral	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=Rankings)	type=String	POS=NNP
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+VAL	value_of_token=Canada	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=3	sentence=0	word=12
+POT	value_of_token=by	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=Maclean's	type=String	POS=NNP
+POT	value_of_token=Magazine	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=2009.	type=String	token_4=1	POS=CD
+
+PRE	value_of_token=Rankings,	type=String	POS=NNP
+PRE	value_of_token=Dalhousie	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=ranked	type=String	alphanum_char=1	POS=VBD
+PRE	value_of_token=7th	type=String	POS=NNP
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+VAL	value_of_token=Canada	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=3	sentence=1	word=18
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+POT	value_of_token=193rd	type=String	POS=VBD
+POT	value_of_token=internationally.	type=String	alphanum_char_dot=1	token_4=1	POS=RB
+
+PRE	value_of_token=universities	type=String	alphanum_char=1	POS=NNS
+PRE	value_of_token=places	type=String	alphanum_char=1	POS=NNS
+PRE	value_of_token=Dalhousie	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=8th	type=String	POS=CD
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+VAL	value_of_token=Canada	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=3	sentence=2	word=23
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+POT	value_of_token=180th	type=String	POS=JJ
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=the	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=world.	type=String	alphanum_char_dot=1	token_4=1	POS=NN
+
+PRE	value_of_token=and	type=String	alphanum_char=1	POS=CC
+PRE	value_of_token=seventh	type=String	alphanum_char=1	POS=JJ
+PRE	value_of_token=oldest	type=String	alphanum_char=1	POS=JJS
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=United	type=String	alphanum_char=1	POS=NNP	small_token=1	paragraph=0	sentence=1	word=50
+VAL	value_of_token=States.	type=String	alphanum_char_dot=1	token_4=1	POS=NNPS	small_token=1	paragraph=0	sentence=1	word=50
+
+PRE	value_of_token=located	type=String	alphanum_char=1	POS=VBN
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=Wolfville,	type=String	POS=NNP
+PRE	value_of_token=Nova	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=Scotia,	type=String	POS=NNP
+VAL	value_of_token=Canada	type=String	alphanum_char=1	POS=NNP	small_token=1	paragraph=0	sentence=0	word=12
+POT	value_of_token=with	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=some	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=graduate	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=programs	type=String	alphanum_char=1	POS=NNS
+POT	value_of_token=at	type=String	alphanum_char=1	POS=IN
+
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=university	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=Gothenburg,	type=String	POS=NNP
+VAL	value_of_token=Sweden,	type=String	POS=NNP	small_token=1	paragraph=0	sentence=0	word=14
+POT	value_of_token=that	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=focuses	type=String	alphanum_char=1	POS=VBZ
+POT	value_of_token=on	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=research	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=only	type=String	alphanum_char=1	POS=RB
+PRE	value_of_token=three	type=String	alphanum_char=1	POS=CD
+PRE	value_of_token=universities	type=String	alphanum_char=1	POS=NNS
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+VAL	value_of_token=Sweden	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=1	sentence=4	word=8
+POT	value_of_token=which	type=String	alphanum_char=1	POS=WDT
+POT	value_of_token=are	type=String	alphanum_char=1	POS=VBP
+POT	value_of_token=named	type=String	alphanum_char=1	POS=VBN
+POT	value_of_token=after	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=a	type=String	alphanum_char=1	POS=DT
+
+PRE	value_of_token=Chalmers	type=String	alphanum_char=1	POS=NNS
+PRE	value_of_token=come	type=String	alphanum_char=1	POS=VBP
+PRE	value_of_token=from	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=countries	type=String	alphanum_char=1	POS=NNS
+PRE	value_of_token=outside	type=String	alphanum_char=1	POS=IN
+VAL	value_of_token=Sweden	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=4	sentence=5	word=12
+POT	value_of_token=to	type=String	alphanum_char=1	POS=TO
+POT	value_of_token=enroll	type=String	alphanum_char=1	POS=VB
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=a	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=Master's	type=String	POS=NNP
+
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=technology	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=located	type=String	alphanum_char=1	POS=VBN
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=Eindhoven,	type=String	POS=NNP
+VAL	value_of_token=Netherlands.	type=String	alphanum_char_dot=1	token_4=1	POS=NNPS	long_paragraph=1	paragraph=0	sentence=1	word=9
+
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=its	type=String	alphanum_char=1	POS=PRP$
+PRE	value_of_token=kind	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=Netherlands,	type=String	POS=NNP	long_paragraph=1	paragraph=0	sentence=3	word=10
+POT	value_of_token=only	type=String	alphanum_char=1	POS=RB
+POT	value_of_token=Delft	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=University	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=of	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=Technology	type=String	alphanum_char=1	POS=NNP
+
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=its	type=String	alphanum_char=1	POS=PRP$
+PRE	value_of_token=kind	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=Netherlands,	type=String	POS=NNP	long_paragraph=1	paragraph=1	sentence=1	word=10
+POT	value_of_token=preceded	type=String	alphanum_char=1	POS=VBD
+POT	value_of_token=only	type=String	alphanum_char=1	POS=RB
+POT	value_of_token=by	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=the	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=Delft	type=String	alphanum_char=1	POS=NNP
+
+PRE	value_of_token=college	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=in	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=Beaver	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=Falls,	type=String	POS=NNPS
+PRE	value_of_token=Pennsylvania,	type=String	POS=NNP
+VAL	value_of_token=United	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=12
+VAL	value_of_token=States,	type=String	POS=NNP	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=12
+POT	value_of_token=north	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=of	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=Pittsburgh.	type=String	alphanum_char_dot=1	token_4=1	POS=NNP
+

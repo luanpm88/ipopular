@@ -1,0 +1,12 @@
+PRE	value_of_token=separate	type=String	alphanum_char=1	POS=JJ
+PRE	value_of_token=Sexton	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=Campus	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=for	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=architecture,	type=String	POS=NN
+VAL	value_of_token=urban	type=String	alphanum_char=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=0	sentence=2	word=37
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+POT	value_of_token=regional	type=String	alphanum_char=1	POS=JJ
+POT	value_of_token=planning,	type=String	POS=NN
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+POT	value_of_token=engineering.	type=String	alphanum_char_dot=1	token_4=1	POS=NN
+

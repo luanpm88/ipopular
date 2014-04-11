@@ -1,0 +1,33 @@
+PRE	value_of_token=In	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=August	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=2010	type=Number	four_digit_number=1	number=1	POS=CD
+VAL	value_of_token=John	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=1	sentence=7	word=3
+VAL	value_of_token=Anderson	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=1	sentence=7	word=3
+VAL	value_of_token=Fry	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=1	sentence=7	word=3
+POT	value_of_token=was	type=String	alphanum_char=1	POS=VBD
+POT	value_of_token=chosen	type=String	alphanum_char=1	POS=VBN
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=a	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=unanimous	type=String	alphanum_char=1	POS=JJ
+
+VAL	value_of_token=Tom	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=0	sentence=5	word=0
+VAL	value_of_token=Traves	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=0	sentence=5	word=0
+POT	value_of_token=serves	type=String	alphanum_char=1	POS=VBZ
+POT	value_of_token=as	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=president	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+POT	value_of_token=vice-chancellor.	type=String	token_4=1	POS=NN
+
+PRE	value_of_token=current	type=String	alphanum_char=1	POS=JJ
+PRE	value_of_token=president	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=University,	type=String	POS=NNP
+VAL	value_of_token=Stephen	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=1	sentence=2	word=6
+VAL	value_of_token=Jones,	type=String	POS=NNP	small_token=1	long_paragraph=1	paragraph=1	sentence=2	word=6
+POT	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+POT	value_of_token=the	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=great-grandson	type=String	POS=NN
+POT	value_of_token=of	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=the	type=String	alphanum_char=1	POS=DT
+

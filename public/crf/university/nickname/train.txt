@@ -1,0 +1,23 @@
+PRE	value_of_token=Named	type=String	alphanum_char=1	POS=VBN
+PRE	value_of_token=after	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=American	type=String	alphanum_char=1	POS=JJ
+PRE	value_of_token=revolutionary,	type=String	POS=JJ
+VAL	value_of_token=patriot,	type=String	POS=NN	small_token=1	long_paragraph=1	paragraph=1	sentence=0	word=4
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+POT	value_of_token=founding	type=String	alphanum_char=1	POS=VBG
+POT	value_of_token=father	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=George	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=Mason,	type=String	POS=NNP
+
+PRE	value_of_token=1846,	type=Number	formated_number_1=1	POS=CD
+PRE	value_of_token=when	type=String	alphanum_char=1	POS=WRB
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=group	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+VAL	value_of_token=pioneer	type=String	alphanum_char=1	POS=NN	small_token=1	long_paragraph=1	paragraph=0	sentence=2	word=9
+POT	value_of_token=New	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=England	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=Congregationalists	type=String	alphanum_char=1	POS=NNS
+POT	value_of_token=established	type=String	alphanum_char=1	POS=VBD
+POT	value_of_token=the	type=String	alphanum_char=1	POS=DT
+

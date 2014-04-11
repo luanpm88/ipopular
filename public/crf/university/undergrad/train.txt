@@ -1,0 +1,12 @@
+PRE	value_of_token=With	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=an	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=undergraduate	type=String	alphanum_char=1	POS=JJ
+PRE	value_of_token=enrollment	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+VAL	value_of_token=4,196	type=Number	formated_number_1=1	POS=CD	small_token=1	long_paragraph=1	paragraph=0	sentence=3	word=5
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+POT	value_of_token=a	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=total	type=String	alphanum_char=1	POS=JJ
+POT	value_of_token=student	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=enrollment	type=String	alphanum_char=1	POS=NN
+

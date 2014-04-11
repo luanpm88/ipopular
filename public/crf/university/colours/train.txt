@@ -1,0 +1,8 @@
+PRE	value_of_token=teams	type=String	alphanum_char=1	POS=NNS
+PRE	value_of_token=play	type=String	alphanum_char=1	POS=VBP
+PRE	value_of_token=under	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=name	type=String	alphanum_char=1	POS=NN
+VAL	value_of_token=Blue	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=2	sentence=2	word=7
+POT	value_of_token=Tide.	type=String	alphanum_char_dot=1	token_4=1	POS=NNP
+

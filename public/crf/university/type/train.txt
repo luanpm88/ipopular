@@ -1,0 +1,143 @@
+PRE	value_of_token=York	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=(Columbia	type=String	POS=NNP
+PRE	value_of_token=University)	type=String	POS=NNP
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=private	type=String	alphanum_char=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=12
+POT	value_of_token=research	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=university	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=New	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=York	type=String	alphanum_char=1	POS=NNP
+
+PRE	value_of_token=places	type=String	alphanum_char=1	POS=NNS
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=institution	type=String	alphanum_char=1	POS=NN
+PRE	value_of_token=under	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=private	type=String	alphanum_char=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=3	sentence=3	word=14
+POT	value_of_token=board	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=of	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=trustees,	type=String	POS=NNS
+POT	value_of_token=and	type=String	alphanum_char=1	POS=CC
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+
+PRE	value_of_token=Drexel	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=University	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=private	type=String	alphanum_char=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=4
+POT	value_of_token=coeducational	type=String	alphanum_char=1	POS=JJ
+POT	value_of_token=university	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=with	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=the	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=main	type=String	alphanum_char=1	POS=JJ
+
+PRE	value_of_token=and	type=String	alphanum_char=1	POS=CC
+PRE	value_of_token=only	type=String	alphanum_char=1	POS=RB
+PRE	value_of_token=one	type=String	alphanum_char=1	POS=CD
+PRE	value_of_token=of	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=five	type=String	alphanum_char=1	POS=CD
+VAL	value_of_token=private	type=String	alphanum_char=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=4	sentence=6	word=14
+POT	value_of_token=institutions	type=String	alphanum_char=1	POS=NNS
+POT	value_of_token=to	type=String	alphanum_char=1	POS=TO
+POT	value_of_token=do	type=String	alphanum_char=1	POS=VB
+POT	value_of_token=so.	type=String	alphanum_char_dot=1	token_4=1	POS=RB
+
+PRE	value_of_token=College	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=(,	type=String	POS=-LRB-
+PRE	value_of_token=)	type=String	POS=-RRB-
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=private,	type=String	POS=JJ	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=6
+POT	value_of_token=Ivy	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=League	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=university,	type=String	POS=NN
+POT	value_of_token=comprising	type=String	alphanum_char=1	POS=VBG
+POT	value_of_token=a	type=String	alphanum_char=1	POS=DT
+
+PRE	value_of_token=Harvey	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=Mudd	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=College	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=private	type=String	alphanum_char=1	POS=JJ	small_token=1	paragraph=0	sentence=0	word=5
+POT	value_of_token=residential	type=String	alphanum_char=1	POS=JJ
+POT	value_of_token=liberal	type=String	alphanum_char=1	POS=JJ
+POT	value_of_token=arts	type=String	alphanum_char=1	POS=NNS
+POT	value_of_token=college	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=of	type=String	alphanum_char=1	POS=IN
+
+PRE	value_of_token=making	type=String	alphanum_char=1	POS=VBG
+PRE	value_of_token=it	type=String	alphanum_char=1	POS=PRP
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=highest	type=String	alphanum_char=1	POS=JJS
+PRE	value_of_token=ranked	type=String	alphanum_char=1	POS=VBD
+VAL	value_of_token=Technical	type=String	alphanum_char=1	POS=NNP	small_token=1	long_paragraph=1	paragraph=4	sentence=0	word=32
+POT	value_of_token=University	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=Europe),	type=String	POS=NNP
+POT	value_of_token=based	type=String	alphanum_char=1	POS=VBN
+POT	value_of_token=on	type=String	alphanum_char=1	POS=IN
+
+PRE	value_of_token=Arizona	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=State)	type=String	POS=NNP
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=the	type=String	alphanum_char=1	POS=DT
+PRE	value_of_token=largest	type=String	alphanum_char=1	POS=JJS
+VAL	value_of_token=public	type=String	alphanum_char=1	POS=JJ	small_token=1	paragraph=0	sentence=0	word=14
+VAL	value_of_token=research	type=String	alphanum_char=1	POS=NN	small_token=1	paragraph=0	sentence=0	word=14
+VAL	value_of_token=university	type=String	alphanum_char=1	POS=NN	paragraph=0	sentence=0	word=14
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=the	type=String	alphanum_char=1	POS=DT
+POT	value_of_token=United	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=States,	type=String	POS=NNPS
+POT	value_of_token=with	type=String	alphanum_char=1	POS=IN
+
+PRE	value_of_token=Brown	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=University	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=private	type=String	alphanum_char=1	POS=JJ	small_token=1	paragraph=0	sentence=0	word=4
+POT	value_of_token=Ivy	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=League	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=university	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=located	type=String	alphanum_char=1	POS=VBN
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+
+PRE	value_of_token=to	type=String	alphanum_char=1	POS=TO
+PRE	value_of_token=as	type=String	alphanum_char=1	POS=IN
+PRE	value_of_token=Caltech)	type=String	POS=NNP
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=private	type=String	alphanum_char=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=12
+POT	value_of_token=research	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=university	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=located	type=String	alphanum_char=1	POS=VBN
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=Pasadena,	type=String	POS=NNP
+
+PRE	value_of_token=GMU	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=or	type=String	alphanum_char=1	POS=CC
+PRE	value_of_token=Mason)	type=String	POS=NNP
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=public	type=String	alphanum_char=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=12
+VAL	value_of_token=university	type=String	alphanum_char=1	POS=NN	long_paragraph=1	paragraph=0	sentence=0	word=12
+POT	value_of_token=based	type=String	alphanum_char=1	POS=VBN
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=unincorporated	type=String	alphanum_char=1	POS=JJ
+POT	value_of_token=Fairfax	type=String	alphanum_char=1	POS=NNP
+POT	value_of_token=County,	type=String	POS=NNP
+
+PRE	value_of_token=Grinnell	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=College	type=String	alphanum_char=1	POS=NNP
+PRE	value_of_token=is	type=String	alphanum_char=1	POS=VBZ
+PRE	value_of_token=a	type=String	alphanum_char=1	POS=DT
+VAL	value_of_token=private	type=String	alphanum_char=1	POS=JJ	small_token=1	long_paragraph=1	paragraph=0	sentence=0	word=4
+POT	value_of_token=liberal	type=String	alphanum_char=1	POS=JJ
+POT	value_of_token=arts	type=String	alphanum_char=1	POS=NNS
+POT	value_of_token=college	type=String	alphanum_char=1	POS=NN
+POT	value_of_token=in	type=String	alphanum_char=1	POS=IN
+POT	value_of_token=Grinnell,	type=String	POS=NNP
+
