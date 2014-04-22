@@ -1,0 +1,676 @@
+Found: 669
+Found Not Null: 353
+Correct: 303
+Wrong: 50
+Total: 548
+
+
+1	null	occupation: ..... / anchor,
+2	null	birth_name: ..... / Henry Enrique "Erik"
+3	true	occupation: actor / actor,
+4	true	name: erik estrada / "Erik" Estrada
+5	null	birth_date: ..... / 16 January 1898
+6	false	birth_place: los angeles, california, united states / Los Angeles, California,
+7	null	birth_date: ..... / 4 March 1921
+8	null	occupation: ..... / actress.
+9	true	name: joan greenwood / Joan Greenwood
+10	null	death_date: ..... / )
+11	true	birth_name: walter thomas huston / Walter Thomas Huston
+12	null	birth_date: ..... / March 14, 1976
+13	true	birth_name: merlin thomas santana / Merlin Thomas Santana
+14	true	occupation: actor / actor,
+15	null	name: ..... / Merlin Thomas Santana
+16	null	birth_date: ..... / January 16, 1907
+17	null	occupation: ..... / actor. actor
+18	true	name: alexander knox / Alexander Knox
+19	true	birth_name: michel jean legrand / Michel Jean Legrand
+20	true	birth_name: crystal dawn scripps mckellar / Crystal Dawn Scripps McKellar
+21	null	birth_date: ..... / October 15, 1900
+22	null	occupation: ..... / film director, actor.
+23	true	name: mervyn leroy / Mervyn LeRoy
+24	true	occupation: actor / actor
+25	true	birth_place: wellington, new zealand / Wellington, New Zealand, the
+26	true	birth_name: richard whalley anthony curtis / Richard Whalley Anthony
+27	null	occupation: ..... / producer, actor
+28	null	birth_date: ..... / 19 June 1925
+29	true	birth_name: charles edward springall / Charles Edward Springall
+30	true	name: charlie drake / Charlie Drake
+31	null	birth_date: ..... / 25 February 1934
+32	true	occupation: actor / actor.
+33	true	name: bernard bresslaw / Bernard Bresslaw
+34	true	birth_place: riverside, california, u.s. / Riverside, California,
+35	true	birth_name: alia martine shawkat / Alia Martine Shawkat
+36	true	occupation: actress / actress.
+37	true	occupation: actress / actress.
+38	true	name: eva gabor / Eva Gabor
+39	true	birth_place: mound, minnesota, u.s. / Mound, Minnesota, where
+40	true	birth_name: kevin david sorbo / Kevin David Sorbo
+41	true	occupation: actor / actor
+42	null	birth_place: ..... / Queen Charlotte's Hospital, Hammersmith, West London, England, Radcliffe's
+43	null	birth_name: ..... / Daniel Jacob Radcliffe
+44	true	occupation: actor / actor
+45	null	name: ..... / Jacob Radcliffe
+46	null	birth_date: ..... / 22 February 1908
+47	false	birth_name: lewis ernest watts mills / Sir John Mills CBE
+48	true	occupation: actor / actor
+49	null	birth_date: ..... / April 1, 1932
+50	true	birth_name: mary frances reynolds / Mary Frances Reynolds
+51	null	occupation: ..... / actress, singer,
+52	true	name: debbie reynolds / Debbie Reynolds
+53	null	death_date: ..... / )
+54	true	birth_place: owensboro, kentucky, u.s. / Owensboro, Kentucky, the
+55	null	occupation: ..... / actor
+56	true	birth_name: ashley fuller olsen / Ashley Fuller Olsen
+57	null	birth_name: ..... / Benjamin Edward "Ben"
+58	null	occupation: ..... / comedian, actor, writer, film director, and producer.
+59	true	name: ben stiller / "Ben" Stiller
+60	true	occupation: actress / actress
+61	true	name: mira furlan / Mira Furlan
+62	null	birth_place: ..... / New York City, the
+63	null	occupation: ..... / actor, comedian, composer and musician.
+64	null	birth_date: ..... / 20 March 1908
+65	null	birth_place: ..... / Bristol, England, the
+66	true	birth_name: michael scudamore redgrave / Sir Michael Scudamore Redgrave
+67	null	occupation: ..... / actor, director, manager
+68	true	birth_place: new brunswick, new jersey, u.s. / New Brunswick, New Jersey, the
+69	true	birth_name: michael kirk douglas / Michael Kirk Douglas
+70	null	occupation: ..... / actor actor
+71	true	name: alan bennett / Alan Bennett
+72	null	death_date: ..... / )
+73	null	occupation: ..... / comedienne, actress,
+74	true	name: lea delaria / Lea DeLaria
+75	null	birth_date: ..... / January 18, 1892
+76	true	name: oliver hardy / Oliver Hardy
+77	null	occupation: ..... / actress.
+78	true	name: leleti khumalo / Leleti Khumalo
+79	true	birth_name: jonathan scott frakes / Jonathan Scott Frakes
+80	null	occupation: ..... / actor, author and director,
+81	null	name: ..... / Jonathan Scott Frakes
+82	null	birth_name: ..... / Jean-Claude Camille François Van Varenberg
+83	null	occupation: ..... / actor.
+84	false	name: jean-claude van damme / Van Damme
+85	true	occupation: actress / actress.
+86	false	birth_place: haifa, british mandate for palestine (now israel) / Haifa, British
+87	true	name: ralph bakshi / Ralph Bakshi
+88	null	birth_name: ..... / Jamie Lynn Marie
+89	null	occupation: ..... / actress
+90	null	birth_place: ..... / Hereford, England, the
+91	true	birth_name: richard frank oznowicz / Richard Frank Oznowicz;
+92	null	occupation: ..... / actor, voice actor
+93	true	name: frank oz / Frank Oz
+94	null	birth_date: ..... / April 26, 1897
+95	true	birth_name: hans detlef sierck / Hans Detlef Sierck
+96	true	name: douglas sirk / Douglas Sirk
+97	null	birth_place: ..... / Lorain, Ohio, the
+98	null	occupation: ..... / film director, producer, actor, singer,
+99	true	name: don novello / Don Novello
+100	true	birth_place: roanne, loire, france / Roanne, Loire, France.
+101	true	name: jean-pierre jeunet / Jean-Pierre Jeunet
+102	true	birth_place: los angeles, california, u.s. / Los Angeles, California and
+103	null	birth_name: ..... / Victoria Davey "Tori" Spelling
+104	true	occupation: actress / actress.
+105	null	name: ..... / "Tori" Spelling
+106	null	birth_date: ..... / May 23, 1910
+107	null	occupation: ..... / actor, singer, dancer
+108	null	death_date: ..... / ), )
+109	null	occupation: ..... / actor
+110	null	birth_date: ..... / 13 October 1853
+111	true	birth_name: emilie charlotte le breton / Emilie Charlotte Le Breton,
+112	true	occupation: actress / actress
+113	true	name: lillie langtry / Lillie Langtry
+114	true	birth_place: san francisco, california, u.s. / San Francisco, California, the
+115	false	occupation: actress / actress, author,
+116	null	birth_date: ..... / July 26, 1895
+117	true	birth_place: san francisco, california, u.s. / San Francisco, California,
+118	true	name: gracie allen / Gracie Allen,
+119	false	birth_name: karl frederik lukas moodysson / Karl Frederik Lukas Moodysson Show Me Love
+120	null	birth_date: ..... / 13 October 1921
+121	true	birth_place: monsummano terme, italy / Monsummano Terme, Italy, the
+122	null	occupation: ..... / actor
+123	true	name: yves montand / Yves Montand
+124	null	birth_place: ..... / Croydon, Surrey
+125	null	birth_name: ..... / Sir David Lean
+126	null	occupation: ..... / filmmaker, producer,
+127	null	death_date: ..... / )
+128	null	birth_date: ..... / September 25, 1952
+129	null	birth_name: ..... / Christopher D'Olier Reeve
+130	true	occupation: actor, director, producer, screenwriter / actor, film director, producer, screenwriter
+131	null	birth_date: ..... / February 26, 1908 October 8, May 11, 1844 25, 1854 22, 1805
+132	null	birth_name: ..... / Frederick Bean "Fred/Tex"
+133	null	occupation: ..... / animator, cartoonist, voice actor
+134	false	name: tex avery / "Fred/Tex" Avery
+135	null	death_date: ..... / 1805 -
+136	true	occupation: actor / actor
+137	true	birth_place: edmonton, alberta, canada / Edmonton, Alberta, Canada, the
+138	null	occupation: ..... / actor, author,
+139	true	birth_name: manoj nelliyattu shyamalan / Manoj Nelliyattu Shyamalan
+140	null	birth_date: ..... / January 16, 1924
+141	null	birth_place: ..... / Guadalajara, México
+142	false	birth_name: maría cristina estela marcela jurado garcía / María Cristina Estela Marcela Jurado García Cristina Estela Marcela Jurado García
+143	true	occupation: actress / actress
+144	true	name: katy jurado / Katy Jurado
+145	null	birth_date: ..... / 15 May 1909
+146	true	birth_name: james neville mason / James Neville Mason
+147	true	occupation: actor / actor
+148	null	name: ..... / James Neville Mason
+149	true	birth_name: michael francis moore / Michael Francis Moore
+150	null	occupation: ..... / filmmaker,
+151	null	birth_date: ..... / 25 September 1929
+152	false	birth_name: ronald william george barker / Ronald William George "Ronnie" Ronald William George Barker
+153	null	occupation: ..... / actor
+154	null	death_date: ..... / )
+155	null	birth_date: ..... / January 20, 1920
+156	false	birth_place: toccoa, georgia / Toccoa, Georgia, the
+157	null	birth_name: ..... / Jackson DeForest Kelley
+158	null	occupation: ..... / actor
+159	null	birth_date: ..... / March 24, 1887
+160	null	birth_name: ..... / Roscoe Conkling "Fatty"
+161	null	birth_date: ..... / April 5, 1916
+162	true	birth_name: eldred gregory peck / Eldred Gregory Peck
+163	true	occupation: actor / actor.
+164	true	name: gregory peck / Gregory Peck
+165	null	birth_date: ..... / March 3, 1920
+166	true	birth_place: vancouver, british columbia / Vancouver, British Columbia, the
+167	null	birth_name: ..... / James Montgomery "Jimmy"
+168	true	occupation: actor / actor
+169	null	name: ..... / James Montgomery "Jimmy" Doohan between command
+170	false	birth_name: uma karuna thurman / Uma Karuna Thurman Nena von Schlebrügge,
+171	true	occupation: actress / actress.
+172	null	birth_date: ..... / November 26, 1881
+173	true	birth_name: isidore louis bernard edmon van dommelen / Isidore Louis Bernard Edmon van Dommelen,
+174	true	name: lou tellegen / Lou Tellegen
+175	null	birth_place: ..... / Dubuque, Iowa, to
+176	true	birth_name: katherine kiernan maria mulgrew / Katherine Kiernan Maria "Kate"
+177	null	occupation: ..... / actress,
+178	true	name: kate mulgrew / "Kate" Mulgrew
+179	null	birth_date: ..... / December 28, 1888
+180	true	birth_name: friedrich wilhelm plumpe / Friedrich Wilhelm Plumpe
+181	false	birth_name: margaret natalie smith cross / Dame Margaret Natalie Smith Cross, DBE Natalie Smith Cross
+182	true	occupation: actress / actress
+183	null	birth_date: ..... / October 18, 1927
+184	true	birth_place: wise, virginia, u.s. / Wise, Virginia, the
+185	true	birth_name: george campbell scott / George Campbell Scott
+186	null	occupation: ..... / actor, director and producer.
+187	null	birth_date: ..... / January 28, 1892
+188	true	name: ernst lubitsch / Ernst Lubitsch
+189	null	birth_date: ..... / August 13, 1920
+190	null	occupation: ..... / actor.
+191	true	name: neville brand / Neville Brand
+192	true	birth_name: jane mallory birkin / Jane Mallory Birkin, OBE
+193	null	occupation: ..... / actress
+194	true	birth_name: john eric bartholomew / John Eric Bartholomew OBE
+195	true	name: eric morecambe / Eric Morecambe,
+196	null	birth_place: ..... / Newmarket, Ontario, the
+197	null	birth_name: ..... / James Eugene "Jim" Carrey
+198	null	occupation: ..... / actor Actor
+199	null	name: ..... / "Jim" Carrey
+200	null	birth_name: ..... / Robert Charles Durman
+201	true	occupation: actor, author, composer, singer / actor, author, composer
+202	null	occupation: ..... / actress,
+203	null	birth_date: ..... / May 21, 1924
+204	null	birth_name: ..... / Mary Margaret “Peggy”
+205	null	occupation: ..... / actress, comedian, game show panelist,
+206	null	birth_date: ..... / April 12, 1950
+207	true	birth_name: david bruce cassidy / David Bruce Cassidy
+208	null	occupation: ..... / actor,
+209	null	birth_date: ..... / December 24, 1886
+210	true	name: michael curtiz / Michael Curtiz
+211	null	birth_place: ..... / Toledo, Ohio, to
+212	true	birth_name: jameel joseph farah / Jameel Joseph Farah
+213	true	occupation: actor / actor.
+214	true	name: jamie farr / Jamie Farr
+215	null	birth_place: ..... / Jamaica, Queens, New York, the
+216	true	occupation: actress / actress,
+217	null	birth_date: ..... / June 28, 1946
+218	null	birth_place: ..... / Detroit, Michigan, the
+219	true	birth_name: gilda susan radner / Gilda Susan Radner
+220	null	occupation: ..... / actress,
+221	null	birth_date: ..... / December 27, 1971
+222	null	birth_name: ..... / Sergei Bodrov Jr.
+223	null	occupation: ..... / actor actor
+224	null	birth_date: ..... / May 20, 1919
+225	false	birth_name: george leslie goebel / George Leslie Gobel George Leslie Goebel
+226	null	occupation: ..... / actor.
+227	false	birth_place: hatfield, hertfordshire, england / Hatfield, Hertfordshire, Ritchie, who
+228	true	birth_name: guy stuart ritchie / Guy Stuart Ritchie
+229	null	name: ..... / Stuart Ritchie
+230	true	birth_place: lincoln, nebraska, u.s. / Lincoln, Nebraska, the
+231	true	birth_name: hilary ann swank / Hilary Ann Swank
+232	null	occupation: ..... / actress.
+233	null	name: ..... / Hilary Ann Swank
+234	false	birth_name: rafael josé díaz / Dr. Rafael José
+235	null	birth_name: ..... / Laura Jeanne Reese Witherspoon
+236	null	name: ..... / Reese Witherspoon,
+237	null	other_names: ..... / Reese Witherspoon,
+238	null	birth_place: ..... / Cuyahoga Falls, Ohio.
+239	true	birth_name: cheryl gates mcfadden / Cheryl Gates McFadden
+240	null	occupation: ..... / actress and choreographer.
+241	true	birth_place: tottenham, north london, england / Tottenham, North London, England,
+242	null	occupation: ..... / actor.
+243	null	birth_date: ..... / 15 August 1924
+244	true	birth_name: robert oxton bolt / Robert Oxton Bolt,
+245	null	birth_date: ..... / April 29, 1907
+246	true	name: fred zinnemann / Fred Zinnemann
+247	null	birth_date: ..... / April 6, 1947
+248	true	birth_place: bridgeport, connecticut, u.s. / Bridgeport, Connecticut, the
+249	true	birth_name: john deszo ratzenberger / John Deszo Ratzenberger
+250	false	occupation: actor, voice actor, entrepreneur, leading advocate for skilled worker shortage crisis / actor, voice actor,
+251	null	birth_date: ..... / 28 August 1899
+252	true	birth_place: figeac, lot, midi-pyrénées, france / Figeac, Lot, Midi-Pyrénées, France, to
+253	true	occupation: actor / actor
+254	true	name: charles boyer / Charles Boyer
+255	null	birth_name: ..... / Sir Reginald “Rex” Carey
+256	false	occupation: actor / actor actor
+257	null	birth_date: ..... / February 10, 1893
+258	null	birth_place: ..... / Brooklyn, New York, the
+259	null	birth_name: ..... / James Francis "Jimmy"
+260	true	name: jimmy durante / "Jimmy" Durante
+261	null	birth_place: ..... / New York City, New York, the
+262	true	birth_name: michael john mckean / Michael John McKean
+263	true	occupation: actor, comedian, writer, composer, musician / actor, comedian, writer, composer
+264	null	name: ..... / Michael John McKean
+265	true	birth_place: brooklyn, new york, u.s. / Brooklyn, New York, to
+266	true	birth_name: david leonard landau / David Leonard Landau
+267	null	occupation: ..... / actor, comedian, composer, musician,
+268	null	birth_name: ..... / Clarence Charles "Ducky"
+269	null	birth_date: ..... / January 16, 1908
+270	true	birth_name: ethel agnes zimmermann / Ethel Agnes Zimmermann
+271	null	occupation: ..... / actress
+272	null	name: ..... / Ethel Merman
+273	true	birth_name: paul allen wood shaffer / Paul Allen Wood Shaffer,
+274	null	occupation: ..... / musician, actor, voice actor, author, comedian,
+275	null	birth_date: ..... / 12 April 1925
+276	true	occupation: animator, puppeteer and writer / animator, puppeteer and writer.
+277	true	name: oliver postgate / Oliver Postgate
+278	true	name: henny youngman / "Henny" Youngman
+279	null	birth_place: ..... / Francisco, California,
+280	false	birth_name: isaac liev schreiber / Isaac Liev Schreiber Isaac Liev Schreiber
+281	null	occupation: ..... / actor, producer, director, and screenwriter.
+282	false	name: liev schreiber / Isaac Liev Schreiber Liev Schreiber,
+283	null	other_names: ..... / Liev Schreiber,
+284	true	name: carol cleveland / Carol Cleveland
+285	true	birth_name: john cooper, jr. / John Cooper, Jr.
+286	false	occupation: actor / actor, TV director, TV producer
+287	true	name: jackie cooper / Jackie Cooper
+288	null	death_date: ..... / ), ),
+289	null	other_names: ..... / Jackie Cooper
+290	null	birth_date: ..... / July 18, 1893
+291	true	birth_name: ernst carlton brimmer / Ernst Carlton Brimmer
+292	true	occupation: actor / actor
+293	true	name: richard dix / Richard Dix
+294	null	birth_date: ..... / August 12, 1892
+295	null	occupation: ..... / actor,
+296	true	name: alfred lunt / Alfred Lunt
+297	null	birth_place: ..... / Bromont-Lamothe, Puy-de-Dôme,
+298	true	occupation: film director / film director
+299	true	name: robert bresson / Robert Bresson
+300	null	birth_place: ..... / Upper Darby, Pennsylvania, a
+301	false	birth_name: elizabeth stamatina fey / Elizabeth Stamatina "Tina" Fey
+302	null	occupation: ..... / actress,
+303	null	birth_date: ..... / March 2, 1952
+304	true	birth_place: los angeles, california, u.s. / Los Angeles, California, the
+305	null	occupation: ..... / actress,
+306	null	name: ..... / Laraine Newman
+307	true	birth_name: garrett gonzalez morris / Garrett Gonzalez Morris
+308	null	occupation: ..... / actor
+309	null	birth_name: ..... / William James "Bill"
+310	null	occupation: ..... / actor
+311	true	name: bill murray / "Bill" Murray
+312	true	birth_name: brian murray / Brian Murray,
+313	null	occupation: ..... / comedian, screenwriter, actor and voice artist.
+314	null	name: ..... / Brian Doyle-Murray
+315	true	birth_place: oceanside, new york, u.s. / Oceanside, New York, and
+316	true	birth_name: michael owen rosenbaum / Michael Owen Rosenbaum
+317	true	occupation: actor / actor.
+318	true	birth_place: neptune, new jersey, u.s. / Neptune, New Jersey,
+319	false	birth_name: daniel michael devito, jr. / Daniel Michael "Danny"
+320	null	occupation: ..... / actor,
+321	true	birth_name: michael anthony richards / Michael Anthony Richards
+322	null	occupation: ..... / actor
+323	null	birth_date: ..... / January 7, 1873
+324	null	name: ..... / Adolph Cukor,
+325	null	birth_name: ..... / Daniel "Danny" Boyle
+326	true	name: danny boyle / "Danny" Boyle
+327	null	birth_date: ..... / October 2, 1897
+328	true	birth_name: william alexander abbott / William Alexander "Bud"
+329	null	occupation: ..... / actor, producer and comedian.
+330	true	name: bud abbott / "Bud" Abbott
+331	true	birth_name: andy samuel griffith / Andy Samuel Griffith
+332	null	occupation: ..... / actor, director, producer,
+333	null	birth_date: ..... / November 27, 1953
+334	null	occupation: ..... / actress,
+335	true	name: pamela hayden / Pamela Hayden
+336	null	birth_date: ..... / January 8, 1912
+337	null	occupation: ..... / actor
+338	true	birth_name: devon edward sawa / Devon Edward Sawa
+339	true	occupation: actor / actor.
+340	true	birth_place: new haven, connecticut, u.s. / New Haven, Connecticut.
+341	null	birth_name: ..... / Paul Edward Valentine Giamatti
+342	null	occupation: ..... / actor. actor
+343	true	birth_name: fred mcfeely rogers / Fred McFeely Rogers
+344	null	birth_date: ..... / February 16, 1903
+345	null	birth_place: ..... / Chicago, Illinois, the
+346	false	birth_name: edgar john berggren / Edgar John Bergen Edgar John Berggren
+347	null	occupation: ..... / actor and radio performer,
+348	null	birth_date: ..... / 19 February 1953
+349	null	occupation: ..... / actor, film director, and poet.
+350	null	birth_name: ..... / Lucy Alexis Liu
+351	null	occupation: ..... / actress.
+352	null	birth_date: ..... / November 15, 1879
+353	true	birth_place: worcester, massachusetts, u.s. / Worcester, Massachusetts,
+354	true	birth_name: lewis shepard stone / Lewis Shepard Stone
+355	true	occupation: actor / actor.
+356	null	name: ..... / Lewis Shepard Stone
+357	null	birth_date: ..... / 9 February 1891
+358	true	birth_place: richmond, surrey, england, uk / Richmond, Surrey, England, the
+359	true	birth_name: ronald charles colman / Ronald Charles Colman
+360	true	occupation: actor / actor.
+361	null	birth_date: ..... / February 26, 1916
+362	null	occupation: ..... / comedian, actor and musician.
+363	null	name: ..... / Jackie Gleason Genevieve Gleason
+364	null	birth_date: ..... / 28 May 1970
+365	false	birth_place: dublin, ireland / Dublin, Ireland, and
+366	true	birth_name: glenn martin christopher francis quinn / Glenn Martin Christopher Francis
+367	true	occupation: actor / actor
+368	false	death_place: north hollywood, california, u.s. / Hollywood, California.
+369	true	birth_place: lynwood, california, u.s. / Lynwood, California, the
+370	true	birth_name: kevin michael costner / Kevin Michael Costner
+371	null	occupation: ..... / actor, singer, musician, producer, director,
+372	null	birth_name: ..... / Kenneth George "Kenny"
+373	false	occupation: actor / dwarf actor
+374	true	name: kenny baker / "Kenny" Baker
+375	true	birth_place: madison, wisconsin, u.s. / Madison, Wisconsin, the
+376	true	birth_name: christopher crosby farley / Christopher Crosby "Chris"
+377	false	name: chris farley / Thomas "Tom" Farley,
+378	null	birth_date: ..... / February 27, 1905
+379	false	birth_place: niagara falls, new york, u.s. / Falls, New York, the
+380	true	name: franchot tone / Franchot Tone
+381	null	death_date: ..... / )
+382	null	birth_date: ..... / 27 December 1901
+383	true	birth_name: maria magdalene dietrich / Maria Magdalene Dietrich
+384	null	occupation: ..... / actress
+385	true	name: marlene dietrich / Marlene Dietrich
+386	null	birth_date: ..... / August 30, 1896
+387	null	birth_place: ..... / Toronto, Ontario, the
+388	true	birth_name: raymond hart massey / Raymond Hart Massey
+389	true	occupation: actor / actor.
+390	null	name: ..... / Raymond Hart Massey
+391	null	birth_date: ..... / September 23, 1897
+392	true	birth_name: walter davis pidgeon / Walter Davis Pidgeon
+393	true	occupation: actor / actor
+394	null	death_date: ..... / ),
+395	null	birth_date: ..... / May 26, 1891
+396	true	occupation: actor / actor.
+397	true	name: paul lukas / Paul Lukas
+398	false	birth_name: danica mae mckellar / Danica Mae McKellar "Third Wheel",
+399	null	occupation: ..... / actress, author, mathematician
+400	null	death_date: ..... / ),
+401	null	birth_place: ..... / Kumla, Närke, Sweden,
+402	true	birth_name: rolf peter ingvar storm / Rolf Peter Ingvar Storm;
+403	null	occupation: ..... / film director, producer, actor
+404	null	birth_date: ..... / 26 November 1905
+405	true	birth_name: george emlyn williams / George Emlyn Williams,
+406	null	birth_date: ..... / April 17, 1918
+407	null	birth_name: ..... / William Franklin Beedle, Jr.
+408	null	occupation: ..... / actor.
+409	true	name: william holden / William Holden
+410	null	death_date: ..... / ),
+411	null	birth_date: ..... / April 24, 1934
+412	true	birth_name: shirley maclean beaty / Shirley MacLean Beaty
+413	null	occupation: ..... / actress, dancer,
+414	null	name: ..... / Shirley MacLaine
+415	null	birth_date: ..... / August 2, 1905
+416	true	occupation: actress / actress.
+417	true	name: myrna loy / Myrna Loy
+418	true	name: margaux hemingway / Margaux Hemingway
+419	true	birth_place: brockworth, gloucestershire, england, uk / Brockworth, Gloucestershire, England, the
+420	true	birth_name: simon john beckingham / Simon John Beckingham;
+421	null	occupation: ..... / actor, comedian, writer, film producer and director.
+422	true	name: simon pegg / Simon Pegg
+423	true	birth_name: melissa joan catherine hart / Melissa Joan Catherine Hart
+424	null	occupation: ..... / actress, writer, television director, television producer, singer
+425	null	birth_date: ..... / 5 October 1919
+426	true	birth_place: worksop, nottinghamshire, england / Worksop, Nottinghamshire, England,
+427	true	birth_name: donald henry pleasence / Donald Henry Pleasence,
+428	null	occupation: ..... / actor
+429	null	death_date: ..... / )
+430	true	birth_name: emma charlotte duerre watson / Emma Charlotte Duerre Watson
+431	null	occupation: ..... / actress
+432	true	occupation: actor / actor.
+433	true	name: frankie fitzgerald / Frankie Fitzgerald
+434	null	birth_date: ..... / October 27, 1911
+435	true	birth_name: william wycliffe anderson / William Wycliffe Anderson
+436	true	occupation: actor / actor.
+437	true	name: leif erickson / Leif Erickson
+438	null	birth_date: ..... / January 12, 1884
+439	true	birth_name: mary louise cecilia guinan / Mary Louise Cecilia "Texas"
+440	true	name: texas guinan / "Texas" Guinan
+441	null	birth_date: ..... / August 31, 1928
+442	true	birth_place: laurel, nebraska, u.s. / Laurel, Nebraska, the
+443	true	birth_name: james harrison coburn iii / James Harrison Coburn
+444	true	occupation: actor / actor.
+445	true	birth_place: mesa, arizona, u.s. / Mesa, Arizona, the
+446	true	birth_name: danielle christine fishel / Danielle Christine Fishel
+447	true	occupation: actress / actress
+448	null	birth_date: ..... / February 7, 1915
+449	true	birth_place: astoria, new york, u.s. / Astoria, New York, the
+450	null	birth_name: ..... / Edward Vincent "Eddie"
+451	true	occupation: actor / actor.
+452	true	name: eddie bracken / "Eddie" Bracken
+453	null	birth_date: ..... / October 13, 1912
+454	true	birth_place: prievidza, hungary / Prievidza, Hungary
+455	true	birth_name: cornelius louis wilde / Cornelius Louis Wilde
+456	true	occupation: actor / actor
+457	null	name: ..... / Cornelius Louis Wilde
+458	null	birth_date: ..... / December 13, 1914
+459	true	occupation: actor / actor.
+460	true	name: larry parks / Larry Parks
+461	null	birth_date: ..... / March 4, 1913
+462	true	birth_name: jacob julius garfinkle / Jacob Julius Garfinkle
+463	null	occupation: ..... / actor.
+464	true	name: john garfield / John Garfield
+465	null	birth_date: ..... / December 28, 1908
+466	true	birth_name: lewis frederick ayres iii / Lewis Frederick Ayres III
+467	true	occupation: actor / actor,
+468	true	birth_place: omaha, nebraska, u.s. / Omaha, Nebraska, a
+469	true	birth_name: edward montgomery clift / Edward Montgomery Clift
+470	null	death_date: ..... / )
+471	null	birth_date: ..... / November 23, 1888
+472	false	birth_name: adolph marx / Arthur Adolph "Harpo" Adolph Marx
+473	null	occupation: ..... / actress and writer.
+474	true	name: jessica hynes / Jessica Hynes
+475	false	birth_name: catherine zeta jones / Catherine Zeta-Jones, CBE Catherine Zeta Jones
+476	true	occupation: actress / actress.
+477	null	birth_date: ..... / 21 January 1924
+478	null	occupation: ..... / actor
+479	true	name: benny hill / Benny Hill
+480	null	death_date: ..... / ),
+481	null	occupation: ..... / actor, voice-over
+482	true	name: bernard cribbins / Bernard Cribbins
+483	null	occupation: ..... / actress
+484	true	birth_name: lenworth george henry / Lenworth George "Lenny"
+485	null	occupation: ..... / actor, writer, comedian
+486	false	name: lenny henry / Henry, CBE
+487	null	birth_date: ..... / May 27, 1911
+488	null	birth_place: ..... / St. Louis, Missouri, the
+489	true	birth_name: vincent leonard price, jr. / Vincent Leonard Price,
+490	true	occupation: actor / actor,
+491	null	birth_date: ..... / 29 April 1914
+492	true	occupation: actor / actor,
+493	true	name: deryck guyler / Deryck Guyler
+494	null	birth_place: ..... / Rawtenstall, Lancashire, the
+495	false	birth_name: barbara jane horrocks / Barbara Jane Horrocks Barbara Jane Horrocks
+496	true	occupation: actress, voice artist, singer / actress, voice artist, musician,
+497	false	name: barbara jane horrocks / Jane Horrocks
+498	true	birth_place: cleveland, ohio, u.s. / Cleveland, Ohio, the
+499	null	occupation: ..... / film director and writer,
+500	true	name: wes craven / "Wes" Craven
+501	null	birth_date: ..... / 26 January 1928
+502	true	birth_name: roger vladimir plemiannikov / Roger Vladimir Plemiannikov
+503	null	occupation: ..... / journalist, author, actor, screenwriter, director,
+504	true	name: roger vadim / Roger Vadim
+505	null	birth_date: ..... / May 1, 1906
+506	true	occupation: actress / actress.
+507	true	name: rose hobart / Rose Hobart
+508	true	birth_name: natalia nikolaevna zakharenko / Natalia Nikolaevna Zakharenko
+509	false	occupation: actress / actor
+510	true	name: natalie wood / Natalie Wood
+511	true	birth_name: june rosemary whitfield / June Rosemary Whitfield,
+512	true	occupation: actress / actress,
+513	false	name: june whitfield / June Rosemary Whitfield, CBE
+514	true	name: mira nair / Mira Nair
+515	null	birth_date: ..... / June 13, 1986
+516	null	occupation: ..... / actress, producer
+517	null	name: ..... / Mary-Kate Olsen
+518	true	birth_name: neve adrianne campbell / Neve Adrianne Campbell
+519	true	occupation: actress / actress.
+520	null	birth_date: ..... / 7 June 1909
+521	null	birth_name: ..... / Jessie Alice "Jessica"
+522	null	birth_date: ..... / November 13, 1938
+523	true	birth_place: marshalltown, iowa, u.s. / Marshalltown, Iowa, the
+524	true	birth_name: jean dorothy seberg / Jean Dorothy Seberg
+525	true	occupation: actress / actress.
+526	null	name: ..... / Jean Dorothy Seberg
+527	false	birth_name: levardis robert martyn burton, jr. / Levardis Robert Martyn
+528	null	occupation: ..... / actor, director, producer
+529	true	birth_place: salisbury, wiltshire, england, uk / Salisbury, Wiltshire, England.
+530	null	birth_name: ..... / Joseph Alberic Twisleton-Wykeham-Fiennes
+531	true	occupation: actor / actor.
+532	null	occupation: ..... / actress, singer
+533	true	name: verónica castro / Verónica Castro
+534	false	birth_place: tokyo, japan / Tokyo, Japan, to
+535	true	occupation: actress / actress.
+536	false	occupation: actor / actor actor
+537	true	birth_name: kerri lee green / Kerri Lee Green
+538	true	occupation: actress / actress.
+539	true	birth_name: martha campbell plimpton / Martha Campbell Plimpton
+540	null	occupation: ..... / actress
+541	null	name: ..... / Martha Campbell Plimpton
+542	null	birth_date: ..... / September 1, 1929
+543	false	birth_place: omaha, nebraska / Omaha, Nebraska, the
+544	true	birth_name: anne mobley / Anne Mobley
+545	true	name: anne ramsey / Anne Ramsey
+546	null	death_date: ..... / )
+547	true	occupation: actress / actress
+548	true	name: loretta swit / Loretta Swit
+549	null	occupation: ..... / actor
+550	true	name: william christopher / William Christopher
+551	null	other_names: ..... / William Christopher
+552	true	birth_name: benjamin edward knox / Benjamin Edward Knox
+553	null	occupation: ..... / television director
+554	true	name: andrew fleming / Andrew Fleming
+555	false	birth_place: wichita, kansas, u.s. / Wichita, Kansas,
+556	true	occupation: actress / actress
+557	true	name: hattie mcdaniel / Hattie McDaniel
+558	null	death_date: ..... / )
+559	null	birth_place: ..... / Coventry, England, the
+560	true	birth_name: nigel barnard hawthorne / Sir Nigel Barnard Hawthorne,
+561	true	occupation: actor / actor,
+562	true	name: max ophüls / Max Ophüls
+563	null	birth_date: ..... / November 26, 1943
+564	true	birth_place: brooklyn, new york, u.s. / Brooklyn, New York, the
+565	true	birth_name: bruce weigert paltrow / Bruce Weigert Paltrow
+566	null	birth_date: ..... / July 23, 1921
+567	true	birth_name: calvert grant deforest. / Calvert Grant DeForest
+568	null	occupation: ..... / actor
+569	null	name: ..... / "Bud" Melman,
+570	false	birth_place: bronx, new york, u.s. / the Bronx, New York, the
+571	true	occupation: actor, comedian, director, producer, writer / actor, film director, producer, writer
+572	true	name: carl reiner / Carl Reiner
+573	true	birth_date: december 24, 1924 / December 24, 1924
+574	true	name: carol haney / Carol Haney
+575	null	birth_name: ..... / Carlos Manuel Leon
+576	null	occupation: ..... / trainer and actor.
+577	null	birth_place: ..... / Wellesley, Massachusetts, the
+578	null	occupation: ..... / actress
+579	true	birth_name: miguel Ángel cancel vázquez / Miguel Ángel Cancel Vázquez
+580	true	birth_place: durango, colorado, u.s. / Durango, Colorado, the
+581	true	birth_name: devon ryan gummersall / Devon Ryan Gummersall
+582	null	occupation: ..... / actor, writer,
+583	null	name: ..... / Devon Ryan Gummersall
+584	true	name: irving rapper / Irving Rapper
+585	null	birth_date: ..... / August 19, 1915
+586	true	birth_name: julie ann brown / Julie Ann Brown
+587	null	occupation: ..... / actress,
+588	null	name: ..... / Julie Ann Brown
+589	null	birth_date: ..... / March 6, 1906
+590	false	birth_name: louis francis cristillo / Louis Francis "Lou" Louis Francis Cristillo
+591	null	occupation: ..... / actor
+592	true	name: lou costello / "Lou" Costello
+593	true	name: david mirkin / David Mirkin
+594	null	death_date: ..... / )
+595	null	other_names: ..... / David Mirkin
+596	true	birth_name: julie deborah kavner / Julie Deborah Kavner
+597	null	occupation: ..... / actress,
+598	true	occupation: voice actress / voice actress
+599	true	name: tress macneille / Tress MacNeille
+600	null	death_date: ..... / years.
+601	null	birth_date: ..... / November 5, 1895
+602	true	birth_name: charles gordon macarthur / Charles Gordon MacArthur
+603	null	name: ..... / Charles Gordon MacArthur
+604	false	birth_name: harold clifford keel / Harold Clifford Keel Harold Clifford Keel
+605	null	occupation: ..... / actor
+606	true	name: howard keel / Howard Keel,
+607	null	occupation: ..... / actress.
+608	true	name: vivien merchant / Vivien Merchant
+609	null	birth_date: ..... / February 10, 1906
+610	null	birth_place: ..... / Oklahoma City, Oklahoma,
+611	false	birth_name: creighton tull chaney / Lon Chaney, Jr.
+612	true	occupation: actor / actor.
+613	true	birth_name: carmen lourdes dominicci ramos / Carmen Lourdes Dominicci Ramos
+614	true	birth_place: glendora, california, u.s. / Glendora, California, Frye's
+615	null	birth_name: ..... / Soleil Moon Frye
+616	null	occupation: ..... / actress, director and screenwriter.
+617	true	birth_place: allentown, pennsylvania, u.s. / Allentown, Pennsylvania, the
+618	true	birth_name: christine joan taylor / Christine Joan Taylor;
+619	true	occupation: actress / actress.
+620	null	birth_date: ..... / 15 September 1894
+621	null	occupation: ..... / film director, screenwriter, actor, producer
+622	true	name: jean renoir / Jean Renoir
+623	null	birth_date: ..... / 23 July 1884
+624	true	birth_place: rorschach, switzerland / Rorschach, Switzerland, the
+625	false	occupation: actor / actor. actor
+626	true	name: emil jannings / Emil Jannings
+627	true	birth_name: marcia joan wallace / Marcia Joan Wallace
+628	null	occupation: ..... / character actress,
+629	null	name: ..... / Marcia Joan Wallace
+630	true	birth_name: sean justin penn / Sean Justin Penn
+631	null	occupation: ..... / actor,
+632	null	name: ..... / Sean Justin Penn
+633	null	birth_name: ..... / Marcus Giamatti
+634	true	occupation: actor / actor,
+635	null	name: ..... / Marcus Giamatti
+636	null	birth_date: ..... / March 29, 1889
+637	null	birth_place: ..... / Columbus, Ohio, and
+638	true	birth_name: warner leroy baxter / Warner Leroy Baxter
+639	false	occupation: actor / actor, Actor
+640	null	birth_date: ..... / February 16, 1901
+641	true	birth_name: john chester brooks morris / John Chester Brooks Morris
+642	true	occupation: actor / actor,
+643	true	name: chester morris / Chester Morris
+644	null	occupation: ..... / actress
+645	false	name: magda gabor / "Magda" Gabor Magda Gabor
+646	true	birth_place: pretoria, south africa / Pretoria, South Africa, the
+647	true	name: glynis johns / Glynis Johns
+648	null	birth_date: ..... / June 1, 1890
+649	true	birth_name: francis phillip wuppermann / Francis Phillip Wuppermann
+650	true	occupation: actor / actor.
+651	true	name: frank morgan / Frank Morgan
+652	true	birth_date: 10 march 1888 / 10 March 1888
+653	false	birth_place: dublin, ireland / Walworth Road, Portobello, Dublin, Ireland.
+654	true	birth_name: william joseph shields / William Joseph Shields
+655	true	occupation: actor / actor.
+656	true	name: barry fitzgerald / Barry Fitzgerald
+657	true	birth_place: seattle, washington, u.s. / Seattle, Washington, the
+658	null	occupation: ..... / actor, comedian, director, and voice actor
+659	false	birth_name: simon rex cutright / Simon Rex Cutright Simon Rex Cutright
+660	null	occupation: ..... / actor, television personality
+661	null	name: ..... / Simon Rex Cutright
+662	null	birth_name: ..... / Luis Miguel González Borloni
+663	true	birth_name: fortino mario alfonso moreno reyes / Fortino Mario Alfonso Moreno
+664	true	birth_name: william desmond anthony pertwee / William Desmond Anthony Pertwee MBE
+665	null	occupation: ..... / comedy actor. actor
+666	null	birth_name: ..... / Mark Anthony "Baz" Luhrmann
+667	true	occupation: film director, screenwriter, producer / film director, screenwriter, and producer
+668	null	birth_name: ..... / Joyce Irene Grenfell, OBE
+669	null	occupation: ..... / actress,

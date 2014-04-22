@@ -1,0 +1,354 @@
+logo:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+logo_size:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+destinations:
+Found Not Null: 5
+Correct: 5
+Wrong: 0
+precision: 1.0
+
+
+
+
+iata:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+icao:
+Found Not Null: 9
+Correct: 1
+Wrong: 8
+precision: 0.1111111111111111
+
+
+
+
+callsign:
+Found Not Null: 65
+Correct: 27
+Wrong: 38
+precision: 0.4153846153846154
+
+
+
+
+parent:
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+precision: 0.6666666666666666
+
+
+
+
+founded:
+Found Not Null: 71
+Correct: 54
+Wrong: 17
+precision: 0.7605633802816901
+
+
+
+
+commenced:
+Found Not Null: 6
+Correct: 5
+Wrong: 1
+precision: 0.8333333333333334
+
+
+
+
+key_people:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+hubs:
+Found Not Null: 34
+Correct: 29
+Wrong: 5
+precision: 0.8529411764705882
+
+
+
+
+focus_cities:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+frequent_flyer:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+lounge:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+company_slogan:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+website:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+subsidiaries:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+secondary_hubs:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+image_size:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+r accidentname:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+ceased:
+Found Not Null: 4
+Correct: 0
+Wrong: 4
+precision: 0.0
+
+
+
+
+bases:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+name:
+Found Not Null: 7
+Correct: 7
+Wrong: 0
+precision: 1.0
+
+
+
+
+occurrence_type:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+date:
+Found Not Null: 5
+Correct: 5
+Wrong: 0
+precision: 1.0
+
+
+
+
+site:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+origin:
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+precision: 1.0
+
+
+
+
+destination:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+passengers:
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+precision: 1.0
+
+
+
+
+crew:
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+precision: 1.0
+
+
+
+
+fatalities:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+survivors:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+operator:
+Found Not Null: 8
+Correct: 7
+Wrong: 1
+precision: 0.875
+
+
+
+
+injuries:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+aircraft type:
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+precision: 1.0
+
+
+
+
+tail number:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+airline:
+Found Not Null: 102
+Correct: 85
+Wrong: 17
+precision: 0.8333333333333334
+
+
+
+
+fleet_size:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+headquarters:
+Found Not Null: 37
+Correct: 32
+Wrong: 5
+precision: 0.8648648648648649
+
+
+
+
+alliance:
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+precision: 1.0
+
+
+
+
+image:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+type:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+

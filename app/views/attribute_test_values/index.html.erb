@@ -1,0 +1,25 @@
+<h1>Listing attribute_test_values</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @attribute_test_values.each do |attribute_test_value| %>
+      <tr>
+        <td><%= link_to 'Show', attribute_test_value %></td>
+        <td><%= link_to 'Edit', edit_attribute_test_value_path(attribute_test_value) %></td>
+        <td><%= link_to 'Destroy', attribute_test_value, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Attribute test value', new_attribute_test_value_path %>

@@ -1,0 +1,678 @@
+Found: 1035
+Found Not Null: 283
+Correct: 237
+Wrong: 46
+Total: 651
+
+
+1	null	name: ..... / Air Rhodesia
+2	null	operator: ..... / Air Rhodesia
+3	null	airline: ..... / Air Rhodesia
+4	true	founded: 2002 / 2002
+5	true	hubs: sofia airport / Sofia Airport
+6	null	name: ..... / Bulgaria Air
+7	null	operator: ..... / Bulgaria Air
+8	true	airline: bulgaria air / Bulgaria Air
+9	null	founded: ..... / 1978
+10	null	hubs: ..... / Innsbruck Airport,
+11	null	operator: ..... / Tyrolean Airways
+12	null	airline: ..... / Tyrolean Airways
+13	null	headquarters: ..... / Innsbruck, Austria.
+14	null	name: ..... / Scandinavian Airlines Flight 751,
+15	false	operator: sas / Scandinavian Airlines
+16	null	aircraft type: ..... / McDonnell Douglas MD-81,
+17	null	airline: ..... / Scandinavian Airlines
+18	null	name: ..... / Tiger Airways Singapore Pte
+19	null	operator: ..... / Tiger Airways
+20	true	airline: tiger airways / Tiger Airways
+21	true	destinations: 36 / 36
+22	null	name: ..... / Singapore Airlines Cargo (
+23	null	operator: ..... / Singapore Airlines
+24	true	airline: singapore airlines cargo / Singapore Airlines
+25	null	founded: ..... / 1984
+26	null	name: ..... / Air Holland
+27	null	airline: ..... / Air Holland
+28	true	founded: 1977 / 1977
+29	null	commenced: ..... / 1977
+30	null	hubs: ..... / Geneva Cointrin International Airport
+31	null	origin: ..... / Cointrin International Airport
+32	false	founded: june 4, 1928 / 1928
+33	false	commenced: september 15, 1928 / November 15, 1999.
+34	false	founded: 1 april 1995 / 1995,
+35	true	hubs: bonriki international airport / Bonriki International Airport,
+36	true	airline: air kiribati / Air Kiribati
+37	false	founded: april 1, 1997 / 2000
+38	true	hubs: osaka international airport / Osaka International Airport
+39	true	alliance: oneworld / Oneworld
+40	false	airline: vueling airlines / Air
+41	null	founded: ..... / 1963
+42	null	operator: ..... / Bearskin Lake Air
+43	null	airline: ..... / Bearskin Lake Air
+44	null	headquarters: ..... / Sioux Lookout, Ontario, Canada.
+45	true	commenced: september 21, 1992 / September 21, 1992
+46	null	name: ..... / Kiwi International Air Lines
+47	null	operator: ..... / Kiwi International
+48	null	airline: ..... / Kiwi International Air Lines
+49	false	founded: 1962 / 1947
+50	true	hubs: ivato international airport / Ivato International Airport,
+51	true	airline: air madagascar / Air Madagascar,
+52	true	headquarters: antananarivo, madagascar / Antananarivo, Madagascar.
+53	false	founded: 1967 / 17 March 1967
+54	true	hubs: ouagadougou airport / Ouagadougou Airport.
+55	null	name: ..... / Air Burkina
+56	true	airline: air burkina / Air Burkina
+57	true	founded: 1972 / 1972
+58	true	hubs: sir seretse khama international airport / Sir Seretse Khama International Airport
+59	null	name: ..... / Air Botswana Corporation
+60	true	airline: air botswana / Air Botswana
+61	null	founded: ..... / 1, 2005
+62	true	hubs: fukuoka airport / Fukuoka Airport
+63	null	date: ..... / October 1, 2010,
+64	null	airline: ..... / Air Next
+65	true	founded: 1994 / 1994
+66	null	hubs: ..... / Terrace Airport
+67	false	headquarters: terrace, british columbia / Terrace, British Columbia, Canada.
+68	null	hubs: ..... / Rostov-on-Don Airport and Moscow-Vnukovo Airport.
+69	null	name: ..... / JSC "Donavia"
+70	null	airline: ..... / JSC "Donavia"
+71	null	headquarters: ..... / Rostov-on-Don, Russia.
+72	null	hubs: ..... / Shenzhen Bao'an International Airport
+73	null	name: ..... / Shenzhen Airlines
+74	null	operator: ..... / Shenzhen Airlines
+75	null	airline: ..... / Shenzhen Airlines
+76	null	headquarters: ..... / District, Shenzhen, Guangdong, People's
+77	null	founded: ..... / 1992
+78	null	commenced: ..... / 25 May 2004.
+79	null	hubs: ..... / Sydney International Airport
+80	null	name: ..... / Impulse Airlines
+81	null	operator: ..... / Impulse Airlines
+82	null	airline: ..... / Impulse Airlines
+83	true	name: japan airlines flight 472 / Japan Airlines Flight 472
+84	true	operator: japan airlines / Japan Airlines
+85	null	airline: ..... / Japan Airlines
+86	null	name: ..... / On December 17, 1973, Pan Am Flight 110
+87	null	date: ..... / December 17, 1973,
+88	null	hubs: ..... / Stapleton International Airport
+89	null	name: ..... / United Airlines Flight 585
+90	null	date: ..... / 3 March 1991,
+91	null	operator: ..... / United Airlines
+92	null	aircraft type: ..... / Boeing 737-200,
+93	null	airline: ..... / United Airlines
+94	true	founded: 2004 / 2004,
+95	true	hubs: singapore changi airport / Singapore Changi Airport.
+96	null	date: ..... / April 16, 2008,
+97	null	operator: ..... / Jetstar Asia Airways
+98	false	airline: jetstar airways / Jetstar Asia Airways Private
+99	true	founded: 1958 / 1958
+100	true	hubs: tribhuvan international airport / Tribhuvan International Airport,
+101	null	name: ..... / Nepal Airlines,
+102	true	airline: nepal airlines / Nepal Airlines,
+103	false	headquarters: kathmandu / Kathmandu, Nepal.
+104	null	name: ..... / Air UK
+105	true	airline: air uk / Air UK
+106	true	founded: 1966 / 1966
+107	null	hubs: ..... / London Gatwick Airport
+108	null	name: ..... / Laker Airways
+109	true	airline: laker airways / Laker Airways
+110	true	commenced: 3 december 2003 / 3 December 2003.
+111	null	hubs: ..... / Don Mueang International Airport,
+112	null	name: ..... / One-Two-GO Airlines
+113	null	operator: ..... / One-Two-GO Airlines
+114	null	airline: ..... / One-Two-GO Airlines
+115	null	hubs: ..... / Brasilia International Airport
+116	null	date: ..... / 16 September, 2009
+117	false	founded: 1989 / 16, 1989
+118	true	hubs: mehrabad airport / Mehrabad Airport,
+119	null	name: ..... / Kish Air
+120	null	airline: ..... / Kish Air
+121	true	headquarters: tehran, iran / Tehran, Iran.
+122	null	hubs: ..... / Mehrabad International Airport
+123	null	name: ..... / Iran Aseman Airlines
+124	null	operator: ..... / Iran Aseman
+125	true	airline: iran aseman airlines / Iran Aseman Airlines
+126	true	headquarters: tehran, iran / Tehran, Iran,
+127	false	founded: 1990 (as saha air lines) / 1990
+128	null	operator: ..... / Iranian Airlines
+129	null	airline: ..... / Iranian Airlines
+130	true	headquarters: tehran, iran / Tehran, Iran.
+131	null	name: ..... / Mekong Airlines
+132	null	operator: ..... / Mekong Airlines
+133	true	airline: mekong airlines / Mekong Airlines
+134	null	date: ..... / July 25, 1984
+135	null	operator: ..... / Xiamen Airlines
+136	true	airline: xiamen airlines / Xiamen Airlines
+137	null	destinations: ..... / 25
+138	null	hubs: ..... / Soekarno-Hatta International Airport,
+139	null	name: ..... / Merpati Nusantara
+140	null	operator: ..... / Merpati Nusantara Airlines
+141	false	airline: merpati nusantara / Merpati Nusantara Airlines
+142	true	headquarters: central jakarta, jakarta, indonesia / Central Jakarta, Jakarta, Indonesia.
+143	null	name: ..... / Thai AirAsia
+144	null	airline: ..... / Thai AirAsia
+145	true	name: twa flight 903 / TWA Flight 903
+146	true	passengers: 48 / 48
+147	true	operator: twa / TWA
+148	null	airline: ..... / TWA
+149	true	founded: 1969 / 1969
+150	null	hubs: ..... / Newcastle Airport
+151	null	name: ..... / Gill Airways
+152	null	operator: ..... / Gill Airways
+153	true	airline: gill airways / Gill Airways
+154	null	name: ..... / Trans Maldivian
+155	null	operator: ..... / Trans Maldivian
+156	true	airline: trans maldivian airways / Trans Maldivian Airways
+157	false	headquarters: maldives / Malé International Airport
+158	null	name: ..... / West Coast Air
+159	null	airline: ..... / West Coast Air
+160	true	founded: 1945 / 1945
+161	true	airline: aviateca / Aviateca
+162	null	founded: ..... / arriving
+163	true	name: american airlines flight 96 / American Airlines Flight 96
+164	true	operator: american airlines / American Airlines
+165	null	airline: ..... / American Airlines
+166	null	destinations: ..... / 10
+167	null	founded: ..... / 2001
+168	null	hubs: ..... / Hong Kong International Airport.
+169	null	name: ..... / Hong Kong
+170	null	date: ..... / 27 June 2003,
+171	null	operator: ..... / Hong Kong Airlines
+172	false	airline: hong kong airlines香港航空 / Hainan Airlines
+173	null	name: ..... / ADC Airlines
+174	null	operator: ..... / ADC Airlines
+175	false	airline: aviation development company / ADC Airlines
+176	true	headquarters: ikeja, lagos state, nigeria / Ikeja, Lagos State, Nigeria.
+177	null	operator: ..... / Itek Air,
+178	null	airline: ..... / Itek Air, Ltd
+179	true	founded: 1991 / 1991
+180	null	commenced: ..... / 20 March 1991
+181	true	hubs: djibouti-ambouli international airport / Djibouti-Ambouli International Airport,
+182	null	operator: ..... / Daallo Airlines
+183	true	airline: daallo airlines / Daallo Airlines
+184	null	name: ..... / Norfolk Jet Express Pty Ltd
+185	null	operator: ..... / Norfolk Jet
+186	true	airline: inter-somalia / Inter-Somalia
+187	null	founded: ..... / 1987
+188	null	name: ..... / Alliance Airlines
+189	null	operator: ..... / Alliance Airlines
+190	true	airline: alliance airlines / Alliance Airlines
+191	true	headquarters: brisbane, queensland, australia / Brisbane, Queensland, Australia.
+192	true	destinations: 17 / 17
+193	null	date: ..... / July 23, 2008,
+194	null	airline: ..... / AeroCalifornia
+195	false	founded: august 2003 / 2003
+196	null	hubs: ..... / Kabul International Airport.
+197	null	name: ..... / Kam Air
+198	true	airline: kam air / Kam Air
+199	null	hubs: ..... / Sal Airport
+200	null	name: ..... / TACV Cabo Verde Airlines
+201	null	operator: ..... / TACV Cabo Verde
+202	true	airline: tacv cabo verde airlines / TACV Cabo Verde Airlines
+203	true	headquarters: praia, cape verde / Praia, Cape Verde.
+204	null	name: ..... / Kam Air Flight 904
+205	null	operator: ..... / Kam Air
+206	null	airline: ..... / Kam Air
+207	null	commenced: ..... / 1970
+208	true	hubs: calgary international airport / Calgary International Airport.
+209	null	name: ..... / Kenn Borek Air
+210	true	airline: kenn borek air / Kenn Borek Air
+211	false	headquarters: calgary, alberta / Calgary, Alberta, Canada.
+212	null	name: ..... / Tropical Airways
+213	null	operator: ..... / Tropical Airways
+214	true	airline: tropical airways / Tropical Airways
+215	true	headquarters: port-au-prince, haiti / Port-au-Prince, Haiti.
+216	true	founded: 1998 / 1998
+217	null	hubs: ..... / Paris-Charles de Gaulle Airport
+218	false	airline: airlinair / Société Airlinair
+219	true	headquarters: rungis, france / Rungis, France,
+220	true	founded: 2002 / 2002
+221	null	commenced: ..... / 2002
+222	null	hubs: ..... / Athens International Airport.
+223	null	name: ..... / Hellas Jet
+224	true	airline: hellas jet / Hellas Jet
+225	true	headquarters: athens, greece / Athens, Greece,
+226	true	hubs: chinggis khaan international airport (uln) / Chinggis Khaan International Airport,
+227	null	name: ..... / Aero Mongolia
+228	true	airline: aero mongolia / Aero Mongolia
+229	true	founded: 1998 / 1998
+230	true	headquarters: cairns, queensland, australia / Cairns, Queensland, Australia.
+231	null	hubs: ..... / Moi International Airport,
+232	null	name: ..... / Africa Safari Air
+233	null	operator: ..... / Africa Safari Air
+234	true	airline: africa safari air / Africa Safari Air
+235	null	headquarters: ..... / Mombasa, Kenya-EACU.
+236	null	hubs: ..... / Orly Airport
+237	null	operator: ..... / Société Aigle
+238	null	headquarters: ..... / Tremblay-en-France, France,
+239	false	founded: 1996 / 23 January 1996
+240	null	name: ..... / Gambia International
+241	null	operator: ..... / Gambia International Airlines
+242	true	airline: gambia international airlines / Gambia International Airlines
+243	true	founded: 2002 / 2002
+244	null	commenced: ..... / 12 July 2002
+245	true	airline: aerohonduras / AeroHonduras
+246	true	headquarters: tegucigalpa, honduras / Tegucigalpa, Honduras.
+247	true	founded: 1971 / 1971
+248	false	hubs: bujumbura / Bujumbura International Airport.
+249	true	airline: air burundi / Air Burundi
+250	null	destinations: ..... / 46
+251	false	founded: 3 february 2003 / 2003
+252	true	commenced: 28 october 2003 / 28 October 2003
+253	null	hubs: ..... / Sharjah International Airport
+254	true	airline: air arabia / Air Arabia
+255	null	hubs: ..... / Astana International Airport
+256	true	airline: air astana / Air Astana
+257	true	founded: 1980 / 1980
+258	true	hubs: laguardia airport / LaGuardia Airport
+259	null	name: ..... / New York Air
+260	null	operator: ..... / New York Air
+261	true	airline: new york air / New York Air
+262	false	founded: 3 july 1929 / 1951,
+263	null	name: ..... / Aeropostal Alas de Venezuela,
+264	null	date: ..... / 31 December 1933,
+265	null	hubs: ..... / Milan Linate Airport
+266	null	name: ..... / Alitalia Express S.
+267	null	operator: ..... / Alitalia Express
+268	null	airline: ..... / Alitalia Express
+269	null	operator: ..... / ItAli Airlines
+270	true	airline: itali airlines / ItAli Airlines
+271	false	founded: 15 december 2004 / 2004
+272	null	name: ..... / Dubrovnik Airline Limited
+273	null	airline: ..... / Dubrovnik Airline
+274	true	headquarters: dubrovnik, croatia / Dubrovnik, Croatia.
+275	null	airline: ..... / Astraeus Airlines
+276	null	name: ..... / Hahn Air
+277	true	airline: hahn air / Hahn Air
+278	true	destinations: 22 / 22
+279	null	founded: ..... / 1956
+280	null	name: ..... / Leeward Islands Air Transport,
+281	null	operator: ..... / Leeward Islands Air
+282	true	airline: ada air / Ada Air
+283	null	name: ..... / Lufthansa Flight 540,
+284	null	date: ..... / 20 November 1974
+285	null	passengers: ..... / 140
+286	null	crew: ..... / 17
+287	null	airline: ..... / Lufthansa Flight
+288	true	founded: 1979 / 1979
+289	null	name: ..... / Castle Air
+290	true	airline: castle air / Castle Air
+291	null	name: ..... / Corporate Airlines Flight 5966
+292	null	date: ..... / October 19, 2004,
+293	null	operator: ..... / Corporate Airlines
+294	null	aircraft type: ..... / Jetstream 32
+295	null	airline: ..... / Corporate Airlines
+296	true	founded: 2003 / 2003
+297	null	hubs: ..... / Shannon Airport
+298	null	date: ..... / 26 July 2005,
+299	null	operator: ..... / Mavial Magadan Airlines
+300	true	airline: mavial magadan airlines / Mavial Magadan Airlines
+301	true	headquarters: magadan, russia / Magadan, Russia,
+302	true	founded: 1 december 1961 / 1 December 1961
+303	null	commenced: ..... / 5 May 1962
+304	null	name: ..... / Britannia Airways
+305	null	operator: ..... / Britannia Airways
+306	true	airline: britannia airways / Britannia Airways
+307	true	airline: british airtours / British Airtours
+308	true	hubs: london gatwick airport / London Gatwick Airport
+309	null	name: ..... / CityFlyer Express
+310	true	airline: cityflyer express / CityFlyer Express
+311	null	name: ..... / Tasman Empire Airways Limited
+312	null	airline: ..... / Tasman Empire Airways
+313	true	founded: 1989 / 1989
+314	null	commenced: ..... / January 1991
+315	null	hubs: ..... / Munich Airport.
+316	true	airline: air dolomiti / Air Dolomiti
+317	true	founded: 2001 / 2001
+318	null	commenced: ..... / 8 December 2003
+319	null	name: ..... / Air Polonia
+320	true	airline: air polonia / Air Polonia
+321	null	founded: ..... / 1988
+322	null	commenced: ..... / 1988
+323	null	hubs: ..... / Portela Airport
+324	null	date: ..... / 11 August 2001
+325	null	alliance: ..... / SkyTeam Alliance
+326	null	founded: ..... / 1997
+327	null	commenced: ..... / 1997
+328	true	date: 19 december 1997 / 19 December 1997
+329	true	passengers: 97 / 97
+330	true	crew: 7 / 7
+331	null	founded: ..... / 2003
+332	null	name: ..... / Kingfisher Red,
+333	true	airline: kingfisher red / Kingfisher Red,
+334	null	hubs: ..... / Cardiff International Airport
+335	null	name: ..... / Air Wales
+336	null	date: ..... / 23 April 2006,
+337	null	operator: ..... / Air Wales
+338	true	airline: air wales / Air Wales
+339	null	commenced: ..... / 29 March 2003,
+340	null	name: ..... / Air Scotland
+341	null	airline: ..... / Air
+342	null	founded: ..... / 1977
+343	true	name: air new zealand flight 901 / Air New Zealand Flight
+344	true	date: 28 november 1979 / 28 November 1979,
+345	true	passengers: 237 / 237
+346	true	crew: 20 / 20
+347	true	operator: air new zealand / Air New Zealand
+348	null	airline: ..... / Air New Zealand
+349	null	operator: ..... / Kosova Airlines
+350	true	airline: kosova airlines / Kosova Airlines
+351	null	hubs: ..... / Los Angeles International Airport
+352	null	name: ..... / Flying Tiger Line,
+353	null	operator: ..... / Flying
+354	true	name: china airlines flight 358 / China Airlines Flight 358
+355	true	date: december 29, 1991 / December 29, 1991
+356	true	operator: china airlines / China Airlines
+357	true	aircraft type: boeing 747-2r7f / Boeing 747-2R7F
+358	null	airline: ..... / China Airlines
+359	false	airline: luftfahrtgesellschaft walter / LGW
+360	null	hubs: ..... / Oakland International Airport
+361	null	hubs: ..... / Miami International Airport
+362	null	name: ..... / Modern Air
+363	null	operator: ..... / Modern Air
+364	false	airline: modern air transport / Modern Air
+365	true	name: lauda air flight 004 / Lauda Air Flight 004
+366	true	date: 26 may 1991 / 26 May 1991,
+367	true	operator: lauda air / Lauda Air
+368	null	airline: ..... / Lauda Air
+369	true	founded: 1949 / 1949
+370	null	hubs: ..... / LaGuardia Airport.
+371	true	founded: 2003 / 2003
+372	null	commenced: ..... / January 2004
+373	null	hubs: ..... / Christchurch International Airport
+374	null	airline: ..... / Pacific Blue
+375	true	founded: 2002 / 2002
+376	null	commenced: ..... / 16 February 2003
+377	null	hubs: ..... / Ngurah Rai Airport,
+378	null	name: ..... / Air Paradise International
+379	null	date: ..... / 24 November 2005
+380	true	airline: air paradise international / Air Paradise International
+381	null	headquarters: ..... / Denpasar, Bali, Indonesia.
+382	false	airline: sun country airlines / Sun Country
+383	null	name: ..... / Air Panama
+384	true	airline: air panama / Air Panama
+385	true	founded: 1947 / 1947
+386	null	name: ..... / National Airways Corporation
+387	null	operator: ..... / National Airways
+388	true	airline: national airways corporation (nac) / National Airways Corporation
+389	true	founded: 16 july 1928 / 16 July 1928
+390	null	name: ..... / Koninklijke Nederlandsch-Indische Luchtvaart Maatschappij
+391	null	date: ..... / December 28, 1941,
+392	false	airline: koninklijk nederlandsch-indische luchtvaart maatschappij / Koninklijke
+393	null	name: ..... / Qeshm Air
+394	null	operator: ..... / Qeshm Air
+395	null	airline: ..... / Qeshm Air
+396	true	founded: 1993 / 1993
+397	null	hubs: ..... / Mehrabad International Airport,
+398	null	operator: ..... / Caspian Airlines
+399	true	airline: caspian airlines / Caspian Airlines
+400	true	founded: 1973 / 1973
+401	true	hubs: mashhad international airport / Mashhad International Airport.
+402	null	name: ..... / Iran Air
+403	null	operator: ..... / Iran Air
+404	true	airline: iran air tours / Iran Air Tours
+405	true	headquarters: tehran, iran / Tehran, Iran.
+406	false	founded: 1938 (as dta) / 1938
+407	null	commenced: ..... / 17 July 1940
+408	null	name: ..... / TAAG Angola
+409	null	operator: ..... / TAAG Angola
+410	false	airline: taag angola airlinestaag linhas aéreas de angola / TAAG Angola Airlines
+411	true	founded: 1997 / 1997
+412	null	commenced: ..... / 1997
+413	true	airline: eastern airways / Eastern Airways
+414	null	name: ..... / Allegiant Air
+415	null	operator: ..... / Allegiant Air
+416	true	airline: allegiant air / Allegiant Air
+417	true	founded: 1997 / 1997
+418	true	hubs: phnom penh international airport / Phnom Penh International Airport.
+419	null	name: ..... / President Airlines
+420	null	operator: ..... / President Airlines
+421	true	airline: president airlines / President Airlines
+422	true	headquarters: phnom penh, cambodia / Phnom Penh, Cambodia.
+423	true	hubs: frankfurt airport / Frankfurt Airport.
+424	true	airline: lufthansa cargo / Lufthansa Cargo
+425	false	headquarters: frankfurt, germany / a
+426	true	founded: 2001 / 2001
+427	null	name: ..... / Republic Express
+428	null	operator: ..... / Republic Express Airlines
+429	true	airline: republic express airlines / Republic Express Airlines
+430	true	headquarters: jakarta, indonesia / Jakarta, Indonesia.
+431	null	destinations: ..... / 12
+432	null	founded: ..... / 1994,
+433	null	hubs: ..... / Macau International Airport.
+434	null	name: ..... / Air Macau Company Limited
+435	null	airline: ..... / Air
+436	null	name: ..... / Eastern Provincial
+437	null	operator: ..... / Eastern Provincial Airways
+438	true	airline: eastern provincial airways / Eastern Provincial Airways
+439	true	founded: 1947 / 1947
+440	null	date: ..... / March 27, 1987,
+441	null	airline: ..... / Nordair
+442	true	founded: 2002 / 2002
+443	null	name: ..... / Kyrgyz Air
+444	null	operator: ..... / Kyrgyz Air
+445	true	airline: kyrgyz air / Kyrgyz Air
+446	true	hubs: vancouver international airport / Vancouver International Airport.
+447	null	name: ..... / Harmony Airways
+448	null	date: ..... / March 27, 2007,
+449	true	airline: harmony airways / Harmony Airways
+450	null	hubs: ..... / Zürich International Airport
+451	true	date: february 21, 1970 / February 21, 1970,
+452	true	origin: zürich international airport / Zürich International Airport
+453	true	name: northwest orient airlines flight 2501 / Northwest Orient Airlines Flight 2501
+454	true	operator: northwest orient airlines / Northwest Orient Airlines
+455	null	airline: ..... / Northwest Orient Airlines
+456	null	name: ..... / Eastern Air Lines Flight 66,
+457	null	passengers: ..... / 106
+458	null	crew: ..... / 6
+459	null	operator: ..... / Eastern Air Lines
+460	null	airline: ..... / Eastern Air Lines
+461	null	founded: ..... / m.
+462	null	commenced: ..... / 1:47 a. m.
+463	null	airline: ..... / United Airlines
+464	null	founded: ..... / flight
+465	null	name: ..... / United Airlines Flight 615,
+466	null	passengers: ..... / 44
+467	null	crew: ..... / 6
+468	null	operator: ..... / United Airlines
+469	null	airline: ..... / United Airlines
+470	null	founded: ..... / 2004
+471	true	hubs: sarajevo international airport / Sarajevo International Airport.
+472	true	airline: arnoro / Arnoro
+473	true	founded: 1978 / 1978
+474	null	commenced: ..... / September 15, 1978,
+475	null	name: ..... / Big Sky Airlines
+476	null	operator: ..... / Big Sky Airlines
+477	true	airline: big sky airlines / Big Sky Airlines
+478	true	headquarters: billings, montana / Billings, Montana,
+479	true	founded: 1988 / 1988,
+480	null	hubs: ..... / Yellowknife Airport
+481	null	name: ..... / Air Tindi
+482	true	airline: air tindi / Air Tindi
+483	null	name: ..... / Sunshine Express
+484	null	operator: ..... / Sunshine Express Airlines
+485	true	airline: sunshine express airlines / Sunshine Express Airlines
+486	null	commenced: ..... / 1992
+487	null	hubs: ..... / Townsville International Airport,
+488	null	name: ..... / MacAir Airlines Pty Ltd
+489	null	operator: ..... / MacAir Airlines
+490	true	airline: macair airlines / MacAir Airlines
+491	true	headquarters: townsville, queensland, australia / Townsville, Queensland, Australia.
+492	null	hubs: ..... / Beijing Capital International Airport
+493	null	name: ..... / China Northern Airlines Flight 6136
+494	null	date: ..... / May 7, 2002,
+495	null	origin: ..... / Beijing Capital International Airport
+496	null	passengers: ..... / 103
+497	null	crew: ..... / 9
+498	null	operator: ..... / China Northern Airlines
+499	null	airline: ..... / China Northern Airlines
+500	null	name: ..... / China Eastern Airlines Flight 5210
+501	null	date: ..... / November 21, 2004
+502	null	operator: ..... / China Eastern Airlines
+503	null	airline: ..... / China Eastern Airlines
+504	true	founded: 1966 / 1965
+505	null	airline: ..... / Air Holland
+506	true	founded: 1957 / 1957
+507	true	hubs: taipei songshan airport / Taipei Songshan Airport.
+508	null	name: ..... / Far Eastern Air Transport(
+509	null	date: ..... / November 27, 2010,
+510	false	airline: far eastern air transport / authority in Taiwan
+511	null	name: ..... / China Airlines Flight 676
+512	null	operator: ..... / China Airlines
+513	null	aircraft type: ..... / Airbus A300-622R
+514	null	airline: ..... / China Airlines
+515	true	founded: 1998 / 1998
+516	null	name: ..... / UM Airlines
+517	null	operator: ..... / UM Airlines
+518	null	aircraft type: ..... / UM Yak-42D
+519	true	airline: um airlines / UM Airlines
+520	true	headquarters:  kiev, ukraine / Kiev, Ukraine.
+521	true	founded: 1977 / 1977
+522	false	airline: sun d'or / Sun d'Or International Airlines
+523	true	destinations: 11 / 11
+524	true	founded: 1979 / 1979
+525	true	airline: tropic air / Tropic Air
+526	null	operator: ..... / Khalifa Airways
+527	true	airline: khalifa airways / Khalifa Airways
+528	true	headquarters: algiers, algeria / Algiers, Algeria
+529	true	founded: 1993 / 1993
+530	true	commenced: 4 may 1993 / 4 May 1993
+531	null	name: ..... / Aero Asia International
+532	false	airline: aero asia / Aero Asia International
+533	true	headquarters: karachi, pakistan / Karachi, Pakistan.
+534	true	hubs: cadjehoun airport / Cadjehoun Airport.
+535	null	name: ..... / Benin Golf Air
+536	true	airline: benin golf air / Benin Golf Air
+537	true	headquarters: cotonou, benin / Cotonou, Benin.
+538	true	hubs: manas international airport / Manas International Airport
+539	null	operator: ..... / JSC National
+540	null	airline: ..... / JSC National Air
+541	true	founded: 1971 / 1971
+542	null	commenced: ..... / 1 November 1971
+543	null	hubs: ..... / Douala International Airport,
+544	null	name: ..... / Cameroon Airlines
+545	null	operator: ..... / Cameroon Airlines
+546	true	airline: cameroon airlines / Cameroon Airlines
+547	true	hubs: asmara international airport / Asmara International Airport.
+548	null	operator: ..... / Eritrean Airlines
+549	true	airline: eritrean airlines / Eritrean Airlines
+550	true	founded: 1998 / 1998
+551	null	commenced: ..... / 28 March 1999
+552	false	hubs: bolzano / Innsbruck Airport,
+553	null	operator: ..... / Air Alps
+554	true	airline: air alps / Air Alps
+555	true	headquarters: innsbruck, austria / Innsbruck, Austria.
+556	null	founded: ..... / 1998
+557	null	name: ..... / Air Djibouti,
+558	null	airline: ..... / Air Djibouti,
+559	true	founded: 1991 / 1991
+560	false	hubs: tirana international airport nënë tereza / Tirana International Airport
+561	null	name: ..... / Ada Air Sh.
+562	null	operator: ..... / Ada Air
+563	true	headquarters: tirana, albania / Tirana, Albania.
+564	true	founded: 1994 / 1994
+565	true	hubs: murtala mohammed international airport / Murtala Mohammed International Airport,
+566	null	name: ..... / Chanchangi Airlines Nigeria Limited
+567	null	operator: ..... / Chanchangi Airlines
+568	false	airline: chanchangi / Chanchangi Airlines Nigeria
+569	null	founded: ..... / 1973
+570	null	hubs: ..... / Morlaix Airport
+571	null	airline: ..... / Brit Air
+572	true	founded: 1991 / 1991
+573	false	hubs: tirana international airport nënë tereza / Tirana International Airport
+574	null	name: ..... / Albanian Airlines MAK Sh.
+575	null	date: ..... / August 14, 2009,
+576	null	operator: ..... / Albanian Airlines
+577	true	airline: albanian airlines / Albanian Airlines
+578	true	headquarters: tirana, albania / Tirana, Albania.
+579	null	operator: ..... / Albatros Airways
+580	true	airline: albatros airways / Albatros Airways
+581	false	founded: 1960 / 14 December 1960
+582	true	hubs: port bouet airport / Port Bouet Airport,
+583	null	name: ..... / Air Ivoire
+584	true	airline: air ivoire / Air Ivoire
+585	true	headquarters: abidjan, côte d'ivoire / Abidjan, Côte d'Ivoire.
+586	false	founded: 1994 / 24 August 1994
+587	null	name: ..... / Trans Air Congo
+588	true	airline: trans air congo / Trans Air Congo
+589	true	destinations: 14 / 14
+590	true	founded: 1998 / 1998
+591	null	commenced: ..... / 2006
+592	true	hubs: larnaca international airport / Larnaca International Airport
+593	null	name: ..... / Helios Airways
+594	true	airline: helios airways / Helios Airways
+595	null	founded: ..... / 1992
+596	null	commenced: ..... / 1992
+597	null	hubs: ..... / Larnaca International Airport,
+598	null	name: ..... / Eurocypria Airlines Limited
+599	null	date: ..... / 4 November 2010
+600	null	operator: ..... / Eurocypria Airlines
+601	null	airline: ..... / Eurocypria Airlines
+602	null	headquarters: ..... / Larnaca, Cyprus,
+603	true	founded: 1999 / 1999
+604	null	name: ..... / Alisea Airlines
+605	null	operator: ..... / Alisea Airlines
+606	true	airline: alisea airlines / Alisea Airlines
+607	true	airline: aeroejecutivos / Aeroejecutivos
+608	false	founded:  (as greenlandair) / 1960,
+609	false	airline: air greenland / Air Greenland A/S
+610	true	founded: 1972 / 1972
+611	null	commenced: ..... / 12 July 1975
+612	true	airline: aerocaribe / Aerocaribe
+613	true	founded: 1983 / 1983
+614	false	hubs: carrasco international airport / Carrasco International Airport, Montevideo.
+615	true	airline: aeromás / Aeromas
+616	null	headquarters: ..... / Panama City, Panama.
+617	null	operator: ..... / Afrinat International Airlines
+618	true	airline: afrinat international airlines / Afrinat International Airlines
+619	null	destinations: ..... / 25
+620	true	hubs: tripoli international airport / Tripoli International Airport.
+621	null	date: ..... / 12 May 2010,
+622	null	operator: ..... / Afriqiyah
+623	null	airline: ..... / Afriqiyah Airways
+624	true	headquarters: tripoli, libya / Tripoli, Libya.
+625	null	founded: ..... / 2001
+626	null	commenced: ..... / 2007
+627	null	hubs: ..... / Pula Airport
+628	null	name: ..... / Air Adriatic
+629	null	date: ..... / 3 June 2008,
+630	null	airline: ..... / Air Adriatic
+631	null	headquarters: ..... / Rijeka, Croatia
+632	true	hubs: libreville international airport / Libreville International Airport.
+633	null	name: ..... / Nouvelle Air Affaires Gabon
+634	null	operator: ..... / Nouvelle Air
+635	true	airline: nouvelle air affaires gabon / Nouvelle Air Affaires Gabon
+636	true	headquarters: libreville, gabon / Libreville, Gabon.
+637	null	founded: ..... / 1994
+638	null	name: ..... / XL Airways
+639	null	operator: ..... / XL Airways
+640	null	airline: ..... / XL Airways
+641	false	founded: december 1995 / 1995
+642	null	name: ..... / Azzurra Air
+643	null	operator: ..... / Azzurra Air
+644	null	airline: ..... / Azzurra Air
+645	true	headquarters: milan, italy / Milan, Italy
+646	null	founded: ..... / 1993
+647	null	hubs: ..... / Sheremetyevo International Airport,
+648	null	name: ..... / AirBridgeCargo Airlines, LLC
+649	null	airline: ..... / AirBridgeCargo Airlines,
+650	null	headquarters: ..... / Moscow, Russia.
+651	true	founded: 1990 / 1990
+652	null	hubs: ..... / Kiev International Airport.
+653	null	name: ..... / Khors Air
+654	null	operator: ..... / Khors Air
+655	true	airline: khors air / Khors Air
+656	true	headquarters: kiev, ukraine / Kiev, Ukraine,
+657	true	founded: 2004 / 2004
+658	null	operator: ..... / Thai Air
+659	true	airline: thai air cargo / Thai Air Cargo
+660	null	headquarters: ..... / Bangkok, Thailand.
+661	true	founded: 2004 / 2004
+662	true	commenced: 17 december 2004 / 17 December 2004
+663	null	date: ..... / 22 July 2009,
+664	null	operator: ..... / Air Austral
+665	true	airline: air austral / Air Austral
+666	null	founded: ..... / 1996
+667	null	name: ..... / Avanti Air
+668	true	airline: avanti air / Avanti Air
+669	null	headquarters: ..... / Burbach, Siegen-Wittgenstein, Germany,
+670	true	founded: 2002 / 2002
+671	false	airline: air bourbon / Air

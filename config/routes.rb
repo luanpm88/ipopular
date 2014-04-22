@@ -1,4 +1,6 @@
 Ipopular::Application.routes.draw do
+  resources :attribute_test_values
+
   resources :attribute_value_similar_patterns
 
   resources :attribute_values

@@ -1,0 +1,277 @@
+county:
+Found Not Null: 43
+Correct: 43
+Wrong: 0
+precision: 1.0
+
+
+
+
+state:
+Found Not Null: 40
+Correct: 40
+Wrong: 0
+precision: 1.0
+
+
+
+
+seal:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+map size:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+founded year:
+Found Not Null: 4
+Correct: 4
+Wrong: 0
+precision: 1.0
+
+
+
+
+founded date:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+seat wl:
+Found Not Null: 8
+Correct: 8
+Wrong: 0
+precision: 1.0
+
+
+
+
+largest city wl:
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+precision: 0.0
+
+
+
+
+area_total_sq_mi:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+area_land_sq_mi:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+area_water_sq_mi:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+area percentage:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+census yr:
+Found Not Null: 31
+Correct: 31
+Wrong: 0
+precision: 1.0
+
+
+
+
+pop:
+Found Not Null: 20
+Correct: 20
+Wrong: 0
+precision: 1.0
+
+
+
+
+density_km2:
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+precision: 1.0
+
+
+
+
+web:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+map:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+founded:
+Found Not Null: 13
+Correct: 11
+Wrong: 2
+precision: 0.8461538461538461
+
+
+
+
+seat:
+Found Not Null: 21
+Correct: 20
+Wrong: 1
+precision: 0.9523809523809523
+
+
+
+
+largest city:
+Found Not Null: 7
+Correct: 5
+Wrong: 2
+precision: 0.7142857142857143
+
+
+
+
+area_total_km2:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+area_land_km2:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+area_water_km2:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+census estimate yr:
+Found Not Null: 5
+Correct: 5
+Wrong: 0
+precision: 1.0
+
+
+
+
+density_sq_mi:
+Found Not Null: 4
+Correct: 4
+Wrong: 0
+precision: 1.0
+
+
+
+
+time zone:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+utc offset:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+dst offset:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+named for:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+district:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+ex image:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+ex image cap:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+ex image size:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+

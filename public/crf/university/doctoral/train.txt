@@ -1,8 +1,0 @@
-PRE	value_of_token=About	type=String	alphanum_char=1	POS=IN
-VAL	value_of_token=1,000	type=Number	formated_number_1=1	POS=CD	small_token=1	long_paragraph=1	paragraph=4	sentence=2	word=1
-POT	value_of_token=post-graduate	type=String	POS=JJ
-POT	value_of_token=students	type=String	alphanum_char=1	POS=NNS
-POT	value_of_token=attend	type=String	alphanum_char=1	POS=VBP
-POT	value_of_token=programmes	type=String	alphanum_char=1	POS=NNS
-POT	value_of_token=at	type=String	alphanum_char=1	POS=IN
-

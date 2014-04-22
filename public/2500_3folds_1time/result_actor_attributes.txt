@@ -1,0 +1,189 @@
+birth_name:
+Found Not Null: 209
+Correct: 193
+Wrong: 16
+precision: 0.9234449760765551
+
+
+
+
+occupation:
+Found Not Null: 297
+Correct: 261
+Wrong: 36
+precision: 0.8787878787878788
+
+
+
+
+years_active:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+spouse:
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+precision: 0.5
+
+
+
+
+name:
+Found Not Null: 408
+Correct: 361
+Wrong: 47
+precision: 0.8848039215686274
+
+
+
+
+website:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+death_date:
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+precision: 0.0
+
+
+
+
+death_place:
+Found Not Null: 4
+Correct: 2
+Wrong: 2
+precision: 0.5
+
+
+
+
+other_names:
+Found Not Null: 4
+Correct: 2
+Wrong: 2
+precision: 0.5
+
+
+
+
+image:
+Found Not Null: 5
+Correct: 3
+Wrong: 2
+precision: 0.6
+
+
+
+
+imagesize:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+children:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+image_size:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+bgcolour:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+birthname:
+Found Not Null: 92
+Correct: 58
+Wrong: 34
+precision: 0.6304347826086957
+
+
+
+
+birthdate:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+birthplace:
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+precision: 1.0
+
+
+
+
+birth_date:
+Found Not Null: 21
+Correct: 20
+Wrong: 1
+precision: 0.9523809523809523
+
+
+
+
+birth_place:
+Found Not Null: 163
+Correct: 148
+Wrong: 15
+precision: 0.9079754601226994
+
+
+
+
+partner:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+
+caption:
+Found Not Null: 10
+Correct: 5
+Wrong: 5
+precision: 0.5
+
+
+
+
+yearsactive:
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+
+
+
+

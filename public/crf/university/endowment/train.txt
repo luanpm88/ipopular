@@ -1,7 +1,0 @@
-PRE	value_of_token=annual	type=String	alphanum_char=1	POS=JJ
-PRE	value_of_token=research	type=String	alphanum_char=1	POS=NN
-PRE	value_of_token=expenditures	type=String	alphanum_char=1	POS=NNS
-PRE	value_of_token=over	type=String	alphanum_char=1	POS=IN
-PRE	value_of_token=$300	type=String	POS=NNS
-VAL	value_of_token=million.	type=String	alphanum_char_dot=1	token_1=1	token_4=1	POS=CD	small_token=1	paragraph=2	sentence=1	word=27
-
