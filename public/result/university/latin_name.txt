@@ -1,0 +1,78 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	latin_name: ..... / Internet Interdisciplinary Institute
+2	null	latin_name: ..... / Southern Virginia University
+3	null	latin_name: ..... / Post Graduate Degrees
+4	null	latin_name: ..... / Mâcon, Nice, Nîmes, Saint-Malo, Troyes and Valenciennes
+5	null	latin_name: ..... / Australia, Austria, Bangladesh, Brazil, Cambodia, Canada, Chile, China, Czech Republic, Denmark, England, France, Germany, India, Indonesia, Japan, Kazakhstan, Philippines, Poland, Russia, Taiwan, Thailand, Turkey, US, Uzbekistan,
+6	null	latin_name: ..... / Claremont Graduate University
+7	null	latin_name: ..... / Eastern Mennonite University
+8	null	latin_name: ..... / Payame Noor University
+9	null	latin_name: ..... / St. Dunstan's University
+10	null	latin_name: ..... / Kyungpook National University
+11	null	latin_name: ..... / Russian: Российский университет
+12	null	latin_name: ..... / Midwestern University
+13	null	latin_name: ..... / Nelson Mandela Metropolitan University
+14	null	latin_name: ..... / Fujian Medical University
+15	null	latin_name: ..... / Northeast Normal University
+16	null	latin_name: ..... / Shenyang Pharmaceutical University
+17	null	latin_name: ..... / Chongqing, China.
+18	null	latin_name: ..... / Shanghai Maritime University
+19	null	latin_name: ..... / Sanda University
+20	null	latin_name: ..... / Tianjin Normal University
+21	null	latin_name: ..... / Beijing Union University
+22	null	latin_name: ..... / Annual Intra-College Cultural Fest
+23	null	latin_name: ..... / National Taipei University
+24	null	latin_name: ..... / National Yang-Ming University
+25	null	latin_name: ..... / News &amp; World Report.
+26	null	latin_name: ..... / "Anotati Viomihaniki Sholi Thessalonikis"
+27	null	latin_name: ..... / Siena Heights University
+28	null	latin_name: ..... / Mount Royal University
+29	null	latin_name: ..... / 6:45 p.
+30	null	latin_name: ..... / Real Estate, Retail,Travel &amp; Tourism.
+31	null	latin_name: ..... / Trinity University College
+32	null	latin_name: ..... / Brooklyn Law School
+33	null	latin_name: ..... / Chemical Plant Design Engineering
+34	null	latin_name: ..... / Saint Xavier University
+35	null	latin_name: ..... / A&amp;M International University
+36	null	latin_name: ..... / Ernest Martin Hopkins
+37	null	latin_name: ..... / David Thomas McLaughlin
+38	null	latin_name: ..... / Dickinson State University
+39	null	latin_name: ..... / Arthur Twining Hadley
+40	null	latin_name: ..... / Yonsei University
+41	null	latin_name: ..... / Trinity Western University
+42	null	latin_name: ..... / Jacob Gould Schurman
+43	null	latin_name: ..... / Riga Technical University
+44	null	latin_name: ..... / Northeastern State University
+45	null	latin_name: ..... / Chinese:福建工程学院 Pinyin:Fújiàn
+46	null	latin_name: ..... / Quanzhou Normal University
+47	null	latin_name: ..... / Dalian Nationalities University
+48	null	latin_name: ..... / Shanxi Medical University
+49	null	latin_name: ..... / Changzhi Medical College
+50	null	latin_name: ..... / Beijing Jiaotong University
+51	null	latin_name: ..... / China Agricultural University
+52	null	latin_name: ..... / Southwest Agricultural University
+53	null	latin_name: ..... / Western Chongqing University
+54	null	latin_name: ..... / Shanghai Theatre Academy
+55	null	latin_name: ..... / Tianjin Medical University
+56	null	latin_name: ..... / Informatics &amp; Education.
+57	null	latin_name: ..... / HuaFan University, HFU
+58	null	latin_name: ..... / Princeton Theological Seminary
+59	null	latin_name: ..... / Northwest Nazarene University
+60	null	latin_name: ..... / Dallas Theological Seminary
+61	null	latin_name: ..... / Ahmad Khan,
+62	null	latin_name: ..... / Mountain State University
+63	null	latin_name: ..... / Universiti Teknologi Petronas
+64	null	latin_name: ..... / Visvesvaraya Technological University
+65	null	latin_name: ..... / Framingham State University
+66	null	latin_name: ..... / Chungnam-Gyeongsang Technical College( 충남경상전문대학 ).
+67	null	latin_name: ..... / ),Production &amp; Industrial Engineering
+68	null	latin_name: ..... / Goa Engineering College
+69	null	latin_name: ..... / Loma Linda University

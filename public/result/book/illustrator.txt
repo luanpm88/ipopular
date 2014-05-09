@@ -1,0 +1,256 @@
+Found Not Null: 18
+Correct: 17
+Wrong: 1
+Total: 56
+-----------
+precision: 0.9444444444444444
+recall: 0.30357142857142855
+
+
+
+
+1	null	illustrator: ..... / Diane Duane.
+2	null	illustrator: ..... / Mary Higgins Clark.
+3	null	illustrator: ..... / Nicole Richie.
+4	null	illustrator: ..... / James Barclay.
+5	null	illustrator: ..... / Leigh Brackett
+6	null	illustrator: ..... / Trudi Canavan.
+7	true	illustrator: edward gorey / Edward Gorey
+8	null	illustrator: ..... / David Mitchell.
+9	null	illustrator: ..... / Rex Stout.
+10	null	illustrator: ..... / Carrie Fisher
+11	null	illustrator: ..... / Diane Duane.
+12	null	illustrator: ..... / Cecilia Dart-Thornton.
+13	true	illustrator: maxfield parrish / Maxfield Parrish.
+14	null	illustrator: ..... / Stephen Hunter.
+15	null	illustrator: ..... / Lewis Mumford.
+16	null	illustrator: ..... / John Updike.
+17	null	illustrator: ..... / John Brunner.
+18	true	illustrator: dirk gringhuis / Dirk Gringhuis.
+19	null	illustrator: ..... / Frank G.
+20	null	illustrator: ..... / Enrique Lafourcade.
+21	null	illustrator: ..... / Nathaniel Hawthorne.
+22	true	illustrator: willy pogany / Willy Pogany.
+23	null	illustrator: ..... / Sidney Sheldon.
+24	null	illustrator: ..... / Jules Verne.
+25	null	illustrator: ..... / Margaret Craven.
+26	null	illustrator: ..... / Anthony Burgess.
+27	null	illustrator: ..... / Ray Bradbury.
+28	null	illustrator: ..... / Shirley Jackson.
+29	null	illustrator: ..... / Bharati Mukherjee.
+30	null	illustrator: ..... / Earth Publishing Association.
+31	null	illustrator: ..... / John Birmingham.
+32	null	illustrator: ..... / Darren Shan.
+33	null	illustrator: ..... / William S.
+34	null	illustrator: ..... / Haruki Murakami.
+35	null	illustrator: ..... / Alistair MacLeod.
+36	null	illustrator: ..... / Anthony Burgess.
+37	null	illustrator: ..... / Mikhail Evstafiev.
+38	null	illustrator: ..... / Italo Svevo.
+39	null	illustrator: ..... / Justin Frank.
+40	null	illustrator: ..... / Marya Hornbacher.
+41	null	illustrator: ..... / Robert Louis Stevenson,
+42	null	illustrator: ..... / Pan MacMillan.
+43	null	illustrator: ..... / Victor Kelleher.
+44	null	illustrator: ..... / Arthur Machen.
+45	null	illustrator: ..... / Robert Ludlum.
+46	true	illustrator: rob steen / Rob Steen,
+47	null	illustrator: ..... / Arnold Lobel.
+48	null	illustrator: ..... / Louisa May Alcott.
+49	null	illustrator: ..... / Pat Cadigan.
+50	true	illustrator: dave mckean / Dave McKean.
+51	null	illustrator: ..... / Jonathan Stroud.
+52	null	illustrator: ..... / Robert Musil,
+53	null	illustrator: ..... / Ann Rinaldi.
+54	null	illustrator: ..... / Monique Wittig.
+55	true	illustrator: armstrong sperry / Armstrong Sperry
+56	null	illustrator: ..... / Alexis Rockman.
+57	null	illustrator: ..... / Richard Powers.
+58	null	illustrator: ..... / Antonia Forest,
+59	null	illustrator: ..... / Peter Farrelly,
+60	true	illustrator: william steig / William Steig.
+61	null	illustrator: ..... / Henry James.
+62	null	illustrator: ..... / Louis Darling
+63	null	illustrator: ..... / Henry James,
+64	null	illustrator: ..... / Georgette Heyer.
+65	null	illustrator: ..... / Kenneth Bulmer.
+66	null	illustrator: ..... / George Macdonald.
+67	null	illustrator: ..... / Henry James,
+68	null	illustrator: ..... / Henry James,
+69	null	illustrator: ..... / Bletchley Park.
+70	null	illustrator: ..... / Yakup Kadri Karaosmanoğlu.
+71	null	illustrator: ..... / Samira Bellil.
+72	null	illustrator: ..... / Dodie Smith.
+73	null	illustrator: ..... / William Heinemann.
+74	null	illustrator: ..... / Stephen Baxter.
+75	null	illustrator: ..... / Diane Duane.
+76	null	illustrator: ..... / Samuel Ichiye Hayakawa,
+77	null	illustrator: ..... / Diane Duane.
+78	null	illustrator: ..... / Diane Duane.
+79	null	illustrator: ..... / Graham Greene.
+80	null	illustrator: ..... / Carrie Fisher
+81	null	illustrator: ..... / Louis Sachar.
+82	null	illustrator: ..... / David Lodge.
+83	null	illustrator: ..... / Miles Tredinnick.
+84	null	illustrator: ..... / Jack Vance.
+85	null	illustrator: ..... / Paul Rudd.
+86	null	illustrator: ..... / Edgar Wallace.
+87	null	illustrator: ..... / Harry Turtledove,
+88	null	illustrator: ..... / Bryan Talbot.
+89	null	illustrator: ..... / Sayyid Abul Ala Maududi.
+90	null	illustrator: ..... / David Littlejohn.
+91	null	illustrator: ..... / Jacqueline Wilson,
+92	null	illustrator: ..... / Enid Blyton.
+93	null	illustrator: ..... / Piers Anthony.
+94	null	illustrator: ..... / Jin Yong.
+95	null	illustrator: ..... / Beverly Cleary.
+96	true	illustrator: alice and martin provensen / Alice and Martin Provensen
+97	null	illustrator: ..... / Jean-Paul Sartre.
+98	null	illustrator: ..... / Leigh Brackett
+99	null	illustrator: ..... / Moominland Midwinter
+100	null	illustrator: ..... / Rahman Munif.
+101	true	illustrator: beatrix potter / Beatrix Potter,
+102	null	illustrator: ..... / José Saramago.
+103	null	illustrator: ..... / Rex Stout,
+104	null	illustrator: ..... / Sita Ram Goel which
+105	true	illustrator: quentin blake / Quentin Blake.
+106	null	illustrator: ..... / Chinua Achebe.
+107	null	illustrator: ..... / Jeffery Deaver.
+108	true	illustrator: thorbjørn egner / Thorbjørn Egner,
+109	null	illustrator: ..... / Nina Bawden,
+110	null	illustrator: ..... / Jared Diamond,
+111	null	illustrator: ..... / Giles Foden.
+112	null	illustrator: ..... / Frederick Forsyth,
+113	null	illustrator: ..... / David Malouf.
+114	null	illustrator: ..... / Jan Sardi.
+115	null	illustrator: ..... / Diana Wynne Jones.
+116	null	illustrator: ..... / Julius Pokorny.
+117	null	illustrator: ..... / Laura Adams Armer
+118	true	illustrator: edward gorey / Edward Gorey
+119	null	illustrator: ..... / Ray Bradbury.
+120	null	illustrator: ..... / Marguerite de Angeli
+121	null	illustrator: ..... / Carrie Fisher
+122	null	illustrator: ..... / Will James
+123	null	illustrator: ..... / Frederick Forsyth.
+124	null	illustrator: ..... / Winston Groom.
+125	null	illustrator: ..... / James Frey.
+126	true	illustrator: lois lenski / Lois Lenski.
+127	null	illustrator: ..... / Kevin Guilfoile.
+128	null	illustrator: ..... / Christopher Darden and Dick Lochte,
+129	null	illustrator: ..... / Arthur Ransome.
+130	null	illustrator: ..... / Frederik Pohl,
+131	null	illustrator: ..... / Vladimir Nabokov.
+132	null	illustrator: ..... / Paul Geroski and Constantinos Markides
+133	null	illustrator: ..... / Samuel Beckett.
+134	null	illustrator: ..... / Ernesto Sabato,
+135	null	illustrator: ..... / author Aleksandr Solzhenitsyn,
+136	null	illustrator: ..... / Jeanne DuPrau
+137	null	illustrator: ..... / William Brinkley.
+138	null	illustrator: ..... / Og Mandino.
+139	null	illustrator: ..... / Saul Bellow.
+140	null	illustrator: ..... / Émile Zola.
+141	null	illustrator: ..... / Philip José Farmer.
+142	null	illustrator: ..... / Herman Raucher.
+143	null	illustrator: ..... / William Joyce.
+144	null	illustrator: ..... / Jeffrey Archer,
+145	null	illustrator: ..... / Robin Klein
+146	null	illustrator: ..... / Ann Radcliffe.
+147	null	illustrator: ..... / Jin Yong.
+148	true	illustrator: greg call / Greg Call.
+149	null	illustrator: ..... / Henry James,
+150	null	illustrator: ..... / Henry James,
+151	null	illustrator: ..... / Julio Cortázar.
+152	null	illustrator: ..... / Henry James,
+153	null	illustrator: ..... / Pocket Books,
+154	null	illustrator: ..... / Anne Tyler.
+155	true	illustrator: sukumar ray / Sukumar Ray.
+156	null	illustrator: ..... / Gennifer Choldenko.
+157	null	illustrator: ..... / Henry James,
+158	null	illustrator: ..... / George MacDonald.
+159	null	illustrator: ..... / Mike Jackson.
+160	null	illustrator: ..... / Kenneth Bulmer.
+161	null	illustrator: ..... / Sloan Wilson.
+162	null	illustrator: ..... / Nigel Findley,
+163	true	illustrator: byam shaw / Byam Shaw.
+164	null	illustrator: ..... / de Beauvoir.
+165	null	illustrator: ..... / Paulo Coelho.
+166	null	illustrator: ..... / Hans Werlemann.
+167	null	illustrator: ..... / Diane Duane.
+168	null	illustrator: ..... / Stephen Fry,
+169	null	illustrator: ..... / Philip Roth.
+170	null	illustrator: ..... / Simon Winchester.
+171	null	illustrator: ..... / Ruth Rendell.
+172	null	illustrator: ..... / David Lodge.
+173	null	illustrator: ..... / Miles Tredinnick.
+174	null	illustrator: ..... / South African Mark Behr,
+175	null	illustrator: ..... / Fritz Leiber,
+176	null	illustrator: ..... / James Loewen.
+177	null	illustrator: ..... / Vladimir Voinovich.
+178	null	illustrator: ..... / Henry James,
+179	null	illustrator: ..... / Arthur Ransome.
+180	null	illustrator: ..... / DBC Pierre.
+181	null	illustrator: ..... / John Brunner.
+182	null	illustrator: ..... / Piers Anthony.
+183	null	illustrator: ..... / Beverly Cleary.
+184	null	illustrator: ..... / Theodore Sturgeon,
+185	null	illustrator: ..... / Raymond Chandler.
+186	false	illustrator: tove jansson / Elizabeth Portch.
+187	null	illustrator: ..... / Barbara Cartland,
+188	null	illustrator: ..... / Florence Engel Randall
+189	null	illustrator: ..... / David Mitchell.
+190	null	illustrator: dick martin / ..........
+191	null	illustrator: dirk gringhuis / ..........
+192	null	illustrator: joseph mugnaini / ..........
+193	null	illustrator: willy pogany / ..........
+194	null	illustrator: edward gorey / ..........
+195	null	illustrator: edward gorey / ..........
+196	null	illustrator: maxfield parrish / ..........
+197	null	illustrator: thorbjørn egner / ..........
+198	null	illustrator: maurice sendak / ..........
+199	null	illustrator: lois lenski / ..........
+200	null	illustrator: shel silverstein / ..........
+201	null	illustrator: svein nyhus / ..........
+202	null	illustrator: peter standley / ..........
+203	null	illustrator: sydney prior hall / ..........
+204	null	illustrator: christopher denise / ..........
+205	null	illustrator: karen wynn fonstad / ..........
+206	null	illustrator: günter grass / ..........
+207	null	illustrator: dav pilkey / ..........
+208	null	illustrator: dav pilkey / ..........
+209	null	illustrator: dav pilkey / ..........
+210	null	illustrator: dav pilkey / ..........
+211	null	illustrator: dr. seuss / ..........
+212	null	illustrator: michael foreman / ..........
+213	null	illustrator: robert rankin / ..........
+214	null	illustrator: rob steen / ..........
+215	null	illustrator: dave mckean / ..........
+216	null	illustrator: brett helquist / ..........
+217	null	illustrator: berkeley breathed / ..........
+218	null	illustrator: f-stop fitzgerald / ..........
+219	null	illustrator: william steig / ..........
+220	null	illustrator: greg call / ..........
+221	null	illustrator: ed emberley / ..........
+222	null	illustrator: léon benett / ..........
+223	null	illustrator: w.w. denslow / ..........
+224	null	illustrator: brian froud / ..........
+225	null	illustrator: spike milligan / ..........
+226	null	illustrator: alice and martin provensen / ..........
+227	null	illustrator: tove jansson / ..........
+228	null	illustrator: tove jansson / ..........
+229	null	illustrator: chris riddell / ..........
+230	null	illustrator: chris riddell / ..........
+231	null	illustrator: chris riddell / ..........
+232	null	illustrator: chris riddell / ..........
+233	null	illustrator: lane smith / ..........
+234	null	illustrator: beatrix potter / ..........
+235	null	illustrator: quentin blake / ..........
+236	null	illustrator: eric shanower / ..........
+237	null	illustrator: hugh lofting / ..........
+238	null	illustrator: jonathan walker / ..........
+239	null	illustrator: mary cowles clark / ..........
+240	null	illustrator: none / ..........
+241	null	illustrator: armstrong sperry / ..........
+242	null	illustrator: sukumar ray / ..........
+243	null	illustrator: byam shaw / ..........
+244	null	illustrator: dav pilkey / ..........
+245	null	illustrator: maurice sendak / ..........

@@ -1,0 +1,104 @@
+Found Not Null: 3
+Correct: 1
+Wrong: 2
+Total: 19
+-----------
+precision: 0.3333333333333333
+recall: 0.05263157894736842
+
+
+
+
+1	null	image_name: ..... / Southwestern Adventist University
+2	null	image_name: ..... / Metropolitan University of Technology
+3	null	image_name: ..... / Salem International University
+4	null	image_name: ..... / Anne Arundel Community College, founded
+5	null	image_name: ..... / Southern Illinois University Edwardsville, commonly
+6	null	image_name: ..... / Capital Baptist Theological Seminary
+7	null	image_name: ..... / Indiana University South Bend
+8	false	image_name: bloomsburg university seal.png / Bloomsburg University of Pennsylvania, commonly
+9	null	image_name: ..... / Dongguk University
+10	null	image_name: ..... / Hampden–Sydney College
+11	null	image_name: ..... / University of Central Arkansas
+12	null	image_name: ..... / Biola University
+13	null	image_name: ..... / Warren National University
+14	null	image_name: ..... / Kim Il-sung University, founded
+15	null	image_name: ..... / Iqbal Open University
+16	null	image_name: ..... / West Liberty University
+17	null	image_name: ..... / Susquehanna University
+18	null	image_name: ..... / Morningside College
+19	null	image_name: ..... / Chapman University
+20	null	image_name: ..... / Storer College
+21	null	image_name: ..... / Golden State Athletic Conference.
+22	null	image_name: ..... / Manipur University was established on June
+23	null	image_name: ..... / Electronics &amp; Motion Control
+24	null	image_name: ..... / Camino Community College District
+25	null	image_name: ..... / Baldwin–Wallace College
+26	null	image_name: ..... / Scotia Agricultural College
+27	null	image_name: ..... / Ohio Northern University
+28	null	image_name: ..... / Midwestern University Eye Institute.
+29	null	image_name: ..... / Taylor University
+30	null	image_name: ..... / Paul’s College introduced
+31	null	image_name: ..... / 8:30 AM and
+32	null	image_name: ..... / M. Pearson Theatre Arts Center Concordia University
+33	null	image_name: ..... / Midwestern Intercollegiate Volleyball Association.
+34	null	image_name: ..... / Beijing University of Chemical Technology
+35	null	image_name: ..... / Angelo State University
+36	null	image_name: ..... / Mindanao State University
+37	null	image_name: ..... / Mississippi Valley State University
+38	null	image_name: ..... / Dow University of Health Sciences
+39	null	image_name: ..... / Nanyang University started
+40	null	image_name: ..... / Sharif University of Technology International
+41	null	image_name: ..... / University of Puerto Rico —or Universidad Interamericana
+42	null	image_name: ..... / Coppin State University
+43	null	image_name: ..... / Tarleton State University
+44	null	image_name: ..... / Automotive Polytechnic University
+45	false	image_name: florida christian college logo.gif / Florida Christian College
+46	null	image_name: ..... / University of Johannesburg, established
+47	null	image_name: ..... / Texas A&amp;M International University,
+48	null	image_name: ..... / Oakwood University of Seventh-day Adventists,
+49	null	image_name: ..... / New York City American,
+50	null	image_name: ..... / Columbia State Community College
+51	null	image_name: ..... / Saginaw Valley State University
+52	null	image_name: ..... / Kalamazoo Valley Community College
+53	null	image_name: ..... / Fatima Mata National College
+54	null	image_name: ..... / West Virginia University Institute of Technology
+55	null	image_name: ..... / West Virginia University at Parkersburg
+56	null	image_name: ..... / University of Pune was
+57	null	image_name: ..... / Mahanakorn University of Technology
+58	null	image_name: ..... / University of Łódź was
+59	null	image_name: ..... / Baker University
+60	null	image_name: ..... / North China Electric Power University
+61	null	image_name: ..... / China Agricultural University
+62	null	image_name: ..... / Chongqing Jiaotong University
+63	null	image_name: ..... / university in Shanghai, China.
+64	null	image_name: ..... / Agder University College
+65	null	image_name: ..... / of Takushoku University include:
+66	null	image_name: ..... / West Virginia State University
+67	null	image_name: ..... / Shahid Beheshti University
+68	true	image_name: daejeon polytechnic college.jpg / Daejeon Polytechnic College
+69	null	image_name: ..... / Trine University
+70	null	image_name: ..... / University Dakota State University
+71	null	image_name: ..... / Prince of Songkla University
+72	null	image_name: ..... / Negros Oriental State University, formerly Central Visayas Polytechnic College
+73	null	image_name: ..... / San Sebastian College – Recoletos
+74	null	image_name: ..... / San Diego Mesa College
+75	null	image_name: florida atlantic university seal.svg / ..........
+76	null	image_name: university of lethbridge logo.svg / ..........
+77	null	image_name: fuzhou university.jpg / ..........
+78	null	image_name: southeast university.jpg / ..........
+79	null	image_name: logo university of science and technology beijing.png / ..........
+80	null	image_name: hankuk university of foreign studies emblem.png / ..........
+81	null	image_name: brooklyn law school 2.jpg / ..........
+82	null	image_name: center for cartoon studies logo.tif / ..........
+83	null	image_name: sullivan university.jpg / ..........
+84	null	image_name: saint xavier university.png / ..........
+85	null	image_name: school of slavonic and east european studies.jpg / ..........
+86	null	image_name: florida christian college logo.gif / ..........
+87	null	image_name: trade tech college.jpg / ..........
+88	null	image_name: ucl institute of archaeology.jpg / ..........
+89	null	image_name: daejeon polytechnic college.jpg / ..........
+90	null	image_name: international medical university logo.png / ..........
+91	null	image_name: bloomsburg university seal.png / ..........
+92	null	image_name: gate china foreign affairs university.jpg / ..........
+93	null	image_name: national technical institute for the deaf.jpg / ..........

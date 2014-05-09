@@ -6,7 +6,7 @@ class Article < ActiveRecord::Base
   has_many :attribute_value_similar_patterns
   has_many :attribute_test_values
   
-  @@template = 'U.S. county'
+  @@template = 'company'
   @@no_attributes = []
   
   def self.create_hash_feature(hash,string)
@@ -303,7 +303,7 @@ class Article < ActiveRecord::Base
     Article.update_all("for_test=0","id <= "+count_articles.to_s)
     Article.update_all("for_test=1","id > "+count_articles.to_s)
     
-    File.open("public/log.txt", "w") { |file| file.write @logstr }
+    #File.open("public/log.txt", "w") { |file| file.write @logstr }
   end
   
   ##2
@@ -348,7 +348,7 @@ class Article < ActiveRecord::Base
       while content_fixed.gsub!(/\{\{[^\{\}]*?\}\}/m, ''); end      
       while content_fixed.gsub!(/\{[^\{\}]*?\}/m, ''); end
       while content_fixed.gsub!(/\[\[[^\[\]]*?\]\]/m, ''); end      
-      content_fixed = content_fixed.gsub(/\&lt\;ref(.*?)\&gt\;(.*?)\&lt\;\/ref\&gt\;/im,"").gsub(/[\{\}]/,'')      
+      content_fixed = content_fixed.gsub(/\&lt\;ref(.*?)\&gt\;(.*?)\&lt\;\/ref\&gt\;/im,"").gsub(/[\{\}]/,'').gsub(/(\:[0-9]{3,})/,'').gsub(/(\:[a-zA-Z]{3,})/,'')      
       
       pa = Nokogiri::HTML(content_fixed)
       
@@ -495,13 +495,15 @@ class Article < ActiveRecord::Base
   
   ##5.1
   def self.write_article_to_file
-    
-    `mkdir public/articles`
-    
     infobox_template = InfoboxTemplate.where(name: @@template).first
     
+    `mkdir public/articles`
+    `mkdir public/articles/#{infobox_template.name.gsub(/\s/,'_')}`
+    
+    
+    
     infobox_template.articles.each do |article|
-      if !File.file?("public/articles/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
+      if !File.file?("public/articles/#{infobox_template.name.gsub(/\s/,'_')}/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
         #code
       
       
@@ -526,11 +528,11 @@ class Article < ActiveRecord::Base
           end
         end
         puts article.title
-        File.open("public/articles/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt", "w") { |file| file.write  str }
+        File.open("public/articles/#{infobox_template.name.gsub(/\s/,'_')}/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt", "w") { |file| file.write  str }
         
         #POS tagging file
-        `mkdir public/articles/tagged`
-        `java -jar bin/POSFILE.jar public/articles/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt public/articles/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt`
+        `mkdir public/articles/#{infobox_template.name.gsub(/\s/,'_')}/tagged`
+        `java -jar bin/POSFILE.jar public/articles/#{infobox_template.name.gsub(/\s/,'_')}/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt public/articles/#{infobox_template.name.gsub(/\s/,'_')}/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt`
         
       end
     end
@@ -539,7 +541,7 @@ class Article < ActiveRecord::Base
   
   ##5.2
   def self.create_label_for_tokens
-    AttributeValueSimilarPattern.delete_all
+    #AttributeValueSimilarPattern.delete_all
     
     infobox_template = InfoboxTemplate.where(name: @@template).first
     
@@ -553,10 +555,10 @@ class Article < ActiveRecord::Base
       
         count_tpm_file = 0
         infobox_template.articles.each do |article|
-          if File.file?("public/articles/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
+          if File.file?("public/articles/#{infobox_template.name.gsub(/\s/,'_')}/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
           
-              tag_file = File.open("public/articles/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
-              article_file = File.open("public/articles/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
+              tag_file = File.open("public/articles/#{infobox_template.name.gsub(/\s/,'_')}/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
+              article_file = File.open("public/articles/#{infobox_template.name.gsub(/\s/,'_')}/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
               
               attribute_value = AttributeValue.where("raw_value != ''").where(article_id: article.id).where(attribute_id: attribute.id).first
               
@@ -608,7 +610,6 @@ class Article < ActiveRecord::Base
                                                                                        attribute_id: attribute_value.attribute_id).first
                           
                           puts exsit.nil?
-                          #sleep(1000)
                           if exsit.nil?
                             avsp = attribute_value.attribute_value_similar_patterns.create(infobox_template_id: infobox_template.id,
                                                                                        article_id: attribute_value.article_id,
@@ -822,10 +823,10 @@ class Article < ActiveRecord::Base
         training_str = ""
         infobox_template.articles.where(for_test: 1).each do |article|
           
-          if File.file?("public/articles/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
+          if File.file?("public/articles/#{infobox_template.name.gsub(/\s/,'_')}/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
           
-            tag_file = File.open("public/articles/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
-            article_file = File.open("public/articles/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
+            tag_file = File.open("public/articles/#{infobox_template.name.gsub(/\s/,'_')}/tagged/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
+            article_file = File.open("public/articles/#{infobox_template.name.gsub(/\s/,'_')}/#{article.title.gsub(/[\s\&\'\,\)\(\"\:\/]/,'_')}.txt")
             
             
               
@@ -1059,7 +1060,7 @@ class Article < ActiveRecord::Base
     infobox_template = InfoboxTemplate.where(name: @@template).first
     
     infobox_template.attributes.where(status: 1).each do |attribute|
-      if File.file?("public/crf/#{infobox_template.name.gsub(/\s/,'_')}/train/#{attribute.name.gsub(/[\s\/\']+/,'_')}/train.txt")
+      if File.file?("public/crf/#{infobox_template.name.gsub(/\s/,'_')}/train/#{attribute.name.gsub(/[\s\/\']+/,'_')}/train.txt") && !File.file?("public/crf/#{infobox_template.name.gsub(/\s/,'_')}/train/#{attribute.name.gsub(/[\s\/\']+/,'_')}/crf.model")
         `~/local/bin/crfsuite learn -m ~/rails-apps/ipopular/public/crf/#{infobox_template.name.gsub(/\s/,'_')}/train/#{attribute.name.gsub(/[\s\/\']+/,'_')}/crf.model  ~/rails-apps/ipopular/public/crf/#{infobox_template.name.gsub(/\s/,'_')}/train/#{attribute.name.gsub(/[\s\/\']+/,'_')}/train.txt`
       end
     end
@@ -1232,18 +1233,20 @@ class Article < ActiveRecord::Base
   def self.calculate_result
     infobox_template = InfoboxTemplate.where(name: @@template).first
     
-    
+    `mkdir public/result`
+    `mkdir public/result/#{infobox_template.name.gsub(/\s/,'_')}`
     
     
     #result for each attribute
-    result_str = ""
+    
     infobox_template.attributes.where(status: 1).each do |attribute|
-      result_str += attribute.name + ":\n"
+      
       
       correct = 0
       wrong = 0
       str = ""
       count = 1
+      result_str = ""
       AttributeTestValue.where(attribute_id: attribute.id).all.each do |test_value|
         value = AttributeValue.where(article_id: test_value.article_id, attribute_id: test_value.attribute_id).first
         avsp = AttributeValueSimilarPattern.where(article_id: test_value.article_id, attribute_id: test_value.attribute_id).first
@@ -1263,10 +1266,32 @@ class Article < ActiveRecord::Base
         count += 1
       end
       
+      AttributeValue.joins(:article).where("articles.for_test=1").where(attribute_id: attribute.id).each do |value|
+        test_value = AttributeTestValue.joins(:attribute).where("attributes.high_rate=1").where(article_id: value.article_id).where(attribute_id: value.attribute_id).first
+        avsp = AttributeValueSimilarPattern.where(article_id: value.article_id).where(attribute_id: value.attribute_id).first
+        
+        if !avsp.nil?
+          
+          if test_value.nil?
+            str += count.to_s + "\t" + "null" + "\t" +  value.attribute.name + ": " + value.raw_value.to_s + " / ..........\n"
+            count += 1
+          end
+        
+        end
+
+      end
+        
+        
+        total = AttributeValueSimilarPattern.joins(:article).where("articles.for_test=1").where(attribute_id: attribute.id).count("CONCAT(article_id,'---',attribute_id)",distinct: true)
+        found = AttributeTestValue.where(attribute_id: attribute.id).count
+    
+        first_line = "Found: " + found.to_s + "\n"      
         first_line = "Found Not Null: " + (correct+wrong).to_s + "\n"
         first_line += "Correct: " + correct.to_s + "\n"
         first_line += "Wrong: " + wrong.to_s + "\n"
+        first_line += "Total: " + total.to_s + "\n-----------\n"
         first_line += "precision: " + (correct.to_f/(correct.to_f+wrong.to_f)).to_s + "\n" if correct+wrong > 0
+        first_line += "recall: " + (correct.to_f/total.to_f).to_s + "\n" if total > 0
         first_line += "\n\n\n\n"
         
         result_str += first_line
@@ -1278,10 +1303,12 @@ class Article < ActiveRecord::Base
           attribute.high_rate = 0
         end
         attribute.save
+        
+        File.open("public/result/#{infobox_template.name.gsub(/\s/,'_')}/#{attribute.name.gsub(/[\s\/\']+/,'_')}.txt", "w") { |file| file.write  result_str + str}
       
     end
     
-    File.open("public/crf/result_#{infobox_template.name.gsub(/\s/,'_')}_attributes.txt", "w") { |file| file.write  result_str}
+    
     
     
     ##Result for all
@@ -1308,15 +1335,52 @@ class Article < ActiveRecord::Base
       count += 1
     end
     
+    AttributeValue.joins(:article).where("articles.for_test=1").each do |value|
+      test_value = AttributeTestValue.joins(:attribute).where("attributes.high_rate=1").where(article_id: value.article_id).where(attribute_id: value.attribute_id).first
+      avsp = AttributeValueSimilarPattern.where(article_id: value.article_id).where(attribute_id: value.attribute_id).first
+      
+      
+      if !avsp.nil?
+        
+        if test_value.nil?
+          str += count.to_s + "\t" + "null" + "\t" +  value.attribute.name + ": " + value.raw_value.to_s + " / ..........\n"
+          count += 1
+        end
+      
+      
+      
+      end
+    
+      
+    end
+    
+    artilce_count = infobox_template.articles.count.to_s
+    artilce_test = infobox_template.articles.where(for_test: 0).count.to_s
+    artilce_train = infobox_template.articles.where(for_test: 1).count.to_s
+    
+    attribute_count = infobox_template.attributes.count.to_s
+    attribute_count_for_test = infobox_template.attributes.where(status: 1).count.to_s
+    attribute_count_high_rate = infobox_template.attributes.where(status: 1).where(high_rate: 1).count.to_s
+    
     total = AttributeValueSimilarPattern.joins(:article).where("articles.for_test=1").count("CONCAT(article_id,'---',attribute_id)",distinct: true)
     found = AttributeTestValue.count
     
-    first_line = "Found: " + found.to_s + "\n"
+    first_line = "Total articles: " + artilce_count.to_s + "\n"
+    first_line += "Articles for test: " + artilce_test.to_s + "\n"
+    first_line += "Articles for train: " + artilce_train.to_s + "\n"
+    first_line += "Total attributes: " + attribute_count.to_s + "\n"
+    first_line += "Attributes with high occurrences: " + attribute_count_for_test.to_s + "/" + attribute_count.to_s + "\n"
+    first_line += "Attributes with high precision: " + attribute_count_high_rate.to_s + "/" + attribute_count_for_test.to_s + "\n------------\n"
+    
+    first_line += "Found: " + found.to_s + "\n"
     first_line += "Found Not Null: " + (correct+wrong).to_s + "\n"
     first_line += "Correct: " + correct.to_s + "\n"
     first_line += "Wrong: " + wrong.to_s + "\n"
-    first_line += "Total: " + total.to_s + "\n\n\n"
-    File.open("public/crf/result_#{infobox_template.name.gsub(/\s/,'_')}_1_p.txt", "w") { |file| file.write  first_line + str}
+    first_line += "Total: " + total.to_s + "\n-----------\n"
+    first_line += "precision: " + (correct.to_f/(correct.to_f+wrong.to_f)).to_s + "\n" if correct+wrong > 0
+    first_line += "recall: " + (correct.to_f/total.to_f).to_s + "\n" if total > 0
+    first_line += "\n\n\n"
+    File.open("public/result/#{infobox_template.name.gsub(/\s/,'_')}/all.txt", "w") { |file| file.write  first_line + str}
     
   end
   
@@ -1325,7 +1389,7 @@ class Article < ActiveRecord::Base
   ############
   def self.run_all
     ###1
-    #self.import(329)
+    #self.import(7589)
     #self.write_log("######### 1 import")
     #
     ###2
@@ -1340,10 +1404,10 @@ class Article < ActiveRecord::Base
     #self.find_first_paragraphs
     #self.write_log("######### 4 find_first_paragraphs")
     #
-    ##5.1
-    self.write_article_to_file
-    self.write_log("######### 5.1 write_article_to_file")
-    
+    ###5.1
+    #self.write_article_to_file
+    #self.write_log("######### 5.1 write_article_to_file")
+    #
     ##5.2
     self.create_label_for_tokens
     self.write_log("######### 5.2 create_label_for_tokens")

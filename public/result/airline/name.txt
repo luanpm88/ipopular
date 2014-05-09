@@ -1,0 +1,122 @@
+Found Not Null: 7
+Correct: 7
+Wrong: 0
+Total: 10
+-----------
+precision: 1.0
+recall: 0.7
+
+
+
+
+1	null	name: ..... / Air Rhodesia
+2	null	name: ..... / Bulgaria Air
+3	null	name: ..... / Scandinavian Airlines Flight 751,
+4	null	name: ..... / Tiger Airways Singapore Pte
+5	null	name: ..... / Singapore Airlines Cargo (
+6	null	name: ..... / Air Holland
+7	null	name: ..... / Kiwi International Air Lines
+8	null	name: ..... / Air Burkina
+9	null	name: ..... / Air Botswana Corporation
+10	null	name: ..... / JSC "Donavia"
+11	null	name: ..... / Shenzhen Airlines
+12	null	name: ..... / Impulse Airlines
+13	true	name: japan airlines flight 472 / Japan Airlines Flight 472
+14	null	name: ..... / On December 17, 1973, Pan Am Flight 110
+15	null	name: ..... / United Airlines Flight 585
+16	null	name: ..... / Nepal Airlines,
+17	null	name: ..... / Air UK
+18	null	name: ..... / Laker Airways
+19	null	name: ..... / One-Two-GO Airlines
+20	null	name: ..... / Kish Air
+21	null	name: ..... / Iran Aseman Airlines
+22	null	name: ..... / Mekong Airlines
+23	null	name: ..... / Merpati Nusantara
+24	null	name: ..... / Thai AirAsia
+25	true	name: twa flight 903 / TWA Flight 903
+26	null	name: ..... / Gill Airways
+27	null	name: ..... / Trans Maldivian
+28	null	name: ..... / West Coast Air
+29	true	name: american airlines flight 96 / American Airlines Flight 96
+30	null	name: ..... / Hong Kong
+31	null	name: ..... / ADC Airlines
+32	null	name: ..... / Norfolk Jet Express Pty Ltd
+33	null	name: ..... / Alliance Airlines
+34	null	name: ..... / Kam Air
+35	null	name: ..... / TACV Cabo Verde Airlines
+36	null	name: ..... / Kam Air Flight 904
+37	null	name: ..... / Kenn Borek Air
+38	null	name: ..... / Tropical Airways
+39	null	name: ..... / Hellas Jet
+40	null	name: ..... / Aero Mongolia
+41	null	name: ..... / Africa Safari Air
+42	null	name: ..... / Gambia International
+43	null	name: ..... / New York Air
+44	null	name: ..... / Aeropostal Alas de Venezuela,
+45	null	name: ..... / Alitalia Express S.
+46	null	name: ..... / Dubrovnik Airline Limited
+47	null	name: ..... / Hahn Air
+48	null	name: ..... / Leeward Islands Air Transport,
+49	null	name: ..... / Lufthansa Flight 540,
+50	null	name: ..... / Castle Air
+51	null	name: ..... / Corporate Airlines Flight 5966
+52	null	name: ..... / Britannia Airways
+53	null	name: ..... / CityFlyer Express
+54	null	name: ..... / Tasman Empire Airways Limited
+55	null	name: ..... / Air Polonia
+56	null	name: ..... / Kingfisher Red,
+57	null	name: ..... / Air Wales
+58	null	name: ..... / Air Scotland
+59	true	name: air new zealand flight 901 / Air New Zealand Flight
+60	null	name: ..... / Flying Tiger Line,
+61	true	name: china airlines flight 358 / China Airlines Flight 358
+62	null	name: ..... / Modern Air
+63	true	name: lauda air flight 004 / Lauda Air Flight 004
+64	null	name: ..... / Air Paradise International
+65	null	name: ..... / Air Panama
+66	null	name: ..... / National Airways Corporation
+67	null	name: ..... / Koninklijke Nederlandsch-Indische Luchtvaart Maatschappij
+68	null	name: ..... / Qeshm Air
+69	null	name: ..... / Iran Air
+70	null	name: ..... / TAAG Angola
+71	null	name: ..... / Allegiant Air
+72	null	name: ..... / President Airlines
+73	null	name: ..... / Republic Express
+74	null	name: ..... / Air Macau Company Limited
+75	null	name: ..... / Eastern Provincial
+76	null	name: ..... / Kyrgyz Air
+77	null	name: ..... / Harmony Airways
+78	true	name: northwest orient airlines flight 2501 / Northwest Orient Airlines Flight 2501
+79	null	name: ..... / Eastern Air Lines Flight 66,
+80	null	name: ..... / United Airlines Flight 615,
+81	null	name: ..... / Big Sky Airlines
+82	null	name: ..... / Air Tindi
+83	null	name: ..... / Sunshine Express
+84	null	name: ..... / MacAir Airlines Pty Ltd
+85	null	name: ..... / China Northern Airlines Flight 6136
+86	null	name: ..... / China Eastern Airlines Flight 5210
+87	null	name: ..... / Far Eastern Air Transport(
+88	null	name: ..... / China Airlines Flight 676
+89	null	name: ..... / UM Airlines
+90	null	name: ..... / Aero Asia International
+91	null	name: ..... / Benin Golf Air
+92	null	name: ..... / Cameroon Airlines
+93	null	name: ..... / Air Djibouti,
+94	null	name: ..... / Chanchangi Airlines Nigeria Limited
+95	null	name: ..... / Albanian Airlines MAK Sh.
+96	null	name: ..... / Air Ivoire
+97	null	name: ..... / Trans Air Congo
+98	null	name: ..... / Helios Airways
+99	null	name: ..... / Eurocypria Airlines Limited
+100	null	name: ..... / Alisea Airlines
+101	null	name: ..... / Air Adriatic
+102	null	name: ..... / Nouvelle Air Affaires Gabon
+103	null	name: ..... / XL Airways
+104	null	name: ..... / Azzurra Air
+105	null	name: ..... / AirBridgeCargo Airlines, LLC
+106	null	name: ..... / Khors Air
+107	null	name: ..... / Avanti Air
+108	null	name: ..... / Ada Air Sh.
+109	null	name: silkair flight 185 / ..........
+110	null	name: swissair flight 330 / ..........
+111	null	name: united airlines flight 610 / ..........

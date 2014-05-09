@@ -1,0 +1,66 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	area percentage: ..... / 4.28%
+2	null	area percentage: ..... / 1.84%
+3	null	area percentage: ..... / 2.75%
+4	null	area percentage: ..... / 1.70%
+5	null	area percentage: ..... / 0.99%
+6	null	area percentage: ..... / 1.23%
+7	null	area percentage: ..... / 3.89%
+8	null	area percentage: ..... / 4.50%
+9	null	area percentage: ..... / 3.20%
+10	null	area percentage: ..... / 9.30%
+11	null	area percentage: ..... / 7.50%
+12	null	area percentage: ..... / 18.61%
+13	null	area percentage: ..... / 1.84%
+14	null	area percentage: ..... / 4.64%
+15	null	area percentage: ..... / 2.44%
+16	null	area percentage: ..... / 1.30%
+17	null	area percentage: ..... / 6.29%
+18	null	area percentage: ..... / 4.89%
+19	null	area percentage: ..... / 1.53%
+20	null	area percentage: ..... / 3.55%
+21	null	area percentage: ..... / 2.17%
+22	null	area percentage: ..... / 2.09%
+23	null	area percentage: ..... / 1.35%
+24	null	area percentage: ..... / 3.60%
+25	null	area percentage: ..... / 1.03%
+26	null	area percentage: ..... / 15.17%
+27	null	area percentage: ..... / 3.42%
+28	null	area percentage: ..... / 1.01%
+29	null	area percentage: ..... / 5.33%
+30	null	area percentage: ..... / 1.56%
+31	null	area percentage: ..... / 0.77%
+32	null	area percentage: ..... / 0.67%
+33	null	area percentage: ..... / 0.85%
+34	null	area percentage: ..... / 3.28%
+35	null	area percentage: ..... / 1.12%
+36	null	area percentage: ..... / 2.71%
+37	null	area percentage: ..... / 1.40%
+38	null	area percentage: ..... / 0.72%
+39	null	area percentage: ..... / 1.29%
+40	null	area percentage: ..... / 0.78%
+41	null	area percentage: ..... / 0.64%
+42	null	area percentage: ..... / 0.63%
+43	null	area percentage: ..... / 1.22%
+44	null	area percentage: ..... / 0.82%
+45	null	area percentage: ..... / 7.42%
+46	null	area percentage: ..... / 1.76%
+47	null	area percentage: ..... / 0.58%
+48	null	area percentage: ..... / 1.26%
+49	null	area percentage: ..... / 0.72%
+50	null	area percentage: ..... / 1.15%
+51	null	area percentage: ..... / 5.66%
+52	null	area percentage: ..... / 1.22%
+53	null	area percentage: ..... / 1.32%
+54	null	area percentage: ..... / 0.78%
+55	null	area percentage: ..... / 2.03%
+56	null	area percentage: ..... / 0.80%
+57	null	area percentage: ..... / 0.67%

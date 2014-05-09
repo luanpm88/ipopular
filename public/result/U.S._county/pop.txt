@@ -1,0 +1,79 @@
+Found Not Null: 20
+Correct: 20
+Wrong: 0
+Total: 21
+-----------
+precision: 1.0
+recall: 0.9523809523809523
+
+
+
+
+1	true	pop: 170498 / 170,498
+2	null	pop: ..... / 192,695
+3	null	pop: ..... / 650,308
+4	null	pop: ..... / 750,963
+5	true	pop: 11714 / 11,714
+6	true	pop: 103459 / 103,459
+7	null	pop: ..... / 38,440
+8	null	pop: ..... / 29,605
+9	null	pop: ..... / 34,450
+10	null	pop: ..... / 7,021
+11	null	pop: ..... / 18,733
+12	null	pop: ..... / 264,002
+13	null	pop: ..... / 126,731
+14	null	pop: ..... / 35,910
+15	null	pop: ..... / 128,012
+16	null	pop: ..... / 921,482
+17	null	pop: ..... / 472,822
+18	null	pop: ..... / 15,904
+19	null	pop: ..... / 53,345
+20	true	pop: 34844 / 34,844
+21	null	pop: ..... / 19,256
+22	null	pop: ..... / 13,442
+23	null	pop: ..... / 40,601
+24	null	pop: ..... / 7,075
+25	null	pop: ..... / 222,230
+26	null	pop: ..... / 534,678
+27	null	pop: ..... / 14,987
+28	null	pop: ..... / 461,228
+29	null	pop: ..... / 152,251
+30	true	pop: 20826 / 20,826
+31	null	pop: ..... / 51,024
+32	null	pop: ..... / 112,249
+33	null	pop: ..... / 36,583
+34	null	pop: ..... / 15,922
+35	true	pop: 27867 / 27,867
+36	null	pop: ..... / 23,988
+37	true	pop: 24843 / 24,843
+38	null	pop: ..... / 111,064
+39	true	pop: 54984 / 54,984
+40	null	pop: ..... / 43,615
+41	null	pop: ..... / 14,123
+42	null	pop: ..... / 14,089
+43	null	pop: ..... / 12,202
+44	null	pop: ..... / 37,631
+45	null	pop: ..... / 13,665
+46	true	pop: 46365 / 46,365
+47	null	pop: ..... / 65,874
+48	true	pop: 18495 / 18,495
+49	true	pop: 31223 / 31,223
+50	null	pop: ..... / 25,764
+51	null	pop: ..... / 9,974
+52	true	pop: 16310 / 16,310
+53	null	pop: ..... / 88,787
+54	null	pop: ..... / 24,105
+55	null	pop: ..... / 31,214
+56	null	pop: ..... / 82,231
+57	null	pop: ..... / 399,843
+58	null	pop: ..... / 15,244
+59	true	pop: 24324 / 24,324
+60	true	pop: 11861 / 11,861
+61	true	pop: 20949 / 20,949
+62	true	pop: 49756 / 49,756
+63	null	pop: ..... / 143,293
+64	true	pop: 47910 / 47,910
+65	true	pop: 13173 / 13,173
+66	true	pop: 80321 / 80,321
+67	true	pop: 41475 / 41,475
+68	null	pop: 662047 / ..........

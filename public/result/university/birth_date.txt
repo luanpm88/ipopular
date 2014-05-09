@@ -1,0 +1,32 @@
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 5
+-----------
+precision: 0.6666666666666666
+recall: 0.4
+
+
+
+
+1	null	birth_date: ..... / September 8, 1780
+2	null	birth_date: ..... / 22, 1835
+3	null	birth_date: ..... / August 3, 1773
+4	null	birth_date: ..... / November 4, 1907
+5	null	birth_date: ..... / 30, 1979,
+6	null	birth_date: ..... / 2003, 2004, 2005
+7	null	birth_date: ..... / September 21, 1935
+8	null	birth_date: ..... / November 6, 1877
+9	null	birth_date: ..... / March 16, 1932
+10	null	birth_date: ..... / July 13, 1839
+11	null	birth_date: ..... / 2005,
+12	true	birth_date: april 23, 1856 / April 23, 1856
+13	null	birth_date: ..... / May 22, 1854
+14	true	birth_date: 1772 / 1772
+15	null	birth_date: ..... / April 22, 1711
+16	false	birth_date: november 6, 1942 / 6, 1942
+17	null	birth_date: 1957 / ..........
+18	null	birth_date: november 6, 1942 / ..........
+19	null	birth_date: april 23, 1856 / ..........
+20	null	birth_date: 3 november 1952 / ..........
+21	null	birth_date: 1772 / ..........

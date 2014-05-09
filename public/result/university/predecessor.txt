@@ -1,0 +1,17 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+
+
+
+
+1	null	predecessor: ..... / Languages, Biology, Business Administration, Chemistry, Communication, Computer Science, Creative Writing, Economics, Education, English, Environmental Science, French, German, History, International Studies, Literature, Mathematics, Music, Philosophy, Physics, Political Science, Pre-Health, Pre-Law, Pre-Medicine, Pre-Ministry, Psychology, Religion, Sociology/Anthropology, Spanish,
+2	null	predecessor: ..... / Medical University.
+3	null	predecessor: ..... / John University.
+4	null	predecessor: ..... / Sociology, Language &amp; Literature, Mathematics, Dynamics, Mechanical Engineering, Materials, Metallurgy, Electrical Engineering, Electronics, Communication
+5	null	predecessor: joab thomas / ..........
+6	null	predecessor: john hood / ..........
+7	null	predecessor: timothy dwight iv / ..........

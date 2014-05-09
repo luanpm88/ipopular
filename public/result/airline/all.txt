@@ -1,0 +1,349 @@
+Total articles: 546
+Articles for test: 364
+Articles for train: 182
+Total attributes: 146
+Attributes with high occurrences: 42/146
+Attributes with high precision: 7/42
+------------
+Found: 306
+Found Not Null: 27
+Correct: 26
+Wrong: 1
+Total: 109
+-----------
+precision: 0.9629629629629629
+recall: 0.23853211009174313
+
+
+
+1	null	name: ..... / Air Rhodesia
+2	null	operator: ..... / Air Rhodesia
+3	null	name: ..... / Bulgaria Air
+4	null	operator: ..... / Bulgaria Air
+5	null	operator: ..... / Tyrolean Airways
+6	null	name: ..... / Scandinavian Airlines Flight 751,
+7	false	operator: sas / Scandinavian Airlines
+8	null	aircraft type: ..... / McDonnell Douglas MD-81,
+9	null	name: ..... / Tiger Airways Singapore Pte
+10	null	operator: ..... / Tiger Airways
+11	null	name: ..... / Singapore Airlines Cargo (
+12	null	operator: ..... / Singapore Airlines
+13	null	name: ..... / Air Holland
+14	null	operator: ..... / Bearskin Lake Air
+15	null	name: ..... / Kiwi International Air Lines
+16	null	operator: ..... / Kiwi International
+17	null	name: ..... / Air Burkina
+18	null	name: ..... / Air Botswana Corporation
+19	null	date: ..... / October 1, 2010,
+20	null	name: ..... / JSC "Donavia"
+21	null	name: ..... / Shenzhen Airlines
+22	null	operator: ..... / Shenzhen Airlines
+23	null	name: ..... / Impulse Airlines
+24	null	operator: ..... / Impulse Airlines
+25	true	name: japan airlines flight 472 / Japan Airlines Flight 472
+26	true	operator: japan airlines / Japan Airlines
+27	null	name: ..... / On December 17, 1973, Pan Am Flight 110
+28	null	date: ..... / December 17, 1973,
+29	null	name: ..... / United Airlines Flight 585
+30	null	date: ..... / 3 March 1991,
+31	null	operator: ..... / United Airlines
+32	null	aircraft type: ..... / Boeing 737-200,
+33	null	date: ..... / April 16, 2008,
+34	null	operator: ..... / Jetstar Asia Airways
+35	null	name: ..... / Nepal Airlines,
+36	null	name: ..... / Air UK
+37	null	name: ..... / Laker Airways
+38	null	name: ..... / One-Two-GO Airlines
+39	null	operator: ..... / One-Two-GO Airlines
+40	null	date: ..... / 16 September, 2009
+41	null	name: ..... / Kish Air
+42	null	name: ..... / Iran Aseman Airlines
+43	null	operator: ..... / Iran Aseman
+44	null	operator: ..... / Iranian Airlines
+45	null	name: ..... / Mekong Airlines
+46	null	operator: ..... / Mekong Airlines
+47	null	date: ..... / July 25, 1984
+48	null	operator: ..... / Xiamen Airlines
+49	null	name: ..... / Merpati Nusantara
+50	null	operator: ..... / Merpati Nusantara Airlines
+51	null	name: ..... / Thai AirAsia
+52	true	name: twa flight 903 / TWA Flight 903
+53	true	passengers: 48 / 48
+54	true	operator: twa / TWA
+55	null	name: ..... / Gill Airways
+56	null	operator: ..... / Gill Airways
+57	null	name: ..... / Trans Maldivian
+58	null	operator: ..... / Trans Maldivian
+59	null	name: ..... / West Coast Air
+60	true	name: american airlines flight 96 / American Airlines Flight 96
+61	true	operator: american airlines / American Airlines
+62	null	name: ..... / Hong Kong
+63	null	date: ..... / 27 June 2003,
+64	null	operator: ..... / Hong Kong Airlines
+65	null	name: ..... / ADC Airlines
+66	null	operator: ..... / ADC Airlines
+67	null	operator: ..... / Itek Air,
+68	null	operator: ..... / Daallo Airlines
+69	null	name: ..... / Norfolk Jet Express Pty Ltd
+70	null	operator: ..... / Norfolk Jet
+71	null	name: ..... / Alliance Airlines
+72	null	operator: ..... / Alliance Airlines
+73	null	date: ..... / July 23, 2008,
+74	null	name: ..... / Kam Air
+75	null	name: ..... / TACV Cabo Verde Airlines
+76	null	operator: ..... / TACV Cabo Verde
+77	null	name: ..... / Kam Air Flight 904
+78	null	operator: ..... / Kam Air
+79	null	name: ..... / Kenn Borek Air
+80	null	name: ..... / Tropical Airways
+81	null	operator: ..... / Tropical Airways
+82	null	name: ..... / Hellas Jet
+83	null	name: ..... / Aero Mongolia
+84	null	name: ..... / Africa Safari Air
+85	null	operator: ..... / Africa Safari Air
+86	null	operator: ..... / Société Aigle
+87	null	name: ..... / Gambia International
+88	null	operator: ..... / Gambia International Airlines
+89	null	name: ..... / New York Air
+90	null	operator: ..... / New York Air
+91	null	name: ..... / Aeropostal Alas de Venezuela,
+92	null	date: ..... / 31 December 1933,
+93	null	name: ..... / Alitalia Express S.
+94	null	operator: ..... / Alitalia Express
+95	null	origin: ..... / Cointrin International Airport
+96	null	operator: ..... / ItAli Airlines
+97	null	name: ..... / Dubrovnik Airline Limited
+98	null	name: ..... / Hahn Air
+99	null	name: ..... / Leeward Islands Air Transport,
+100	null	operator: ..... / Leeward Islands Air
+101	null	name: ..... / Lufthansa Flight 540,
+102	null	date: ..... / 20 November 1974
+103	null	passengers: ..... / 140
+104	null	crew: ..... / 17
+105	null	name: ..... / Castle Air
+106	null	name: ..... / Corporate Airlines Flight 5966
+107	null	date: ..... / October 19, 2004,
+108	null	operator: ..... / Corporate Airlines
+109	null	aircraft type: ..... / Jetstream 32
+110	null	date: ..... / 26 July 2005,
+111	null	operator: ..... / Mavial Magadan Airlines
+112	null	name: ..... / Britannia Airways
+113	null	operator: ..... / Britannia Airways
+114	null	name: ..... / CityFlyer Express
+115	null	name: ..... / Tasman Empire Airways Limited
+116	null	name: ..... / Air Polonia
+117	null	date: ..... / 11 August 2001
+118	true	date: 19 december 1997 / 19 December 1997
+119	true	passengers: 97 / 97
+120	true	crew: 7 / 7
+121	null	name: ..... / Kingfisher Red,
+122	null	name: ..... / Air Wales
+123	null	date: ..... / 23 April 2006,
+124	null	operator: ..... / Air Wales
+125	null	name: ..... / Air Scotland
+126	true	name: air new zealand flight 901 / Air New Zealand Flight
+127	true	date: 28 november 1979 / 28 November 1979,
+128	true	passengers: 237 / 237
+129	true	crew: 20 / 20
+130	true	operator: air new zealand / Air New Zealand
+131	null	operator: ..... / Kosova Airlines
+132	null	name: ..... / Flying Tiger Line,
+133	null	operator: ..... / Flying
+134	true	name: china airlines flight 358 / China Airlines Flight 358
+135	true	date: december 29, 1991 / December 29, 1991
+136	true	operator: china airlines / China Airlines
+137	true	aircraft type: boeing 747-2r7f / Boeing 747-2R7F
+138	null	name: ..... / Modern Air
+139	null	operator: ..... / Modern Air
+140	true	name: lauda air flight 004 / Lauda Air Flight 004
+141	true	date: 26 may 1991 / 26 May 1991,
+142	true	operator: lauda air / Lauda Air
+143	null	name: ..... / Air Paradise International
+144	null	date: ..... / 24 November 2005
+145	null	name: ..... / Air Panama
+146	null	name: ..... / National Airways Corporation
+147	null	operator: ..... / National Airways
+148	null	name: ..... / Koninklijke Nederlandsch-Indische Luchtvaart Maatschappij
+149	null	date: ..... / December 28, 1941,
+150	null	name: ..... / Qeshm Air
+151	null	operator: ..... / Qeshm Air
+152	null	operator: ..... / Caspian Airlines
+153	null	name: ..... / Iran Air
+154	null	operator: ..... / Iran Air
+155	null	name: ..... / TAAG Angola
+156	null	operator: ..... / TAAG Angola
+157	null	name: ..... / Allegiant Air
+158	null	operator: ..... / Allegiant Air
+159	null	name: ..... / President Airlines
+160	null	operator: ..... / President Airlines
+161	null	name: ..... / Republic Express
+162	null	operator: ..... / Republic Express Airlines
+163	null	name: ..... / Air Macau Company Limited
+164	null	name: ..... / Eastern Provincial
+165	null	operator: ..... / Eastern Provincial Airways
+166	null	date: ..... / March 27, 1987,
+167	null	name: ..... / Kyrgyz Air
+168	null	operator: ..... / Kyrgyz Air
+169	null	name: ..... / Harmony Airways
+170	null	date: ..... / March 27, 2007,
+171	true	date: february 21, 1970 / February 21, 1970,
+172	true	origin: zürich international airport / Zürich International Airport
+173	true	name: northwest orient airlines flight 2501 / Northwest Orient Airlines Flight 2501
+174	true	operator: northwest orient airlines / Northwest Orient Airlines
+175	null	name: ..... / Eastern Air Lines Flight 66,
+176	null	passengers: ..... / 106
+177	null	crew: ..... / 6
+178	null	operator: ..... / Eastern Air Lines
+179	null	name: ..... / United Airlines Flight 615,
+180	null	passengers: ..... / 44
+181	null	crew: ..... / 6
+182	null	operator: ..... / United Airlines
+183	null	name: ..... / Big Sky Airlines
+184	null	operator: ..... / Big Sky Airlines
+185	null	name: ..... / Air Tindi
+186	null	name: ..... / Sunshine Express
+187	null	operator: ..... / Sunshine Express Airlines
+188	null	name: ..... / MacAir Airlines Pty Ltd
+189	null	operator: ..... / MacAir Airlines
+190	null	name: ..... / China Northern Airlines Flight 6136
+191	null	date: ..... / May 7, 2002,
+192	null	origin: ..... / Beijing Capital International Airport
+193	null	passengers: ..... / 103
+194	null	crew: ..... / 9
+195	null	operator: ..... / China Northern Airlines
+196	null	name: ..... / China Eastern Airlines Flight 5210
+197	null	date: ..... / November 21, 2004
+198	null	operator: ..... / China Eastern Airlines
+199	null	name: ..... / Far Eastern Air Transport(
+200	null	date: ..... / November 27, 2010,
+201	null	name: ..... / China Airlines Flight 676
+202	null	operator: ..... / China Airlines
+203	null	aircraft type: ..... / Airbus A300-622R
+204	null	name: ..... / UM Airlines
+205	null	operator: ..... / UM Airlines
+206	null	aircraft type: ..... / UM Yak-42D
+207	null	operator: ..... / Khalifa Airways
+208	null	name: ..... / Aero Asia International
+209	null	name: ..... / Benin Golf Air
+210	null	operator: ..... / JSC National
+211	null	name: ..... / Cameroon Airlines
+212	null	operator: ..... / Cameroon Airlines
+213	null	operator: ..... / Eritrean Airlines
+214	null	operator: ..... / Air Alps
+215	null	name: ..... / Air Djibouti,
+216	null	name: ..... / Chanchangi Airlines Nigeria Limited
+217	null	operator: ..... / Chanchangi Airlines
+218	null	name: ..... / Albanian Airlines MAK Sh.
+219	null	date: ..... / August 14, 2009,
+220	null	operator: ..... / Albanian Airlines
+221	null	operator: ..... / Albatros Airways
+222	null	name: ..... / Air Ivoire
+223	null	name: ..... / Trans Air Congo
+224	null	name: ..... / Helios Airways
+225	null	name: ..... / Eurocypria Airlines Limited
+226	null	date: ..... / 4 November 2010
+227	null	operator: ..... / Eurocypria Airlines
+228	null	name: ..... / Alisea Airlines
+229	null	operator: ..... / Alisea Airlines
+230	null	operator: ..... / Afrinat International Airlines
+231	null	date: ..... / 12 May 2010,
+232	null	operator: ..... / Afriqiyah
+233	null	name: ..... / Air Adriatic
+234	null	date: ..... / 3 June 2008,
+235	null	name: ..... / Nouvelle Air Affaires Gabon
+236	null	operator: ..... / Nouvelle Air
+237	null	name: ..... / XL Airways
+238	null	operator: ..... / XL Airways
+239	null	name: ..... / Azzurra Air
+240	null	operator: ..... / Azzurra Air
+241	null	name: ..... / AirBridgeCargo Airlines, LLC
+242	null	name: ..... / Khors Air
+243	null	operator: ..... / Khors Air
+244	null	operator: ..... / Thai Air
+245	null	date: ..... / 22 July 2009,
+246	null	operator: ..... / Air Austral
+247	null	name: ..... / Avanti Air
+248	null	name: ..... / Ada Air Sh.
+249	null	operator: ..... / Ada Air
+250	null	ceased: march 24, 1999 / ..........
+251	null	date: 27 december 1991 / ..........
+252	null	fatalities: 0 / ..........
+253	null	injuries: 25 / ..........
+254	null	origin: stockholm-arlanda airport / ..........
+255	null	bases: singapore / ..........
+256	null	ceased: november 15, 1999 / ..........
+257	null	ceased: 27 july 2005 / ..........
+258	null	bases: shannon airport / ..........
+259	null	date: september 28, 1977 / ..........
+260	null	type: hijacking / ..........
+261	null	occurrence_type: hijacking / ..........
+262	null	site: dhaka, bangladesh / ..........
+263	null	aircraft type: douglas dc-8 / ..........
+264	null	ceased: 2000 / ..........
+265	null	name: silkair flight 185 / ..........
+266	null	aircraft type: boeing 737-36n / ..........
+267	null	origin: soekarno-hatta international airport / ..........
+268	null	destination: singapore changi airport / ..........
+269	null	operator: silkair / ..........
+270	null	ceased: april 2006 / ..........
+271	null	bases: cardiff international airport / ..........
+272	null	occurrence_type: accident / ..........
+273	null	aircraft type: mcdonnell douglas dc-10-30 / ..........
+274	null	destination: auckland international airport / ..........
+275	null	site: wanli, taipei / ..........
+276	null	origin: chiang kai-shek international airport, taipei, taiwan / ..........
+277	null	ceased: 1975 / ..........
+278	null	occurrence_type: accident / ..........
+279	null	aircraft type: boeing 767-3z9er / ..........
+280	null	passengers: 213 / ..........
+281	null	crew: 10 / ..........
+282	null	ceased: 1999 / ..........
+283	null	ceased: 2009 / ..........
+284	null	bases: don mueang international airport / ..........
+285	null	ceased: 2008 / ..........
+286	null	ceased: 2003 / ..........
+287	null	ceased: 2007 / ..........
+288	null	name: swissair flight 330 / ..........
+289	null	destination: ben gurion international airport / ..........
+290	null	aircraft type: convair cv-990 / ..........
+291	null	passengers: 38 / ..........
+292	null	operator: swissair / ..........
+293	null	occurrence_type: accident / ..........
+294	null	passengers: 55 / ..........
+295	null	bases: newcastle airport / ..........
+296	null	name: united airlines flight 610 / ..........
+297	null	date: june 30, 1951 / ..........
+298	null	aircraft type: douglas dc-6 / ..........
+299	null	operator: united airlines / ..........
+300	null	tail number: n37543 / ..........
+301	null	passengers: 45 / ..........
+302	null	crew: 5 / ..........
+303	null	ceased: january 2009 / ..........
+304	null	date: 12 june 1972 / ..........
+305	null	site: windsor, ontario / ..........
+306	null	destination: laguardia airport / ..........
+307	null	passengers: 56 / ..........
+308	null	crew: 11 / ..........
+309	null	ceased: 2007 / ..........
+310	null	ceased: 2008 / ..........
+311	null	ceased: 2007 / ..........
+312	null	bases: kabul international airport / ..........
+313	null	ceased: 2006 / ..........
+314	null	bases: athens international airport / ..........
+315	null	ceased: 2010 / ..........
+316	null	ceased: 2003 / ..........
+317	null	ceased: 2003 / ..........
+318	null	ceased: october 2008 / ..........
+319	null	bases: cairns airport / ..........
+320	null	ceased: 2004 / ..........
+321	null	bases: banjul international airport / ..........
+322	null	bases: banjul international airport / ..........
+323	null	ceased: 2005 / ..........
+324	null	bases: sharjah international airport / ..........
+325	null	bases: kiev international airport / ..........
+326	null	bases: dubrovnik airport / ..........
+327	null	ceased: 24 july 2009 / ..........
+328	null	ceased: 2004 / ..........
+329	null	site: lake michigan / ..........
+330	null	ceased: 5 december 2004 / ..........
+331	null	aircraft type: mcdonnell douglas dc-10-10 / ..........

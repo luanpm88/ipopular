@@ -4,6 +4,9 @@ Correct: 187
 Wrong: 3
 Total: 265
 
+precision: 0.98 | 0.94
+recall: 0.71 | 0.77
+
 
 1	true	county: okaloosa county / Okaloosa County
 2	true	state: florida / Florida.

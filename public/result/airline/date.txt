@@ -1,0 +1,46 @@
+Found Not Null: 5
+Correct: 5
+Wrong: 0
+Total: 9
+-----------
+precision: 1.0
+recall: 0.5555555555555556
+
+
+
+
+1	null	date: ..... / October 1, 2010,
+2	null	date: ..... / December 17, 1973,
+3	null	date: ..... / 3 March 1991,
+4	null	date: ..... / April 16, 2008,
+5	null	date: ..... / 16 September, 2009
+6	null	date: ..... / July 25, 1984
+7	null	date: ..... / 27 June 2003,
+8	null	date: ..... / July 23, 2008,
+9	null	date: ..... / 31 December 1933,
+10	null	date: ..... / 20 November 1974
+11	null	date: ..... / October 19, 2004,
+12	null	date: ..... / 26 July 2005,
+13	null	date: ..... / 11 August 2001
+14	true	date: 19 december 1997 / 19 December 1997
+15	null	date: ..... / 23 April 2006,
+16	true	date: 28 november 1979 / 28 November 1979,
+17	true	date: december 29, 1991 / December 29, 1991
+18	true	date: 26 may 1991 / 26 May 1991,
+19	null	date: ..... / 24 November 2005
+20	null	date: ..... / December 28, 1941,
+21	null	date: ..... / March 27, 1987,
+22	null	date: ..... / March 27, 2007,
+23	true	date: february 21, 1970 / February 21, 1970,
+24	null	date: ..... / May 7, 2002,
+25	null	date: ..... / November 21, 2004
+26	null	date: ..... / November 27, 2010,
+27	null	date: ..... / August 14, 2009,
+28	null	date: ..... / 4 November 2010
+29	null	date: ..... / 12 May 2010,
+30	null	date: ..... / 3 June 2008,
+31	null	date: ..... / 22 July 2009,
+32	null	date: 27 december 1991 / ..........
+33	null	date: september 28, 1977 / ..........
+34	null	date: june 30, 1951 / ..........
+35	null	date: 12 june 1972 / ..........

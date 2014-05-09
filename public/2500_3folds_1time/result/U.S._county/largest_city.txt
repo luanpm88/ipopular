@@ -1,0 +1,71 @@
+Found Not Null: 7
+Correct: 5
+Wrong: 2
+Total: 18
+-----------
+precision: 0.7142857142857143
+recall: 0.3888888888888889
+
+
+
+
+1	null	largest city: ..... / Crestview.
+2	null	largest city: ..... / Prattville.
+3	null	largest city: ..... / Alabama.
+4	null	largest city: ..... / Moulton.
+5	null	largest city: ..... / Bronson, Florida.
+6	null	largest city: ..... / Madison, Florida.
+7	null	largest city: ..... / Bradenton,
+8	null	largest city: ..... / Fernandina Beach,
+9	null	largest city: ..... / Okeechobee,
+10	null	largest city: ..... / Dade City,
+11	null	largest city: ..... / Clearwater, Florida,
+12	null	largest city: ..... / Augustine.
+13	null	largest city: ..... / Sarasota, Florida.
+14	null	largest city: ..... / Sanford, Florida.
+15	null	largest city: ..... / Oak,
+16	null	largest city: ..... / DeLand,
+17	null	largest city: ..... / Crawfordville.
+18	null	largest city: ..... / Chipley, Florida.
+19	null	largest city: ..... / Barnstable. Barnstable
+20	null	largest city: ..... / Centreville,,
+21	null	largest city: ..... / Greenville.
+22	null	largest city: ..... / Lafayette.
+23	true	largest city: clanton / Clanton
+24	null	largest city: ..... / Grove Hill.
+25	null	largest city: ..... / Decatur,
+26	null	largest city: ..... / Alabama.
+27	null	largest city: ..... / Andalusia.
+28	false	largest city: selma / Selma. Dallas
+29	null	largest city: ..... / Fayette.
+30	null	largest city: ..... / Russellville
+31	true	largest city: scottsboro / Scottsboro
+32	null	largest city: ..... / Abbeville.
+33	null	largest city: ..... / Florence. Lauderdale
+34	null	largest city: ..... / Hayneville.
+35	null	largest city: ..... / Guntersville. Marshall
+36	true	largest city: monroeville / Monroeville.
+37	true	largest city: marion / Marion.
+38	null	largest city: ..... / Wedowee.
+39	true	largest city: phenix city / Phenix City.
+40	null	largest city: ..... / Shelbyville.
+41	null	largest city: ..... / Harlan.
+42	false	largest city: alexander city / Dadeville.
+43	null	largest city: lakeland / ..........
+44	null	largest city: cambridge / ..........
+45	null	largest city: union springs / ..........
+46	null	largest city: clanton / ..........
+47	null	largest city: centre / ..........
+48	null	largest city: gadsden / ..........
+49	null	largest city: muscle shoals / ..........
+50	null	largest city: selma / ..........
+51	null	largest city: scottsboro / ..........
+52	null	largest city: birmingham / ..........
+53	null	largest city: auburn / ..........
+54	null	largest city: huntsville / ..........
+55	null	largest city: monroeville / ..........
+56	null	largest city: marion / ..........
+57	null	largest city: phenix city / ..........
+58	null	largest city: sidney / ..........
+59	null	largest city: talladega / ..........
+60	null	largest city: alexander city / ..........

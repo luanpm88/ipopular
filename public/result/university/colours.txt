@@ -1,0 +1,84 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 2
+-----------
+recall: 0.0
+
+
+
+
+1	null	colours: ..... / University
+2	null	colours: ..... / university
+3	null	colours: ..... / university
+4	null	colours: ..... / University
+5	null	colours: ..... / university
+6	null	colours: ..... / University
+7	null	colours: ..... / University
+8	null	colours: ..... / Commission
+9	null	colours: ..... / university
+10	null	colours: ..... / university
+11	null	colours: ..... / University
+12	null	colours: ..... / university
+13	null	colours: ..... / university
+14	null	colours: ..... / University
+15	null	colours: ..... / University
+16	null	colours: ..... / University
+17	null	colours: ..... / University
+18	null	colours: ..... / University
+19	null	colours: ..... / University
+20	null	colours: ..... / University
+21	null	colours: ..... / university
+22	null	colours: ..... / University
+23	null	colours: ..... / University
+24	null	colours: ..... / University
+25	null	colours: ..... / University
+26	null	colours: ..... / University
+27	null	colours: ..... / university
+28	null	colours: ..... / collection
+29	null	colours: ..... / University
+30	null	colours: ..... / university
+31	null	colours: ..... / University
+32	null	colours: ..... / University
+33	null	colours: ..... / institutions
+34	null	colours: ..... / University
+35	null	colours: ..... / University
+36	null	colours: ..... / University
+37	null	colours: ..... / University
+38	null	colours: ..... / university
+39	null	colours: ..... / University
+40	null	colours: ..... / university
+41	null	colours: ..... / university
+42	null	colours: ..... / university
+43	null	colours: ..... / University
+44	null	colours: ..... / University
+45	null	colours: ..... / University
+46	null	colours: ..... / University
+47	null	colours: ..... / University
+48	null	colours: ..... / University
+49	null	colours: ..... / University
+50	null	colours: ..... / university
+51	null	colours: ..... / forerunner
+52	null	colours: ..... / University
+53	null	colours: ..... / University
+54	null	colours: ..... / university
+55	null	colours: ..... / University
+56	null	colours: ..... / University
+57	null	colours: ..... / university
+58	null	colours: ..... / University
+59	null	colours: ..... / University
+60	null	colours: ..... / University
+61	null	colours: ..... / University
+62	null	colours: ..... / university
+63	null	colours: ..... / University
+64	null	colours: ..... / University
+65	null	colours: ..... / university
+66	null	colours: ..... / University
+67	null	colours: ..... / university
+68	null	colours: ..... / University
+69	null	colours: ..... / university
+70	null	colours: ..... / curriculum
+71	null	colours: ..... / predecessor
+72	null	colours: ..... / University
+73	null	colours: gold  / ..........
+74	null	colours: maroon  / ..........

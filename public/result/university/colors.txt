@@ -1,0 +1,22 @@
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 4
+-----------
+precision: 0.5
+recall: 0.25
+
+
+
+
+1	true	colors: blue and gold  / blue and gold,
+2	null	colors: ..... / and secondary level, and
+3	null	colors: ..... / colleges, and
+4	false	colors: old gold and black  / gold and
+5	null	colors: ..... / and Institutes.
+6	null	colors: ..... / and
+7	null	colors: ..... / and
+8	null	colors: red and black  / ..........
+9	null	colors: old gold and black  / ..........
+10	null	colors: orange and black / ..........
+11	null	colors: blue and gold  / ..........

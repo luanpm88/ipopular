@@ -1,0 +1,13 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+-----------
+recall: 0.0
+
+
+
+
+1	null	rector: ..... / O., M. D.
+2	null	rector: ..... / Mun Gye-ok
+3	null	rector: zaki akiel sobrinho / ..........

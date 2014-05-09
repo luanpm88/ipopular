@@ -1,0 +1,22 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 4
+-----------
+recall: 0.0
+
+
+
+
+1	null	destination: ..... / Springs Municipal Airport
+2	null	destination: ..... / Olympic Dam, South Australia,
+3	null	destination: ..... / Cointrin International Airport
+4	null	destination: ..... / Kirksville Regional Airport
+5	null	destination: ..... / Vancouver, Canada.
+6	null	destination: ..... / en route
+7	null	destination: ..... / Dalian Zhoushuizi International Airport,
+8	null	destination: ..... / Shanghai Hongqiao International Airport
+9	null	destination: singapore changi airport / ..........
+10	null	destination: auckland international airport / ..........
+11	null	destination: ben gurion international airport / ..........
+12	null	destination: laguardia airport / ..........

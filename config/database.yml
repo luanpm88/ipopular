@@ -17,7 +17,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: ipopular_county_development
+  database: ipopular_company
   pool: 5
   username: luan
   password: benho

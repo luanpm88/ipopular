@@ -1,0 +1,310 @@
+Found Not Null: 9
+Correct: 5
+Wrong: 4
+Total: 42
+-----------
+precision: 0.5555555555555556
+recall: 0.11904761904761904
+
+
+
+
+1	null	cover_artist: ..... / Vernor Vinge.
+2	null	cover_artist: ..... / Diane Duane.
+3	null	cover_artist: ..... / Higgins Clark.
+4	null	cover_artist: ..... / James Barclay.
+5	null	cover_artist: ..... / Michael Moorcock,
+6	null	cover_artist: ..... / J. G. Ballard,
+7	null	cover_artist: ..... / John Buchan,
+8	null	cover_artist: ..... / Bruce Chatwin,
+9	null	cover_artist: ..... / Trudi Canavan.
+10	null	cover_artist: ..... / David Mitchell.
+11	null	cover_artist: ..... / Mary Stewart.
+12	null	cover_artist: ..... / Rex Stout.
+13	null	cover_artist: ..... / Grassic Gibbon.
+14	null	cover_artist: ..... / Tobias Smollett,
+15	null	cover_artist: ..... / Margery Allingham,
+16	null	cover_artist: ..... / P G Wodehouse,
+17	null	cover_artist: ..... / Carrie Fisher
+18	null	cover_artist: ..... / Wynne Jones.
+19	null	cover_artist: ..... / Jane Hamilton.
+20	null	cover_artist: ..... / Meg Cabot,
+21	null	cover_artist: ..... / Pat O'Shea.
+22	null	cover_artist: ..... / Cecilia Dart-Thornton.
+23	null	cover_artist: ..... / Maxfield Parrish.
+24	null	cover_artist: ..... / Stephen Hunter.
+25	null	cover_artist: ..... / Maeve Binchy.
+26	null	cover_artist: ..... / Lewis Mumford.
+27	null	cover_artist: ..... / John Brunner.
+28	null	cover_artist: ..... / J. Neil Schulman.
+29	null	cover_artist: ..... / Peter Carey.
+30	null	cover_artist: ..... / Plumly Thompson.
+31	null	cover_artist: ..... / Plumly Thompson.
+32	true	cover_artist: dirk gringhuis / Dirk Gringhuis.
+33	null	cover_artist: ..... / Jack Snow.
+34	null	cover_artist: ..... / Jim Hatfield.
+35	null	cover_artist: ..... / Arturo Pérez-Reverte.
+36	null	cover_artist: ..... / Nathaniel Hawthorne.
+37	null	cover_artist: ..... / Willy Pogany.
+38	null	cover_artist: ..... / Bo Widerberg,
+39	null	cover_artist: ..... / Jules Verne.
+40	null	cover_artist: ..... / Anthony Burgess.
+41	null	cover_artist: ..... / Gene Wolfe,
+42	null	cover_artist: ..... / Gene Wolfe,
+43	null	cover_artist: ..... / Denis Diderot,
+44	null	cover_artist: ..... / Thomas Homer-Dixon.
+45	null	cover_artist: ..... / Ray Bradbury.
+46	null	cover_artist: ..... / Émile Zola.
+47	null	cover_artist: ..... / Shirley Jackson.
+48	null	cover_artist: ..... / Bharati Mukherjee.
+49	null	cover_artist: ..... / Emma Goldman,
+50	null	cover_artist: ..... / Astrid Lindgren.
+51	null	cover_artist: ..... / Michael Moorcock.
+52	null	cover_artist: ..... / Michael Bishop.
+53	null	cover_artist: ..... / Darren Shan.
+54	null	cover_artist: ..... / Alistair MacLeod.
+55	null	cover_artist: ..... / Anthony Burgess.
+56	null	cover_artist: ..... / Gwethalyn Graham.
+57	null	cover_artist: ..... / Mikhail Evstafiev.
+58	null	cover_artist: ..... / Italo Svevo.
+59	null	cover_artist: ..... / Justin Frank.
+60	null	cover_artist: ..... / Gavriel Kay.
+61	null	cover_artist: ..... / Cornelia Funke.
+62	null	cover_artist: ..... / Marya Hornbacher.
+63	null	cover_artist: ..... / Peter O'Donnell
+64	null	cover_artist: ..... / Theodore Judson.
+65	null	cover_artist: ..... / Robert Louis Stevenson,
+66	null	cover_artist: ..... / China Miéville.
+67	null	cover_artist: ..... / Jeff VanderMeer,
+68	null	cover_artist: ..... / Harold Keith.
+69	null	cover_artist: ..... / Victor Kelleher.
+70	null	cover_artist: ..... / Arthur Machen.
+71	null	cover_artist: ..... / Margery Allingham,
+72	null	cover_artist: ..... / May Alcott.
+73	null	cover_artist: ..... / Kage Baker.
+74	null	cover_artist: ..... / Robert Musil,
+75	null	cover_artist: ..... / Ann Rinaldi.
+76	null	cover_artist: ..... / Monique Wittig.
+77	null	cover_artist: ..... / Greg Bear.
+78	null	cover_artist: ..... / Eric Kraft.
+79	null	cover_artist: ..... / Edgar Allan Poe,
+80	null	cover_artist: ..... / Armstrong Sperry
+81	null	cover_artist: ..... / Alexis Rockman.
+82	null	cover_artist: ..... / Lin Carter.
+83	null	cover_artist: ..... / Du Brul.
+84	null	cover_artist: ..... / Antonia Forest,
+85	null	cover_artist: ..... / Peter Farrelly,
+86	true	cover_artist: william steig / William Steig.
+87	null	cover_artist: ..... / Joy Kogawa.
+88	null	cover_artist: ..... / Georgette Heyer.
+89	null	cover_artist: ..... / Georgette Heyer.
+90	null	cover_artist: ..... / Larry Niven
+91	null	cover_artist: ..... / Bibhutibhushan Bandopadhyay.
+92	null	cover_artist: ..... / Kenneth Bulmer.
+93	null	cover_artist: ..... / P. G. Wodehouse,
+94	null	cover_artist: ..... / Henry James,
+95	null	cover_artist: ..... / Henry James,
+96	null	cover_artist: ..... / G. Wodehouse.
+97	null	cover_artist: ..... / Samira Bellil.
+98	null	cover_artist: ..... / McGarry Morris,
+99	null	cover_artist: ..... / Graham Greene,
+100	null	cover_artist: ..... / James Baldwin.
+101	null	cover_artist: ..... / Breena Clarke,
+102	null	cover_artist: ..... / Anita Shreve.
+103	null	cover_artist: ..... / Christina Schwarz.
+104	null	cover_artist: ..... / Sue Miller,
+105	null	cover_artist: ..... / Eleanor Arnason,
+106	null	cover_artist: ..... / Jimmy Buffett.
+107	null	cover_artist: ..... / William Goldman.
+108	null	cover_artist: ..... / Carrie Fisher
+109	null	cover_artist: ..... / Jack Higgins
+110	null	cover_artist: ..... / Erskine Caldwell,
+111	null	cover_artist: ..... / Alfred Ollivant.
+112	null	cover_artist: ..... / Benjamin Constant,
+113	null	cover_artist: ..... / Brian Aldiss,
+114	null	cover_artist: ..... / Larry Niven,
+115	null	cover_artist: ..... / Aldo Leopold.
+116	null	cover_artist: ..... / Miles Tredinnick.
+117	null	cover_artist: ..... / Jack Vance.
+118	null	cover_artist: ..... / P. G. Wodehouse,
+119	null	cover_artist: ..... / Edgar Wallace.
+120	null	cover_artist: ..... / P. G. Wodehouse,
+121	null	cover_artist: ..... / Harry Turtledove,
+122	false	cover_artist: jordan smith / Bryan Talbot.
+123	null	cover_artist: ..... / Rebecca Reisert.
+124	null	cover_artist: ..... / P. G. Wodehouse,
+125	null	cover_artist: ..... / P. G. Wodehouse,
+126	null	cover_artist: ..... / Percy Greg,
+127	null	cover_artist: ..... / Jacqueline Wilson,
+128	null	cover_artist: ..... / Elizabeth George Speare,
+129	null	cover_artist: ..... / P. G. Wodehouse,
+130	null	cover_artist: ..... / Kazuo Ishiguro.
+131	null	cover_artist: ..... / Margery Allingham,
+132	null	cover_artist: ..... / Margery Allingham,
+133	null	cover_artist: ..... / Jin Yong.
+134	null	cover_artist: ..... / Beverly Cleary.
+135	null	cover_artist: ..... / Jack Vance.
+136	null	cover_artist: ..... / Raymond Williams
+137	null	cover_artist: ..... / Van Lustbader.
+138	null	cover_artist: ..... / K. G. Temple
+139	null	cover_artist: ..... / Jean-Paul Sartre.
+140	null	cover_artist: ..... / de Larrabeiti.
+141	null	cover_artist: ..... / Anne Carson,
+142	null	cover_artist: ..... / Anthony Burgess.
+143	null	cover_artist: ..... / Benjamin Nugent.
+144	null	cover_artist: ..... / Cornelia Funke.
+145	null	cover_artist: ..... / Cory Doctorow.
+146	null	cover_artist: ..... / Beatrix Potter,
+147	null	cover_artist: ..... / Orson Scott Card,
+148	null	cover_artist: ..... / Scott Westerfeld.
+149	null	cover_artist: ..... / K. S.
+150	null	cover_artist: ..... / Rex Stout,
+151	null	cover_artist: ..... / Sita Ram Goel
+152	null	cover_artist: ..... / Rex Stout
+153	null	cover_artist: ..... / Ruth Prawer Jhabvala
+154	null	cover_artist: ..... / Jeffery Deaver.
+155	null	cover_artist: ..... / Thorbjørn Egner,
+156	null	cover_artist: ..... / Nina Bawden,
+157	null	cover_artist: ..... / Plumly Thompson.
+158	null	cover_artist: ..... / Jack Snow.
+159	null	cover_artist: ..... / Peter O'Donnell
+160	null	cover_artist: ..... / Jean Blain.
+161	null	cover_artist: ..... / Jared Diamond,
+162	null	cover_artist: ..... / Giles Foden.
+163	false	cover_artist: mike krahulik / John Scalzi.
+164	null	cover_artist: ..... / David Malouf.
+165	null	cover_artist: ..... / Richard Bentley.
+166	null	cover_artist: ..... / Mary Stewart.
+167	null	cover_artist: ..... / Jan Sardi.
+168	null	cover_artist: ..... / M. P. Shiel.
+169	null	cover_artist: ..... / Wynne Jones.
+170	null	cover_artist: ..... / Julius Pokorny.
+171	null	cover_artist: ..... / Treehorn's Wish.
+172	null	cover_artist: ..... / Ray Bradbury.
+173	null	cover_artist: ..... / Marguerite de Angeli
+174	null	cover_artist: ..... / Carrie Fisher
+175	null	cover_artist: ..... / Mario Puzo.
+176	null	cover_artist: ..... / James Frey.
+177	null	cover_artist: ..... / Larry Niven.
+178	null	cover_artist: ..... / Lois Lenski.
+179	null	cover_artist: ..... / Harold MacGrath.
+180	null	cover_artist: ..... / Kevin Guilfoile.
+181	null	cover_artist: ..... / Jean-Jacques Rousseau,
+182	null	cover_artist: ..... / Frank Herbert.
+183	true	cover_artist: arthur ransome / Arthur Ransome.
+184	null	cover_artist: ..... / Frederik Pohl,
+185	null	cover_artist: ..... / Saul Bellow.
+186	null	cover_artist: ..... / Vladimir Nabokov.
+187	null	cover_artist: ..... / John Brunner.
+188	null	cover_artist: ..... / Ernesto Sabato,
+189	null	cover_artist: ..... / Clive Cussler,
+190	null	cover_artist: ..... / Matthew Reilly,
+191	null	cover_artist: ..... / Frank Herbert.
+192	null	cover_artist: ..... / Islamic Jihad.
+193	null	cover_artist: ..... / Vladimir Nabokov.
+194	null	cover_artist: ..... / Jeanne DuPrau
+195	null	cover_artist: ..... / Og Mandino.
+196	null	cover_artist: ..... / Saul Bellow.
+197	null	cover_artist: ..... / Edith Nesbit
+198	null	cover_artist: ..... / Émile Zola.
+199	null	cover_artist: ..... / Herman Raucher.
+200	null	cover_artist: ..... / Miriam Toews.
+201	null	cover_artist: ..... / Satyajit Ray.
+202	null	cover_artist: ..... / Jeffrey Archer,
+203	true	cover_artist: brett helquist / Brett Helquist,
+204	null	cover_artist: ..... / Samuel Shellabarger,
+205	null	cover_artist: ..... / Jin Yong.
+206	null	cover_artist: ..... / Iris Murdoch.
+207	null	cover_artist: ..... / De Mille.
+208	null	cover_artist: ..... / Steph Swainston.
+209	null	cover_artist: ..... / Georgette Heyer.
+210	null	cover_artist: ..... / Georgette Heyer.
+211	null	cover_artist: ..... / P. G. Wodehouse,
+212	null	cover_artist: ..... / Henry James,
+213	null	cover_artist: ..... / George MacDonald.
+214	null	cover_artist: ..... / Kenneth Bulmer.
+215	null	cover_artist: ..... / Henry James,
+216	null	cover_artist: ..... / Frank Beyer,
+217	null	cover_artist: ..... / Gene Wolfe,
+218	null	cover_artist: ..... / Sloan Wilson.
+219	null	cover_artist: ..... / Stephen King.
+220	null	cover_artist: ..... / Brian Aldiss.
+221	null	cover_artist: ..... / Ursula Hegi,
+222	null	cover_artist: ..... / Wally Lamb
+223	null	cover_artist: ..... / Pearl Cleage,
+224	null	cover_artist: ..... / John Ambrose.
+225	null	cover_artist: ..... / Rice Burroughs.
+226	null	cover_artist: ..... / de Beauvoir.
+227	null	cover_artist: ..... / P. G. Wodehouse,
+228	null	cover_artist: ..... / Hans Werlemann.
+229	null	cover_artist: ..... / Stephen Fry,
+230	null	cover_artist: ..... / Scott O'Dell
+231	null	cover_artist: ..... / Stephanie Plum.
+232	null	cover_artist: ..... / Simon Winchester.
+233	null	cover_artist: ..... / Bruce Coville
+234	null	cover_artist: ..... / Wayson Choy.
+235	null	cover_artist: ..... / Miles Tredinnick.
+236	null	cover_artist: ..... / Margery Allingham,
+237	null	cover_artist: ..... / Margery Allingham,
+238	null	cover_artist: ..... / South African Mark Behr,
+239	null	cover_artist: ..... / Fritz Leiber,
+240	null	cover_artist: ..... / Vladimir Voinovich.
+241	null	cover_artist: ..... / Henry James,
+242	true	cover_artist: arthur ransome / Arthur Ransome.
+243	false	cover_artist: maurice sendak / Meindert DeJong
+244	null	cover_artist: ..... / Christopher Morley,
+245	null	cover_artist: ..... / John Brunner.
+246	null	cover_artist: ..... / Beverly Cleary.
+247	null	cover_artist: ..... / Theodore Sturgeon,
+248	false	cover_artist: steven spurrier / Arthur Ransome;
+249	null	cover_artist: ..... / Andrew Chaikin,
+250	null	cover_artist: ..... / Tad Williams.
+251	null	cover_artist: ..... / Barbara Cartland,
+252	null	cover_artist: ..... / James Ellroy.
+253	null	cover_artist: ..... / Christopher Moore,
+254	null	cover_artist: ..... / Florence Engel Randall
+255	null	cover_artist: ..... / Loren Pope.
+256	null	cover_artist: ..... / David Mitchell.
+257	null	cover_artist: ..... / Ramsey Ullman.
+258	null	cover_artist: dick martin / ..........
+259	null	cover_artist: dirk gringhuis / ..........
+260	null	cover_artist: eric shanower / ..........
+261	null	cover_artist: mike krahulik / ..........
+262	null	cover_artist: peter standley / ..........
+263	null	cover_artist: jonathan walker / ..........
+264	null	cover_artist: arthur ransome / ..........
+265	null	cover_artist: christopher denise / ..........
+266	null	cover_artist: günter grass / ..........
+267	null	cover_artist: michael foreman / ..........
+268	null	cover_artist: robert rankin / ..........
+269	null	cover_artist: rob steen / ..........
+270	null	cover_artist: brett helquist / ..........
+271	null	cover_artist: berkeley breathed / ..........
+272	null	cover_artist: william steig / ..........
+273	null	cover_artist: tracy dockray / ..........
+274	null	cover_artist: raven oak / ..........
+275	null	cover_artist: w.w. denslow / ..........
+276	null	cover_artist: byam shaw / ..........
+277	null	cover_artist: arthur ransome / ..........
+278	null	cover_artist: norah borges / ..........
+279	null	cover_artist: arthur ransome / ..........
+280	null	cover_artist: arthur ransome / ..........
+281	null	cover_artist: maurice sendak / ..........
+282	null	cover_artist: jordan smith / ..........
+283	null	cover_artist: arthur ransome / ..........
+284	null	cover_artist: dr. seuss / ..........
+285	null	cover_artist: lane smith / ..........
+286	null	cover_artist: brom / ..........
+287	null	cover_artist: steven spurrier / ..........
+288	null	cover_artist: arthur ransome / ..........
+289	null	cover_artist: tove jansson / ..........
+290	null	cover_artist: tove jansson / ..........
+291	null	cover_artist: brom / ..........
+292	null	cover_artist: brom / ..........
+293	null	cover_artist: brom / ..........
+294	null	cover_artist: arthur ransome / ..........
+295	null	cover_artist: william steig / ..........
+296	null	cover_artist: arthur ransome / ..........
+297	null	cover_artist: quentin blake / ..........
+298	null	cover_artist: dave mckean / ..........
+299	null	cover_artist: satyajit ray / ..........

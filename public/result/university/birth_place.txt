@@ -1,0 +1,31 @@
+Found Not Null: 8
+Correct: 6
+Wrong: 2
+Total: 15
+-----------
+precision: 0.75
+recall: 0.4
+
+
+
+
+1	null	birth_place: ..... / Pequea, Pennsylvania.
+2	false	birth_place: santa rosa, california / Santa Rosa,
+3	null	birth_place: ..... / Stellarton, Pictou
+4	null	birth_place: ..... / Chinesisch-Deutsche Hochschulkolleg,
+5	true	birth_place: lockhaven, pennsylvania / Lock Haven, Pennsylvania,
+6	null	birth_place: ..... / Université Sainte-Anne
+7	true	birth_place: new haven, connecticut / New Haven, Connecticut,
+8	true	birth_place: perth, scotland / Perth, Scotland,
+9	false	birth_place: princeton, new jersey / Princeton, New
+10	true	birth_place: windham, connecticut / Windham, Connecticut
+11	true	birth_place: tuskegee, alabama / Tuskegee, Alabama, U.
+12	null	birth_place: ..... / Framingham, Massachusetts,
+13	true	birth_place: paris, france / Paris, France,
+14	null	birth_place: gallipolis, ohio / ..........
+15	null	birth_place: napier, new zealand / ..........
+16	null	birth_place: new york / ..........
+17	null	birth_place: new york / ..........
+18	null	birth_place: colorado city, texas / ..........
+19	null	birth_place: new preston, connecticut / ..........
+20	null	birth_place: freetown, prince edward island / ..........

@@ -1,0 +1,52 @@
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 5
+-----------
+precision: 0.0
+recall: 0.4
+
+
+
+
+1	null	largest city wl: ..... / Crestview.
+2	null	largest city wl: ..... / Fort Pierce.
+3	null	largest city wl: ..... / Pittsfield.
+4	null	largest city wl: ..... / Worcester.
+5	null	largest city wl: ..... / Alabama.
+6	null	largest city wl: ..... / Brewton.
+7	null	largest city wl: ..... / Greensboro.
+8	null	largest city wl: ..... / Moulton.
+9	null	largest city wl: ..... / Bradenton,
+10	null	largest city wl: ..... / Okeechobee,
+11	null	largest city wl: ..... / Dade
+12	null	largest city wl: ..... / St.
+13	null	largest city wl: ..... / Lakeland.
+14	false	largest city wl: demopolis / Linden.
+15	null	largest city wl: ..... / Sarasota,
+16	null	largest city wl: ..... / Chipley,
+17	null	largest city wl: ..... / Barnstable.
+18	null	largest city wl: ..... / Franklin
+19	null	largest city wl: ..... / Clayton.
+20	null	largest city wl: ..... / Greenville.
+21	null	largest city wl: ..... / Anniston-Oxford
+22	null	largest city wl: ..... / Rockford.
+23	null	largest city wl: ..... / Andalusia.
+24	null	largest city wl: ..... / Luverne.
+25	null	largest city wl: ..... / Selma.
+26	null	largest city wl: ..... / Ozark.
+27	null	largest city wl: ..... / Fayette.
+28	null	largest city wl: ..... / Geneva.
+29	null	largest city wl: ..... / Florence.
+30	null	largest city wl: ..... / Auburn.
+31	null	largest city wl: ..... / Athens.
+32	false	largest city wl: albertville / Guntersville.
+33	null	largest city wl: ..... / Monroeville.
+34	null	largest city wl: ..... / Marion.
+35	null	largest city wl: ..... / Wedowee.
+36	null	largest city wl: ..... / Harlan.
+37	null	largest city wl: daphne / ..........
+38	null	largest city wl: decatur / ..........
+39	null	largest city wl: demopolis / ..........
+40	null	largest city wl: albertville / ..........
+41	null	largest city wl: mobile / ..........
