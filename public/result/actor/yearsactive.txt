@@ -1,0 +1,65 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 15
+-----------
+recall: 0.0
+
+
+
+
+1	null	yearsactive: ..... / 1992 and 1993.
+2	null	yearsactive: ..... / 1985 to 1989.
+3	null	yearsactive: ..... / 1978 to 2003.
+4	null	yearsactive: ..... / 2005
+5	null	yearsactive: ..... / 1977 to 1983,
+6	null	yearsactive: ..... / 1999.
+7	null	yearsactive: ..... / 1913.
+8	null	yearsactive: ..... / 1980 to 1985.
+9	null	yearsactive: ..... / 1993 to 1997,
+10	null	yearsactive: ..... / 1975 to 1978,
+11	null	yearsactive: ..... / 1982 to 1984.
+12	null	yearsactive: ..... / 2004.
+13	null	yearsactive: ..... / 1985 and 2003, respectively.
+14	null	yearsactive: ..... / 1967 to 1974,
+15	null	yearsactive: ..... / 1911 and 1928.
+16	null	yearsactive: ..... / 1965 and 1966.
+17	null	yearsactive: ..... / 2002 to 2005,
+18	null	yearsactive: ..... / BBC1.
+19	null	yearsactive: ..... / 1995 to 2000,
+20	null	yearsactive: ..... / 1925 to 1927,
+21	null	yearsactive: ..... / 1990 to 1995,
+22	null	yearsactive: ..... / 2007 and 2008,
+23	null	yearsactive: ..... / 2004.
+24	null	yearsactive: ..... / 1984 to 1991,
+25	null	yearsactive: ..... / 1999 to 2007.
+26	null	yearsactive: ..... / 1999 to 2006,
+27	null	yearsactive: ..... / 1979 and 1992
+28	null	yearsactive: ..... / 2008.
+29	null	yearsactive: ..... / 1982 to 1985,
+30	null	yearsactive: ..... / 1982 to 1990.
+31	null	yearsactive: ..... / 2003.
+32	null	yearsactive: ..... / 2 to 6,
+33	null	yearsactive: ..... / 1998.
+34	null	yearsactive: ..... / 1946 to 1948,
+35	null	yearsactive: ..... / 1989 to 1994.
+36	null	yearsactive: ..... / 1995 to 1998,
+37	null	yearsactive: ..... / 1877 and 1881,
+38	null	yearsactive: ..... / 2005,
+39	null	yearsactive: ..... / 1979.
+40	null	yearsactive: ..... / 1977 to 1978.
+41	null	yearsactive: 1971- / ..........
+42	null	yearsactive: 2002–present / ..........
+43	null	yearsactive: 1984–1992 / ..........
+44	null	yearsactive: 1920 - 1934 / ..........
+45	null	yearsactive: 1950- 1983 / ..........
+46	null	yearsactive: 1979–2007 / ..........
+47	null	yearsactive: 1923 / ..........
+48	null	yearsactive: 2001 / ..........
+49	null	yearsactive: 2006-2008 / ..........
+50	null	yearsactive: 2004– / ..........
+51	null	yearsactive: 1972 - 1985 / ..........
+52	null	yearsactive: 1911 - 1927 / ..........
+53	null	yearsactive: 2005–present / ..........
+54	null	yearsactive: since 1985 / ..........
+55	null	yearsactive: 1912 - 1926 / ..........

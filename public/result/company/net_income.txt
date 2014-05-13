@@ -1,0 +1,13 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+
+
+
+
+1	null	net_income: us$612 million  / ..........
+2	null	net_income: €40 million  / ..........
+3	null	net_income: ) / ..........

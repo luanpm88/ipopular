@@ -6,7 +6,7 @@ class Article < ActiveRecord::Base
   has_many :attribute_value_similar_patterns
   has_many :attribute_test_values
   
-  @@template = 'company'
+  @@template = 'actor'
   @@no_attributes = []
   
   def self.create_hash_feature(hash,string)
@@ -1389,7 +1389,7 @@ class Article < ActiveRecord::Base
   ############
   def self.run_all
     ###1
-    #self.import(7589)
+    #self.import(12168)
     #self.write_log("######### 1 import")
     #
     ###2

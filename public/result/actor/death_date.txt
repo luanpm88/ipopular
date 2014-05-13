@@ -1,0 +1,453 @@
+Found Not Null: 6
+Correct: 5
+Wrong: 1
+Total: 15
+-----------
+precision: 0.8333333333333334
+recall: 0.3333333333333333
+
+
+
+
+1	null	death_date: ..... / May 21, 2009
+2	null	death_date: ..... / November 22, 1971
+3	null	death_date: ..... / 17 December 2002
+4	null	death_date: ..... / November 3, 1998
+5	null	death_date: ..... / December 30, 2008 )
+6	null	death_date: ..... / 1889–April 8, 1942 )
+7	null	death_date: ..... / June 11, 1982 )
+8	null	death_date: ..... / 1999, 2000, 2001, 2008 and 2010 ).
+9	null	death_date: ..... / July 26, 1969
+10	null	death_date: ..... / episodes, 1974, 1975
+11	null	death_date: ..... / November 2, 2006
+12	null	death_date: ..... / June 12, 1976
+13	null	death_date: ..... / 6 January 1977
+14	null	death_date: ..... / 10 January 1968
+15	null	death_date: ..... / 2 August 2007
+16	null	death_date: ..... / August 27, 1968
+17	null	death_date: ..... / March 17, 2006
+18	null	death_date: ..... / November 25, 1997
+19	null	death_date: ..... / August 8, 1993 )
+20	null	death_date: ..... / January 18, 2000
+21	null	death_date: ..... / 4 November 1977
+22	null	death_date: ..... / 3 December 1969
+23	null	death_date: ..... / March 7, 1953
+24	null	death_date: ..... / December 22, 1987
+25	null	death_date: ..... / September 1, 1979
+26	null	death_date: ..... / 24 November 1934
+27	null	death_date: ..... / January 10, 2011
+28	null	death_date: ..... / March 5, 2010
+29	null	death_date: ..... / May 8, 1983 )
+30	null	death_date: ..... / 31 July 2004
+31	null	death_date: ..... / 16 February 2006
+32	null	death_date: ..... / June 9, 1947 )
+33	null	death_date: ..... / 17 May 1943
+34	null	death_date: ..... / December 25, 1989
+35	null	death_date: ..... / June 11, 1935
+36	null	death_date: ..... / September 30, 1962
+37	null	death_date: ..... / May 17, 1951
+38	null	death_date: ..... / May 12, 1963
+39	null	death_date: ..... / March 3, 1974
+40	null	death_date: ..... / 18, 1952
+41	null	death_date: ..... / June 19, 2008
+42	null	death_date: ..... / 31 December 2001
+43	null	death_date: ..... / 29 October 2000
+44	null	death_date: ..... / November 7, 1994
+45	null	death_date: ..... / November 12, 1990
+46	null	death_date: ..... / November 9, 1988
+47	null	death_date: ..... / March 28, 1942 )
+48	null	death_date: ..... / November 17, 1957 )
+49	null	death_date: ..... / November 15, 1941,
+50	null	death_date: ..... / September 9, 1916 )
+51	null	death_date: ..... / July 3, 1986
+52	null	death_date: ..... / May 11, 1933 )
+53	null	death_date: ..... / 8 January 1982 )
+54	null	death_date: ..... / 30 May 1984
+55	null	death_date: ..... / 21 November 1954
+56	null	death_date: ..... / June 3, 2000
+57	null	death_date: ..... / 14 January 1990
+58	null	death_date: ..... / July 4, 1998
+59	null	death_date: ..... / January 7, 1958
+60	null	death_date: ..... / September 9, 2001
+61	null	death_date: ..... / July 11, 2007 )
+62	null	death_date: ..... / March 19, 1956 )
+63	null	death_date: ..... / July 30, 1994
+64	null	death_date: ..... / January 22, 1931 )
+65	null	death_date: ..... / March 7, 2007
+66	null	death_date: ..... / 14 May 1988
+67	null	death_date: ..... / March 13, 2007
+68	null	death_date: ..... / )
+69	null	death_date: ..... / October 17, 1997
+70	null	death_date: ..... / 9 July 2002
+71	null	death_date: ..... / May 22, 1981
+72	null	death_date: ..... / March 31, 1967
+73	null	death_date: ..... / 17 July 1999
+74	null	death_date: ..... / 1903March 28, 1991
+75	null	death_date: ..... / 20 October 2008
+76	null	death_date: ..... / 7 February 1965
+77	null	death_date: ..... / 29 September 2004
+78	null	death_date: ..... / October 16, 2010
+79	null	death_date: ..... / 1878June 17, 1936
+80	null	death_date: ..... / May 21, 1984
+81	null	death_date: ..... / June 6, 1940
+82	null	death_date: ..... / 13 January 1946
+83	null	death_date: ..... / March 11, 1974
+84	null	death_date: ..... / March 2, 1920 )
+85	null	death_date: ..... / 7 May 1982
+86	null	death_date: ..... / 27 March 1988
+87	null	death_date: ..... / August 11, 1988 )
+88	null	death_date: ..... / 21 April 1995
+89	null	death_date: ..... / 9 July 1979
+90	null	death_date: ..... / 15 April 2007
+91	null	death_date: ..... / September 23, 2006
+92	null	death_date: ..... / November 15, 2009
+93	null	death_date: ..... / July 18, 2004 )
+94	null	death_date: ..... / November 16, 1997
+95	null	death_date: ..... / 17 December 1985
+96	null	death_date: ..... / 14 February 1985
+97	null	death_date: ..... / December 13, 1953 )
+98	null	death_date: ..... / 27 January 1992
+99	null	death_date: ..... / May 24, 1969
+100	null	death_date: ..... / June 17, 1955 )
+101	null	death_date: ..... / June 30, 1965 )
+102	null	death_date: ..... / November 13, 1961
+103	null	death_date: ..... / February 19, 1970
+104	null	death_date: ..... / March 18, 1963
+105	null	death_date: ..... / August 27, 1958
+106	null	death_date: ..... / 16 March 2006
+107	null	death_date: ..... / August 12, 1946
+108	null	death_date: ..... / 6 March 1967
+109	null	death_date: ..... / 9 July 1967
+110	null	death_date: ..... / April 4, 1983
+111	null	death_date: ..... / 21 August 2005
+112	null	death_date: ..... / )
+113	null	death_date: ..... / August 12, 1990
+114	null	death_date: ..... / 9 May 1975
+115	null	death_date: ..... / July 29, 1995
+116	null	death_date: ..... / 19 December 2002
+117	null	death_date: ..... / June 7, 1956
+118	null	death_date: ..... / 23 January 1982
+119	null	death_date: ..... / 22 November 1976
+120	null	death_date: ..... / 21 February 1998
+121	null	death_date: ..... / December 27, 1987
+122	null	death_date: ..... / 17 September 1979
+123	null	death_date: ..... / 19 November 2008
+124	null	death_date: ..... / 30 May 2000
+125	null	death_date: ..... / December 22, 1954
+126	null	death_date: ..... / November 1, 1984
+127	null	death_date: ..... / 31 May 1986
+128	null	death_date: ..... / 17 April 2001
+129	null	death_date: ..... / 24 February 1995
+130	null	death_date: ..... / 27 October 1990
+131	null	death_date: ..... / 29 August 1992
+132	null	death_date: ..... / 21
+133	null	death_date: ..... / April 24, 1967
+134	null	death_date: ..... / May 24, 1976
+135	null	death_date: ..... / 7 July 1985
+136	null	death_date: ..... / 7 July 1997
+137	null	death_date: ..... / 22 July 2007
+138	null	death_date: ..... / July 9, 1972
+139	null	death_date: ..... / July 6, 1966
+140	null	death_date: ..... / 6 June 2002
+141	null	death_date: ..... / 25 December 1991
+142	null	death_date: ..... / May 6, 1990
+143	null	death_date: ..... / January 12, 1956 )
+144	null	death_date: ..... / May 7, 1967
+145	null	death_date: ..... / June 17, 2003
+146	null	death_date: ..... / April 27, 1982 )
+147	null	death_date: ..... / December 5, 1994
+148	null	death_date: ..... / August 19, 1987
+149	null	death_date: ..... / 4 April 1989
+150	null	death_date: ..... / 1928—February 1, 1996 )
+151	null	death_date: ..... / 17 January 2009
+152	null	death_date: ..... / February 6, 2006
+153	null	death_date: ..... / 1904November 16, 1984 )
+154	null	death_date: ..... / November 14, 1992
+155	null	death_date: ..... / 1932–March 10, 1997
+156	null	death_date: ..... / 25 October 1985
+157	null	death_date: ..... / May 27, 2000
+158	null	death_date: ..... / March 10, 1964
+159	null	death_date: ..... / May 11, 2006 )
+160	null	death_date: ..... / 1 September 1957
+161	null	death_date: ..... / July 22, 1999
+162	null	death_date: ..... / September 7, 1939 )
+163	null	death_date: ..... / November 7, 2001
+164	null	death_date: ..... / 25 July 1941
+165	null	death_date: ..... / July 10, 1951
+166	null	death_date: ..... / May 21, 2006
+167	null	death_date: ..... / 15 December 2000
+168	null	death_date: ..... / May 21, 2006
+169	null	death_date: ..... / December 31, 1971 )
+170	null	death_date: ..... / 28 July 1996
+171	null	death_date: ..... / June 14, 1995
+172	null	death_date: ..... / 7 February 2005
+173	null	death_date: ..... / September 30, 1999
+174	null	death_date: ..... / 23 September 1994
+175	null	death_date: ..... / June 2, 2006
+176	null	death_date: ..... / November 3, 1957
+177	null	death_date: ..... / July 19, 1983
+178	null	death_date: ..... / November 4, 1932
+179	null	death_date: ..... / 28 December 1977
+180	null	death_date: ..... / December 30, 1943
+181	null	death_date: ..... / 19 March 1989
+182	null	death_date: ..... / November 17, 1936
+183	null	death_date: ..... / 17 May 1979
+184	null	death_date: ..... / 22 February 2008
+185	null	death_date: ..... / 1994, 1996, 2002, 2010
+186	null	death_date: ..... / 24 September 1933
+187	null	death_date: ..... / 2002, 2003, 2004, 2009 )
+188	null	death_date: ..... / May 6, 1985
+189	null	death_date: ..... / May 7, 2007
+190	null	death_date: ..... / 7 August 1994
+191	null	death_date: ..... / 4 July 1979
+192	null	death_date: ..... / January 28, 1977
+193	null	death_date: ..... / 10 August 1974
+194	null	death_date: ..... / July 6, 1979
+195	null	death_date: ..... / March 12, 1988
+196	null	death_date: ..... / June 6, 1966
+197	null	death_date: ..... / 23 October 1989
+198	null	death_date: ..... / September 4, 1979
+199	null	death_date: ..... / September 26, 1953
+200	null	death_date: ..... / 2 February 2010
+201	null	death_date: ..... / 21 February 2003
+202	null	death_date: ..... / August 9, 1965
+203	null	death_date: ..... / 3 April 1989
+204	null	death_date: ..... / June 26, 2000
+205	null	death_date: ..... / 25 July 1979
+206	true	death_date: april 16, 2006 / April 16, 2006
+207	null	death_date: ..... / 1972-June 3, 2005 )
+208	null	death_date: ..... / September 16, 1956
+209	null	death_date: ..... / November 3, 1993
+210	null	death_date: ..... / November 6, 1895
+211	null	death_date: ..... / 20 December 1991
+212	null	death_date: ..... / March 15, 2007 )
+213	null	death_date: ..... / December 3, 1952
+214	null	death_date: ..... / 18 August 1889
+215	null	death_date: ..... / 11 January 1982
+216	null	death_date: ..... / 6 August 2010
+217	null	death_date: ..... / March 10, 2010 )
+218	null	death_date: ..... / 2 July 1989
+219	null	death_date: ..... / 12 September 1993
+220	null	death_date: ..... / September 15, 1981
+221	null	death_date: ..... / May 14, 2002
+222	null	death_date: ..... / July 22, 1979
+223	null	death_date: ..... / 24 February 2009
+224	null	death_date: ..... / July 14, 2006
+225	null	death_date: ..... / October 8, 1963
+226	null	death_date: ..... / January 24, 2009
+227	null	death_date: ..... / June 16, 1987
+228	null	death_date: ..... / April 22, 1969
+229	null	death_date: ..... / 16 September 2009
+230	null	death_date: ..... / December 7, 2008
+231	null	death_date: ..... / December 18, 1971
+232	null	death_date: ..... / December 30, 2008
+233	null	death_date: ..... / June 4, 2009
+234	null	death_date: ..... / January 28, 2007
+235	null	death_date: ..... / April 20, 1990
+236	null	death_date: ..... / November 19, 1891
+237	null	death_date: ..... / November 9, 1985
+238	null	death_date: ..... / 11 April 2008
+239	null	death_date: ..... / June 27, 2010
+240	null	death_date: ..... / March 17, 1949 )
+241	true	death_date: 12 december 1961 / 12 December 1961
+242	null	death_date: ..... / February 3, 1990
+243	null	death_date: ..... / August 7, 2008
+244	null	death_date: ..... / January 12, 1935
+245	null	death_date: ..... / April 11, 1980 )
+246	null	death_date: ..... / March 31, 2010
+247	null	death_date: ..... / May 25, 1997
+248	null	death_date: ..... / 6 June 1995
+249	null	death_date: ..... / June 25, 1999
+250	null	death_date: ..... / January 1, 2002
+251	null	death_date: ..... / May 27, 2007
+252	null	death_date: ..... / 5 April 2005
+253	null	death_date: ..... / 2005, 2006, 2007, 2008,
+254	null	death_date: ..... / May 21, 1961
+255	null	death_date: ..... / 21 September 1988
+256	null	death_date: ..... / November 12, 2001
+257	null	death_date: ..... / October 17, 1970
+258	null	death_date: ..... / June 9, 1953
+259	null	death_date: ..... / June 11, 1956
+260	null	death_date: ..... / November 12, 1982
+261	null	death_date: ..... / March 4, 1945
+262	null	death_date: ..... / May 21, 1966
+263	null	death_date: ..... / September 9, 1966
+264	null	death_date: ..... / November 1, 1975
+265	null	death_date: ..... / lb 2 oz )
+266	null	death_date: ..... / 19 February 1956
+267	null	death_date: ..... / 25 November 1975
+268	null	death_date: ..... / 28 June 1993
+269	null	death_date: ..... / 20 February 2009
+270	null	death_date: ..... / July 30, 1964
+271	null	death_date: ..... / 22 May 1975
+272	null	death_date: ..... / 10, 2010
+273	null	death_date: ..... / August 24, 1994
+274	null	death_date: ..... / July 17, 1969 )
+275	null	death_date: ..... / November 18, 1952
+276	null	death_date: ..... / June 9, 1956 )
+277	null	death_date: ..... / May 13, 2007
+278	null	death_date: ..... / 14 May 1969
+279	null	death_date: ..... / December 9, 1920
+280	null	death_date: ..... / August 27, 1999
+281	null	death_date: ..... / October 6, 2006
+282	null	death_date: ..... / 17 October 1919
+283	null	death_date: ..... / December 1, 1987
+284	null	death_date: ..... / September 25, 1995
+285	null	death_date: ..... / January 13, 2010
+286	null	death_date: ..... / 18 June 1931
+287	null	death_date: ..... / 22 November 1996
+288	null	death_date: ..... / 20 January 1939
+289	null	death_date: ..... / August 3, 1952
+290	null	death_date: ..... / 20 January 1949
+291	null	death_date: ..... / November 30, 1957
+292	null	death_date: ..... / November 19, 1993
+293	null	death_date: ..... / January 31, 1930 )
+294	null	death_date: ..... / 20 October 1959
+295	null	death_date: ..... / February 28, 1973
+296	null	death_date: ..... / 5 February 1946
+297	null	death_date: ..... / )
+298	null	death_date: ..... / May 6, 1994
+299	null	death_date: ..... / 15 July 1990
+300	null	death_date: ..... / November 13, 1931
+301	null	death_date: ..... / 19282 February 1988
+302	null	death_date: ..... / 28 July 2009
+303	null	death_date: ..... / March 7, 1994
+304	null	death_date: ..... / March 13, 1987
+305	null	death_date: ..... / 7 August 1993
+306	null	death_date: ..... / August 15, 1966
+307	null	death_date: ..... / August 31, 1999
+308	null	death_date: ..... / January 6, 1997
+309	false	death_date:  (heart infection) / May 2, 2001
+310	null	death_date: ..... / February 4, 2004
+311	true	death_date: march 24, 1996 / March 24, 1996
+312	null	death_date: ..... / June 8, 2006
+313	null	death_date: ..... / March 20, 1964
+314	null	death_date: ..... / June 17, 1964
+315	null	death_date: ..... / November 29, 2003
+316	null	death_date: ..... / July 21, 1996
+317	null	death_date: ..... / January 17, 1916
+318	null	death_date: ..... / October 12, 1977
+319	null	death_date: ..... / )
+320	null	death_date: ..... / 1 February 2006
+321	null	death_date: ..... / 6 February 2006
+322	null	death_date: ..... / August 20, 1906
+323	null	death_date: ..... / October 22, 2010
+324	null	death_date: ..... / November 4, 1947
+325	null	death_date: ..... / 16 September 1991
+326	null	death_date: ..... / 18 January 1998
+327	null	death_date: ..... / 20 January 2008
+328	null	death_date: ..... / 21 January 2009
+329	null	death_date: ..... / 16 October 1992
+330	null	death_date: ..... / July 12, 1987
+331	null	death_date: ..... / February 10, 2004
+332	null	death_date: ..... / 25 February 1977
+333	null	death_date: ..... / May 1, 2006
+334	null	death_date: ..... / 28 June 2000
+335	null	death_date: ..... / May 19, 1975 )
+336	null	death_date: ..... / 17 April 2004
+337	null	death_date: ..... / December 28, 1998
+338	null	death_date: ..... / April 7, 1972
+339	null	death_date: ..... / December 30, 1971
+340	null	death_date: ..... / October 25, 1921
+341	null	death_date: ..... / 29 February 1940
+342	null	death_date: ..... / February 1, 1991
+343	null	death_date: ..... / 25 April 1994
+344	null	death_date: ..... / 10 November 2009
+345	null	death_date: ..... / 7 October 2008
+346	null	death_date: ..... / December 31, 1951 )
+347	null	death_date: ..... / June 12, 1934
+348	null	death_date: ..... / 10 March 1984
+349	null	death_date: ..... / January 3, 2004
+350	null	death_date: ..... / 16 August 1935
+351	null	death_date: ..... / )
+352	null	death_date: ..... / 19 December, 1933
+353	null	death_date: ..... / 1915-May 24, 1972
+354	null	death_date: ..... / 3 May 1960
+355	null	death_date: ..... / November 22, 1956
+356	null	death_date: ..... / 1 September 2008
+357	null	death_date: ..... / 29 August 2002
+358	null	death_date: ..... / August 5, 1975
+359	null	death_date: ..... / 11 March 1995
+360	null	death_date: ..... / May 11, 2010
+361	null	death_date: ..... / 1 February 1980
+362	null	death_date: ..... / 1931–January 6, 2004 )
+363	null	death_date: ..... / June 12, 2007,
+364	null	death_date: ..... / 17 February 1967
+365	null	death_date: ..... / November 29, 1980
+366	null	death_date: ..... / November 9, 1977 )
+367	null	death_date: ..... / 17 May 2009
+368	null	death_date: ..... / February 17, 1984 )
+369	null	death_date: ..... / 24 September 1975
+370	null	death_date: ..... / May 11, 2000
+371	null	death_date: ..... / January 3, 2008 )
+372	null	death_date: ..... / ) ( 2004 )
+373	null	death_date: ..... / 13 September 1903
+374	null	death_date: ..... / 23 October 1997
+375	null	death_date: ..... / 8 February 1988
+376	null	death_date: ..... / February 1, 2005
+377	null	death_date: ..... / 28 August 1993
+378	null	death_date: ..... / October 26, 1941
+379	null	death_date: ..... / 28 October 2010
+380	null	death_date: ..... / 15 May 1972
+381	null	death_date: ..... / 17 September 1987
+382	null	death_date: ..... / June 17, 1995
+383	null	death_date: ..... / June 20, 2002
+384	null	death_date: ..... / June 18 1968
+385	null	death_date: ..... / April 21, 1971
+386	null	death_date: ..... / 25 February 1997
+387	null	death_date: ..... / December 5, 1994
+388	null	death_date: ..... / 29 June 1999
+389	null	death_date: ..... / June 10, 1985
+390	null	death_date: ..... / April 12, 2000
+391	null	death_date: ..... / December 19, 1970
+392	null	death_date: ..... / July 5, 2006
+393	null	death_date: ..... / March 2, 1997
+394	null	death_date: ..... / November 13, 2001
+395	null	death_date: ..... / November 20, 1980
+396	null	death_date: ..... / August 13, 2000
+397	null	death_date: ..... / )
+398	null	death_date: ..... / November 13, 1972
+399	null	death_date: ..... / June 23, 1965
+400	null	death_date: ..... / 20 November 1979
+401	null	death_date: ..... / June 6, 1958
+402	null	death_date: ..... / May 3, 1966
+403	null	death_date: ..... / November 11, 2010
+404	null	death_date: ..... / )
+405	null	death_date: ..... / 21 December 1998
+406	null	death_date: ..... / 13 July 2001
+407	null	death_date: ..... / December 31, 1996 )
+408	null	death_date: ..... / November 17, 1957
+409	null	death_date: ..... / June 28, 1998 )
+410	null	death_date: ..... / June 5, 1996
+411	null	death_date: ..... / 17 March 1972
+412	null	death_date: ..... / 29 August 1985
+413	null	death_date: ..... / 21 June 2000
+414	null	death_date: ..... / February 9, 2004
+415	null	death_date: ..... / November 24, 2003
+416	null	death_date: ..... / July 6, 2008
+417	null	death_date: ..... / 8 August 2006
+418	null	death_date: ..... / 18 August 1958
+419	null	death_date: ..... / January 21, 1931
+420	null	death_date: ..... / January 5, 1992
+421	null	death_date: ..... / May 23, 1991
+422	null	death_date: ..... / 29 April 1981
+423	true	death_date: january 24, 2004 / January 24, 2004
+424	true	death_date: december 26, 1950 / December 26, 1950
+425	null	death_date: ..... / 18 November 1946
+426	null	death_date: ..... / 24 August 2003
+427	null	death_date: ..... / 29 October 1806
+428	null	death_date:  (heart infection) / ..........
+429	null	death_date: march 24, 1996 / ..........
+430	null	death_date: 1972 / ..........
+431	null	death_date: 1975 / ..........
+432	null	death_date: february 26, 1996 / ..........
+433	null	death_date: 1979 / ..........
+434	null	death_date: middlesex, england, uk / ..........
+435	null	death_date: april 16, 2006 / ..........
+436	null	death_date: april 27, 1909 / ..........
+437	null	death_date: 12 december 1961 / ..........
+438	null	death_date: 1911 / ..........
+439	null	death_date: december 24, 1975 / ..........
+440	null	death_date: january 24, 2004 / ..........
+441	null	death_date: december 26, 1950 / ..........
+442	null	death_date: january 5, 1914 / ..........

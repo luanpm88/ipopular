@@ -1,0 +1,2035 @@
+Found Not Null: 496
+Correct: 387
+Wrong: 109
+Total: 634
+-----------
+precision: 0.780241935483871
+recall: 0.610410094637224
+
+
+
+
+1	null	name: ..... / Peter Piper Pizza
+2	null	name: ..... / Ukrtelecom JSC
+3	null	name: ..... / Roku
+4	null	name: ..... / Centaline Property Agency Limited
+5	null	name: ..... / Kazakhmys Plc
+6	null	name: ..... / Gerdau S.
+7	null	name: ..... / Actel Corporation
+8	null	name: ..... / The Van Wagoner
+9	null	name: ..... / Cinven
+10	true	name: vernalis plc / Vernalis plc
+11	null	name: ..... / Indústria Aeronáutica Neiva
+12	null	name: ..... / Titanium Resources Group Ltd.
+13	true	name: volatile games / Volatile Games
+14	false	name: mta international / Muslim Television Ahmadiyya
+15	null	name: ..... / Participant Media
+16	null	name: ..... / Blufin S. p.A
+17	true	name: hedgestreet / HedgeStreet
+18	null	name: ..... / Riverside Health System
+19	true	name: jernhusen ab / Jernhusen AB
+20	null	name: ..... / Quicksilver Software, Inc.
+21	null	name: ..... / AboveNet, Inc.
+22	true	name: comics guaranty llc / Comics Guaranty LLC,
+23	null	name: ..... / Discovery Holding Company
+24	false	name: alinta limited / Alinta
+25	null	name: ..... / Zogby International
+26	null	name: ..... / Gécamines, or La Générale des Carrières et des
+27	null	name: ..... / Sibelco
+28	null	name: ..... / Ilford Photo
+29	null	name: ..... / International Games
+30	false	name: acadian ambulance service, inc. / Acadian Ambulance
+31	null	name: ..... / Fluke Corporation,
+32	null	name: ..... / @Home Network
+33	true	name: abaddon books / Abaddon Books
+34	true	name: nova greece / NOVA Greece
+35	null	name: ..... / thumb|250px|Ottavio Missoni Missoni
+36	true	name: nova cyprus / NOVA Cyprus
+37	true	name: privatbanen sønderjylland aps / Privatbanen Sønderjylland ApS
+38	null	name: ..... / GWA International Limited
+39	false	name: rock river arms inc / Rock River Arms, Incorporated
+40	true	name: cit group, inc. / CIT Group, Inc.
+41	true	name: ubi world tv / UBI World TV
+42	null	name: ..... / Alliance Boots GmbH
+43	null	name: ..... / Denver County School District
+44	null	name: ..... / Mountain Safety Research,
+45	null	name: ..... / Ineos
+46	null	name: ..... / Apollo
+47	null	name: ..... / Empresas Copec
+48	true	name: electronic systems laboratory / Electronic Systems Laboratory
+49	null	name: ..... / eMeta Corporation
+50	null	name: ..... / Neovia Financial PLC
+51	null	name: ..... / Close Brothers Group plc
+52	null	name: ..... / Karl Marx Kiev Confectionery Factory
+53	null	name: ..... / Boosey &amp; Hawkes
+54	null	name: ..... / CKX, Inc.
+55	true	name: breconshire brewery / Breconshire Brewery
+56	null	name: ..... / Magnum
+57	null	name: ..... / Monginis
+58	null	name: ..... / Morada Limited
+59	null	name: ..... / TT-Line Company Pty. Ltd.
+60	null	name: ..... / Standard Life plc
+61	null	name: ..... / The Eilat Ashkelon Pipeline Company
+62	null	name: ..... / Interserve plc
+63	null	name: ..... / AES Eletropaulo
+64	null	name: ..... / Lockheed Martin Orincon Corporation
+65	null	name: ..... / Roger Dubuis
+66	true	name: atomic planet entertainment / Atomic Planet Entertainment
+67	null	name: ..... / Punch Taverns plc
+68	null	name: ..... / First Data Corporation
+69	null	name: ..... / Suddenlink Communications,
+70	null	name: ..... / Websense
+71	null	name: ..... / EasyCruise
+72	null	name: ..... / Cartamundi,
+73	true	name: temple street productions, inc. / Temple Street Productions
+74	null	name: ..... / Vanguard Sailboats
+75	true	name: calphalon / Calphalon
+76	true	name: bern's steak house / Bern's Steak House
+77	null	name: ..... / Andhra Bank
+78	null	name: ..... / Anglo Swiss Capital Ltd
+79	null	name: ..... / Goals Soccer Centres
+80	null	name: ..... / DataMirror Corporation
+81	null	name: ..... / Teach First
+82	null	name: ..... / Sevin Rosen Funds
+83	null	name: ..... / Decathlon
+84	false	name: harris scarfe / Harris Scarfe Department Stores
+85	null	name: ..... / Gulf South Pipeline
+86	null	name: ..... / Avanade Inc.
+87	true	name: blackplanet.com / Blackplanet. com
+88	null	name: ..... / COLT Studio Group
+89	true	name: jacobs engineering group / Jacobs Engineering Group Inc.
+90	null	name: ..... / Berry Plastics
+91	true	name: exult, inc. / Exult Inc.
+92	null	name: ..... / Texas Gas Transmission
+93	true	name: sip broker / SIP Broker
+94	null	name: ..... / Crnogorski Telekom
+95	null	name: ..... / Yuke's Co. Ltd
+96	null	name: ..... / Confederate Motor Company, Inc.
+97	null	name: ..... / ACD Systems Ltd
+98	true	name: genesee & wyoming inc. / Genesee &amp; Wyoming Inc.
+99	null	name: ..... / Popular Holdings
+100	null	name: ..... / Webzen Inc.
+101	null	name: ..... / Blackjack Pizza
+102	null	name: ..... / Michel's Patisserie
+103	null	name: ..... / Eicon Networks Corporation
+104	true	name: i-go / I-GO
+105	true	name: cluster file systems, inc. / Cluster File Systems, Inc.
+106	null	name: ..... / Yogi Tea
+107	null	name: ..... / Credit Union Atlantic
+108	null	name: ..... / HB Studios
+109	null	name: ..... / Team Ninja
+110	null	name: ..... / New England Pest Control
+111	null	name: ..... / Södra Cell Folla
+112	null	name: ..... / Rexam PLC
+113	false	name: cartoys / CarToys, Inc.
+114	true	name: swr sound corporation / SWR Sound Corporation
+115	null	name: ..... / VocalTec Communications Inc.
+116	null	name: ..... / BFG Technologies
+117	null	name: ..... / Orascom Telecom Holding S. A.E.
+118	null	name: ..... / Lyulka
+119	null	name: ..... / Savvis, Inc.
+120	null	name: ..... / City Link
+121	null	name: ..... / Builders Square
+122	null	name: ..... / Frucor
+123	null	name: ..... / Mothercare plc
+124	null	name: ..... / Fokus Bank
+125	null	name: ..... / float|right Metro Broadcast Corporation Ltd.
+126	true	name: borgwarner inc. / BorgWarner Inc.
+127	null	name: ..... / Artoon
+128	null	name: ..... / Employees' Provident Fund Organisation
+129	null	name: ..... / STX Corporation
+130	null	name: ..... / Frog City Software
+131	true	name: gold reserve inc. / Gold Reserve Inc.
+132	true	name: visma as / Visma AS
+133	null	name: ..... / Biomet, Inc.
+134	null	name: ..... / Ross Stores, Inc.
+135	null	name: ..... / Sepracor, Inc.
+136	null	name: ..... / Affiliated Foods Midwest
+137	null	name: ..... / Grupo Elektra
+138	null	name: ..... / Celgene Corporation
+139	null	name: ..... / Microsoft Japan,
+140	null	name: ..... / Orenda Engines
+141	true	name: verdict research / Verdict Research
+142	null	name: ..... / Groupe Bruxelles Lambert
+143	null	name: ..... / Sports Authority
+144	null	name: ..... / Smith Corona
+145	null	name: ..... / Anadarko Petroleum Corporation
+146	null	name: ..... / Refco
+147	null	name: ..... / Xcitement Wrestling Federation
+148	null	name: ..... / Kofax
+149	null	name: ..... / General Motors of Canada Limited
+150	null	name: ..... / Bugbear Entertainment Ltd.
+151	null	name: ..... / Sweetbay Supermarket
+152	null	name: ..... / Groundspeak, Inc.
+153	null	name: ..... / MetaMatrix
+154	false	name: globe international / Globe
+155	null	name: ..... / Feinwerkbau
+156	null	name: ..... / N.V. Bekaert S.
+157	null	name: ..... / H
+158	true	name: knockabout comics / Knockabout Comics
+159	true	name: affiliated foods southwest / Affiliated Foods Southwest
+160	null	name: ..... / Legal Sea Foods
+161	false	name: united online / United Online, Inc.
+162	true	name: catalan communications / Catalan Communications
+163	null	name: ..... / Nidar
+164	null	name: ..... / Yorkshire Water
+165	null	name: ..... / Tiffany's Restaurants, Inc.
+166	null	name: ..... / America's Best Comics
+167	null	name: ..... / VoicePulse
+168	false	name: abc supply / ABC Supply Company Incorporated
+169	null	name: ..... / Adecco S.
+170	null	name: ..... / Maas Brothers
+171	true	name: lion brewery, inc. / Lion Brewery, Inc,
+172	null	name: ..... / Brantly International Inc.
+173	null	name: ..... / Storebrand
+174	null	name: ..... / Kerberos Productions Inc.
+175	null	name: ..... / Clarecraft
+176	null	name: ..... / Shin'en
+177	null	name: ..... / First Leicester
+178	true	name: styria media group ag / Styria Media Group AG,
+179	null	name: ..... / Arush Entertainment
+180	true	name: auto trader / Auto Trader
+181	true	name: extended stay hotels / Extended Stay Hotels
+182	null	name: ..... / Jeppesen
+183	null	name: ..... / Ernst Home &amp; Nursery
+184	null	name: ..... / Hamburger Station
+185	true	name: norkom technologies / Norkom Technologies
+186	false	name: a. le coq / Le Coq
+187	null	name: ..... / VoIP User
+188	null	name: ..... / Zany Brainy
+189	null	name: ..... / Sea Containers Ltd.
+190	true	name: the odyssey bookshop / The Odyssey Bookshop
+191	false	name: kepler's books / Kepler's Books and Magazines
+192	true	name: trustpower / TrustPower
+193	null	name: ..... / Greggs plc
+194	null	name: ..... / C. Hoare &amp; Co
+195	null	name: ..... / The Malyshev Factory
+196	null	name: ..... / Rhino Video Games
+197	null	name: ..... / Daisy Rock Girl Guitars
+198	false	name: thompson center arms inc / Thompson/Center Arms Company
+199	null	name: ..... / Next Level Games Inc.
+200	null	name: ..... / Corporation Bank( Kannada: ಕಾರ್ಪೊರೇಶನ್
+201	null	name: ..... / Perrigo Company,
+202	null	name: ..... / Ashtead Group plc
+203	null	name: ..... / Micromy
+204	null	name: ..... / LS Group
+205	true	name: liquid entertainment / Liquid Entertainment
+206	true	name: shanghai tang / Shanghai Tang
+207	null	name: ..... / Del Monte Foods
+208	null	name: ..... / Enodis plc
+209	null	name: ..... / Radical Entertainment
+210	null	name: ..... / Hill &amp; Knowlton
+211	null	name: ..... / Eat'n Park
+212	null	name: ..... / Nordseewerke
+213	null	name: ..... / Taylor Woodrow
+214	false	name: berliner verkehrsbetriebe (bvg) / Berlin Transportation Company
+215	null	name: ..... / The Kinepolis Group
+216	false	name: harlequin enterprises / Harlequin Enterprises Limited
+217	null	name: ..... / Frozenbyte Inc.
+218	null	name: ..... / SalvageSale
+219	null	name: ..... / Barratt Developments PLC
+220	null	name: ..... / The Gymboree Corporation
+221	null	name: ..... / Pendleton Woolen Mills
+222	null	name: ..... / Bellway plc
+223	null	name: ..... / November
+224	null	name: ..... / Big Daddy's BBQ Sauce
+225	null	name: ..... / Persimmon plc
+226	null	name: ..... / Indesit Company,
+227	null	name: ..... / Kewill PLC
+228	null	name: ..... / Carhartt, Inc.
+229	true	name: disney-abc domestic television / Disney-ABC Domestic Television
+230	null	name: ..... / Citadel LLC
+231	null	name: ..... / Carillion plc
+232	null	name: ..... / Sun-Rype Products Ltd.
+233	null	name: ..... / KLA-Tencor Corporation
+234	null	name: ..... / Griptonite Games,
+235	null	name: ..... / Berkeley Group Holdings plc
+236	null	name: ..... / Cerruti
+237	null	name: ..... / Ginster's
+238	null	name: ..... / Bodycote plc
+239	null	name: ..... / Federated Investors
+240	null	name: ..... / Foster Wheeler
+241	null	name: ..... / Chang'an Automobile
+242	false	name: bible broadcasting network / played every morning
+243	null	name: ..... / Hongkong Electric Holdings Limited
+244	null	name: ..... / Geokinetics, Inc.
+245	null	name: ..... / Rap Snacks
+246	true	name: bogdan corporation / Bogdan Corporation
+247	null	name: ..... / Essilor International S.
+248	null	name: ..... / McCarthy &amp; Stone
+249	false	name: pioneer hi-bred international / Pioneer Hi-Bred
+250	null	name: ..... / Headlam Group plc
+251	null	name: ..... / Adam Internet
+252	null	name: ..... / Devil's
+253	null	name: ..... / MITIE Group PLC
+254	null	name: ..... / CB Richard Ellis Group, Inc.
+255	false	name: necco (new england confectionery company) / Necco
+256	null	name: ..... / Novolipetsk Steel(
+257	null	name: ..... / Bankaktiebolaget Avanza
+258	null	name: ..... / Bare Bones Software
+259	true	name: elgood's / Elgood's
+260	true	name: ncb group / NCB Group
+261	null	name: ..... / Viglen Ltd
+262	true	name: dan murphy's / Dan Murphy's
+263	null	name: ..... / Walt Disney Studios Home Entertainment
+264	false	name: kewpee / Kewpee Hamburgers
+265	null	name: ..... / Thistle Hotels
+266	null	name: ..... / Wisconsin Bell, Inc.
+267	null	name: ..... / Völkl
+268	true	name: blitz games / Blitz Games,
+269	null	name: ..... / Software Innovation
+270	true	name: media capital sgps sa / Media Capital SGPS, SA,
+271	true	name: walden media / Walden Media
+272	null	name: ..... / Media AG
+273	null	name: ..... / The Warnaco Group, Inc.
+274	null	name: ..... / South East ( Fujian
+275	false	name: winternals software lp / Windows Sysinternals
+276	true	name: apptix / Apptix
+277	null	name: ..... / China Resources
+278	null	name: ..... / Verizon New Jersey, Inc.
+279	null	name: ..... / Seven Stories Press
+280	null	name: ..... / Telegate
+281	true	name: lutron electronics company, inc. / Lutron Electronics Company, Inc.
+282	null	name: ..... / Maggi
+283	null	name: ..... / Biggby Coffee
+284	null	name: ..... / Allergan, Inc.
+285	null	name: ..... / Gloria Jean's Coffees
+286	true	name: communauto / Communauto
+287	null	name: ..... / Ameren Corporation
+288	null	name: ..... / FrieslandCampina
+289	null	name: ..... / Hf. Eimskipafélag
+290	null	name: ..... / The TTK Group
+291	null	name: ..... / Yankee Group,
+292	null	name: ..... / FAW Group Corporation
+293	null	name: ..... / NCC AB
+294	null	name: ..... / Roper Industries
+295	null	name: ..... / Gordon Food Service
+296	null	name: ..... / Owen Owen
+297	null	name: ..... / Jones Radio Networks &amp; Jones Media
+298	true	name: veuve clicquot ponsardin / Veuve Clicquot Ponsardin
+299	true	name: sun television and appliances / Sun Television and Appliances
+300	null	name: ..... / Information Technology
+301	null	name: ..... / Guangdong Development Bank
+302	null	name: ..... / Wuhan Iron
+303	true	name: founder group / Founder Group
+304	null	name: ..... / Hyundai Hysco,
+305	null	name: ..... / DaVita, Inc.
+306	null	name: ..... / Automattic, Inc.
+307	null	name: ..... / Shelby SuperCars Inc.
+308	false	name: sociedade central de cervejas e bebidas, s.a. / Sociedade Central de Cervejas
+309	false	name: cz-usa inc / CZ-USA
+310	null	name: ..... / Semapa - Sociedade de Investimento
+311	null	name: ..... / Midwest Communications,
+312	true	name: fiction house / Fiction House
+313	null	name: ..... / Linux Game Publishing
+314	null	name: ..... / The Manufacturers' Mutual Accident Insurance Association Limited
+315	false	name: nichicon / thumb|Nichicon Building in Nakagyo-ku, Kyoto
+316	null	name: ..... / First Quench Retailing
+317	true	name: pakistan steel mills / Pakistan Steel Mills
+318	null	name: ..... / Arash Farboud
+319	null	name: ..... / Banca Intesa S.
+320	null	name: ..... / Bristol Paint
+321	true	name: igm financial inc. / IGM Financial Inc.
+322	null	name: ..... / Great-West Lifeco
+323	null	name: ..... / GameZnFlix
+324	null	name: ..... / Bangladesh Railway
+325	null	name: ..... / Objective Interface Systems, Inc.
+326	null	name: ..... / Hetero Drugs Limited
+327	null	name: ..... / Xinhua Finance Limited
+328	null	name: ..... / Texas Homecare
+329	null	name: ..... / Hills Department Store
+330	null	name: ..... / The South Yorkshire Passenger Transport Executive
+331	null	name: ..... / Lee Enterprises
+332	null	name: ..... / Harman International Industries
+333	null	name: ..... / 21st Century Film Corporation
+334	null	name: ..... / Farrell Lines
+335	true	name: midwinter pottery / The Midwinter Pottery
+336	null	name: ..... / Pontin's
+337	true	name: new generation software / New Generation Software
+338	null	name: ..... / Doubletree
+339	null	name: ..... / United Space Alliance
+340	null	name: ..... / Digi-Key
+341	null	name: ..... / Bharat Earth Movers Limited
+342	null	name: ..... / Sanyo
+343	true	name: novotel / Novotel
+344	null	name: ..... / Tupperware Brands Corporation, formerly Tupperware Corporation,
+345	null	name: ..... / Cyberdreams Interactive Entertainment
+346	null	name: ..... / Ausway
+347	null	name: ..... / Key Brand Entertainment
+348	null	name: ..... / Doosan Group
+349	true	name: fremont assembly / Fremont Assembly
+350	null	name: ..... / Elfin Sports Cars Pty Ltd
+351	true	name: dean foods / Dean Foods
+352	null	name: ..... / Whirlwind USA
+353	null	name: ..... / Rykä
+354	null	name: ..... / Mazda North American Operations
+355	null	name: ..... / AK Steel Corporation
+356	true	name: great western bank / :Great Western Bank
+357	null	name: ..... / Réseau Ferré de France
+358	null	name: ..... / Corficolombiana
+359	null	name: ..... / DataPlay
+360	true	name: ilitch holdings, inc. / Ilitch Holdings, Inc.
+361	null	name: ..... / Jarrow Brewing Company,
+362	null	name: ..... / MI Developments Inc.
+363	false	name: churchill downs inc. / Churchill Downs Incorporated
+364	null	name: ..... / Conspiracy Entertainment
+365	null	name: ..... / Nokian Tyres PLC
+366	null	name: ..... / BAE Systems Electronics, Intelligence &amp; Support
+367	null	name: ..... / TomTom NV
+368	null	name: ..... / Flying Lab Software
+369	true	name: olin corporation / The Olin Corporation
+370	null	name: ..... / Innocent Drinks
+371	true	name: newcastle-upon-tyne electric supply company / The Newcastle-upon-Tyne Electric Supply Company
+372	null	name: ..... / of Chiba Prefecture, Japan
+373	null	name: ..... / Chang Hwa Bank
+374	true	name: ingram barge company / The Ingram Barge Company
+375	null	name: ..... / Crave Entertainment
+376	true	name: go-lo / Go-Lo
+377	true	name: linear technology corporation / Linear Technology Corporation
+378	null	name: ..... / Ethnic Channels Group
+379	true	name: color group as / Color Group AS
+380	null	name: ..... / SELEX Sistemi Integrati
+381	false	name: messe düsseldorf gmbh / Düsseldorf Messe
+382	null	name: ..... / Schecter Guitar Research,
+383	null	name: ..... / Backcountry. com
+384	null	name: ..... / The Norwegian Media Authority
+385	true	name: turtle beach systems / Turtle Beach Systems
+386	null	name: ..... / Emergis Inc.
+387	null	name: ..... / Hummingbird Ltd.
+388	false	name: oil india limited / Oil India
+389	null	name: ..... / Finavia Corporation
+390	null	name: ..... / Stater Bros. Markets
+391	false	name: dynit / Dynit SRL
+392	null	name: ..... / TAPE Inc
+393	null	name: ..... / Intuitive Surgical Inc.
+394	false	name: aptera motors, inc. / Aptera Motors
+395	null	name: ..... / AVM
+396	null	name: ..... / Arc'teryx
+397	null	name: ..... / Davies Turner
+398	null	name: ..... / Izod
+399	null	name: ..... / Mingxing Film Company
+400	true	name: biopure corporation / Biopure Corporation
+401	null	name: ..... / AT&amp;T Labs, Inc.
+402	true	name: animation collective / Animation Collective
+403	null	name: ..... / Axel Springer AG
+404	false	name: pakistan petroleum / Pakistan Petroleum Limited
+405	null	name: ..... / Mr. Muscle
+406	null	name: ..... / Orbit Communications Company
+407	false	name: urenco group / The URENCO Group
+408	null	name: ..... / Tooton's Photography,
+409	null	name: ..... / T.K. Maxx
+410	null	name: ..... / First American Financial Corporation
+411	null	name: ..... / Mugg &amp; Bean
+412	null	name: ..... / St. Jude Medical, Inc.
+413	null	name: ..... / Golden Corral
+414	null	name: ..... / Whittle Shortline
+415	null	name: ..... / FYFFES PLC
+416	null	name: ..... / XSEL
+417	true	name: granville technology group / Granville Technology Group Ltd
+418	null	name: ..... / SNOCAP
+419	null	name: ..... / Sabesp
+420	true	name: elektrobit corporation / Elektrobit Corporation
+421	true	name: amerifit brands, inc. / Amerifit Brands,
+422	null	name: ..... / GSC Game World
+423	null	name: ..... / Thunder Tiger Corporation
+424	null	name: ..... / Lululemon Athletica Inc.
+425	null	name: ..... / Vanguard Animation, LLC.
+426	true	name: wonderware / Wonderware
+427	true	name: yuri international, inc. / Yuri International, Inc.
+428	null	name: ..... / SIG plc
+429	true	name: cipsoft gmbh / CipSoft GmbH,
+430	null	name: ..... / Griffon Aerospace
+431	null	name: ..... / Hochtief Aktiengesellschaft
+432	true	name: fuzzy door productions / Fuzzy Door Productions
+433	null	name: ..... / Ernesto Coppola &amp; Figli
+434	null	name: ..... / Inukshuk Wireless
+435	null	name: ..... / Digi TV
+436	null	name: ..... / Burlington Resources,
+437	null	name: ..... / Grupo México
+438	false	name: 'hadeed' / Saudi Iron &amp; Steel Company
+439	null	name: ..... / Petronet LNG Limited
+440	null	name: ..... / Claiborne Farm
+441	null	name: ..... / Harold's Chicken Shack
+442	null	name: ..... / The Bulgarian State Railways
+443	null	name: ..... / United Launch Alliance
+444	null	name: ..... / Famous Stars and Straps
+445	null	name: ..... / S2 Games
+446	null	name: ..... / Yelp, Inc.
+447	null	name: ..... / Famous Footwear
+448	null	name: ..... / Coca-Cola Bottling Co. Consolidated
+449	null	name: ..... / Scheels All Sports
+450	null	name: ..... / TVU Networks Corporation
+451	null	name: ..... / Pall Corporation
+452	null	name: ..... / Polar Beverages
+453	null	name: ..... / IKB Deutsche Industriebank
+454	null	name: ..... / Coco's Bakery Restaurant
+455	null	name: ..... / The Dura Lube Corporation
+456	true	name: solar entertainment corporation / Solar Entertainment Corporation
+457	true	name: cole haan / Cole Haan
+458	null	name: ..... / White Hen Pantry
+459	null	name: ..... / Chelsea Building Society
+460	null	name: ..... / TÜV SÜD
+461	true	name: oao luhanskteplovoz / Luhanskteplovoz
+462	null	name: ..... / Konka Electronics
+463	null	name: ..... / Rugby Ralph Lauren
+464	true	name: cornell companies inc. / Cornell Companies
+465	null	name: ..... / Centennial Communications
+466	null	name: ..... / Flexifoil International
+467	null	name: ..... / Sanofi Pasteur
+468	null	name: ..... / New India Assurance
+469	true	name: xkoto inc. / xkoto, Inc.
+470	true	name: hornady manufacturing company / Hornady Manufacturing Company
+471	true	name: labtec inc. / Labtec Inc.
+472	null	name: ..... / Rémy Cointreau
+473	null	name: ..... / Grupo León Jimenes,
+474	true	name: wilmorite properties, inc. / Wilmorite Properties, Inc
+475	true	name: king faisal specialist hospital and research center / King Faisal Specialist Hospital and Research Centre
+476	null	name: ..... / Woodman's Food Market
+477	null	name: ..... / WayForward Technologies
+478	true	name: tvs motor company / TVS Motor Company
+479	null	name: ..... / Bamberger's
+480	false	name: world travel & tourism council (wttc) / The World Travel &amp; Tourism
+481	null	name: ..... / MBIA, Inc.
+482	null	name: ..... / Dana Holding Corporation
+483	null	name: ..... / Illinois Tool Works Inc.
+484	null	name: ..... / Boral
+485	null	name: ..... / NYSE Euronext, Inc.
+486	null	name: ..... / Federal Bank
+487	true	name: tutor perini corporation / Tutor Perini Corporation
+488	null	name: ..... / Mixed Media Group, Inc.
+489	null	name: ..... / Regent Inns
+490	null	name: ..... / AT&amp;T Communications, Inc.
+491	true	name: moorhouse's / Moorhouse's
+492	null	name: ..... / Dubai Media City
+493	null	name: ..... / Tech Mahindra Ltd.
+494	null	name: ..... / NTPC Limited
+495	true	name: rochester midland corporation / Rochester Midland Corporation
+496	null	name: ..... / The Midcounties Co-operative Limited
+497	true	name: oriflame cosmetics / Oriflame Cosmetics S.
+498	null	name: ..... / American Stores Company
+499	null	name: ..... / ABC Learning
+500	null	name: ..... / Jabra
+501	null	name: ..... / Saudi Telecom Company, STC
+502	null	name: ..... / MetaCreations
+503	null	name: ..... / Bayer HealthCare Pharmaceuticals
+504	null	name: ..... / Kaiser Aluminum
+505	null	name: ..... / Christofle
+506	null	name: ..... / VIVACOM
+507	null	name: ..... / Miller-Boyett Productions
+508	null	name: ..... / Bloombase Technologies
+509	null	name: ..... / General Motors Europe
+510	true	name: adams express company / The Adams Express Company
+511	true	name: the peel group / The Peel Group
+512	null	name: ..... / Northern Trust Corporation
+513	true	name: ethiopian telecommunications corporation / The Ethiopian Telecommunications Corporation
+514	true	name: art technology group, inc. / Art Technology Group
+515	null	name: ..... / Artech Digital Entertainment, Ltd.
+516	true	name: aloha petroleum, ltd. / Aloha Petroleum, Ltd.
+517	null	name: ..... / Strawberry Jam Comics
+518	null	name: ..... / Suzlon Energy
+519	null	name: ..... / Knjaz Miloš AD
+520	null	name: ..... / The Hellenic Arms Industry
+521	null	name: ..... / Aardvark-Vanaheim
+522	null	name: ..... / Valtech
+523	null	name: ..... / Successories
+524	null	name: ..... / SS Cars Ltd
+525	null	name: ..... / The International Navigation Company
+526	true	name: salzburg global seminar / The Salzburg Global Seminar
+527	true	name: matt brewing company / F.X. Matt Brewing Company
+528	null	name: ..... / Toll Brothers
+529	true	name: marshfield clinic / Marshfield Clinic
+530	null	name: ..... / Chubb Security
+531	null	name: ..... / Clearwire Corporation
+532	null	name: ..... / AlMaghrib Institute
+533	null	name: ..... / Central Cooperative Bank
+534	null	name: ..... / Leggett &amp; Platt
+535	null	name: ..... / Bolsa de Valores
+536	true	name: aceralia / Aceralia
+537	null	name: ..... / Banco de la Nación Argentina
+538	true	name: red light district video / Red Light District Video
+539	null	name: ..... / Moneysupermarket. com Group PLC
+540	true	name: saputo inc. / Saputo Inc.
+541	null	name: ..... / EllisLab
+542	true	name: halifax harbour bridges / Halifax Harbour Bridges
+543	null	name: ..... / Magic Software Enterprises
+544	null	name: ..... / Vancouver City Savings Credit Union,
+545	false	name: eileen fisher / Eileen Fisher, Inc.
+546	null	name: ..... / MainSource Bank
+547	null	name: ..... / St. John Publications
+548	null	name: ..... / United States Fire-Arms Manufacturing Company, Inc.
+549	null	name: ..... / Morton's Restaurant Group, Inc.
+550	null	name: ..... / American Cruise Lines
+551	true	name: aircastle limited / Aircastle Limited
+552	null	name: ..... / GoToMyPC
+553	null	name: ..... / The Pyramid Companies
+554	null	name: ..... / Quicken Loans Inc.
+555	null	name: ..... / bwin Interactive Entertainment AG
+556	null	name: ..... / CODETEL
+557	null	name: ..... / Ocean Village
+558	null	name: ..... / Purple Music Switzerland
+559	null	name: ..... / Softmax
+560	null	name: ..... / Interpipe Group,
+561	null	name: ..... / Nexcite
+562	true	name: tanzania electric supply company limited / Tanzania Electric Supply Company Limited
+563	null	name: ..... / Prince Edward Island Liquor Control Commission
+564	null	name: ..... / Jay Cashman, Inc.
+565	null	name: ..... / Moon Boots
+566	null	name: ..... / JSC BTA Bank
+567	null	name: ..... / China Banking Corporation
+568	false	name: puerto rico telephone company, inc. / Puerto Rico Telephone
+569	null	name: ..... / CH2M HILL
+570	null	name: ..... / Awesome Comics
+571	null	name: ..... / Pony International,
+572	null	name: ..... / Charles Tyrwhitt
+573	true	name: tuttle publishing / Tuttle Publishing,
+574	true	name: doğuş holding / Doğuş Holding
+575	true	name: wild asia / Wild Asia
+576	null	name: ..... / Eramet
+577	false	name: antidote international films, inc. / Antidote Films,
+578	null	name: ..... / Glass Eye Pix
+579	false	name: heironimus / S.H. Heironimus Co.
+580	null	name: ..... / Loehmann's
+581	null	name: ..... / Canadian Information Processing Society
+582	null	name: ..... / DayStar Digital, Inc.
+583	null	name: ..... / SegaSoft,
+584	null	name: ..... / Southwestern Company
+585	null	name: ..... / Ratloop, Inc.
+586	true	name: jyp entertainment / JYP Entertainment
+587	null	name: ..... / Instaphone
+588	null	name: ..... / Lennar Corporation
+589	null	name: ..... / Arrow Electronics
+590	null	name: ..... / GlyphX Inc.
+591	false	name: king long united automotive industry co., ltd金龙客车 / King Long
+592	null	name: ..... / Tempo Centar
+593	true	name: lotte department store / Lotte Department Store
+594	null	name: ..... / YRC Worldwide Inc.
+595	null	name: ..... / Praxair, Inc.
+596	null	name: ..... / Codeblack Entertainment
+597	true	name: bryggeri ab falken / Bryggeri AB Falken
+598	true	name: volkswagen do brasil ltda. / Volkswagen do Brasil Ltda.
+599	null	name: ..... / Telenor Pakistan
+600	null	name: ..... / Carrabba's Italian Grill
+601	null	name: ..... / Paradigm Entertainment
+602	null	name: ..... / Bburago
+603	true	name: pearl brewing company / The Pearl Brewing Company
+604	null	name: ..... / Frontier Communications Corporation
+605	true	name: brammo, inc. / Brammo, Inc.
+606	true	name: the mosaic company / The Mosaic Company
+607	null	name: ..... / Standard Pacific Homes
+608	null	name: ..... / Marshall &amp; Ilsley Corporation
+609	null	name: ..... / Faronics Corporation
+610	null	name: ..... / Wisconsin Energy Corporation
+611	null	name: ..... / EOG Resources
+612	null	name: ..... / Lorimar-Telepictures
+613	null	name: ..... / Heenan Blaikie LLP
+614	false	name: smythson / Frank Smythson Ltd.
+615	null	name: ..... / Destination Films
+616	null	name: ..... / TD Ameritrade
+617	true	name: star bonifacio echeverria, s.a. / Star Bonifacio Echeverria, S.
+618	true	name: lancaster newspapers, inc / Lancaster Newspapers
+619	true	name: ugi corporation / UGI Corporation
+620	null	name: ..... / RoboDynamics
+621	null	name: ..... / Technip
+622	null	name: ..... / Wella
+623	null	name: ..... / Crown Financial Ministries
+624	null	name: ..... / Indie Press Revolution
+625	null	name: ..... / Ankur
+626	null	name: ..... / Técnicas Reunidas, S.
+627	null	name: ..... / Russell Corporation,
+628	null	name: ..... / Kalayaan Broadcasting System
+629	null	name: ..... / Ipsen
+630	null	name: ..... / Gold Fields Limited
+631	null	name: ..... / Verizon Business
+632	null	name: ..... / IvyWise
+633	null	name: ..... / Seabourn Cruise Line
+634	true	name: the manitowoc company, inc. / Manitowoc Company Inc
+635	false	name: chartwell seniors housing reit / Chartwell
+636	null	name: ..... / Pied Piper Comics
+637	null	name: ..... / Octaviar Limited
+638	null	name: ..... / M.A. Kharafi
+639	null	name: ..... / Viridian Group plc
+640	null	name: ..... / Seawind Barclay Curle
+641	null	name: ..... / Nifty Comics
+642	true	name: dabel brothers productions / Dabel Brothers Productions
+643	null	name: ..... / A/S Dampskibsselskabet TORM
+644	true	name: vipnet / Vipnet
+645	null	name: ..... / Pennon Group plc
+646	null	name: ..... / Jimmy Choo Ltd.
+647	false	name: csr qingdao sifang locomotive & rolling stock co., ltd, / CSR Sifang Co
+648	null	name: ..... / GSD&amp;M Idea City
+649	true	name: vera bradley designs, inc. / Vera Bradley Designs, Inc.
+650	null	name: ..... / ElDorado National
+651	null	name: ..... / Fast ForWord
+652	null	name: ..... / Cage Rage Championships,
+653	null	name: ..... / Viper Comics,
+654	false	name: british sugar / British Sugar plc
+655	null	name: ..... / Maison Blanche
+656	null	name: ..... / Geox
+657	false	name: national development complex (ndc) / The National Development Complex
+658	null	name: ..... / Jersey Mike's Subs
+659	null	name: ..... / Musician's Friend
+660	null	name: ..... / Idea Cellular,
+661	null	name: ..... / Torneos y Competencias
+662	null	name: ..... / RCTV International
+663	null	name: ..... / Compañía Nacional de Chocolates S.
+664	null	name: ..... / DEX One Corporation
+665	null	name: ..... / Postobón, S.
+666	null	name: ..... / Italcimenti Group Italcementi
+667	true	name: black flame / Black Flame
+668	null	name: ..... / thumb|right|250px|Innovative Interfaces, Inc.
+669	null	name: ..... / Tanishq
+670	null	name: ..... / Cape Cod Potato Chips
+671	null	name: ..... / TaylorMade-adidas Golf Company
+672	false	name: tapatío hot sauce / Tapatío
+673	true	name: yamana gold inc. / Yamana Gold Inc.
+674	true	name: churchill china plc / Churchill China PLC
+675	null	name: ..... / Q-Games
+676	null	name: ..... / Intermec Inc.
+677	null	name: ..... / QAI
+678	null	name: ..... / Servier Laboratories
+679	null	name: ..... / Wing-Time, Inc.
+680	true	name: hudepohl brewing company / Hudepohl Brewing Company
+681	null	name: ..... / Bergen Hospital Trust
+682	true	name: aladdin knowledge systems / Aladdin Knowledge Systems
+683	null	name: ..... / Irish Continental Group
+684	null	name: ..... / Acciona, S. A.,
+685	null	name: ..... / Wateen Telecom
+686	null	name: ..... / Golden Screen Cinemas
+687	null	name: ..... / Clarins
+688	null	name: ..... / Crutchfield Corporation
+689	null	name: ..... / Underbelly Limited
+690	null	name: ..... / AVEVA Group plc
+691	null	name: ..... / First National Bank Omaha
+692	null	name: ..... / Avalanche Software
+693	null	name: ..... / Argo Tea
+694	null	name: ..... / ZAO ALROSA
+695	null	name: ..... / Virsa Systems
+696	true	name: commerce national bank / Commerce National Bank,
+697	null	name: ..... / Dominick's
+698	true	name: defence materiel organisation / The Defence Materiel Organisation
+699	null	name: ..... / JoWooD Entertainment AG
+700	null	name: ..... / Mauritius Commercial Bank
+701	null	name: ..... / State Bank
+702	null	name: ..... / Fred. Olsen Cruise Lines
+703	true	name: microdeal / Microdeal
+704	true	name: fontana distribution / Fontana Distribution
+705	null	name: ..... / Irwin Industrial Tools
+706	null	name: ..... / Maroc Telecom
+707	null	name: ..... / Burckhardt Compression AG
+708	null	name: ..... / GEA Group AG
+709	null	name: ..... / Hypnos Entertainment
+710	null	name: ..... / Meitar Liquornik Geva &amp; Leshem Brandwein
+711	null	name: ..... / Herzog, Fox &amp; Ne'eman
+712	null	name: ..... / Gornitzky &amp; Co.
+713	true	name: construzione automobili intermeccanica / Construzione Automobili Intermeccanica
+714	null	name: ..... / Balter, Guth, Aloni &amp; Co.
+715	null	name: ..... / UP Aerospace, Inc.
+716	null	name: ..... / Ramtron International Corporation
+717	false	name: him international music, ltd.華研國際音樂股份有限公司 / HIM International Music
+718	null	name: ..... / S. Horowitz &amp; Co.
+719	null	name: ..... / thumb|right|A Systemax Venture PCSystemax, Inc.
+720	null	name: ..... / Banco Nacional de Obras
+721	true	name: cook group incorporated / Cook Group Incorporated
+722	true	name: monsoon accessorize ltd. / Monsoon Accessorize
+723	null	name: ..... / M. Firon &amp; Co.
+724	null	name: ..... / Jeld-Wen
+725	true	name: scientific games corporation / Scientific Games Corporation
+726	null	name: ..... / LegalZoom. com, Inc.
+727	null	name: ..... / Yehuda Raveh &amp; Co.
+728	null	name: ..... / Bank Zachodni WBK
+729	null	name: ..... / Carter Holt Harvey Limited
+730	true	name: gaylord hotels / Gaylord Hotels
+731	null	name: ..... / Eastern Color Printing Company
+732	null	name: ..... / McMaster-Carr Supply Company
+733	false	name: singapore technologies engineering ltd / ST Engineering Ltd
+734	null	name: ..... / Uchumi Supermarkets
+735	null	name: ..... / Zono Incorporated,
+736	null	name: ..... / True Religion Brand Jeans
+737	null	name: ..... / The Chunghwa Post Co. , Ltd.
+738	null	name: ..... / Minyanville Media, Inc.
+739	true	name: eden studios, inc. / Eden Studios, Inc.
+740	null	name: ..... / Baotian Motorcycle Industrial Co. Ltd,
+741	null	name: ..... / Epcos AG
+742	null	name: ..... / Omega Pharma
+743	null	name: ..... / Aleksandar Palas Hotel
+744	null	name: ..... / Mecom Group
+745	null	name: ..... / Raycom Sports
+746	null	name: ..... / SilverStone Technology
+747	null	name: ..... / Vitsœ
+748	false	name: promotora de informaciones, s.a / PRISA
+749	null	name: ..... / DonorsChoose
+750	null	name: ..... / Nex Entertainment,
+751	null	name: ..... / Trailer Park
+752	null	name: ..... / Brookfield Multiplex
+753	null	name: ..... / Boss &amp; Co.
+754	true	name: westley richards / Westley Richards
+755	null	name: ..... / Wolf Ammunition
+756	null	name: ..... / SiSoftware,
+757	null	name: ..... / Tesla Motors Inc.
+758	null	name: ..... / Meritage Homes Corporation
+759	null	name: ..... / Filene's Basement,
+760	null	name: ..... / The Joyland Amusement Park
+761	true	name: media24 / Media24
+762	null	name: ..... / Interoute Communications Ltd,
+763	null	name: ..... / Ultra Records
+764	null	name: ..... / Write Brothers, Inc.
+765	null	name: ..... / 1-800-GOT-JUNK?
+766	null	name: ..... / Renegade Press
+767	null	name: ..... / Sky Deutschland AG
+768	null	name: ..... / Angus &amp; Robertson
+769	null	name: ..... / The Raiffeisen Bank
+770	null	name: ..... / Kraš
+771	null	name: ..... / Renewable Energy Corporation
+772	null	name: ..... / Fierce Angel
+773	null	name: ..... / Herley Industries
+774	null	name: ..... / BOOM! Studios
+775	null	name: ..... / Greyhound Australia
+776	null	name: ..... / Nokia Siemens Networks
+777	null	name: ..... / Iskratel
+778	null	name: ..... / The Cambridge Glass Company
+779	null	name: ..... / Continua Health Alliance
+780	true	name: miniature machine corporation / Miniature Machine Corporation
+781	true	name: kinetic engineering limited / Kinetic Engineering Limited
+782	null	name: ..... / BAM Nuttall Limited,
+783	null	name: ..... / FOLIOfn, Inc.
+784	null	name: ..... / Noxell Corporation
+785	true	name: cabybara games / Capybara Games
+786	true	name: mexican restaurants, inc. / Mexican Restaurants, Inc.
+787	null	name: ..... / Recordland
+788	true	name: abm industries incorporated / ABM Industries Incorporated
+789	null	name: ..... / Hyatt Regency Belgrade
+790	null	name: ..... / Hatch
+791	null	name: ..... / East Midlands Electricity Board
+792	null	name: ..... / Cambridge Technology Partners
+793	null	name: ..... / Sterling Ledet &amp; Associates, Inc.
+794	null	name: ..... / E.ON UK
+795	null	name: ..... / Value Research India Pvt. Ltd.
+796	null	name: ..... / Altri
+797	null	name: ..... / GE Aviation Systems
+798	null	name: ..... / Strawdog Studios Ltd.
+799	null	name: ..... / CEVA
+800	false	name: ecustoms / MSR
+801	null	name: ..... / Poundland
+802	null	name: ..... / Dairy Farmers
+803	true	name: vocento, s.a. / Vocento, S.
+804	null	name: ..... / Baymont Inn &amp; Suites
+805	null	name: ..... / The Murugappa Group
+806	null	name: ..... / McArthurGlen Group
+807	true	name: giaconda / Giaconda
+808	null	name: ..... / IMG Academies
+809	true	name: cook door / Cook Door
+810	null	name: ..... / Morgans Hotel Group
+811	null	name: ..... / Mindpearl AG
+812	null	name: ..... / CBS Interactive
+813	true	name: international container terminal services inc. / International Container Terminal Services Inc.
+814	null	name: ..... / Croatian Railways
+815	null	name: ..... / Techno Source
+816	null	name: ..... / Copachisa ( Constructora de Parques de Chihuahua,
+817	null	name: ..... / Village Cinemas
+818	null	name: ..... / MathSoft
+819	null	name: ..... / Frühstückstreff
+820	true	name: universal studios home entertainment / Universal Studios Home Entertainment
+821	null	name: ..... / MyBank Limited
+822	null	name: ..... / Iscar Metalworking
+823	true	name: athina sat  / Athina Sat
+824	null	name: ..... / UBuildIt
+825	null	name: ..... / Big Yellow Group Plc
+826	null	name: ..... / Yuhuan Runda Copper Co. , Ltd
+827	null	name: ..... / Saitek
+828	true	name: embarq corporation  / Embarq Corporation,
+829	null	name: ..... / Bilfinger Berger
+830	true	name: mercury brewing company / Mercury Brewing Company
+831	false	name: origin energy ltd / Origin
+832	null	name: ..... / East African Breweries Limited
+833	true	name: abt sportsline / Abt Sportsline
+834	null	name: ..... / Palissy
+835	true	name: linfox / Linfox
+836	false	name: green team / Green Team Advertising
+837	true	name: carrols restaurant group, inc. / Carrols Restaurant Group
+838	true	name: huy fong foods / Huy Fong Foods
+839	null	name: ..... / Rip Off Press, Inc.
+840	null	name: ..... / Angie's List
+841	null	name: ..... / Sony Pictures Imageworks, Inc.
+842	null	name: ..... / CollabNet
+843	null	name: ..... / NetSys International
+844	true	name: marinship corporation / Marinship Corporation
+845	null	name: ..... / Friends Hospital,
+846	null	name: ..... / Apache Corporation
+847	false	name: steers / Famous Brands Limited.
+848	false	name: ancon building products / Ancón. Ancon Building Products
+849	null	name: ..... / Amarillo Design Bureau
+850	true	name: schweitzer engineering laboratories / Schweitzer Engineering Laboratories, Inc.
+851	false	name: arcelormittal kryvyi rih / Kryvorizhstal
+852	false	name: gieves & hawkes / Gieves &amp; Hawkes
+853	true	name: toe rag studios / Toe Rag Studios
+854	null	name: ..... / Israel Electric Corporation
+855	null	name: ..... / Hodder &amp; Stoughton
+856	true	name: south simcoe railway / The South Simcoe Railway
+857	null	name: ..... / Arnoldo Mondadori Editore,
+858	true	name: mister softee / Mister Softee
+859	null	name: ..... / Famous Dave's Legendary
+860	null	name: ..... / DreamFactory Ltd.
+861	null	name: ..... / Sun Research Pty Ltd
+862	null	name: ..... / Changi International Airport Services
+863	null	name: ..... / Stone Island
+864	false	name: big idea entertainment, inc. / Big Idea Inc.
+865	null	name: ..... / The Rocket Racing League
+866	null	name: ..... / Alfred Kärcher GmbH &amp; Co. KG
+867	true	name: insilicos / Insilicos
+868	null	name: ..... / Raging Stallion Studios
+869	null	name: ..... / Cogent Communications
+870	null	name: ..... / Iconix Entertainment,
+871	null	name: ..... / Detica
+872	null	name: ..... / United International Pictures
+873	true	name: sce studio liverpool / SCE Studio Liverpool
+874	null	name: ..... / Avio S. p.A.
+875	null	name: ..... / Sheffield Forgemasters
+876	null	name: ..... / Club Orange
+877	true	name: boston pizza / Boston Pizza
+878	null	name: ..... / Brugal
+879	null	name: ..... / Associated Wholesalers, Inc.
+880	true	name: the game creators, ltd. / The Game Creators, Ltd.
+881	null	name: ..... / Cricket Communications, Inc.
+882	null	name: ..... / Spyker Cars N. V.
+883	null	name: ..... / Gala Coral Group Ltd
+884	false	name: le creuset / right|thumb|Round French Oven Le Creuset
+885	null	name: ..... / China Mengniu Dairy Company Limited
+886	null	name: ..... / Abraxis Kits
+887	true	name: saban entertainment / Saban Entertainment
+888	null	name: ..... / Longs Drugs
+889	null	name: ..... / Calleva
+890	true	name: copernic inc. / Copernic Inc.
+891	null	name: ..... / Orcon Internet Limited
+892	null	name: ..... / Valentino's
+893	null	name: ..... / Solidere
+894	null	name: ..... / Sigma-Aldrich Corporation
+895	null	name: ..... / Rimmel
+896	null	name: ..... / Dufry AG
+897	true	name: career education corporation / Career Education Corporation
+898	null	name: ..... / Wataniya Telecom
+899	null	name: ..... / Rayonier
+900	true	name: sandhills publishing company / Sandhills Publishing Company
+901	true	name: metallica resources inc. / Metallica Resources Inc.
+902	null	name: ..... / SRA International, Inc.
+903	null	name: ..... / "La Caixa", formally Caixa d'Estalvis i Pensions de Barcelona
+904	null	name: ..... / ACTEW Corporation Limited
+905	null	name: ..... / Podravka
+906	null	name: ..... / Nigerian National Petroleum Corporation
+907	null	name: ..... / Media. Vision
+908	null	name: ..... / Sanmina-SCI Corporation
+909	null	name: ..... / Exetel
+910	null	name: ..... / InSightec Ltd.
+911	null	name: ..... / Cub Crafters, Inc.
+912	null	name: ..... / Alaska Communications
+913	null	name: ..... / Hammerson plc
+914	null	name: ..... / QualityNet
+915	true	name: mr. coffee / Mr. Coffee
+916	null	name: ..... / Ancestry. com, Inc.
+917	true	name: jarden corporation / Jarden Corporation,
+918	true	name: cfmc / CfMC
+919	null	name: ..... / Spirit AeroSystems, Inc.
+920	true	name: printers inc. bookstore / Printers Inc. Bookstore
+921	null	name: ..... / Bennigan's Grill &amp; Tavern,
+922	null	name: ..... / Romano's Macaroni Grill
+923	null	name: ..... / Terasen Gas
+924	null	name: ..... / Shanda Interactive Entertainment Limited
+925	null	name: ..... / PlayNetwork, Inc.
+926	true	name: tchibo / Tchibo
+927	null	name: ..... / The Casablanca Stock Exchange
+928	null	name: ..... / Feel Good Drinks Co
+929	null	name: ..... / Kelda Group
+930	null	name: ..... / AsiaSoft
+931	null	name: ..... / Tenneco
+932	true	name: software dynamics / Software Dynamics
+933	null	name: ..... / UFO-NORGE,
+934	null	name: ..... / Dŵr Cymru / Welsh Water
+935	true	name: globecast world tv / GlobeCast World TV
+936	null	name: ..... / Schlotzsky's
+937	null	name: ..... / Half Price Books, Records, Magazines, Incorporated
+938	true	name: mol group / MOL Group
+939	false	name: barracuda networks / Barracuda Networks, Inc.
+940	null	name: ..... / Energen Corporation
+941	null	name: ..... / DST Systems Inc.
+942	null	name: ..... / Syarikat Prasarana Negara Berhad
+943	true	name: time warner cable / Time Warner Cable
+944	null	name: ..... / Affin Bank
+945	null	name: ..... / Disney Publishing Worldwide
+946	false	name: gumpert sportwagenmanufaktur / Gumpert Sportwagenmanufaktur GmbH, Gumpert
+947	null	name: ..... / First Direct
+948	null	name: ..... / Bristol &amp; West
+949	null	name: ..... / Men's Wearhouse
+950	null	name: ..... / Bahama Breeze
+951	false	name: hon hai precision industry co., ltd. / Foxconn International Holdings Ltd
+952	null	name: ..... / Lorillard Tobacco Company
+953	null	name: ..... / Corsair
+954	null	name: ..... / BBA Aviation plc
+955	null	name: ..... / Thames Water Utilities
+956	null	name: ..... / The Garden Centre Group
+957	true	name: 'metalclad' / Metalclad
+958	true	name: zst / ZST
+959	true	name: internet brands, inc. / Internet Brands
+960	null	name: ..... / POSBank
+961	null	name: ..... / Liberty International plc
+962	null	name: ..... / Krombacher Brauerei
+963	true	name: evga corporation / EVGA Corporation
+964	null	name: ..... / Pennzoil
+965	false	name: xfx / Pine Technology Holdings Limited
+966	null	name: ..... / Asia Pacific Breweries
+967	null	name: ..... / Cofinimmo S.
+968	false	name: zenair / Zenair Ltd
+969	null	name: ..... / Man Group plc
+970	null	name: ..... / National Savings
+971	true	name: intermountain health care, inc. / Intermountain Health Care, Inc.
+972	null	name: ..... / The Churchill Insurance Company
+973	true	name: phoenix technologies ltd. / Phoenix Technologies Ltd
+974	null	name: ..... / Dexia
+975	true	name: ual corporation / UAL Corporation
+976	false	name: associated british ports (abp) / Associated British Ports Holdings Ltd
+977	null	name: ..... / Colt Group
+978	null	name: ..... / The Absa Group Limited
+979	true	name: ekos research associates / EKOS Research Associates Inc.
+980	true	name: britannia industries limited / Britannia Industries Limited
+981	null	name: ..... / Tesco Corporation
+982	null	name: ..... / Almost Skateboards
+983	null	name: ..... / Richard Hornsby &amp; Sons
+984	true	name: thomson holidays / Thomson Holidays
+985	null	name: ..... / DENSO Corporation
+986	true	name: findus / Findus
+987	true	name: entertainment rights / Entertainment Rights Plc
+988	true	name: british power international / British Power International
+989	true	name: software projects / Software Projects
+990	null	name: ..... / Deutsche Vermögensberatung
+991	null	name: ..... / Topps Tiles plc
+992	null	name: ..... / Panda Energy International, Inc.
+993	null	name: ..... / Fran's Restaurant
+994	false	name: home2us / Home2US Communications, Inc.
+995	null	name: ..... / Randstad Holding N. V.
+996	null	name: ..... / Florigene
+997	null	name: ..... / Altadis
+998	null	name: ..... / GS Group
+999	true	name: bauer hockey, inc. / Bauer Hockey, Inc.
+1000	null	name: ..... / Fauna &amp; Flora International
+1001	null	name: ..... / MICROS Systems, Inc.
+1002	null	name: ..... / ConnectEast
+1003	null	name: ..... / Hurley International
+1004	null	name: ..... / Omega Group
+1005	null	name: ..... / The Yorkshire Building Society
+1006	null	name: ..... / "Alpha-Beta Vassilopoulos"
+1007	true	name: trotec ltd. / Trotec Ltd.
+1008	null	name: ..... / Keen Engineering Co. Ltd.
+1009	null	name: ..... / CONSOL Energy Inc.
+1010	null	name: ..... / Oxford Development Company
+1011	null	name: ..... / Music Sales Group
+1012	null	name: ..... / Hindustan Shipyard Limited
+1013	null	name: ..... / WildTangent
+1014	null	name: ..... / Fresh Del Monte Produce
+1015	null	name: ..... / Henderson Group plc
+1016	true	name: insurance australia group limited / Insurance Australia Group Limited
+1017	null	name: ..... / Grameenphone
+1018	null	name: ..... / Northern Foods plc
+1019	true	name: grenland framnæs as / Grenland Framnæs
+1020	null	name: ..... / Pantech Curitel
+1021	null	name: ..... / AtomicPark. com
+1022	true	name: kefford corporation pty. ltd. / Kefford Corporation Pty. Ltd.
+1023	null	name: ..... / La Quinta Inn
+1024	null	name: ..... / BC Card
+1025	null	name: ..... / Hyundai Capital Services
+1026	null	name: ..... / Hommell
+1027	null	name: ..... / David's Bridal
+1028	true	name: sas shoemakers / SAS Shoemakers
+1029	null	name: ..... / Costain Group plc
+1030	null	name: ..... / Bernard Matthews Farms Ltd
+1031	null	name: ..... / FBM Software
+1032	null	name: ..... / Russo-Balt
+1033	null	name: ..... / Signet Jewelers
+1034	true	name: arvest bank / Arvest Bank
+1035	null	name: ..... / Backbone Entertainment
+1036	null	name: ..... / RightNow Technologies
+1037	null	name: ..... / Colonial Properties Trust
+1038	null	name: ..... / Great Portland Estates plc
+1039	true	name: nu skin enterprises / Nu Skin Enterprises
+1040	null	name: ..... / Bovis Homes Group plc
+1041	null	name: ..... / right|thumb The Wilbur Chocolate Company
+1042	null	name: ..... / Motorola Mobility
+1043	false	name: arla foods uk / Arla Foods UK Limited
+1044	true	name: travis perkins plc / Travis Perkins plc
+1045	null	name: ..... / Admiral Group plc
+1046	true	name: mighty taco / Mighty Taco
+1047	null	name: ..... / HSBC Bank USA, National
+1048	null	name: ..... / SkyWest, Inc.
+1049	null	name: ..... / Crestron Electronics
+1050	null	name: ..... / Integrated Regional Information Networks,
+1051	null	name: ..... / Sony Wonder
+1052	null	name: ..... / AWB Limited
+1053	null	name: ..... / Door To Door Storage
+1054	null	name: ..... / Boehringer Ingelheim GmbH
+1055	true	name: trodat inc. / Trodat, Inc.
+1056	true	name: wyndham hotels & resorts / Wyndham Hotels and Resorts
+1057	null	name: ..... / Image Entertainment, Inc.
+1058	null	name: ..... / Crest Nicholson
+1059	null	name: ..... / Harvey Norman
+1060	true	name: toyota motor engineering & manufacturing, north america, inc. (tema) / Toyota Motor Engineering &amp; Manufacturing North America
+1061	false	name: norwest / Wells Fargo. Norwest Corporation
+1062	null	name: ..... / Republic Airways Holdings, Inc.
+1063	null	name: ..... / AWG
+1064	true	name: brentano's / Brentano's
+1065	null	name: ..... / National CineMedia, LLC
+1066	true	name: foo go / Foo Go
+1067	null	name: ..... / Iberdrola, S.
+1068	true	name: action international pictures / Action International Pictures
+1069	null	name: ..... / Aggreko plc
+1070	null	name: ..... / Halaqah Media Group
+1071	null	name: ..... / Union Gas Limited
+1072	null	name: ..... / Cobham plc
+1073	null	name: ..... / Amiga, Inc.
+1074	true	name: radio computing services / Radio Computing Services,
+1075	null	name: ..... / 2K Sports
+1076	null	name: ..... / Veolia Environnement S.
+1077	null	name: ..... / Lürssen
+1078	null	name: ..... / Balfour Beatty plc
+1079	null	name: ..... / John Laing plc
+1080	null	name: ..... / The BSS Group plc
+1081	null	name: ..... / Al Baik
+1082	null	name: ..... / Seymour Duncan
+1083	null	name: ..... / LFK
+1084	null	name: ..... / Emporis GmbH
+1085	null	name: ..... / Lotto Sport Italia
+1086	null	name: ..... / FKI
+1087	null	name: ..... / Forth Ports plc
+1088	true	name: liz claiborne, inc. / Liz Claiborne, Inc.
+1089	null	name: ..... / Megatech Software
+1090	null	name: ..... / Inchcape plc
+1091	null	name: ..... / Intercon Security, Ltd.
+1092	false	name: sm investments corporation / SM Investments Corporation, SM Investments
+1093	false	name: ricola / Ricola Ltd. /Ricola AG
+1094	false	name: cambridge soundworks / Cambridge
+1095	null	name: ..... / Tomkins
+1096	null	name: ..... / Arizona Public Service Company
+1097	null	name: ..... / Eagle Boys
+1098	null	name: ..... / Renishaw plc
+1099	null	name: ..... / Telecom Argentina
+1100	true	name: bae systems submarine solutions / BAE Systems Submarine Solutions
+1101	null	name: ..... / Airbus UK
+1102	null	name: ..... / BAE Systems Integrated System Technologies
+1103	true	name: candlewick press / Candlewick Press,
+1104	null	name: ..... / Crytek Black Sea
+1105	false	name: jelczzakłady samochodowe jelcz sa / Jelcz
+1106	null	name: ..... / Drummond Company, Inc.
+1107	null	name: ..... / Premier Farnell
+1108	null	name: ..... / Croda International plc
+1109	null	name: ..... / Turkish Aerospace Industries, Inc.
+1110	null	name: ..... / Tripwire Interactive
+1111	false	name: société nationale des chemins de fer luxembourgeois "cfl" / Société Nationale des Chemins
+1112	null	name: ..... / Serco Group plc
+1113	null	name: ..... / Rancocas Farm
+1114	null	name: ..... / Turtle Rock Studios
+1115	null	name: ..... / Rainbow Shops
+1116	null	name: ..... / Bright House Networks
+1117	null	name: ..... / Broadstripe
+1118	null	name: ..... / Bonwit Teller
+1119	null	name: ..... / DP World
+1120	null	name: ..... / SIMPO
+1121	null	name: ..... / Vornado Realty Trust
+1122	null	name: ..... / BurlyMan Entertainment
+1123	null	name: ..... / Om Records
+1124	null	name: ..... / ThaiRung
+1125	null	name: ..... / RECARO GmbH &amp; Co. KG,
+1126	null	name: ..... / BDO International
+1127	null	name: ..... / Qiagen
+1128	null	name: ..... / Buffalo Wild Wings Grill
+1129	null	name: ..... / Arctic Cat
+1130	null	name: ..... / EBSCO Industries,
+1131	null	name: ..... / Express Scripts, Inc.
+1132	true	name: hp hood llc / HP Hood LLC
+1133	true	name: western & southern financial group / Western &amp; Southern Financial Group,
+1134	null	name: ..... / T.J. Maxx,
+1135	true	name: allison transmission / Allison Transmission
+1136	null	name: ..... / AAPT
+1137	null	name: ..... / Dooney &amp; Bourke
+1138	true	name: waterford wedgwood / Waterford Wedgwood
+1139	null	name: ..... / Great Wall Motor Company Limited
+1140	null	name: ..... / Allot Communications
+1141	true	name: wmf württembergische metallwarenfabrik ag / WMF ( Württembergische Metallwarenfabrik AG
+1142	null	name: ..... / Petroleum Geo-Services ASA
+1143	null	name: ..... / HSBC Bank Malaysia Berhad
+1144	false	name: tulsky oruzheiny zavod / Tula Arms Plant
+1145	true	name: ford motor company limited / Ford Motor Company Limited
+1146	null	name: ..... / Bergner's
+1147	true	name: ridley's brewery / Ridley's Brewery
+1148	true	name: scream / Scream
+1149	null	name: ..... / Agile Property Holdings Limited
+1150	true	name: mack group / Mack Group
+1151	null	name: ..... / Nexen Tire
+1152	null	name: ..... / Aerion Corporation
+1153	null	name: ..... / Lucky Stores
+1154	true	name: tc pipelines, lp / TC PipeLines, LP
+1155	null	name: ..... / Neoplan USA
+1156	null	name: ..... / El Deseo
+1157	null	name: ..... / Raxco Software
+1158	true	name: chase aircraft company / Chase Aircraft Company,
+1159	null	name: ..... / NVR, Inc.
+1160	null	name: ..... / The Blue Cross Blue Shield Association
+1161	null	name: ..... / Industrias Kaiser Argentina S.
+1162	true	name: defoe shipbuilding company / The Defoe Shipbuilding Company
+1163	true	name: infinity broadcasting corporation / Infinity Broadcasting Corporation
+1164	null	name: ..... / Odyssey Software
+1165	null	name: ..... / Moldtelecom
+1166	false	name: planetspace / Canadian Arrow
+1167	null	name: ..... / ICF International
+1168	true	name: diamond aircraft industries / Diamond Aircraft Industries
+1169	null	name: ..... / Annie's Homegrown
+1170	null	name: ..... / The American Bridge Company
+1171	true	name: ftd group / FTD Group,
+1172	null	name: ..... / AFFCO Holdings Limited,
+1173	null	name: ..... / ViroPharma Incorporated,
+1174	true	name: the minto group / The Minto Group
+1175	null	name: ..... / Séura Inc.
+1176	null	name: ..... / Iraqi Republic Railways Company
+1177	null	name: ..... / Olympic Games
+1178	null	name: ..... / 1.800. Vending, Inc.
+1179	null	name: ..... / Lechmere
+1180	true	name: reemtsma cigarettenfabriken gmbh / Reemtsma Cigarettenfabriken GmbH
+1181	null	name: ..... / Parallels, Inc.
+1182	null	name: ..... / Digital Chameleon
+1183	null	name: ..... / Fortune Lounge Group
+1184	null	name: ..... / D.P. Dough
+1185	null	name: ..... / International Coal Group, Inc.
+1186	null	name: ..... / União Cervejeira SA
+1187	null	name: ..... / Matrix Games
+1188	null	name: ..... / Maine Chance Farm
+1189	null	name: ..... / Companhia Siderúrgica Nacional
+1190	null	name: ..... / CITIC Pacific
+1191	null	name: ..... / UniCredit SpA
+1192	null	name: ..... / j2 Global Communications, Inc.
+1193	null	name: ..... / Grupo Pão
+1194	true	name: poste italiane s.p.a. / Poste italiane S.
+1195	true	name: regions financial corporation / Regions Financial Corporation
+1196	null	name: ..... / Café Coffee Day
+1197	false	name: banverket / The Swedish Rail Administration
+1198	null	name: ..... / Mongoose Publishing
+1199	true	name: pescanova alimentación, s.a. / Pescanova Alimentación, S.
+1200	null	name: ..... / Henderson Land Development Co. Ltd.
+1201	null	name: ..... / Harkins Theatres
+1202	true	name: dubai islamic bank / The Dubai Islamic Bank
+1203	null	name: ..... / Duckwall-ALCO Stores, Inc.
+1204	true	name: project honey pot / Project Honey Pot
+1205	true	name: buhler industries inc. / Buhler Industries Inc.
+1206	null	name: ..... / OSI Restaurant Partners, LLC
+1207	null	name: ..... / MacPlay
+1208	null	name: ..... / Korea Exchange
+1209	null	name: ..... / H. Samuel
+1210	true	name: wawanesa mutual insurance co. / The Wawanesa Mutual Insurance Co.
+1211	false	name: bryco arms / Jimenez Arms,
+1212	true	name: ridley inc. / Ridley Inc.
+1213	true	name: ciena corporation / Ciena Corporation
+1214	null	name: ..... / Radical Sportscars
+1215	null	name: ..... / Heritage International Ministries
+1216	true	name: energy conversion devices, inc. / Energy Conversion Devices
+1217	true	name: hudbay minerals inc. / HudBay Minerals Inc.
+1218	null	name: ..... / Taepyeongyang
+1219	false	name: ilyich iron & steel works / Ilyich Iron &amp;
+1220	null	name: ..... / SEVERIN Elektrogeräte GmbH
+1221	null	name: ..... / Atheros Communications
+1222	true	name: cargonet as / CargoNet AS
+1223	true	name: alfabet / Alfabet
+1224	null	name: ..... / Sam Goody
+1225	false	name: sunseeker / Sunseeker International,
+1226	null	name: ..... / Caixa Mágica
+1227	true	name: lanxess ag / Lanxess AG
+1228	null	name: ..... / Element
+1229	null	name: ..... / Zombie Inc.
+1230	null	name: ..... / Doosan Heavy Industries &amp; Construction
+1231	null	name: ..... / Navteq
+1232	true	name: bayan telecommunications, inc. / Bayan Telecommunications, Inc.
+1233	null	name: ..... / Zapp's
+1234	null	name: ..... / The Milwaukee Electric Tool Corporation
+1235	null	name: ..... / LPL Financial
+1236	null	name: ..... / LPI Media
+1237	false	name: art square group / GempakStarz,
+1238	null	name: ..... / SAIC-GM-Wuling Automobile
+1239	null	name: ..... / Lind-Waldock
+1240	null	name: ..... / Cartoon Pizza
+1241	true	name: pollard banknote income fund / Pollard Banknote Income Fund
+1242	true	name: netscout systems, inc. / NetScout Systems, Inc.
+1243	null	name: ..... / Tivoli Software
+1244	true	name: thornton's bookshop / Thornton's Bookshop
+1245	null	name: ..... / Rockstar New England,
+1246	true	name: sunn amplifiers / Sunn Amplifiers,
+1247	null	name: ..... / UTV Media
+1248	null	name: ..... / Leninska Kuznya
+1249	true	name: the boyd group / The Boyd Group
+1250	null	name: ..... / BattleGoat Studios
+1251	null	name: ..... / Sportingbet plc
+1252	true	name: b. dalton bookseller / B. Dalton Bookseller
+1253	null	name: ..... / Stagg music
+1254	null	name: ..... / Carapelli
+1255	null	name: ..... / Dodge &amp; Cox
+1256	null	name: ..... / Vicarious Visions
+1257	null	name: ..... / The Brazilian Development Bank
+1258	null	name: ..... / Wirthlin Worldwide
+1259	null	name: ..... / Monster Cable Products Inc.
+1260	null	name: ..... / Sasken Communication Technologies Limited
+1261	null	name: ..... / Western Ferries
+1262	null	name: ..... / AveA
+1263	null	name: ..... / Cognis
+1264	null	name: ..... / Conoco Inc.
+1265	null	name: ..... / thumb|Romar Entertainment logo. Romar Entertainment
+1266	true	name: weigel's / Weigel's
+1267	null	name: ..... / Telit Communications PLC
+1268	null	name: ..... / Karnataka Bank Limited
+1269	null	name: ..... / Lippo Bank
+1270	null	name: ..... / Crane &amp; Co.
+1271	null	name: ..... / SKY Latin America
+1272	null	name: ..... / Evalueserve
+1273	true	name: synplicity inc. / Synplicity Inc.
+1274	null	name: ..... / Snoopadelic Films
+1275	null	name: ..... / Malfador Machinations
+1276	null	name: ..... / World Humor Organization, Inc.
+1277	true	name: hillsborough resources limited / Hillsborough Resources Limited
+1278	null	name: ..... / Peabody Energy Corporation
+1279	null	name: ..... / Stiftung Warentest
+1280	null	name: ..... / John Holt plc
+1281	null	name: ..... / Maxim Integrated Products
+1282	null	name: ..... / Bill Miller Bar-B-Q
+1283	null	name: ..... / DH Press
+1284	null	name: ..... / Crazy John's
+1285	true	name: carlton screen advertising / Carlton Screen Advertising
+1286	null	name: ..... / Rockford Fosgate
+1287	null	name: ..... / Star Films, Inc.
+1288	null	name: ..... / Steyr Mannlicher
+1289	null	name: ..... / Sparkfactor Design
+1290	false	name: new young broadcasting / New Young Broadcasting Holding Co, Inc.
+1291	null	name: ..... / International Rectifier Corp.
+1292	null	name: ..... / Wiener Börse AG
+1293	true	name: hawker siddeley switchgear / Hawker Siddeley Switchgear
+1294	null	name: ..... / BEBE SPORT
+1295	null	name: ..... / Intelligent Medical Imaging,
+1296	null	name: ..... / Shanks Group
+1297	null	name: ..... / Spectrum Software
+1298	true	name: brb internacional / BRB Internacional
+1299	null	name: ..... / Viagens Abreu
+1300	null	name: ..... / Belong
+1301	null	name: ..... / Winbond Electronics Corporation
+1302	null	name: ..... / Vijaya Bank
+1303	null	name: ..... / East Lancashire Coachbuilders Limited
+1304	null	name: ..... / UOP LLC,
+1305	null	name: ..... / Christiania Bank og Kreditkasse,
+1306	null	name: ..... / Renderosity
+1307	true	name: imax corporation / IMAX Corporation
+1308	true	name: philippine national bank / The Philippine National Bank
+1309	null	name: ..... / The World Combat League
+1310	true	name: tunecore / TuneCore
+1311	true	name: ventraq / Ventraq
+1312	null	name: ..... / Stuarts Department Stores Inc.
+1313	null	name: ..... / Swissôtel Hotels and Resorts
+1314	null	name: ..... / Wing Enterprises
+1315	null	name: ..... / Eurocreme
+1316	null	name: ..... / Ringier AG
+1317	null	name: ..... / Pervasive Software
+1318	null	name: ..... / Alpena Power Company
+1319	null	name: ..... / Leap Wireless International Inc.
+1320	true	name: ascent media corporation / Ascent Media Corporation
+1321	null	name: ..... / Consolidated Theatres
+1322	null	name: ..... / C.H. Robinson Worldwide, Inc.
+1323	true	name: lowe roche / Lowe Roche
+1324	null	name: ..... / Krawler
+1325	true	name: avira gmbh / Avira GmbH
+1326	true	name: ac entertainment / AC Entertainment
+1327	true	name: wengo / Wengo
+1328	null	name: ..... / Koçbank
+1329	null	name: ..... / SABB
+1330	true	name: old time pottery / Old Time Pottery
+1331	true	name: mesh computers / MESH Computers
+1332	null	name: ..... / Simmering-Graz-Pauker AG
+1333	null	name: ..... / Browns
+1334	null	name: ..... / T. Rowe Price
+1335	null	name: ..... / Crestwood Publications,
+1336	null	name: ..... / Pakistan Ordnance Factories
+1337	null	name: ..... / MacDonald, Dettwiler and Associates Ltd.
+1338	true	name: white tower hamburgers / White Tower Hamburgers
+1339	false	name: first act inc. / First Act
+1340	null	name: ..... / Air Weapons Complex
+1341	true	name: google china / Google China
+1342	null	name: ..... / Arcandor AG
+1343	null	name: ..... / Bravox
+1344	null	name: ..... / Michael Kelly Guitars
+1345	null	name: ..... / Icelandair Group
+1346	null	name: ..... / Blue Arrow Limited
+1347	null	name: ..... / Stumptown Coffee Roasters
+1348	true	name: portmeirion pottery / Portmeirion Pottery
+1349	null	name: ..... / Transnet Freight Rail
+1350	false	name: showtime networks / Showtime Networks, Inc.
+1351	null	name: ..... / Advanced Digital Information Corporation
+1352	null	name: ..... / Verve Energy
+1353	true	name: the royal doulton company / The Royal Doulton Company
+1354	null	name: ..... / Israel Chemicals Ltd.
+1355	null	name: ..... / New Holland Machine Company New Holland
+1356	null	name: ..... / Ukash
+1357	null	name: ..... / Epic Systems Corporation
+1358	null	name: ..... / Hospira, Inc.
+1359	null	name: ..... / Southern Water
+1360	true	name: meteorological service of new zealand / Meteorological Service of New Zealand Limited
+1361	true	name: culligan / Culligan
+1362	null	name: ..... / National Car Parks
+1363	true	name: terrafugia / Terrafugia
+1364	null	name: ..... / TZ Ltd.
+1365	null	name: ..... / Arcadia Machine &amp; Tool,
+1366	null	name: ..... / Thompson &amp; Morgan
+1367	null	name: ..... / Brookstone
+1368	null	name: ..... / Conklin Shows
+1369	null	name: ..... / Zagross Khodro
+1370	true	name: bristol water / Bristol Water
+1371	null	name: ..... / Synapse Software Corporation
+1372	true	name: biomarin pharmaceutical inc. / BioMarin Pharmaceutical
+1373	true	name: oaktree capital management, inc. / Oaktree Capital Management, L. P.
+1374	null	name: ..... / Crumpler
+1375	null	name: ..... / Telligent Systems,
+1376	true	name: spur steak ranches / Spur Steak Ranches
+1377	null	name: ..... / Andreas Stihl AG &amp; Company
+1378	null	name: ..... / Waste Management, Inc.
+1379	true	name: shutterstock / Shutterstock
+1380	null	name: ..... / Devicescape Software
+1381	null	name: ..... / Bruce Power Limited Partnership
+1382	null	name: ..... / Playtech Ltd.
+1383	true	name: hotdocs / HotDocs
+1384	null	name: ..... / Pulte Homes, Inc
+1385	false	name: parcelforce worldwide / thumb|238px|right|Parcelforce delivery vehicle Parcelforce Worldwide
+1386	null	name: ..... / Solo Mobile
+1387	true	name: hill's pet nutrition, inc. / Hill's Pet Nutrition, Inc
+1388	null	name: ..... / Dialog Axiata PLC
+1389	true	name: calico light weapons inc / Calico Light Weapons Inc.
+1390	true	name: landesbank baden-württemberg / Landesbank Baden-Württemberg
+1391	null	name: ..... / Jenoptik
+1392	null	name: ..... / Republic Bank &amp; Trust Company
+1393	null	name: ..... / EuropaBio
+1394	null	name: ..... / América Móvil
+1395	null	name: ..... / Sonali Bank
+1396	null	name: ..... / Flight Centre Limited
+1397	null	name: ..... / Nautilus, Inc.
+1398	true	name: wellpet llc / WellPet LLC
+1399	true	name: loremo ag / Loremo AG
+1400	null	name: ..... / Millicom International Cellular,
+1401	null	name: ..... / Dubai Aerospace Enterprise
+1402	null	name: ..... / Amadeus IT Group
+1403	null	name: ..... / Regency Enterprises
+1404	null	name: ..... / The International Association for Technology Trade
+1405	null	name: ..... / Indonesian Aerospace
+1406	true	name: solarworld ag / SolarWorld
+1407	null	name: ..... / Reliance Petroleum
+1408	true	name: insyde software / Insyde Software
+1409	null	name: ..... / Karur Vysya Bank
+1410	null	name: ..... / Hindustan Machine Tools
+1411	null	name: ..... / Nucleosys
+1412	true	name: trimble navigation, ltd. / Trimble Navigation, Ltd.
+1413	null	name: ..... / O Entertainment
+1414	null	name: ..... / OXXO
+1415	true	name: australian agricultural company / The Australian Agricultural Company
+1416	true	name: george weston limited / George Weston Limited
+1417	true	name: abc family worldwide / ABC Family Worldwide Inc.
+1418	false	name: arris / ARRIS Group Inc.
+1419	true	name: coal india limited / Coal India Limited
+1420	null	name: ..... / Network TwentyOne,
+1421	null	name: ..... / QR National
+1422	null	name: ..... / Mobiltel
+1423	true	name: the pepsi bottling group, inc. / Pepsi Bottling Group, Inc.
+1424	null	name: ..... / Edgeworks Entertainment
+1425	null	name: ..... / ServiceMaster
+1426	null	name: ..... / AmeriSpec, Inc
+1427	null	name: ..... / Prosper Loans Marketplace, Inc.
+1428	null	name: ..... / Carnegie Investment Bank AB
+1429	true	name: dakine / DaKine
+1430	true	name: rtÉ transmission network limited / RTÉ Transmission Network Limited
+1431	null	name: ..... / Leaf International
+1432	true	name: empire interactive / Empire Interactive
+1433	null	name: ..... / Kwik-Fit
+1434	null	name: ..... / Jasmin International Corporation
+1435	null	name: ..... / Transbotics Corporation
+1436	null	name: ..... / Monster Worldwide, Inc.
+1437	null	name: ..... / HP Networking
+1438	null	name: ..... / Hungry Howie's
+1439	true	name: edag engineering + design ag / EDAG Engineering + Design AG
+1440	null	name: ..... / Kramer
+1441	null	name: ..... / Uptech Computer
+1442	null	name: ..... / Nibris
+1443	null	name: ..... / Clif Bar &amp; Company
+1444	null	name: ..... / Genevestigator
+1445	null	name: ..... / EDF Energy
+1446	null	name: ..... / Pinsent Masons LLP
+1447	true	name: holland & barrett / Holland &amp; Barrett
+1448	null	name: ..... / Stream Energy
+1449	null	name: ..... / Zoic Studios
+1450	false	name: leisure and allied industries / Allied Industries
+1451	null	name: ..... / NanoSight Ltd,
+1452	null	name: ..... / CNP Assurances
+1453	true	name: sembiosys genetics inc. / SemBioSys Genetics Inc.
+1454	null	name: ..... / Goulds Pumps, Inc.
+1455	null	name: ..... / Centro Properties Group,
+1456	true	name: suhrkamp verlag / Suhrkamp Verlag
+1457	null	name: ..... / IBM Tivoli NetView
+1458	null	name: ..... / Johnston Press plc
+1459	null	name: ..... / GLOBUL
+1460	null	name: ..... / Commence Corporation
+1461	null	name: ..... / Mam Tor Publishing
+1462	false	name: colibri group / The Colibri Group
+1463	null	name: ..... / Hellenic Aerospace Industry
+1464	null	name: ..... / Compass Resources NL
+1465	null	name: ..... / Babcock &amp; Brown
+1466	null	name: ..... / Extreme Networks
+1467	null	name: ..... / Genzyme Corporation
+1468	true	name: black hills ammunition / Black Hills Ammunition
+1469	null	name: ..... / Canadian Coffee
+1470	true	name: hubert burda media / Hubert Burda Media
+1471	null	name: ..... / Warid Telecom International
+1472	true	name: moorcroft / Moorcroft
+1473	null	name: ..... / Earth Fare
+1474	null	name: ..... / Havelsan
+1475	null	name: ..... / Island Cruises
+1476	true	name: redboss / Redboss
+1477	null	name: ..... / Scitex Vision,
+1478	null	name: ..... / Miller &amp; Rhoads
+1479	null	name: ..... / Eversholt Rail Group
+1480	null	name: ..... / Church’s
+1481	null	name: ..... / The Norwegian News Agency
+1482	null	name: ..... / Euler Hermes
+1483	null	name: ..... / Strayer-Voigt, Inc.
+1484	null	name: ..... / Unipart Group
+1485	null	name: ..... / Intego
+1486	null	name: ..... / Spoon Sports Co.
+1487	null	name: ..... / PhotoDisc, Inc.
+1488	false	name: endicott johnson corporation / The Endicott-Johnson Shoe Company
+1489	null	name: ..... / Wildside Press
+1490	null	name: ..... / Coverity
+1491	false	name: otto's pub & brewery / Duffee
+1492	true	name: snell memorial foundation / The Snell Memorial Foundation
+1493	null	name: ..... / Lightning MultiCom
+1494	true	name: sealy corporation / Sealy Corporation
+1495	null	name: ..... / Credence Systems Corporation
+1496	null	name: ..... / RMK Engineering College
+1497	null	name: ..... / Hermitage Capital Management
+1498	null	name: ..... / Aonix
+1499	null	name: ..... / Chooseco
+1500	null	name: ..... / PT Indosat
+1501	null	name: ..... / Jerry's Enterprises, Inc.
+1502	true	name: orion electronics ltd / Orion Electronics Ltd
+1503	null	name: ..... / Luminar Group Holdings
+1504	true	name: usinor / Usinor
+1505	null	name: ..... / Boyes
+1506	null	name: ..... / Xnergy
+1507	true	name: kings super markets, inc. / Kings Super Markets
+1508	null	name: ..... / Rockstar London
+1509	false	name: chevy chase bank, f.s.b. / Chevy Chase Bank,
+1510	null	name: ..... / Fraport AG
+1511	false	name: arnold laver & co. ltd / Arnold Laver Ltd
+1512	null	name: ..... / Avnet, Inc.
+1513	null	name: ..... / Centex Corporation
+1514	false	name: mantra films / Mantra Films Inc.
+1515	null	name: ..... / Antrix Corporation Limited
+1516	null	name: ..... / Acia Cell Telecom Company, STC
+1517	null	name: ..... / A&amp;B Sound
+1518	null	name: ..... / Dubai Studio City
+1519	null	name: ..... / Emeryville Cartridge World
+1520	null	name: ..... / Foster-Miller, Inc.
+1521	false	name: parken / Parken Sport &amp; Entertainment A/S
+1522	null	name: ..... / CiCi's Pizza
+1523	null	name: ..... / San Miguel Corporation. Grupo Mahou-San Miguel
+1524	null	name: ..... / 1st Constitution Bancorp
+1525	null	name: ..... / 1st Source Corporation
+1526	null	name: ..... / Taj Hotels Resorts and Palaces
+1527	true	name: grey group / Grey Group
+1528	null	name: ..... / Bruno's Supermarkets, LLC
+1529	null	name: ..... / Western Power Distribution
+1530	false	name: rsm mcgladrey / RSM McGladrey, Inc.
+1531	null	name: ..... / Korea Aerospace Industries Ltd.
+1532	null	name: ..... / Petropavlovsk plc
+1533	null	name: ..... / The Roses Theatre
+1534	null	name: ..... / Dixie Chili
+1535	null	name: ..... / Tänapäev
+1536	true	name: kuju entertainment / Kuju Entertainment
+1537	null	name: ..... / Soyo Group, Inc.
+1538	null	name: ..... / Total System Services, Inc.
+1539	null	name: ..... / Brightstar Corporation,
+1540	null	name: ..... / Santee Cooper,
+1541	null	name: ..... / Kingston Technology Company
+1542	true	name: nova scotia power inc. / Nova Scotia Power Inc.
+1543	null	name: ..... / Rizal Commercial Banking Corporation
+1544	null	name: ..... / Elevation Partners
+1545	null	name: ..... / Ogilvy Renault LLP
+1546	true	name: pure software / Pure Software
+1547	null	name: ..... / Revol Wireless
+1548	false	name: greatcall / GreatCall Wireless,
+1549	null	name: ..... / interests of
+1550	null	name: ..... / Creative Products
+1551	true	name: serials solutions / Serials Solutions
+1552	null	name: ..... / Ted Baker
+1553	null	name: ..... / ETF Securities
+1554	null	name: ..... / Garanti Bank
+1555	true	name: national arms company / The National Arms Company
+1556	true	name: aes corporation / AES Corporation
+1557	null	name: ..... / Fuchs Petrolub AG
+1558	true	name: rockstar vancouver / Rockstar Vancouver
+1559	null	name: ..... / Lakai Footwear Limited
+1560	true	name: brendle's / Brendle's
+1561	null	name: ..... / CalorieKing
+1562	null	name: ..... / Griffin Communications
+1563	true	name: advaxis / Advaxis
+1564	null	name: ..... / Building Materials Holding Corporation
+1565	false	name: empire cinemas / thumb|right|Empire Leicester Square
+1566	null	name: ..... / Tally Weijl
+1567	null	name: ..... / The Pakistan Aeronautical Complex
+1568	true	name: bushmaster firearms international, llc / Bushmaster Firearms International, LLC
+1569	null	name: ..... / Taser International, Inc.
+1570	true	name: rotary watches ltd / Rotary Watches Ltd.
+1571	null	name: ..... / Internet Broadcasting
+1572	true	name: baldwin piano company / The Baldwin Piano Company
+1573	null	name: ..... / Miami Subs Pizza and Grill
+1574	null	name: ..... / Cyclacel Pharmaceuticals Inc.
+1575	null	name: ..... / Thrustmaster,
+1576	true	name: ellerbe becket / Ellerbe Becket
+1577	true	name: gertrude hawk chocolates / Gertrude Hawk Chocolates
+1578	true	name: integrys energy group / Integrys Energy Group, Inc.
+1579	null	name: ..... / Crocs, Inc.
+1580	null	name: ..... / Babcock International Group plc
+1581	true	name: electro-optical systems laboratory / Electro-Optical Systems Laboratory
+1582	true	name: signature technology laboratory / Signature Technology Laboratory
+1583	true	name: karachi electric supply company limited / Karachi Electric Supply Company Limited
+1584	null	name: ..... / Sun Capital Partners, Inc.
+1585	null	name: ..... / STX
+1586	true	name: newsmax media / Newsmax Media
+1587	null	name: ..... / Smith International
+1588	null	name: ..... / Moser Baer
+1589	null	name: ..... / Sage Telecom, Inc
+1590	true	name: auto-owners insurance / Auto-Owners Insurance
+1591	null	name: ..... / Hart Ski Corporation
+1592	null	name: ..... / PICIC Commercial Bank Limited
+1593	true	name: narragansett brewing company / The Narragansett Brewing Company
+1594	null	name: ..... / Nexans S.
+1595	null	name: ..... / Henry Schein Inc.
+1596	true	name: scana corporation / SCANA Corporation
+1597	true	name: ikon office solutions, inc. / IKON Office Solutions
+1598	null	name: ..... / Ericsson Nikola Tesla
+1599	null	name: ..... / Telesp - Telecomunicações de São
+1600	null	name: ..... / Tooling U
+1601	null	name: ..... / Merritt-Chapman &amp; Scott,
+1602	null	name: ..... / Lam Research Corporation
+1603	null	name: ..... / Fullpower
+1604	null	name: ..... / Maggiano's Little Italy
+1605	null	name: ..... / Anixter International
+1606	null	name: ..... / Brine, Corp.
+1607	true	name: community health systems / Community Health Systems Inc.
+1608	null	name: ..... / Paz Oil Company Ltd.
+1609	true	name: rita’s italian ice / Rita's Italian Ice
+1610	null	name: ..... / Cervélo Cycles
+1611	null	name: ..... / Hanes
+1612	null	name: ..... / MDM Bank
+1613	false	name: zhuzhou electric locomotive works 株洲电力机车 / Zhuzhou Electric Locomotive Co.
+1614	null	name: ..... / Sunward Aerospace
+1615	null	name: ..... / Kuehne + Nagel
+1616	null	name: ..... / Engin Limited
+1617	null	name: ..... / Walmart Canada
+1618	null	name: ..... / WingStreet
+1619	null	name: ..... / Clipper Magazine
+1620	true	name: soccer united marketing / Soccer United Marketing
+1621	null	name: ..... / Kremikovtzi AD
+1622	null	name: ..... / Collins &amp; Aikman Corporation
+1623	null	name: ..... / Upsher-Smith Laboratories
+1624	null	name: ..... / Ents24
+1625	null	name: ..... / UK Coal plc
+1626	null	name: ..... / Electrabel
+1627	null	name: ..... / United Stationers
+1628	null	name: ..... / Kaplan Financial Ltd
+1629	null	name: ..... / CityNightLine
+1630	null	name: ..... / UFORM
+1631	null	name: ..... / Abertis Infraestructuras, S.
+1632	null	name: ..... / New Seasons Market
+1633	null	name: ..... / SAMSON AG,
+1634	null	name: ..... / Laing O’Rourke
+1635	null	name: ..... / Ailsa Shipbuilding Company
+1636	null	name: ..... / Sabertooth Games
+1637	false	name: the dad's root beer company, llc / Dad's Root Beer
+1638	null	name: ..... / The Charities Aid Foundation
+1639	null	name: ..... / Grocery Outlet,
+1640	null	name: ..... / Light Rail Transit Authority
+1641	null	name: ..... / Brown Brothers Milawa Vineyard
+1642	null	name: ..... / Computer City
+1643	true	name: volkswagen group of america, inc. / Volkswagen Group of America, Inc.
+1644	null	name: ..... / Chelyabinsk Tractor Plant
+1645	null	name: ..... / Miracle Food Mart
+1646	false	name: charter arms / Charter Arms Co.
+1647	null	name: ..... / Aircel Comics
+1648	false	name: vägverket / The Swedish Road Administration
+1649	true	name: gainward / Gainward
+1650	true	name: islamabad electric supply company / Islamabad Electric Supply Company
+1651	null	name: ..... / Alon USA Energy Inc.
+1652	null	name: ..... / Para USA
+1653	null	name: ..... / Synapse Films
+1654	null	name: ..... / Canadian Natural Resources Limited
+1655	null	name: ..... / Soko-Nada Štark
+1656	null	name: ..... / Raiffeisen Zentralbank
+1657	true	name: albanian-american enterprise fund / Albanian-American Enterprise Fund
+1658	null	name: ..... / TT Games
+1659	null	name: ..... / Orascom Construction Industries
+1660	null	name: ..... / Orange UK
+1661	true	name: thor industries, inc. / Thor Industries, Inc.
+1662	null	name: ..... / Marvel Entertainment, LLC
+1663	null	name: ..... / Sonos
+1664	null	name: ..... / Nickerson Farms
+1665	null	name: ..... / ProtoLife
+1666	true	name: 'tishman speyer properties' / Tishman Speyer Properties
+1667	null	name: ..... / Home Bargains
+1668	null	name: ..... / Saviem
+1669	null	name: ..... / China Gas Company Limited
+1670	null	name: ..... / EFTel Ltd
+1671	null	name: ..... / Force Motors
+1672	null	name: ..... / Lam Eng Rubber Factory
+1673	null	name: ..... / Philippine National Construction Corporation
+1674	null	name: ..... / Chip PC Technologies
+1675	null	name: ..... / The Regence Group
+1676	null	name: ..... / TENA
+1677	null	name: ..... / Magellan Aerospace Corporation
+1678	null	name: ..... / Majesco Entertainment
+1679	null	name: ..... / Leisure Connection Ltd
+1680	false	name: gcda / Greater Cochin Development Authority
+1681	true	name: pt bank danamon indonesia tbk. / PT Bank Danamon Indonesia
+1682	false	name: p&o irish sea / P&amp;O Irish Sea
+1683	null	name: ..... / Sparrow Health System
+1684	null	name: ..... / Abu Dhabi Gas Industries Ltd
+1685	null	name: ..... / Strikeforce
+1686	true	name: chartwell technology inc. / Chartwell Technology Inc.
+1687	true	name: solaris books / Solaris Books
+1688	null	name: ..... / Holosofx
+1689	true	name: dawood islamic bank limited / Dawood Islamic Bank Limited
+1690	null	name: ..... / Infopark, Kochi
+1691	null	name: ..... / Auntie Anne's,
+1692	null	name: ..... / Westfield Insurance,
+1693	null	name: ..... / Boardwalk Pipeline Partners, LP
+1694	null	name: ..... / Diamond Offshore Drilling, Inc.
+1695	true	name: alternative energy development board / Alternative Energy Development Board
+1696	true	name: developers diversified reality corporation / Developers Diversified Realty Corporation
+1697	null	name: ..... / Cash Converters International Limited
+1698	false	name: van houtte / Van Houtte Inc.
+1699	null	name: ..... / The Malaysian Electronic Payment System,
+1700	null	name: ..... / The Adani Group
+1701	false	name: robinson's brewery / Robinson's ( Frederic Robinson Ltd
+1702	null	name: ..... / Premier Inn
+1703	null	name: ..... / Digital Leisure, Inc.
+1704	null	name: ..... / Inner City Press
+1705	true	name: centel corporation / Centel Corporation
+1706	true	name: gerber plumbing fixtures / Gerber Plumbing Fixtures LLC
+1707	null	name: ..... / Webster Bank
+1708	null	name: ..... / Shaheen Airport Services
+1709	null	name: ..... / Surf Taco
+1710	null	name: ..... / Stash Tea Company
+1711	null	name: ..... / Banco Filipino
+1712	true	name: de grisogono / De Grisogono
+1713	null	name: ..... / OCZ Technology
+1714	false	name: man türkiye a.Ş. / MAN Türkiye
+1715	null	name: ..... / Intec
+1716	null	name: ..... / Al Ghurair
+1717	false	name: elion enterprises limited / Elion Enterprises
+1718	false	name: wingstop / Wingstop Restaurants, Inc.
+1719	true	name: transdevtsl brisbane ferries / TransdevTSL Brisbane Ferries
+1720	null	name: ..... / DLF Limited
+1721	null	name: ..... / Old Chang Kee
+1722	true	name: ferrovial, s.a. / Ferrovial, S.
+1723	null	name: ..... / Boothroyd Stuart Meridian
+1724	null	name: ..... / Rapleaf
+1725	null	name: ..... / Integral Energy
+1726	false	name: singapore press holdings / Singapore Press Holdings Limited
+1727	null	name: ..... / Silver Creek Entertainment
+1728	null	name: ..... / World Events Productions
+1729	null	name: ..... / Sora Ltd.
+1730	null	name: ..... / Haldiram's
+1731	null	name: ..... / Yaumati Ferry Company Limited
+1732	null	name: ..... / Hong Kong Ferry
+1733	null	name: ..... / Panago
+1734	null	name: ..... / Studio Innovators
+1735	true	name: onmobile global limited / OnMobile Global Limited
+1736	null	name: ..... / Neurocrine Biosciences
+1737	null	name: ..... / Baldor Electric Company
+1738	null	name: ..... / First Women Bank Limited
+1739	null	name: ..... / First National of Nebraska
+1740	false	name: two brothers brewing / Brothers Brewing Company
+1741	null	name: ..... / Nd Cube Co.
+1742	null	name: ..... / Luminox
+1743	null	name: ..... / Maplin Electronics
+1744	null	name: ..... / Ambient Weather
+1745	true	name: ld lines / LD Lines
+1746	null	name: ..... / XO Communications
+1747	null	name: ..... / Northumbrian Water Group plc
+1748	null	name: ..... / Fundación Bigott
+1749	true	name: mintons ltd / Mintons Ltd,
+1750	null	name: ..... / Dokumental GmbH &amp; Co KG Schreibfarben
+1751	null	name: ..... / Aluminum Corporation
+1752	true	name: green mountain coffee roasters / Green Mountain Coffee Roasters
+1753	null	name: ..... / Fantastic Sams
+1754	null	name: ..... / American Home Mortgage Investment Corporation
+1755	true	name: terrapin beer company / Terrapin Beer Company
+1756	true	name: monroe bank & trust / Monroe Bank and Trust
+1757	true	name: lagunitas brewing company / The Lagunitas Brewing Company
+1758	null	name: ..... / Goyard
+1759	true	name: pullmantur cruises / Pullmantur Cruises
+1760	null	name: ..... / The Carrian Group
+1761	false	name: mcv / MCV Bus and Coach
+1762	null	name: ..... / Washington Post
+1763	null	name: ..... / Central Asia Insurance
+1764	null	name: ..... / Carrozzeria Marazzi
+1765	null	name: ..... / MASISA S.
+1766	null	name: ..... / Naschitz Brandes &amp; Co.
+1767	true	name: james purdey and sons ltd / James Purdey and Sons
+1768	null	name: ..... / LinkShare Corporation
+1769	null	name: ..... / Yigal Arnon &amp; Co.
+1770	null	name: ..... / ASML
+1771	null	name: ..... / NasionCom
+1772	null	name: ..... / Costa Del Mar Sunglasses, Inc.
+1773	null	name: ..... / Systema Engineering
+1774	true	name: tenix pty limited / Tenix Pty Limited
+1775	null	name: ..... / Acclaim Games,
+1776	null	name: ..... / SMS.ac Inc.
+1777	null	name: ..... / Méditel
+1778	null	name: ..... / Rolls-Royce Motor Cars
+1779	true	name: hachette book group / Hachette Book Group
+1780	null	name: ..... / Andronico's
+1781	null	name: ..... / Destineer
+1782	false	name: prq / PeRiQuito AB
+1783	null	name: ..... / TVX Broadcast Group
+1784	null	name: ..... / Giant Food Stores, LLC
+1785	null	name: ..... / Apotex
+1786	true	name: suntech power holdings co., ltd. / Suntech Power Holdings Co.
+1787	null	name: ..... / John Paul Mitchell Systems
+1788	null	name: ..... / Value Partners Management Consulting
+1789	null	name: ..... / The Caribbean New Media Group
+1790	null	name: ..... / Marciano
+1791	null	name: ..... / Texperts
+1792	null	name: ..... / Teva Pharmaceutical Industries Ltd.
+1793	null	name: ..... / Trusonic
+1794	null	name: ..... / Albertson's, Inc. Albertson's
+1795	null	name: ..... / __NOTOC__ N3V Games
+1796	null	name: ..... / PruHealth
+1797	null	name: ..... / Ironclad Games
+1798	null	name: ..... / Chunlan Group Corp
+1799	true	name: mazagon dock limited / Mazagon Dock Limited
+1800	false	name: maxmara / Achille Maramotti
+1801	null	name: ..... / Bosphorus
+1802	null	name: ..... / Dogwoof Pictures
+1803	null	name: ..... / Dynalite
+1804	null	name: ..... / Toyo Seat Co.
+1805	null	name: ..... / Silverwolf Comics
+1806	null	name: ..... / Kerala State Electricity Board
+1807	null	name: ..... / Southern Star Group
+1808	null	name: ..... / Endemol Southern Star
+1809	null	name: ..... / Cebu Ferries
+1810	null	name: ..... / Levtian, Sharon &amp; Co.
+1811	null	name: ..... / Le Petit Piaf
+1812	null	name: ..... / Canadian Oil Sands Limited
+1813	true	name: novagold resources inc. / NovaGold Resources Inc.
+1814	null	name: ..... / Carver Bancorp, Inc.
+1815	null	name: ..... / Shamrock Farms
+1816	true	name: ginger productions / Ginger Productions,
+1817	true	name: les mousquetaires / Les Mousquetaires
+1818	true	name: mile high comics / Mile High Comics
+1819	null	name: ..... / WEXAS
+1820	null	name: ..... / The Würth Group
+1821	null	name: ..... / Kinross Gold Corporation
+1822	null	name: ..... / United Arab Shipping Company
+1823	null	name: ..... / Seylan Bank PLC
+1824	null	name: ..... / Swiss Post
+1825	null	name: ..... / Rio Bravo
+1826	null	name: ..... / The World Nuclear Association
+1827	null	name: ..... / Fatz Cafe
+1828	true	name: oberweis dairy / Oberweis Dairy,
+1829	true	name: conrad editora / Conrad Editora
+1830	true	name: alnylam pharmaceuticals inc. / Alnylam Pharmaceuticals Inc.
+1831	null	name: ..... / Mapex Drums
+1832	null	name: ..... / DYO Boya Fabrikaları Inc.
+1833	null	name: ..... / Sierra Wireless
+1834	null	name: ..... / Brantano Footwear
+1835	true	name: tefal / Tefal
+1836	null	name: ..... / Colonial Penn Life Insurance Company
+1837	null	name: ..... / Regeneron
+1838	true	name: tirrenia di navigazione s.p.a. / Tirrenia di Navigazione
+1839	null	name: ..... / Praktiker
+1840	null	name: ..... / Kaufland
+1841	true	name: north american arms / North American Arms
+1842	null	name: ..... / Pos Malaysia Berhad
+1843	null	name: ..... / Dhanlaxmi Bank Ltd
+1844	null	name: ..... / Ocean Shores Video
+1845	null	name: ..... / Nintendo Australia
+1846	true	name: harry's cafe de wheels / Harry's Cafe de Wheels
+1847	null	name: ..... / Russian Railways
+1848	null	name: ..... / Harvey Films
+1849	null	name: ..... / SeatGuru. com
+1850	null	name: ..... / Parsons Corporation
+1851	null	name: ..... / Irwin Toy Limited
+1852	null	name: ..... / Cohn &amp; Wolfe
+1853	null	name: ..... / Titan Cement Company S.
+1854	null	name: ..... / Capriotti’s Sandwich Shop
+1855	null	name: ..... / Central National-Gottesman, Inc.
+1856	false	name: 'tishman hotel & realty' / Tishman Construction Corporation
+1857	null	name: ..... / KrioRus
+1858	null	name: ..... / Boots Opticians
+1859	null	name: ..... / Symbol Technologies
+1860	null	name: ..... / KEEN, Inc.
+1861	null	name: ..... / BPI Direct Savings Bank
+1862	null	name: ..... / National Foods
+1863	true	name: izze beverage company / IZZE Beverage Company
+1864	null	name: ..... / Industrial Technology Research Institute
+1865	null	name: ..... / Tatra Guitars
+1866	null	name: ..... / Shadow Broadcast Services
+1867	null	name: ..... / ArcelorMittal
+1868	null	name: ..... / Mälarenergi AB
+1869	null	name: ..... / Sierra Atlantic, Inc.
+1870	true	name: marvel animation / Marvel Animation, LLC
+1871	null	name: ..... / Capital Bars plc
+1872	null	name: ..... / Portsmouth Water
+1873	null	name: ..... / The Boston Underground Film Festival
+1874	null	name: ..... / The GEO Group Australia Pty Ltd
+1875	null	name: ..... / RotoSound
+1876	null	name: ..... / Dubai Silicon Oasis
+1877	null	name: ..... / Sonic Past Music
+1878	null	name: ..... / Omnex Inc.
+1879	true	name: mortein / Mortein
+1880	null	name: ..... / IONA Technologies
+1881	null	name: ..... / IntelliScanner Corporation
+1882	true	name: legendary pictures / Legendary Pictures
+1883	true	name: rcn corporation / RCN Corporation,
+1884	null	name: ..... / Colombia Móvil S. A.,
+1885	false	name: martini & rossi / Martini &amp; Rossi
+1886	null	name: international student exchange programs (isep) / ..........
+1887	null	name: brompton bicycle / ..........
+1888	null	name: the incorporated council of law reporting for england & wales / ..........
+1889	null	name: idiap research institute / ..........
+1890	null	name: openwave systems inc. / ..........
+1891	null	name: moodyz / ..........
+1892	null	name: vostok watch makers, inc. / ..........
+1893	null	name: dymocks booksellers / ..........
+1894	null	name: grand union family markets / ..........
+1895	null	name: simitar entertainment / ..........
+1896	null	name: data i/o / ..........
+1897	null	name: idaho botanical garden / ..........
+1898	null	name: kt / ..........
+1899	null	name: alkermes, inc. / ..........
+1900	null	name: bakers delight / ..........
+1901	null	name: village roadshowtheme parks and attractions / ..........
+1902	null	name: open invention network / ..........
+1903	null	name: the radio network / ..........
+1904	null	name: infratil / ..........
+1905	null	name: stradivari society / ..........
+1906	null	name: eat. / ..........
+1907	null	name: beamish and crawford / ..........
+1908	null	name: the schindler group / ..........
+1909	null	name: laika / ..........
+1910	null	name: naspers / ..........
+1911	null	name: page one / ..........
+1912	null	name: wolsey / ..........
+1913	null	name: american bureau of shipping / ..........
+1914	null	name: nz bus / ..........
+1915	null	name: voith gmbh / ..........
+1916	null	name: roxy / ..........
+1917	null	name: chocolove / ..........
+1918	null	name: big w / ..........
+1919	null	name: yousendit / ..........
+1920	null	name: 'original penguin' / ..........
+1921	null	name: byu creamery / ..........
+1922	null	name: istockphoto lp / ..........
+1923	null	name: wickes / ..........
+1924	null	name: ubisoft shanghai / ..........
+1925	null	name: pokerstars inc. / ..........
+1926	null	name: dodgeball / ..........
+1927	null	name: th!nkfilm / ..........
+1928	null	name: tripadvisor / ..........
+1929	null	name: naftogaz ukrainy / ..........
+1930	null	name: hong kong skyworth digital holdings co ltd / ..........
+1931	null	name: rogue / ..........
+1932	null	name: k-tel international / ..........
+1933	null	name: pictometry international / ..........
+1934	null	name:  
+'libyan arab foreign bank' / ..........
+1935	null	name: clark material handling company / ..........
+1936	null	name: best & less / ..........
+1937	null	name: josiah wedgwood and sons / ..........
+1938	null	name: ibank / ..........
+1939	null	name: imec / ..........
+1940	null	name: traxion a/s / ..........
+1941	null	name: first choice / ..........
+1942	null	name: ergon energy / ..........
+1943	null	name: audio-technica / ..........
+1944	null	name: baby, the stars shine bright / ..........
+1945	null	name: auckland regional transport authority / ..........
+1946	null	name: wall's / ..........
+1947	null	name: fondation suisse de déminage (fsd) / ..........
+1948	null	name: wooler / ..........
+1949	null	name: yves rocher / ..........
+1950	null	name: first second books / ..........
+1951	null	name: 505 games / ..........
+1952	null	name: opk oboronprom / ..........
+1953	null	name: non-format / ..........
+1954	null	name: schleich / ..........
+1955	null	name: taxi / ..........
+1956	null	name: lucky brand jeans / ..........
+1957	null	name: amalgamated wireless (australasia) ltd / ..........
+1958	null	name: auto-sleepers / ..........
+1959	null	name: smg / ..........
+1960	null	name: inventive leisure / ..........
+1961	null	name: flight design / ..........
+1962	null	name: stv group plc / ..........
+1963	null	name: schreiber & keilwerth musikinstrumente gmbh / ..........
+1964	null	name: cdigix / ..........
+1965	null	name: cochin shipyard limited / ..........
+1966	null	name: jiangsu lemote tech co., ltd / ..........
+1967	null	name: georgia tech research institute / ..........
+1968	null	name: jm productions / ..........
+1969	null	name: birdhouse skateboards / ..........
+1970	null	name: national council of architecturalregistration boards (ncarb) / ..........
+1971	null	name: no fear / ..........
+1972	null	name: the asylum / ..........
+1973	null	name: arbed s.a. / ..........
+1974	null	name: naot / ..........
+1975	null	name: citizens republic bancorp inc. / ..........
+1976	null	name: seagull book / ..........
+1977	null	name: authors' licensing and collecting society ltd. / ..........
+1978	null	name: the tote / ..........
+1979	null	name: privatbank / ..........
+1980	null	name: american taekwondo association / ..........
+1981	null	name: epcor utilities inc. / ..........
+1982	null	name: belstaff / ..........
+1983	null	name: turkey hill / ..........
+1984	null	name: applied systems laboratory at huntsville / ..........
+1985	null	name: information and communications laboratory / ..........
+1986	null	name: sensors and electromagnetic applications laboratory / ..........
+1987	null	name: the garment district / ..........
+1988	null	name: nadra / ..........
+1989	null	name: fram / ..........
+1990	null	name: woolworths / ..........
+1991	null	name: free / ..........
+1992	null	name: com hem / ..........
+1993	null	name: global / ..........
+1994	null	name: fieldcraft / ..........
+1995	null	name: st christopher iba mar diop college of medicine / ..........
+1996	null	name: bernina international ag / ..........
+1997	null	name: acciona trasmediterránea / ..........
+1998	null	name: north one sports / ..........
+1999	null	name: toyoko inn / ..........
+2000	null	name: morgan sa / ..........
+2001	null	name: victorian curriculum and assessment authority / ..........
+2002	null	name: tahera diamond corporation / ..........
+2003	null	name: pilot pen corporation / ..........
+2004	null	name: ab motala verkstad / ..........
+2005	null	name: the reject shop / ..........
+2006	null	name: gallup / ..........
+2007	null	name: rakon limited / ..........
+2008	null	name: boxclever / ..........
+2009	null	name: stv productions / ..........
+2010	null	name: dylan's candy bar / ..........
+2011	null	name: martin + osa / ..........
+2012	null	name: coda plc / ..........
+2013	null	name: katz group of companies / ..........
+2014	null	name: energoatom / ..........
+2015	null	name: poplar harca / ..........
+2016	null	name: bavaria film / ..........
+2017	null	name: rax roast beef / ..........
+2018	null	name: music and video club (mvc) / ..........
+2019	null	name: beijing huaqi information digital technology co ltd / ..........
+2020	null	name: aerospace, transportation and advanced systems laboratory / ..........
+2021	null	name: video art holland / ..........
+2022	null	name: dale and thomas popcorn / ..........
+2023	null	name: eppendorf / ..........

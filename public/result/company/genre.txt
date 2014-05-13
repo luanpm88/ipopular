@@ -1,0 +1,196 @@
+Found Not Null: 9
+Correct: 2
+Wrong: 7
+Total: 46
+-----------
+precision: 0.2222222222222222
+recall: 0.043478260869565216
+
+
+
+
+1	false	genre: retail / department stores,
+2	null	genre: ..... / confectionery
+3	null	genre: ..... / video game development
+4	null	genre: ..... / mining
+5	null	genre: ..... / department
+6	null	genre: ..... / publishing
+7	null	genre: ..... / comic book publishing brand.
+8	null	genre: ..... / department store
+9	null	genre: ..... / helicopter manufacturer
+10	null	genre: ..... / geospatial information
+11	null	genre: ..... / international clothing chain
+12	null	genre: ..... / video game development
+13	null	genre: ..... / comic book
+14	null	genre: ..... / home video distribution
+15	null	genre: ..... / video production
+16	null	genre: ..... / control standards.
+17	null	genre: ..... / department
+18	null	genre: ..... / investment
+19	true	genre: department store / department stores
+20	null	genre: ..... / spaceflight operations
+21	null	genre: ..... / adult film studio,
+22	null	genre: ..... / shipping
+23	null	genre: ..... / electronics
+24	null	genre: ..... / multimedia
+25	null	genre: ..... / chemical industry group
+26	null	genre: ..... / sanitation
+27	null	genre: ..... / technology
+28	null	genre: ..... / entertainment
+29	null	genre: ..... / construction
+30	null	genre: ..... / mining corporation
+31	null	genre: ..... / aircraft manufacturer
+32	null	genre: ..... / telecommunications
+33	null	genre: ..... / convenience store owners
+34	null	genre: ..... / telecommunications
+35	false	genre: superhero / Comics
+36	null	genre: ..... / department stores
+37	null	genre: ..... / entertainment conglomerate
+38	null	genre: ..... / comic book publishing company
+39	null	genre: ..... / comic book publishing
+40	null	genre: ..... / bus manufacturer
+41	null	genre: ..... / department
+42	null	genre: ..... / power transmission
+43	null	genre: ..... / video game developer.
+44	null	genre: ..... / public transport
+45	null	genre: ..... / video game developer
+46	null	genre: ..... / grocery store chain
+47	null	genre: ..... / telecommunication
+48	null	genre: ..... / department
+49	null	genre: ..... / automobile manufacturer,
+50	null	genre: ..... / management
+51	null	genre: ..... / supermarket chain
+52	null	genre: ..... / premium clothing
+53	null	genre: ..... / Pharmaceutical
+54	null	genre: ..... / department stores
+55	null	genre: ..... / industrial conglomerate
+56	null	genre: ..... / variety store chain
+57	null	genre: ..... / biotechnology
+58	null	genre: ..... / management
+59	null	genre: ..... / seminal publishing
+60	null	genre: ..... / shipping
+61	null	genre: ..... / publishing
+62	null	genre: ..... / game development software
+63	null	genre: ..... / semiconductor
+64	null	genre: ..... / information technology
+65	null	genre: ..... / publishing group
+66	null	genre: ..... / chemical engineering
+67	null	genre: ..... / skateboard
+68	null	genre: ..... / conservation
+69	null	genre: ..... / investment management
+70	null	genre: ..... / telecommunications service provider
+71	null	genre: ..... / ZeroSpyware Enterprise.
+72	null	genre: ..... / manufacturing
+73	null	genre: ..... / publishing
+74	null	genre: ..... / gas
+75	null	genre: ..... / missile systems
+76	null	genre: ..... / submarines,
+77	null	genre: ..... / cable television
+78	null	genre: ..... / home furnishing manufacturer
+79	null	genre: ..... / comic book company
+80	null	genre: ..... / department stores
+81	null	genre: ..... / propulsion
+82	null	genre: ..... / department
+83	null	genre: ..... / department
+84	true	genre: microstock photography / microstock photography
+85	null	genre: ..... / mining
+86	null	genre: ..... / publishing
+87	null	genre: ..... / information technology
+88	null	genre: ..... / television
+89	null	genre: ..... / supermarket chain
+90	null	genre: ..... / department store
+91	false	genre: lolita fashion / clothing boutique
+92	null	genre: ..... / department
+93	null	genre: ..... / video game developer
+94	null	genre: ..... / department
+95	null	genre: ..... / membership
+96	null	genre: ..... / steakhouse franchise restaurant chain
+97	false	genre: microstock photography / microstock photography website
+98	null	genre: ..... / gaming software development
+99	null	genre: ..... / telecommunication company
+100	null	genre: ..... / aerospace
+101	null	genre: ..... / telecommunications equipment manufacturing
+102	null	genre: ..... / city centre
+103	null	genre: ..... / leasing
+104	null	genre: ..... / video game development
+105	false	genre: publishing house / publishing
+106	null	genre: ..... / mineral exploration
+107	null	genre: ..... / software development corporation
+108	null	genre: ..... / anime production enterprise
+109	null	genre: ..... / publishing
+110	null	genre: ..... / not-for-profit organization
+111	false	genre: software / software development corporation
+112	null	genre: ..... / publishing company
+113	null	genre: ..... / pharmaceutical
+114	null	genre: ..... / advertising
+115	null	genre: ..... / publishing
+116	null	genre: ..... / surveillance
+117	null	genre: ..... / video game development
+118	null	genre: ..... / department
+119	null	genre: ..... / consulting engineering
+120	null	genre: ..... / telecommunications
+121	null	genre: ..... / comic
+122	false	genre: electricity supply company / distribution
+123	null	genre: ..... / manufacturing
+124	null	genre: ..... / Indonesian bank.
+125	null	genre: ..... / video game company
+126	null	genre: ..... / information technology park
+127	null	genre: ..... / interest organization
+128	null	genre: ..... / certification
+129	null	genre: ..... / video game developer
+130	null	genre: ..... / coachbuilding
+131	null	genre: ..... / publishing company
+132	null	genre: ..... / television production company
+133	null	genre: ..... / mineral exploration,
+134	null	genre: ..... / television production
+135	null	genre: ..... / comic book stores
+136	null	genre: ..... / publishing
+137	null	genre: ..... / communications equipment
+138	null	genre: ..... / biotechnology
+139	null	genre: ..... / shipping
+140	null	genre: surfing / ..........
+141	null	genre: typewriters / ..........
+142	null	genre: pancakes / ..........
+143	null	genre: promoting / ..........
+144	null	genre: shipbuilding / ..........
+145	null	genre: animation / ..........
+146	null	genre: media / ..........
+147	null	genre: design / ..........
+148	null	genre: five-a-side football / ..........
+149	null	genre: financial services / ..........
+150	null	genre: classification society / ..........
+151	null	genre: pub chain / ..........
+152	null	genre: department store / ..........
+153	null	genre: microstock photography / ..........
+154	null	genre: social networking / ..........
+155	null	genre: entertainment / ..........
+156	null	genre: anime / ..........
+157	null	genre: subsidiary / ..........
+158	null	genre: department store / ..........
+159	null	genre: lolita fashion / ..........
+160	null	genre: agency / ..........
+161	null	genre: health and wellness / ..........
+162	null	genre: video game developer / ..........
+163	null	genre: microstock photography / ..........
+164	null	genre: financial services / ..........
+165	null	genre: restaurants / ..........
+166	null	genre: restaurant / ..........
+167	null	genre: publishing house / ..........
+168	null	genre: mattress / ..........
+169	null	genre: software / ..........
+170	null	genre: construction / ..........
+171	null	genre: house  / ..........
+172	null	genre: restaurant / ..........
+173	null	genre: wireless / ..........
+174	null	genre: superhero / ..........
+175	null	genre: shoes / ..........
+176	null	genre: catalog showroom / ..........
+177	null	genre: newspapers / ..........
+178	null	genre: brewery / ..........
+179	null	genre: science fictiondark fantasy / ..........
+180	null	genre: golf / ..........
+181	null	genre: "coastal cuisine" / ..........
+182	null	genre: retail / ..........
+183	null	genre: fitness / ..........
+184	null	genre: recording studio / ..........
+185	null	genre: electricity supply company / ..........

@@ -1,0 +1,105 @@
+Found Not Null: 6
+Correct: 1
+Wrong: 5
+Total: 29
+-----------
+precision: 0.16666666666666666
+recall: 0.034482758620689655
+
+
+
+
+1	null	fate: ..... / acquired
+2	null	fate: ..... / bankruptcy
+3	null	fate: ..... / merged
+4	null	fate: ..... / acquired
+5	null	fate: ..... / merged
+6	null	fate: ..... / acquired by Securiguard Limited.
+7	null	fate: ..... / merged
+8	null	fate: ..... / acquired
+9	null	fate: ..... / merged
+10	false	fate: bankruptcy / Chapter 11 bankruptcy
+11	null	fate: ..... / acquired
+12	null	fate: ..... / acquired
+13	false	fate: bankruptcy / merged with Isbrandtsen Co.
+14	null	fate: ..... / bankruptcy.
+15	null	fate: ..... / merged
+16	null	fate: ..... / acquired by Handleman Corporation
+17	null	fate: ..... / acquired by ConocoPhillips
+18	null	fate: ..... / merged
+19	null	fate: ..... / merged
+20	null	fate: ..... / merged
+21	null	fate: ..... / merged
+22	false	fate: brand discontinued / merged with Carnival Corporation
+23	null	fate: ..... / merged
+24	null	fate: ..... / merged with Carnival Corporation
+25	null	fate: ..... / merged
+26	null	fate: ..... / acquired Iamgold corporation.
+27	null	fate: ..... / bankruptcy
+28	null	fate: ..... / acquired by Unilever.
+29	null	fate: ..... / merged
+30	null	fate: ..... / merged
+31	false	fate: acquired by cvs caremark / acquired by CVS
+32	null	fate: ..... / merged
+33	null	fate: ..... / merged
+34	null	fate: ..... / merged
+35	null	fate: ..... / merged
+36	null	fate: ..... / merged
+37	null	fate: ..... / acquired by Henderson Private Equity
+38	null	fate: ..... / acquired
+39	null	fate: ..... / merged with Babcock International
+40	null	fate: ..... / acquired
+41	null	fate: ..... / bankruptcy
+42	null	fate: ..... / at
+43	null	fate: ..... / merged
+44	null	fate: ..... / merged
+45	false	fate: merged with phillips petroleum company / merged
+46	true	fate: merged / merged
+47	null	fate: ..... / acquired by Strategy First.
+48	null	fate: ..... / merged with Brush Switchgear
+49	null	fate: ..... / bankruptcy
+50	null	fate: ..... / merged with Quelle
+51	null	fate: ..... / merged
+52	null	fate: ..... / acquired
+53	null	fate: ..... / merged
+54	null	fate: ..... / merged
+55	null	fate: ..... / bankruptcy
+56	null	fate: ..... / merged with Welton Becket
+57	null	fate: ..... / acquired
+58	null	fate: ..... / acquired
+59	null	fate: ..... / acquired by Deutsche Bahn AG
+60	null	fate: ..... / merged with Deutsche Telekom's
+61	null	fate: ..... / acquired
+62	null	fate: ..... / merged
+63	null	fate: ..... / merged
+64	null	fate: ..... / incorporated
+65	null	fate: ..... / Chapter 11 bankruptcy
+66	null	fate: acquired by cvs caremark / ..........
+67	null	fate: bankruptcy / ..........
+68	null	fate: liquidation / ..........
+69	null	fate: bankruptcy / ..........
+70	null	fate: bankruptcy / ..........
+71	null	fate: bankruptcy / ..........
+72	null	fate: acquired by google in 2005 / ..........
+73	null	fate: bankruptcy / ..........
+74	null	fate: acquired by washington mutual. / ..........
+75	null	fate: merged with phillips petroleum company / ..........
+76	null	fate: bankruptcy / ..........
+77	null	fate: merged / ..........
+78	null	fate: administration / ..........
+79	null	fate: bankrupt / ..........
+80	null	fate: bankruptcy / ..........
+81	null	fate: bankruptcy / ..........
+82	null	fate: administration / ..........
+83	null	fate: receivership / ..........
+84	null	fate: renamed to jaguar cars ltd / ..........
+85	null	fate: liquidation / ..........
+86	null	fate: brand discontinued / ..........
+87	null	fate: acquired / ..........
+88	null	fate: closed / ..........
+89	null	fate: acquired / ..........
+90	null	fate: merged with schoenling brewing company / ..........
+91	null	fate: bankruptcy / ..........
+92	null	fate: bankruptcy / ..........
+93	null	fate: closed / ..........
+94	null	fate: bought by powergen / ..........
