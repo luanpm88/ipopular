@@ -1,0 +1,25 @@
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 6
+-----------
+precision: 0.5
+recall: 0.16666666666666666
+F: 0.25
+
+
+
+
+1	null	named for: ..... / Major Abram Poindexter Maury of Williamson County,
+2	null	named for: ..... / War General James White,
+3	null	named for: ..... / General Winfield Scott.
+4	null	named for: ..... / Alexander Hamilton,
+5	null	named for: ..... / Marquis de la Fayette,
+6	null	named for: ..... / Colonel Arthur Campbell
+7	true	named for: john blair smith todd / John Blair Smith Todd
+8	null	named for: ..... / Solomon Robar, an
+9	false	named for: general george meade / George Meade.
+10	null	named for: edwin stanton mccook / ..........
+11	null	named for: marshall vincent / ..........
+12	null	named for: walworth county, wisconsin / ..........
+13	null	named for: alfred sully / ..........

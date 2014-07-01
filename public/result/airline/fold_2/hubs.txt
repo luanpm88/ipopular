@@ -1,0 +1,31 @@
+Found Not Null: 8
+Correct: 8
+Wrong: 0
+Total: 11
+-----------
+precision: 1.0
+recall: 0.7272727272727273
+F: 0.8421052631578948
+
+
+
+
+1	true	hubs: harare international airport / Harare International Airport.
+2	true	hubs: ivato international airport / Ivato International Airport,
+3	null	hubs: ..... / Sydney International Airport
+4	true	hubs: ouagadougou airport / Ouagadougou Airport.
+5	null	hubs: ..... / Shenzhen Bao'an International Airport
+6	true	hubs: sofia airport / Sofia Airport
+7	null	hubs: ..... / Cointrin International Airport
+8	true	hubs: osaka international airport / Osaka International Airport
+9	true	hubs: bonriki international airport / Bonriki International Airport,
+10	true	hubs: fukuoka airport / Fukuoka Airport
+11	null	hubs: ..... / Innsbruck Airport,
+12	null	hubs: ..... / Shannon Airport
+13	true	hubs: london gatwick airport / London Gatwick Airport
+14	null	hubs: ..... / Munich Airport.
+15	null	hubs: ..... / Portela Airport
+16	null	hubs: ..... / Cardiff International Airport
+17	null	hubs: sir seretse khama international airport / ..........
+18	null	hubs: manchester airport / ..........
+19	null	hubs: warsaw frédéric chopin airport / ..........

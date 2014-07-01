@@ -1,0 +1,10 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	secondary_hubs: ..... / Vienna International Airport.

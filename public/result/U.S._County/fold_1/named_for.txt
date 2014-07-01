@@ -1,0 +1,33 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 5
+-----------
+precision: 1.0
+recall: 0.4
+F: 0.5714285714285715
+
+
+
+
+1	true	named for: haakon vii / Haakon VII,
+2	true	named for: dighton corson / Dighton Corson,
+3	null	named for: ..... / Henry Laurens,
+4	null	named for: ..... / Francis Marion,
+5	null	named for: ..... / Confederate General Robert E.
+6	null	named for: ..... / John C. Calhoun,
+7	null	named for: ..... / John Barnwell,
+8	null	named for: ..... / Revolutionary War leader George Washington,
+9	null	named for: ..... / Tioga River.
+10	null	named for: ..... / Susquehanna River.
+11	null	named for: ..... / John Sullivan,
+12	null	named for: ..... / United Kingdom.
+13	null	named for: ..... / James Potter,
+14	null	named for: ..... / Oliver Hazard Perry,
+15	null	named for: ..... / Andrew Montour,
+16	null	named for: ..... / Thomas Mifflin,
+17	null	named for: haakon vii / ..........
+18	null	named for: hannibal hamlin / ..........
+19	null	named for: dighton corson / ..........
+20	null	named for: wilmot wood brookings / ..........
+21	null	named for: william henry harrison beadle / ..........

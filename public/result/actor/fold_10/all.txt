@@ -1,0 +1,62 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 2/12
+------------
+Found: 48
+Found Not Null: 20
+Correct: 17
+Wrong: 3
+Total: 32
+-----------
+precision: 0.85
+recall: 0.53125
+F: 0.6538461538461537
+
+
+
+1	true	birth_name: katherine anne clarke / Katherine Anne Clarke
+2	null	occupation: ..... / actress
+3	true	birth_name: graham arthur chapman / Graham Arthur Chapman
+4	null	occupation: ..... / actor
+5	true	birth_name: brian russell de palma / Brian Russell De Palma
+6	true	birth_name: william gary busey / William Gary Busey
+7	true	occupation: actor / actor
+8	true	birth_name: humphrey deforest bogart / Humphrey DeForest Bogart
+9	true	birth_name: harry julius shearer / Harry Julius Shearer
+10	null	birth_name: ..... / Sir Ian Murray McKellen,
+11	null	birth_name: ..... / Fredrick Aaron "Fred"
+12	false	birth_name: harry donald secombe / Sir Harry Donald
+13	null	occupation: ..... / actress
+14	null	birth_name: ..... / Gordon Michael Woolvett
+15	null	occupation: ..... / actor
+16	true	birth_name: bruce lorne campbell / Bruce Lorne Campbell
+17	null	occupation: ..... / actor
+18	true	birth_name: ivan simon cary elwes / Ivan Simon Cary Elwes
+19	true	birth_name: calista kay flockhart / Calista Kay Flockhart
+20	false	occupation: actress / actor
+21	true	birth_name: george walton lucas, jr. / George Walton Lucas, Jr.
+22	true	birth_name: david paul cronenberg / David Paul Cronenberg,
+23	true	birth_name: gary wayne coleman / Gary Wayne Coleman
+24	true	birth_name: william dwight schultz / William Dwight Schultz
+25	null	occupation: ..... / actress
+26	true	birth_name: delroy george lindo / Delroy George Lindo
+27	true	occupation: actor / actor
+28	false	birth_name: elizabeth grace ward / Elizabeth Ward Gracen
+29	null	occupation: ..... / actress
+30	null	occupation: ..... / film director
+31	true	birth_name: blythe katherine danner / Blythe Katherine Danner
+32	null	occupation: actress / ..........
+33	null	occupation: film director and writer / ..........
+34	null	other_names: topol / ..........
+35	null	birth_name: dirk niewoehner / ..........
+36	null	birth_date: 1923 / ..........
+37	null	birth_place: hamilton, ontario, canada / ..........
+38	null	spouse: michele morand / ..........
+39	null	birth_name: maria halle berry / ..........
+40	null	birth_name: izabela dorota skorupko / ..........
+41	null	birth_place: bialystok, poland / ..........
+42	null	birth_place: clinton, massachusetts / ..........
+43	null	birth_name: erik alfred leslie satie / ..........

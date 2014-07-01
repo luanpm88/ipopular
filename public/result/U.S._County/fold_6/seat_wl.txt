@@ -1,0 +1,76 @@
+Found Not Null: 3
+Correct: 1
+Wrong: 2
+Total: 6
+-----------
+precision: 0.3333333333333333
+recall: 0.16666666666666666
+F: 0.2222222222222222
+
+
+
+
+1	null	seat wl: ..... / Charleston,
+2	null	seat wl: ..... / Buckhannon.
+3	false	seat wl: lancaster / Lancaster.
+4	null	seat wl: ..... / Martinsburg.
+5	null	seat wl: ..... / Bellingham,
+6	null	seat wl: ..... / Wenatchee,
+7	null	seat wl: ..... / Princeton.
+8	null	seat wl: ..... / Hamlin.
+9	true	seat wl: green lake / Green Lake.
+10	null	seat wl: ..... / Ripley
+11	null	seat wl: ..... / Neillsville.
+12	null	seat wl: ..... / Elizabeth.
+13	null	seat wl: ..... / West Union.
+14	null	seat wl: ..... / New Cumberland.
+15	null	seat wl: ..... / Monroe.
+16	null	seat wl: ..... / Eau Claire.
+17	null	seat wl: ..... / Menomonie.
+18	false	seat wl: sturgeon bay / Sturgeon
+19	null	seat wl: ..... / Juneau.
+20	null	seat wl: ..... / Alma.
+21	null	seat wl: ..... / Pineville. Wyoming
+22	null	seat wl: ..... / Webster Springs.
+23	null	seat wl: ..... / Middlebourne.
+24	null	seat wl: ..... / Hinton. Summers
+25	null	seat wl: ..... / Spencer. Roane
+26	null	seat wl: ..... / Harrisville.
+27	null	seat wl: ..... / Beckley. Raleigh
+28	null	seat wl: ..... / Summersville. Nicholas
+29	null	seat wl: ..... / Berkeley Springs.
+30	null	seat wl: ..... / Union. Monroe
+31	null	seat wl: ..... / Morgantown.
+32	null	seat wl: ..... / Moundsville.
+33	null	seat wl: ..... / Fairmont. Marion
+34	null	seat wl: ..... / Logan. Logan
+35	null	seat wl: ..... / Weston.
+36	null	seat wl: ..... / Charles
+37	null	seat wl: ..... / Moorefield. Hardy
+38	null	seat wl: ..... / Barron.
+39	null	seat wl: ..... / New Martinsville.
+40	null	seat wl: ..... / Williamson.
+41	null	seat wl: ..... / Marlinton. Pocahontas
+42	null	seat wl: ..... / Point Pleasant.
+43	null	seat wl: ..... / Franklin. Pendleton
+44	null	seat wl: ..... / Spokane,
+45	null	seat wl: ..... / Montesano,
+46	null	seat wl: ..... / Romney, West
+47	null	seat wl: ..... / Petersburg. Grant
+48	null	seat wl: ..... / Glenville. Gilmer
+49	null	seat wl: ..... / Fayetteville. Fayette
+50	null	seat wl: ..... / Madison. Boone
+51	null	seat wl: ..... / Wellsburg. Brooke
+52	null	seat wl: ..... / Keyser.
+53	null	seat wl: ..... / Stevenson,
+54	null	seat wl: ..... / Snohomish
+55	null	seat wl: ..... / Port
+56	null	seat wl: ..... / Davenport,
+57	null	seat wl: ..... / Ellensburg,
+58	null	seat wl: ..... / Wytheville.
+59	null	seat wl: lancaster / ..........
+60	null	seat wl: superior / ..........
+61	null	seat wl: ashland / ..........
+62	null	seat wl: green lake / ..........
+63	null	seat wl: fond du lac / ..........
+64	null	seat wl: sturgeon bay / ..........

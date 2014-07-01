@@ -1,0 +1,15 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	fleet_size: ..... / 18
+2	null	fleet_size: 14 / ..........
+3	null	fleet_size: 11 / ..........
+4	null	fleet_size: 1 / ..........

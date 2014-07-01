@@ -1,0 +1,22 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 4
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	null	date: ..... / December 27, 2006.
+2	null	date: ..... / October 13, 1972.
+3	null	date: ..... / March 31, 2010
+4	null	date: ..... / 24 July 2005,
+5	true	date: august 16, 1987 / August 16, 1987,
+6	true	date: 28 november 1987 / 28 November 1987,
+7	null	date: ..... / February 11, 1958,
+8	null	date: ..... / 7 November 1933,
+9	null	date: september 6, 1970 / ..........
+10	null	date: august 19, 1980 / ..........

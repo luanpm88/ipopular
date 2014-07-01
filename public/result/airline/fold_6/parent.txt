@@ -1,0 +1,22 @@
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 6
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	parent: ..... / IMP Group International
+2	null	parent: ..... / US Airways Group. PSA
+3	false	parent: all nippon airways / Nippon Airways
+4	null	parent: ..... / on 22
+5	null	parent: groupe dubreuil / ..........
+6	null	parent: all nippon airways / ..........
+7	null	parent: nacil / ..........
+8	null	parent: atlantic coast holdings, inc. / ..........
+9	null	parent: braniff airways, inc. / ..........
+10	null	parent: jetblue airways corporation / ..........

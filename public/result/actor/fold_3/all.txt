@@ -1,0 +1,85 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 3/12
+------------
+Found: 69
+Found Not Null: 28
+Correct: 26
+Wrong: 2
+Total: 40
+-----------
+precision: 0.9285714285714286
+recall: 0.65
+F: 0.7647058823529412
+
+
+
+1	true	birth_name: nicholas simon lyndhurst / Nicholas Simon Lyndhurst
+2	true	birth_name: jean pierre hersholt / Jean Pierre Hersholt
+3	true	occupation: actor / actor
+4	true	birth_place: copenhagen, denmark / Copenhagen, Denmark,
+5	null	birth_name: ..... / Louis Burton Lindley,
+6	null	birth_place: ..... / Kingsburg, California,
+7	true	occupation: actor / actor
+8	true	birth_name: walter john matthow / Walter John Matthow
+9	true	occupation: actor / actor
+10	true	birth_name: mary louise streep / Mary Louise Streep
+11	true	occupation: actress / actress
+12	true	birth_name: lady jayne seymour fonda / Lady Jayne Seymour Fonda,
+13	true	birth_name: ernest frederick mcintyre bickel / Ernest Frederick McIntyre Bickel
+14	null	birth_place: ..... / Racine, Wisconsin,
+15	null	birth_name: ..... / Winstead Sheffield "Doodles"
+16	null	occupation: ..... / actor
+17	null	birth_place: ..... / Omaha, Nebraska,
+18	true	birth_name: phylis lee isley / Phylis Lee Isley
+19	true	occupation: actress / Actress
+20	null	birth_place: ..... / Tulsa, Oklahoma,
+21	null	birth_place: ..... / Cerritos, California
+22	true	birth_name: michael igorevitch peschkowsky / Michael Igorevitch Peschkowsky
+23	null	birth_place: ..... / Berlin, Germany,
+24	true	birth_name: david paul scofield / David Paul Scofield,
+25	true	occupation: actor / actor
+26	null	birth_place: ..... / Birmingham, England,
+27	true	birth_name: king wallis vidor / King Wallis Vidor
+28	null	birth_place: ..... / Galveston, Texas,
+29	true	birth_name: ramón gerardo antonio estévez / Ramón Gerardo Antonio Estévez
+30	true	occupation: actor / actor
+31	null	birth_place: ..... / Parderrubias, Galicia, Spain,
+32	null	occupation: ..... / actor
+33	null	birth_place: ..... / Malden, Massachusetts,
+34	true	birth_name: dorothy faye dunaway / Dorothy Faye Dunaway
+35	true	occupation: actress / Actress
+36	null	birth_name: ..... / Philip St. John Basil Rathbone
+37	true	occupation: actor / actor
+38	null	birth_name: ..... / Anna Nicole Smith
+39	null	occupation: ..... / actress
+40	false	birth_name: maureen diane lipman / Maureen Diane Lipman CBE
+41	false	birth_name: john sidney blyth / John Sidney Blyth Barrymore
+42	true	birth_name: william claude rains / William Claude Rains
+43	true	birth_name: virginia katherine mcmath / Virginia Katherine McMath
+44	null	occupation: ..... / Actress
+45	null	birth_name: ..... / George Robert Phillips "Spanky"
+46	null	occupation: ..... / actor
+47	null	birth_place: ..... / Dallas, Texas,
+48	null	birth_place: ..... / Amsterdam, the Netherlands,
+49	null	birth_name: ..... / Ami Dolenz
+50	null	occupation: ..... / film actress
+51	true	birth_name: lionel herbert blythe / Lionel Herbert Blythe
+52	null	occupation: ..... / actor
+53	null	birth_place: ..... / Philadelphia, Pennsylvania,
+54	true	birth_place: pittsburgh, pennsylvania / Pittsburgh, Pennsylvania,
+55	null	death_place: santa monica, california / ..........
+56	null	occupation: actor / ..........
+57	null	occupation: actor / ..........
+58	null	birth_name: frederick austerlitz / ..........
+59	null	birth_name: paul verhoeven / ..........
+60	null	occupation: film director / ..........
+61	null	other_names: amy dolenz / ..........
+62	null	birth_name: william henry pratt / ..........
+63	null	birth_name: david selznick / ..........
+64	null	birth_name: flora mckenzie robson / ..........
+65	null	occupation: actor / ..........
+66	null	birth_place: johannesburg, south african republic / ..........

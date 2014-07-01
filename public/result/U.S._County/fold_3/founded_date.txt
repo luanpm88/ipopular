@@ -1,0 +1,11 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	founded date: ..... / December 22,
+2	null	founded date: ..... / December 20,

@@ -1,0 +1,279 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 12/39
+------------
+Found: 217
+Found Not Null: 82
+Correct: 58
+Wrong: 24
+Total: 151
+-----------
+precision: 0.7073170731707317
+recall: 0.3841059602649007
+F: 0.49785407725321895
+
+
+
+1	false	callsign: modern / Modern Air
+2	null	parent: ..... / Gulf American Corporation,
+3	null	hubs: ..... / Miami International Airport
+4	null	operator: ..... / Modern Air
+5	false	airline: modern air transport / Modern Air
+6	null	icao: ..... / Modern
+7	null	callsign: ..... / Lauda
+8	null	hubs: ..... / Vienna International Airport
+9	true	date: 26 may 1991 / 26 May 1991,
+10	true	operator: lauda air / Lauda Air
+11	null	airline: ..... / Lauda Air
+12	null	icao: ..... / Lauda
+13	null	callsign: ..... / New
+14	null	callsign: ..... / Pacific
+15	true	founded: 2003 / 2003
+16	null	hubs: ..... / Christchurch International Airport
+17	null	airline: ..... / Pacific Blue
+18	null	callsign: ..... / Air
+19	null	headquarters: ..... / Denpasar, Bali, Indonesia.
+20	false	founded: 2002 / June 2002
+21	null	hubs: ..... / Ngurah Rai Airport,
+22	null	date: ..... / 24 November 2005
+23	true	airline: air paradise international / Air Paradise International
+24	false	callsign: sun country / MN
+25	false	airline: sun country airlines / MN
+26	false	callsign: air panama / Air
+27	true	airline: air panama / Air Panama
+28	null	icao: ..... / BAe
+29	false	callsign: walter / LGW
+30	false	airline: luftfahrtgesellschaft walter / LGW
+31	true	icao: lgw / LGW
+32	null	callsign: ..... / National
+33	null	parent: ..... / National Airways Corporation
+34	null	airline: ..... / National Airways Corporation
+35	null	icao: ..... / Fiji
+36	null	callsign: ..... / KNILM
+37	true	founded: 16 july 1928 / 16 July 1928
+38	null	date: ..... / December 28, 1941,
+39	null	icao: ..... / KNILM
+40	null	aircraft type: ..... / KNILM Douglas
+41	null	hubs: ..... / Los Angeles International Airport
+42	true	airline: flying tiger line / Flying Tiger Line,
+43	null	founded: ..... / (
+44	null	date: ..... / December 17, 1973,
+45	null	icao: ..... / Cyprus
+46	null	callsign: ..... / China
+47	true	date: december 29, 1991 / December 29, 1991
+48	true	operator: china airlines / China Airlines
+49	null	airline: ..... / China Airlines
+50	true	aircraft type: boeing 747-2r7f / Boeing 747-2R7F
+51	true	callsign: transamerica / Transamerica
+52	null	hubs: ..... / Oakland International Airport
+53	null	callsign: ..... / United
+54	null	hubs: ..... / Stapleton International Airport
+55	null	date: ..... / 3 March 1991,
+56	null	operator: ..... / United Airlines
+57	null	airline: ..... / United Airlines
+58	false	callsign: jetstar asia / Jetstar
+59	true	hubs: singapore changi airport / Singapore Changi Airport.
+60	null	date: ..... / April 16, 2008,
+61	null	operator: ..... / Jetstar Asia
+62	false	airline: jetstar airways / Jetstar Asia Airways Private
+63	null	icao: ..... / Jetstar
+64	false	callsign: royal nepal / Nepal
+65	false	headquarters: kathmandu / Kathmandu, Nepal.
+66	true	founded: 1958 / 1958
+67	true	hubs: tribhuvan international airport / Tribhuvan International Airport,
+68	true	airline: nepal airlines / Nepal Airlines,
+69	null	icao: ..... / Nepal
+70	null	callsign: ..... / Air UK
+71	null	parent: ..... / British Air Transport
+72	true	airline: air uk / Air UK
+73	null	icao: ..... / Air
+74	true	callsign: laker / Laker
+75	null	hubs: ..... / London Gatwick Airport
+76	true	airline: laker airways / Laker Airways
+77	null	icao: ..... / Laker Airways
+78	true	headquarters: don mueang, bangkok, thailand / Don Mueang, Bangkok, Thailand.
+79	null	hubs: ..... / Don Mueang International Airport,
+80	null	operator: ..... / One-Two-GO Airlines
+81	null	airline: ..... / One-Two-GO Airlines
+82	true	callsign: transbrasil / Transbrasil
+83	null	hubs: ..... / Brasilia International Airport
+84	null	date: ..... / 16 September, 2009
+85	null	callsign: ..... / Kish
+86	true	headquarters: tehran, iran / Tehran, Iran.
+87	false	founded: 1989 / December 16, 1989
+88	false	hubs: mehrabad airport / Mehrabad Airport, Tehran.
+89	null	airline: ..... / Kish Air
+90	null	icao: ..... / Kish
+91	true	headquarters: tehran, iran / Tehran, Iran,
+92	null	hubs: ..... / Mehrabad International Airport
+93	null	operator: ..... / Iran Aseman
+94	true	airline: iran aseman airlines / Iran Aseman Airlines
+95	false	callsign: qeshm air / Qeshm
+96	null	operator: ..... / Qeshm Air
+97	null	airline: ..... / Qeshm Air
+98	null	icao: ..... / Qeshm
+99	false	callsign: saha / Iranian
+100	true	headquarters: tehran, iran / Tehran, Iran.
+101	false	founded: 1990 (as saha air lines) / 1990
+102	null	airline: ..... / Iranian Airlines
+103	true	callsign: caspian / Caspian
+104	true	headquarters: tehran, iran / Tehran, Iran.
+105	true	founded: 1993 / 1993
+106	null	hubs: ..... / Mehrabad International Airport,
+107	true	airline: caspian airlines / Caspian Airlines
+108	null	callsign: ..... / Iran
+109	true	headquarters: tehran, iran / Tehran, Iran.
+110	true	founded: 1973 / 1973
+111	true	hubs: mashhad international airport / Mashhad International Airport.
+112	null	operator: ..... / Iran Air
+113	true	airline: iran air tours / Iran Air Tours
+114	null	icao: ..... / Iran
+115	false	callsign: mekong airlines / Mekong
+116	null	parent: ..... / International Lease Finance Corporation.
+117	null	headquarters: ..... / Cambodia. Mekong
+118	null	operator: ..... / Mekong Airlines
+119	true	airline: mekong airlines / Mekong Airlines
+120	null	icao: ..... / Mekong
+121	false	callsign: lufthansa cargo / Lufthansa
+122	null	parent: ..... / Express
+123	true	hubs: frankfurt airport / Frankfurt Airport.
+124	true	airline: lufthansa cargo / Lufthansa Cargo
+125	false	callsign: merpati / Merpati Nusantara
+126	null	parent: ..... / Indonesian Government
+127	true	headquarters: central jakarta, jakarta, indonesia / Central Jakarta, Jakarta, Indonesia.
+128	null	hubs: ..... / Soekarno-Hatta International Airport,
+129	false	airline: merpati nusantara / Merpati Nusantara Airlines
+130	null	icao: ..... / Merpati
+131	null	callsign: ..... / Thai AirAsia
+132	null	airline: ..... / Thai AirAsia
+133	null	icao: ..... / Thai
+134	null	callsign: ..... / TWA
+135	true	passengers: 48 / 48
+136	true	operator: twa / TWA
+137	null	airline: ..... / TWA
+138	null	icao: ..... / Sludge
+139	null	callsign: ..... / Xiamen
+140	null	date: ..... / July 25, 1984
+141	null	operator: ..... / Xiamen Airlines
+142	true	airline: xiamen airlines / Xiamen Airlines
+143	null	icao: ..... / Xiamen
+144	null	callsign: ..... / President
+145	true	headquarters: phnom penh, cambodia / Phnom Penh, Cambodia.
+146	true	founded: 1997 / 1997
+147	null	operator: ..... / President Airlines
+148	true	airline: president airlines / President Airlines
+149	null	icao: ..... / President
+150	true	parent: rpx group / RPX Group
+151	true	headquarters: jakarta, indonesia / Jakarta, Indonesia.
+152	true	founded: 2001 / 2001
+153	null	operator: ..... / Republic Express
+154	true	airline: republic express airlines / Republic Express Airlines
+155	null	hubs: ..... / Macau International Airport.
+156	null	airline: ..... / Air
+157	null	icao: ..... / EVA
+158	false	headquarters: terrace, british columbia / Terrace, British Columbia, Canada.
+159	true	founded: 1994 / 1994
+160	null	hubs: ..... / Terrace Airport
+161	null	icao: ..... / Hawkair
+162	false	callsign: provincial / Eastern Provincial
+163	null	operator: ..... / Eastern Provincial Airways
+164	true	airline: eastern provincial airways / Eastern Provincial Airways
+165	null	icao: ..... / Eastern
+166	true	callsign: nordair / Nordair
+167	true	founded: 1947 / 1947
+168	null	date: ..... / March 27, 1987,
+169	null	airline: ..... / Nordair
+170	null	icao: ..... / Nordair
+171	true	callsign: harmony / Harmony
+172	null	headquarters: ..... / Richmond, British Columbia,
+173	true	hubs: vancouver international airport / Vancouver International Airport.
+174	null	date: ..... / March 27, 2007,
+175	true	airline: harmony airways / Harmony Airways
+176	false	icao: hmy / Harmony
+177	null	callsign: ..... / Sabotage
+178	null	hubs: ..... / Zürich International Airport
+179	true	date: february 21, 1970 / February 21, 1970,
+180	true	origin: zürich international airport / Zürich International Airport
+181	null	airline: ..... / area
+182	null	icao: ..... / Sabotage
+183	true	passengers: 55 / 55
+184	true	operator: northwest orient airlines / Northwest Orient Airlines
+185	null	airline: ..... / Northwest Orient Airlines
+186	null	icao: ..... / Northwest
+187	null	callsign: ..... / Eastern
+188	null	passengers: ..... / 106
+189	null	operator: ..... / Eastern Air Lines
+190	null	airline: ..... / Eastern Air Lines
+191	null	icao: ..... / Eastern
+192	null	site: wanli, taipei / ..........
+193	null	parent: transamerica corporation / ..........
+194	null	founded: 1946 / ..........
+195	null	occurrence_type: accident / ..........
+196	null	aircraft type: boeing 767-3z9er / ..........
+197	null	passengers: 213 / ..........
+198	null	crew: 10 / ..........
+199	null	headquarters: singapore / ..........
+200	null	airline: new york airways / ..........
+201	null	founded: 1949 / ..........
+202	null	focus_cities: new york city / ..........
+203	null	secondary_hubs: auckland airport / ..........
+204	null	founded: 1982 / ..........
+205	null	iata: he / ..........
+206	null	iata: nz / ..........
+207	null	founded: 1947 / ..........
+208	null	iata: uk / ..........
+209	null	founded: 1980 / ..........
+210	null	airline: debonair / ..........
+211	null	callsign: debonair / ..........
+212	null	founded: 1996 / ..........
+213	null	ceased: 1999 / ..........
+214	null	hubs: london luton airport / ..........
+215	null	key_people: franco mancassola / ..........
+216	null	founded: 1966 / ..........
+217	null	headquarters: london gatwick airport / ..........
+218	null	commenced: 3 december 2003 / ..........
+219	null	bases: don mueang international airport / ..........
+220	null	parent: orient thai airlines / ..........
+221	null	commenced: 1 november 1928 / ..........
+222	null	headquarters: amsterdam / ..........
+223	null	airline: transbrasil / ..........
+224	null	headquarters: brasilia / ..........
+225	null	key_people: omar fontana / ..........
+226	null	airline: angel airlines / ..........
+227	null	callsign: angel air / ..........
+228	null	founded: 1997 / ..........
+229	null	headquarters: bangkok, thailand / ..........
+230	null	callsign: aseman / ..........
+231	null	parent: iranian civil pension fund investment company / ..........
+232	null	commenced: 1993 / ..........
+233	null	iata: to / ..........
+234	null	focus_cities: siem reap / ..........
+235	null	founded: 1984 / ..........
+236	null	iata: lh / ..........
+237	null	founded: 1994 / ..........
+238	null	secondary_hubs: leipzig/halle airport / ..........
+239	null	founded: 6 september 1962 / ..........
+240	null	parent: airasia / ..........
+241	null	hubs: suvarnabhumi airport / ..........
+242	null	airline: hawkair / ..........
+243	null	fleet_size: 5 / ..........
+244	null	headquarters: gander / ..........
+245	null	alliance: cp air / ..........
+246	null	headquarters: dorval, quebec / ..........
+247	null	destinations: canada / ..........
+248	null	founded: 2002 / ..........
+249	null	aircraft type: convair cv-990 / ..........
+250	null	passengers: 38 / ..........
+251	null	operator: swissair / ..........
+252	null	occurrence_type: accident / ..........
+253	null	airline: trans international airlines / ..........
+254	null	headquarters: oakland, california / ..........
+255	null	headquarters: mendota heights, minnesota / ..........
+256	null	airline: koninklijk nederlandsch-indische luchtvaart maatschappij / ..........
+257	null	parent: iran air / ..........
+258	null	hubs: phnom penh international airport / ..........
+259	null	headquarters: frankfurt, germany / ..........
+260	null	site: lake michigan / ..........

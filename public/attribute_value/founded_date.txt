@@ -1,0 +1,91 @@
+august 1
+<!-- optional, syntax is: february 1 -->
+november 1
+<!-- optional: syntax is: february 1 -->
+<!-- optional: syntax is: february 1 -->
+april 1
+march 3
+january 22
+april 15
+march 8       <!-- optional, syntax is: february 1 -->
+december 21
+december 20
+february 6
+february 6
+january 9
+september 24
+april 12
+march 3
+october 9
+december 7
+<!-- optional, syntax is: february 1 -->
+july 6      <!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+january 14
+march 30
+<!-- optional, syntax is: february 1 -->
+<!-- optional: syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+march 2
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+december 14
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+february 5
+february 12
+december 8
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+april     <!-- optional, syntax is: april -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+january 8     <!-- optional, syntax is: february 1 -->
+july 3
+february 22
+february 6<ref name="al-1818-est-cotaco-co"/>
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->
+<!-- optional, syntax is: february 1 -->

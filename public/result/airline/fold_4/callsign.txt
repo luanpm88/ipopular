@@ -1,0 +1,52 @@
+Found Not Null: 22
+Correct: 14
+Wrong: 8
+Total: 26
+-----------
+precision: 0.6363636363636364
+recall: 0.5384615384615384
+F: 0.5833333333333334
+
+
+
+
+1	true	callsign: olympic / Olympic
+2	true	callsign: interflug / Interflug
+3	false	callsign: seychelles / Air Seychelles
+4	false	callsign: jet airways / Jet
+5	true	callsign: di air / DI Air
+6	false	callsign: aer arann / Aer
+7	false	callsign: west indian / BSAA
+8	true	callsign: pacific western / Pacific Western
+9	null	callsign: ..... / Airzena
+10	null	callsign: ..... / Vladivostok
+11	true	callsign: turkmenistan / Turkmenistan
+12	null	callsign: ..... / Sahara
+13	true	callsign: jetsgo / Jetsgo
+14	true	callsign: srilankan / SriLankan
+15	true	callsign: jetstar / Jetstar
+16	null	callsign: ..... / Tower Air
+17	false	callsign: logan / Loganair
+18	null	callsign: ..... / Air
+19	null	callsign: ..... / Aviogenex
+20	null	callsign: ..... / Southeast
+21	null	callsign: ..... / Eastern
+22	true	callsign: china eastern / China Eastern
+23	null	callsign: ..... / Miami
+24	null	callsign: ..... / Air Gabon
+25	null	callsign: ..... / Dalavia
+26	true	callsign: kendell / Kendell
+27	false	callsign: arkia / Arkia Israel
+28	null	callsign: ..... / TWA
+29	true	callsign: etihad / Etihad
+30	true	callsign: estonian / Estonian
+31	true	callsign: precision air / Precision Air
+32	false	callsign: tanzania / Air Tanzania
+33	null	callsign: ..... / KLM
+34	null	callsign: ..... / Caledonian
+35	false	callsign: j-air / Japan
+36	true	callsign: air sinai / Air Sinai
+37	null	callsign: aces / ..........
+38	null	callsign: europa / ..........
+39	null	callsign: texas international / ..........
+40	null	callsign: air anatolia / ..........

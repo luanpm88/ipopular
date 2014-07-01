@@ -1,0 +1,23 @@
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 2
+-----------
+precision: 0.5
+recall: 0.5
+F: 0.5
+
+
+
+
+1	true	commenced: september 21, 1992 / September 21, 1992
+2	null	commenced: ..... / 25 May 2004.
+3	null	commenced: ..... / Moscow
+4	false	commenced: september 15, 1928 / November 15, 1999.
+5	null	commenced: ..... / 5 May 1962
+6	null	commenced: ..... / 8 December 2003
+7	null	commenced: ..... / 7 July 1990
+8	null	commenced: ..... / 29 March 2003,
+9	null	commenced: ..... / 1977 and 1979,
+10	null	commenced: september 21, 1992 / ..........
+11	null	commenced: september 15, 1928 / ..........

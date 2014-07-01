@@ -1,0 +1,68 @@
+Found Not Null: 11
+Correct: 11
+Wrong: 0
+Total: 23
+-----------
+precision: 1.0
+recall: 0.4782608695652174
+F: 0.6470588235294118
+
+
+
+
+1	null	state: ..... / Texas
+2	null	state: ..... / Texas
+3	null	state: ..... / Tennessee.
+4	null	state: ..... / Texas
+5	null	state: ..... / Texas
+6	null	state: ..... / Texas
+7	null	state: ..... / Texas
+8	null	state: ..... / Texas
+9	null	state: ..... / Texas
+10	null	state: ..... / Texas
+11	true	state: texas / Texas
+12	null	state: ..... / Texas
+13	null	state: ..... / Texas
+14	null	state: ..... / Texas
+15	null	state: ..... / Texas
+16	null	state: ..... / Texas
+17	null	state: ..... / Texas
+18	null	state: ..... / Texas
+19	null	state: ..... / Texas
+20	null	state: ..... / Texas
+21	true	state: texas / Texas
+22	null	state: ..... / Texas
+23	null	state: ..... / Texas
+24	null	state: ..... / Texas
+25	null	state: ..... / Texas
+26	true	state: texas / Texas
+27	null	state: ..... / Texas
+28	null	state: ..... / Texas
+29	null	state: ..... / Texas
+30	true	state: texas / Texas
+31	null	state: ..... / Texas
+32	null	state: ..... / Texas
+33	null	state: ..... / Texas
+34	true	state: texas / Texas
+35	null	state: ..... / Texas
+36	true	state: texas / Texas
+37	null	state: ..... / Texas
+38	null	state: ..... / Texas
+39	true	state: texas / Texas
+40	true	state: texas / Texas
+41	true	state: texas / Texas
+42	true	state: texas / Texas
+43	true	state: texas / Texas
+44	null	state: ..... / Texas
+45	null	state: texas / ..........
+46	null	state: texas / ..........
+47	null	state: texas / ..........
+48	null	state: texas / ..........
+49	null	state: texas / ..........
+50	null	state: texas / ..........
+51	null	state: texas / ..........
+52	null	state: texas / ..........
+53	null	state: texas / ..........
+54	null	state: texas / ..........
+55	null	state: texas / ..........
+56	null	state: texas / ..........

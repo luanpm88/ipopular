@@ -1,0 +1,58 @@
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	founded year: ..... / 1847
+2	null	founded year: ..... / 1807
+3	null	founded year: ..... / 1754
+4	null	founded year: ..... / 1767
+5	null	founded year: ..... / 1654
+6	null	founded year: ..... / 1791
+7	true	founded year: 1742 / 1742
+8	null	founded year: ..... / 1691
+9	true	founded year: 1838 / 1838
+10	null	founded year: ..... / 1721
+11	null	founded year: ..... / 1778
+12	null	founded year: ..... / 1703
+13	null	founded year: ..... / 1831
+14	null	founded year: ..... / 1765
+15	null	founded year: ..... / 1742
+16	null	founded year: ..... / 1757
+17	null	founded year: ..... / 1793
+18	null	founded year: ..... / 1651
+19	null	founded year: ..... / 1752
+20	null	founded year: ..... / 1781
+21	null	founded year: ..... / 1793
+22	null	founded year: ..... / 1806
+23	null	founded year: ..... / 1785
+24	null	founded year: ..... / 1727
+25	null	founded year: ..... / 1692
+26	null	founded year: ..... / 1749
+27	null	founded year: ..... / 1749
+28	null	founded year: ..... / 1836
+29	null	founded year: ..... / 1836
+30	null	founded year: ..... / 1728
+31	null	founded year: ..... / 1801
+32	null	founded year: ..... / 1770
+33	null	founded year: ..... / 1764
+34	null	founded year: ..... / 1782
+35	null	founded year: ..... / 1720
+36	null	founded year: ..... / 1861
+37	null	founded year: ..... / 1790
+38	true	founded year: 1738 / 1738
+39	null	founded year: ..... / 1634
+40	null	founded year: ..... / 1846
+41	null	founded year: ..... / 1911
+42	null	founded year: ..... / 1858
+43	null	founded year: ..... / 1753
+44	null	founded year: 1742 / ..........
+45	null	founded year: 1838 / ..........
+46	null	founded year: 1738 / ..........

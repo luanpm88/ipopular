@@ -1,0 +1,31 @@
+Found Not Null: 4
+Correct: 4
+Wrong: 0
+Total: 7
+-----------
+precision: 1.0
+recall: 0.5714285714285714
+F: 0.7272727272727273
+
+
+
+
+1	null	birth_place: ..... / Los Angeles,
+2	true	birth_place: edmonton, alberta, canada / Edmonton, Alberta, Canada,
+3	null	birth_place: ..... / San Francisco, California,
+4	null	birth_place: ..... / San Francisco, California,
+5	null	birth_place: ..... / Croydon, Surrey
+6	null	birth_place: ..... / Guadalajara, México
+7	true	birth_place: toccoa, georgia / Toccoa, Georgia,
+8	true	birth_place: vancouver, british columbia / Vancouver, British Columbia,
+9	null	birth_place: ..... / Paso, Texas,
+10	true	birth_place: roanne, loire, france / Roanne, Loire, France.
+11	null	birth_place: ..... / Owensboro, Kentucky,
+12	null	birth_place: ..... / Mound, Minnesota,
+13	null	birth_place: edmonton, alberta, canada / ..........
+14	null	birth_place: york, yorkshire, england / ..........
+15	null	birth_place: monsummano terme, italy / ..........
+16	null	birth_place: taylor, texas / ..........
+17	null	birth_place: roanne, loire, france / ..........
+18	null	birth_place: toccoa, georgia / ..........
+19	null	birth_place: vancouver, british columbia / ..........

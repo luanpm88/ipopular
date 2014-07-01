@@ -1,0 +1,38 @@
+Found Not Null: 6
+Correct: 2
+Wrong: 4
+Total: 7
+-----------
+precision: 0.3333333333333333
+recall: 0.2857142857142857
+F: 0.30769230769230765
+
+
+
+
+1	null	icao: ..... / Trippe
+2	null	icao: ..... / Air
+3	null	icao: ..... / Aeroméxico
+4	null	icao: ..... / Fly
+5	true	icao: klm / KLM
+6	null	icao: ..... / Qantas
+7	false	icao: nwa / Northwest
+8	null	icao: ..... / American
+9	null	icao: ..... / Delta
+10	null	icao: ..... / Korean
+11	null	icao: ..... / Virgin
+12	null	icao: ..... / Gol
+13	true	icao: lot / LOT
+14	null	icao: ..... / Keys
+15	false	icao: wal / Western
+16	null	icao: ..... / Martinair
+17	null	icao: ..... / Alia
+18	null	icao: ..... / Aer
+19	false	icao: ual / United
+20	null	icao: ..... / Air
+21	null	icao: ..... / CargoB
+22	null	icao: ..... / Lucander
+23	null	icao: ..... / TJ
+24	false	icao: cal / China
+25	null	icao: ..... / Skyservice
+26	null	icao: saa / ..........

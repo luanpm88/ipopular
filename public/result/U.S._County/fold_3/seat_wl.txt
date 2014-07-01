@@ -1,0 +1,39 @@
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 10
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	false	seat wl: palestine / Palestine. Anderson
+2	null	seat wl: ..... / Lebanon
+3	null	seat wl: ..... / Levelland,
+4	null	seat wl: ..... / Marshall
+5	null	seat wl: ..... / Pampa
+6	null	seat wl: ..... / Galveston.
+7	null	seat wl: ..... / Fairfield.
+8	null	seat wl: ..... / Richmond,
+9	null	seat wl: ..... / Crowell,
+10	null	seat wl: ..... / Bonham
+11	null	seat wl: ..... / Clarendon.
+12	null	seat wl: ..... / Dickens.
+13	null	seat wl: ..... / Denton.
+14	null	seat wl: ..... / Dallas,
+15	null	seat wl: ..... / Gainesville
+16	null	seat wl: ..... / Jacksonville
+17	null	seat wl: ..... / Brownsville. Cameron
+18	null	seat wl: ..... / Big
+19	null	seat wl: goliad / ..........
+20	null	seat wl: la grange / ..........
+21	null	seat wl: hamilton / ..........
+22	null	seat wl: gail / ..........
+23	null	seat wl: lufkin / ..........
+24	null	seat wl: burnet / ..........
+25	null	seat wl: johnson city / ..........
+26	null	seat wl: beeville / ..........
+27	null	seat wl: muleshoe / ..........

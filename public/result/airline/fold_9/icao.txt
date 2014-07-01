@@ -1,0 +1,40 @@
+Found Not Null: 5
+Correct: 3
+Wrong: 2
+Total: 11
+-----------
+precision: 0.6
+recall: 0.2727272727272727
+F: 0.37499999999999994
+
+
+
+
+1	null	icao: ..... / Cathay
+2	null	icao: ..... / Gatwick
+3	null	icao: ..... / AirBaltic
+4	null	icao: ..... / WestJet
+5	null	icao: ..... / Ariana
+6	true	icao: sas / SAS
+7	null	icao: ..... / Swiss
+8	null	icao: ..... / SABENA
+9	null	icao: ..... / Tobago
+10	null	icao: ..... / Aeropostal
+11	null	icao: ..... / Frontier
+12	false	icao: pia / Pakistan
+13	true	icao: twa / TWA
+14	null	icao: ..... / Crossair
+15	false	icao: taa / Qantas
+16	true	icao: sia / SIA
+17	null	icao: ..... / ATA
+18	null	icao: ..... / Alitalia
+19	null	icao: ..... / Iran
+20	null	icao: ..... / Cubana
+21	null	icao: ..... / Bahamasair
+22	null	icao: ..... / EasyJet
+23	null	icao: rba / ..........
+24	null	icao: mas / ..........
+25	null	icao: tam / ..........
+26	null	icao: thy / ..........
+27	null	icao: sam / ..........
+28	null	icao: jal / ..........

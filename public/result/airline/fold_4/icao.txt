@@ -1,0 +1,40 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 2
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	icao: ..... / Olympic
+2	null	icao: ..... / Interflug
+3	null	icao: ..... / Jet
+4	null	icao: ..... / DI
+5	null	icao: ..... / BWIA
+6	null	icao: ..... / Vladivostok
+7	null	icao: ..... / Turkmenistan
+8	null	icao: ..... / Jetlite
+9	null	icao: ..... / Jetsgo
+10	null	icao: ..... / Emirates
+11	null	icao: ..... / Qantas
+12	null	icao: ..... / Aeromar
+13	null	icao: ..... / Tower
+14	null	icao: ..... / Loganair
+15	null	icao: ..... / Aviogenex
+16	null	icao: ..... / Southeast
+17	null	icao: ..... / Eastern
+18	null	icao: ..... / Chalk
+19	null	icao: ..... / Miami
+20	null	icao: ..... / Air
+21	null	icao: ..... / OJSC
+22	null	icao: ..... / Arkia
+23	null	icao: ..... / SAS
+24	null	icao: ..... / Precision
+25	null	icao: ..... / KLM
+26	null	icao: ..... / JAL
+27	null	icao: ..... / Air
+28	null	icao: olt / ..........
+29	null	icao: atc / ..........

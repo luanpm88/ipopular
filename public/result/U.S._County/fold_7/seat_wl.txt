@@ -1,0 +1,47 @@
+Found Not Null: 10
+Correct: 5
+Wrong: 5
+Total: 18
+-----------
+precision: 0.5
+recall: 0.2777777777777778
+F: 0.35714285714285715
+
+
+
+
+1	null	seat wl: ..... / Connecticut
+2	null	seat wl: ..... / Wilmington.
+3	true	seat wl: pittsburgh / Pittsburgh.
+4	null	seat wl: ..... / Newcastle.
+5	null	seat wl: ..... / Lake
+6	null	seat wl: ..... / Torrington. Goshen
+7	null	seat wl: ..... / West Bend.
+8	true	seat wl: shell lake / Shell Lake.
+9	false	seat wl: whitehall / Whitehall.
+10	null	seat wl: ..... / Safford
+11	null	seat wl: ..... / Milwaukee.
+12	true	seat wl: darlington / Darlington.
+13	false	seat wl: marinette / Marinette. Marinette
+14	true	seat wl: stevens point / Stevens Point.
+15	false	seat wl: ladysmith / Ladysmith.
+16	null	seat wl: ..... / Green River.
+17	null	seat wl: ..... / Richland Center.
+18	null	seat wl: ..... / Rapids-Marshfield
+19	true	seat wl: baraboo / Baraboo
+20	null	seat wl: ..... / Administration
+21	null	seat wl: ..... / Connecticut
+22	null	seat wl: ..... / Janesville.
+23	null	seat wl: ..... / Balsam Lake.
+24	null	seat wl: ..... / Durand. Pepin
+25	null	seat wl: ..... / Port Washington.
+26	false	seat wl: manitowoc / Manitowoc.
+27	false	seat wl: jefferson / Jefferson.
+28	null	seat wl: oconto / ..........
+29	null	seat wl: eagle river / ..........
+30	null	seat wl: ellsworth / ..........
+31	null	seat wl: shawano / ..........
+32	null	seat wl: rhinelander / ..........
+33	null	seat wl: kewaunee / ..........
+34	null	seat wl: black river falls / ..........
+35	null	seat wl: dodgeville / ..........

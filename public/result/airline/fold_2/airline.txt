@@ -1,0 +1,55 @@
+Found Not Null: 18
+Correct: 15
+Wrong: 3
+Total: 24
+-----------
+precision: 0.8333333333333334
+recall: 0.625
+F: 0.7142857142857143
+
+
+
+
+1	true	airline: air zimbabwe / Air Zimbabwe
+2	null	airline: ..... / Air Rhodesia
+3	null	airline: ..... / Kiwi International Air Lines
+4	true	airline: air madagascar / Air Madagascar
+5	false	airline: air botswana / Air Botswana Corporation
+6	null	airline: ..... / Impulse Airlines
+7	null	airline: ..... / Thomsonfly
+8	null	airline: ..... / Pan
+9	null	airline: ..... / Siberia Airlines
+10	null	airline: ..... / Air Holland
+11	true	airline: air burkina / Air Burkina
+12	null	airline: ..... / Shenzhen Airlines
+13	true	airline: kosova airlines / Kosova Airlines
+14	true	airline: mavial magadan airlines / Mavial Magadan Airlines
+15	true	airline: bulgaria air / Bulgaria Air
+16	null	airline: ..... / Scandinavian Airlines
+17	true	airline: tiger airways / Tiger Airways
+18	false	airline: singapore airlines cargo / Singapore Airlines
+19	null	airline: ..... / JAL Express
+20	false	airline: leeward islands air transport / Leeward Islands Air
+21	null	airline: ..... / Lufthansa
+22	true	airline: castle air / Castle Air
+23	true	airline: british airtours / British Airtours
+24	null	airline: ..... / Tyrolean Airways
+25	null	airline: ..... / Bearskin Lake Air
+26	null	airline: ..... / Corporate Airlines
+27	null	airline: ..... / Japan Airlines
+28	true	airline: britannia airways / Britannia Airways
+29	true	airline: cityflyer express / CityFlyer Express
+30	null	airline: ..... / Tasman Empire Airways
+31	true	airline: air dolomiti / Air Dolomiti
+32	true	airline: air polonia / Air Polonia
+33	null	airline: ..... / Soekarno-Hatta International
+34	true	airline: kingfisher red / Kingfisher Red,
+35	true	airline: air wales / Air Wales
+36	null	airline: ..... / Air Scotland
+37	null	airline: ..... / Air New Zealand
+38	null	airline: vueling airlines / ..........
+39	null	airline: privatair / ..........
+40	null	airline: compañía de aviación faucett / ..........
+41	null	airline: air kiribati / ..........
+42	null	airline: dba / ..........
+43	null	airline: eujet / ..........

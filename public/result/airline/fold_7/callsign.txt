@@ -1,0 +1,54 @@
+Found Not Null: 22
+Correct: 11
+Wrong: 11
+Total: 26
+-----------
+precision: 0.5
+recall: 0.4230769230769231
+F: 0.4583333333333333
+
+
+
+
+1	false	callsign: air moldova / Air
+2	null	callsign: ..... / US
+3	null	callsign: ..... / Virgin Blue
+4	null	callsign: ..... / AirTran
+5	false	callsign: reeve / Reeve Aleutian
+6	null	callsign: ..... / Turkish
+7	null	callsign: ..... / Czech
+8	true	callsign: chautauqua / Chautauqua
+9	null	callsign: ..... / Kavminvodyavia
+10	true	callsign: moldavian / Moldavian
+11	null	callsign: ..... / Oneworld
+12	false	callsign: british / BA Connect
+13	false	callsign: condor / Lufthansa
+14	true	callsign: pulkovo / Pulkovo
+15	true	callsign: world / World
+16	null	callsign: ..... / off
+17	true	callsign: air midwest / Air Midwest
+18	null	callsign: ..... / KLM
+19	false	callsign: pace / Hooters Air
+20	true	callsign: philippine / Philippine
+21	false	callsign: air china / Air
+22	true	callsign: copa / Copa
+23	true	callsign: corsair / Corsair
+24	true	callsign: thai / Thai
+25	null	callsign: ..... / SkyEurope
+26	false	callsign: jazz / Air
+27	true	callsign: adria / Adria
+28	null	callsign: ..... / Skywest
+29	null	callsign: ..... / Air
+30	false	callsign: korean air / Korean
+31	false	callsign: wardair / Wardair Canada
+32	true	callsign: asiana / Asiana
+33	false	callsign: jat / Aeroput
+34	false	callsign: kaunas / Air
+35	null	callsign: ..... / Lauda Air
+36	null	callsign: ..... / Canadian
+37	null	callsign: ..... / Great
+38	null	callsign: ..... / SkyTeam
+39	null	callsign: jersey / ..........
+40	null	callsign: georgian / ..........
+41	null	callsign: egyptair / ..........
+42	null	callsign: air santo domingo / ..........

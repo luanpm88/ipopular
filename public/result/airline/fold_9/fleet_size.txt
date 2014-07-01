@@ -1,0 +1,18 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	fleet_size: ..... / 114
+2	null	fleet_size: ..... / 8:48am
+3	null	fleet_size: ..... / 30
+4	null	fleet_size: ..... / 220
+5	null	fleet_size: 26 / ..........
+6	null	fleet_size: 7 / ..........
+7	null	fleet_size: 54 / ..........

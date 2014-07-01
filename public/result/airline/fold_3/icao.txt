@@ -1,0 +1,37 @@
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 5
+-----------
+precision: 0.5
+recall: 0.2
+F: 0.28571428571428575
+
+
+
+
+1	null	icao: ..... / Virgin
+2	false	icao: cfs / Empire
+3	null	icao: ..... / Cirrus
+4	null	icao: ..... / Uruguayan
+5	null	icao: ..... / Air
+6	null	icao: ..... / Airlines
+7	null	icao: ..... / Allegheny
+8	null	icao: ..... / Omni
+9	null	icao: ..... / Harbour
+10	null	icao: ..... / Frontier
+11	null	icao: ..... / CityJet
+12	null	icao: ..... / SCADTA
+13	null	icao: ..... / Wizz
+14	null	icao: ..... / Valuair
+15	null	icao: ..... / HLX
+16	null	icao: ..... / at
+17	null	icao: ..... / Mohawk
+18	null	icao: ..... / Meridiana
+19	null	icao: ..... / Belavia
+20	true	icao: mea / MEA
+21	null	icao: ..... / Servicio
+22	null	icao: ..... / OJSC
+23	null	icao: abx / ..........
+24	null	icao: dan / ..........
+25	null	icao: lao / ..........

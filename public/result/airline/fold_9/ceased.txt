@@ -1,0 +1,17 @@
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 3
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	ceased: ..... / 2006, 2007, 2008
+2	false	ceased: april 3, 2008 / Airlines
+3	null	ceased: april 3, 2008 / ..........
+4	null	ceased: 31 march 2002 / ..........
+5	null	ceased: 30 march 2008 / ..........

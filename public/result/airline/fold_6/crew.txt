@@ -1,0 +1,15 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	crew: ..... / 8
+2	null	crew: ..... / 14:50
+3	true	crew: 15 / 15

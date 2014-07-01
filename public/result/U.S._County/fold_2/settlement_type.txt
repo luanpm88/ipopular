@@ -1,0 +1,119 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	settlement_type: ..... / County
+2	null	settlement_type: ..... / County
+3	null	settlement_type: ..... / County
+4	null	settlement_type: ..... / County
+5	null	settlement_type: ..... / County
+6	null	settlement_type: ..... / County
+7	null	settlement_type: ..... / county
+8	null	settlement_type: ..... / County
+9	null	settlement_type: ..... / County
+10	null	settlement_type: ..... / county
+11	null	settlement_type: ..... / County
+12	null	settlement_type: ..... / County
+13	null	settlement_type: ..... / Blount County
+14	null	settlement_type: ..... / County
+15	null	settlement_type: ..... / County
+16	null	settlement_type: ..... / County
+17	null	settlement_type: ..... / County
+18	null	settlement_type: ..... / County
+19	null	settlement_type: ..... / County
+20	null	settlement_type: ..... / County
+21	null	settlement_type: ..... / County
+22	null	settlement_type: ..... / County
+23	null	settlement_type: ..... / County
+24	null	settlement_type: ..... / County
+25	null	settlement_type: ..... / County
+26	null	settlement_type: ..... / County
+27	null	settlement_type: ..... / County
+28	null	settlement_type: ..... / County
+29	null	settlement_type: ..... / County
+30	null	settlement_type: ..... / County
+31	null	settlement_type: ..... / County
+32	null	settlement_type: ..... / County
+33	null	settlement_type: ..... / County
+34	null	settlement_type: ..... / County
+35	null	settlement_type: ..... / County
+36	null	settlement_type: ..... / County
+37	null	settlement_type: ..... / county
+38	null	settlement_type: ..... / County
+39	null	settlement_type: ..... / County
+40	null	settlement_type: ..... / County
+41	null	settlement_type: ..... / County
+42	null	settlement_type: ..... / County
+43	null	settlement_type: ..... / County
+44	null	settlement_type: ..... / County
+45	null	settlement_type: ..... / County
+46	null	settlement_type: ..... / County
+47	null	settlement_type: ..... / County
+48	null	settlement_type: ..... / County
+49	null	settlement_type: ..... / County
+50	null	settlement_type: ..... / County
+51	null	settlement_type: ..... / county
+52	null	settlement_type: ..... / County
+53	null	settlement_type: ..... / County
+54	null	settlement_type: ..... / County
+55	null	settlement_type: ..... / County
+56	null	settlement_type: ..... / County
+57	null	settlement_type: ..... / County
+58	null	settlement_type: ..... / County
+59	null	settlement_type: ..... / County
+60	null	settlement_type: ..... / County
+61	null	settlement_type: ..... / County
+62	null	settlement_type: ..... / County
+63	null	settlement_type: ..... / County
+64	null	settlement_type: ..... / County
+65	null	settlement_type: ..... / County
+66	null	settlement_type: ..... / County
+67	null	settlement_type: ..... / County
+68	null	settlement_type: ..... / County
+69	null	settlement_type: ..... / County
+70	null	settlement_type: ..... / County
+71	null	settlement_type: ..... / County
+72	null	settlement_type: ..... / county
+73	null	settlement_type: ..... / County
+74	null	settlement_type: ..... / County
+75	null	settlement_type: ..... / County
+76	null	settlement_type: ..... / County
+77	null	settlement_type: ..... / County
+78	null	settlement_type: ..... / County
+79	null	settlement_type: ..... / County
+80	null	settlement_type: ..... / County
+81	null	settlement_type: ..... / County
+82	null	settlement_type: ..... / County
+83	null	settlement_type: ..... / County
+84	null	settlement_type: ..... / County
+85	null	settlement_type: ..... / County
+86	null	settlement_type: ..... / County
+87	null	settlement_type: ..... / County
+88	null	settlement_type: ..... / County
+89	null	settlement_type: ..... / County
+90	null	settlement_type: ..... / Campbell County
+91	null	settlement_type: ..... / County
+92	null	settlement_type: ..... / County
+93	null	settlement_type: ..... / County
+94	null	settlement_type: ..... / Anderson County
+95	null	settlement_type: ..... / County
+96	null	settlement_type: ..... / County
+97	null	settlement_type: ..... / County
+98	null	settlement_type: ..... / County
+99	null	settlement_type: ..... / County
+100	null	settlement_type: ..... / County
+101	null	settlement_type: ..... / County
+102	null	settlement_type: ..... / County
+103	null	settlement_type: ..... / County
+104	null	settlement_type: ..... / County
+105	null	settlement_type: ..... / County
+106	null	settlement_type: ..... / County
+107	null	settlement_type: ..... / County
+108	null	settlement_type: ..... / County
+109	null	settlement_type: ..... / County
+110	null	settlement_type: ..... / County

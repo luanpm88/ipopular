@@ -1,0 +1,23 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 4
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	null	birth_place: ..... / Boston, Massachusetts,
+2	null	birth_place: ..... / Nuneaton, Warwickshire,
+3	null	birth_place: ..... / Yonkers, New York,
+4	true	birth_place: beirut, lebanon / Beirut, Lebanon,
+5	null	birth_place: ..... / Chicago, Illinois,
+6	null	birth_place: ..... / Toronto, Ontario,
+7	null	birth_place: ..... / Hauts-de-Seine ), France,
+8	null	birth_place: ..... / Yakima, Washington.
+9	true	birth_place: tokyo, japan / Tokyo, Japan,
+10	null	birth_place: ise, mie prefecture / ..........
+11	null	birth_place: piraeus, greece / ..........

@@ -1,0 +1,17 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	operator: ..... / Balkan Airlines
+2	null	operator: ..... / Biman Bangladesh
+3	null	operator: ..... / Sterling
+4	null	operator: ..... / Air Wisconsin Airlines
+5	null	operator: ..... / Mesaba Airlines
+6	null	operator: ..... / Cyprus Airways
+7	null	operator: ..... / Nantucket Airlines
+8	null	operator: ..... / Canadian Airlines

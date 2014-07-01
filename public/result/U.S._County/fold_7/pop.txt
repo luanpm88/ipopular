@@ -1,0 +1,76 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	pop: ..... / 35,634
+2	null	pop: ..... / 2,392
+3	null	pop: ..... / 49,700
+4	null	pop: ..... / 14,070
+5	null	pop: ..... / 13,913
+6	null	pop: ..... / 1,823
+7	null	pop: ..... / 7,385
+8	null	pop: ..... / 51,335
+9	null	pop: ..... / 33,489
+10	null	pop: ..... / 38,381
+11	null	pop: ..... / 65,514
+12	null	pop: ..... / 6,644
+13	null	pop: ..... / 8,289
+14	null	pop: ..... / 19,742
+15	null	pop: ..... / 18,251
+16	null	pop: ..... / 26,560
+17	null	pop: ..... / 8,807
+18	null	pop: ..... / 25,786
+19	null	pop: ..... / 2,407
+20	null	pop: ..... / 81,607
+21	null	pop: ..... / 4,882
+22	null	pop: ..... / 12,538
+23	null	pop: ..... / 35,804
+24	null	pop: ..... / 12,052
+25	null	pop: ..... / 11,461
+26	null	pop: ..... / 32,014
+27	null	pop: ..... / 156,763
+28	null	pop: ..... / 117,493
+29	null	pop: ..... / 16,036
+30	null	pop: ..... / 2,697
+31	null	pop: ..... / 1,258
+32	null	pop: ..... / 8,547
+33	null	pop: ..... / 14,573
+34	null	pop: ..... / 51,731
+35	null	pop: ..... / 93,759
+36	null	pop: ..... / 1,893
+37	null	pop: ..... / 112,646
+38	null	pop: ..... / 16,137
+39	null	pop: ..... / 6,861
+40	null	pop: ..... / 3,072,149
+41	null	pop: ..... / 23,154
+42	null	pop: ..... / 43,384
+43	null	pop: ..... / 67,182
+44	null	pop: ..... / 15,347
+45	null	pop: ..... / 37,613
+46	null	pop: ..... / 17,924
+47	null	pop: ..... / 75,555
+48	null	pop: ..... / 33,698
+49	null	pop: ..... / 36,804
+50	null	pop: ..... / 55,225
+51	null	pop: ..... / 40,664
+52	null	pop: ..... / 107,120
+53	null	pop: ..... / 15,822
+54	null	pop: ..... / 41,319
+55	null	pop: ..... / 7,213
+56	null	pop: ..... / 160,971
+57	null	pop: ..... / 36,776
+58	null	pop: ..... / 40,899
+59	null	pop: ..... / 15,832
+60	null	pop: ..... / 29,641
+61	null	pop: ..... / 20,740
+62	null	pop: ..... / 20,187
+63	null	pop: ..... / 149,577
+64	null	pop: ..... / 24,316
+65	null	pop: ..... / 74,021
+66	null	pop: ..... / 19,100
+67	null	pop: ..... / 5,887

@@ -1,0 +1,487 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 72
+Attributes with high occurrences: 72/72
+Attributes with high precision: 9/72
+------------
+Found: 697
+Found Not Null: 147
+Correct: 103
+Wrong: 44
+Total: 193
+-----------
+precision: 0.7006802721088435
+recall: 0.533678756476684
+F: 0.6058823529411765
+
+
+
+1	null	density_km2: ..... / 20
+2	true	density_sq_mi: 36 / 36
+3	true	county: oconto county / Oconto County
+4	false	state: wisconsin / Wisconsin.
+5	null	county: ..... / Pinal County
+6	null	census yr: ..... / 2000
+7	null	density_km2: ..... / 0,52
+8	null	county: ..... / Haines Borough
+9	null	census yr: ..... / 2000
+10	null	density_km2: ..... / 2
+11	null	county: ..... / Kenai Peninsula Borough
+12	null	census yr: ..... / 2000
+13	null	density_km2: ..... / 5
+14	null	density_sq_mi: ..... / 11
+15	null	county: ..... / Ketchikan Gateway Borough
+16	null	census yr: ..... / 2000
+17	null	density_km2: ..... / 1
+18	null	density_sq_mi: ..... / 2
+19	null	census yr: ..... / 2000
+20	null	density_km2: ..... / 1
+21	null	density_sq_mi: ..... / 2
+22	null	county: ..... / Matanuska-Susitna Borough
+23	null	census yr: ..... / 2000
+24	null	county: ..... / North Slope Borough
+25	null	census yr: ..... / 2000
+26	null	density_km2: ..... / 0
+27	null	county: ..... / Northwest Arctic Borough
+28	null	founded: ..... / 1861
+29	null	founded year: ..... / 1861
+30	null	census yr: ..... / 2000
+31	null	county: ..... / Churchill County
+32	null	census yr: ..... / 2000
+33	null	county: ..... / Coconino County
+34	null	founded: ..... / February 1, 1881,
+35	null	census yr: ..... / 2000
+36	null	county: ..... / Cochise County
+37	null	census yr: ..... / 2000
+38	null	density_km2: ..... / 6
+39	null	density_sq_mi: ..... / 11
+40	null	county: ..... / Gila County
+41	null	census yr: ..... / 2000
+42	null	density_km2: ..... / 2
+43	null	density_sq_mi: ..... / 7
+44	null	county: ..... / Graham County
+45	null	founded: ..... / 1983
+46	null	founded year: ..... / 1983
+47	true	census yr: 2000 / 2000
+48	false	county: la paz county / Paz County La Paz County
+49	true	census yr: 2000 / 2000
+50	true	county: mohave county / Mohave County
+51	null	census yr: ..... / 2000
+52	null	county: ..... / Navajo County
+53	null	census yr: ..... / 2000
+54	null	county: ..... / Pima County
+55	null	founded: ..... / March 15, 1899,
+56	null	census yr: ..... / 2000
+57	null	density_km2: ..... / 10
+58	null	density_sq_mi: ..... / 31
+59	null	county: ..... / Santa Cruz
+60	null	county: ..... / Douglas County
+61	true	census yr: 2000 / 2000
+62	true	county: fairfield county / Fairfield County
+63	null	founded: ..... / 1785
+64	null	founded year: ..... / 1785
+65	null	county: ..... / Middlesex County
+66	null	founded: ..... / May 10, 1666,
+67	null	seat wl: ..... / Connecticut
+68	null	county: ..... / New Haven County
+69	null	state: ..... / Connecticut
+70	null	census yr: ..... / 2000
+71	null	county: ..... / Kent County
+72	true	census yr: 2000 / 2000
+73	null	seat wl: ..... / Wilmington.
+74	true	county: new castle county / New Castle County
+75	true	census yr: 2000 / 2000
+76	true	county: sussex county / Sussex County
+77	true	county: mccracken county / McCracken County
+78	true	census yr: 2000 / 2000
+79	true	seat wl: pittsburgh / Pittsburgh.
+80	true	county: allegheny county / Allegheny County
+81	true	state: pennsylvania / Pennsylvania.
+82	null	founded: ..... / March 12, 1800,
+83	null	census yr: ..... / 2000
+84	null	county: ..... / Armstrong County
+85	null	state: ..... / Pennsylvania.
+86	null	largest city wl: ..... / Newcastle.
+87	null	census yr: ..... / 2000
+88	null	density_km2: ..... / 1
+89	null	seat wl: ..... / Newcastle.
+90	null	density_sq_mi: ..... / 3
+91	null	county: ..... / Weston County
+92	null	founded: ..... / 1911
+93	null	founded year: ..... / 1911
+94	null	density_km2: ..... / 2
+95	null	density_sq_mi: ..... / 4
+96	null	county: ..... / Washakie County
+97	null	density_km2: ..... / 4
+98	null	density_sq_mi: ..... / 10
+99	true	county: uinta county / Uinta County
+100	null	density_km2: ..... / 3
+101	null	seat wl: ..... / Lake
+102	null	density_sq_mi: ..... / 5
+103	true	county: teton county / Teton County
+104	null	county: ..... / Sheridan County
+105	null	density_km2: ..... / 2
+106	null	density_sq_mi: ..... / 4
+107	null	county: ..... / Platte County
+108	null	founded: ..... / February 15, 1909,
+109	null	census yr: ..... / 2000
+110	null	density_km2: ..... / 2
+111	null	density_sq_mi: ..... / 4
+112	null	county: ..... / Park County
+113	null	census yr: ..... / 2000
+114	null	density_km2: ..... / 0
+115	null	density_sq_mi: ..... / 1
+116	null	county: ..... / Niobrara County
+117	true	census yr: 2000 / 2000
+118	null	density_km2: ..... / 13
+119	null	density_sq_mi: ..... / 30
+120	true	county: laramie county / Laramie County
+121	null	density_km2: ..... / 1
+122	null	density_sq_mi: ..... / 2
+123	null	county: ..... / Springs County
+124	null	density_km2: ..... / 3
+125	null	seat wl: ..... / Torrington. Goshen
+126	null	density_sq_mi: ..... / 6
+127	null	county: ..... / Goshen County
+128	null	census yr: ..... / 2000
+129	null	county: ..... / Yuma County
+130	null	density_km2: ..... / 2
+131	null	density_sq_mi: ..... / 4
+132	null	county: ..... / Fremont County
+133	null	density_km2: ..... / 1
+134	null	density_sq_mi: ..... / 3
+135	null	county: ..... / Converse County
+136	null	county: ..... / Carbon County
+137	null	state: ..... / Texas
+138	null	census yr: ..... / 2000
+139	null	density_km2: ..... / 2
+140	null	density_sq_mi: ..... / 4
+141	null	county: ..... / Big Horn County
+142	null	founded: ..... / 16, 1868
+143	null	founded year: ..... / 1868
+144	null	density_km2: ..... / 4
+145	null	density_sq_mi: ..... / 8
+146	null	county: ..... / Albany County
+147	null	county: ..... / Winnebago County
+148	null	state: ..... / Wisconsin.
+149	null	density_km2: ..... / 106
+150	null	seat wl: ..... / West Bend.
+151	null	density_sq_mi: ..... / 273
+152	null	county: ..... / Washington County
+153	null	state: ..... / Wisconsin.
+154	null	density_km2: ..... / 13
+155	true	seat wl: shell lake / Shell Lake.
+156	true	density_sq_mi: 20 / 20
+157	true	county: washburn county / Washburn County
+158	false	state: wisconsin / Wisconsin.
+159	null	density_km2: ..... / 16
+160	true	density_sq_mi: 35 / 35
+161	true	county: vernon county / Vernon County
+162	false	state: wisconsin / Wisconsin.
+163	null	density_km2: ..... / 16
+164	false	seat wl: whitehall / Whitehall.
+165	true	density_sq_mi: 37 / 37
+166	true	county: trempealeau county / Trempealeau County
+167	false	state: wisconsin / Wisconsin.
+168	null	density_km2: ..... / 9
+169	null	density_sq_mi: ..... / 20
+170	true	county: taylor county / Taylor County
+171	false	state: wisconsin / Wisconsin.
+172	null	census yr: ..... / 2000
+173	null	density_km2: ..... / 0
+174	null	census yr: ..... / 2000
+175	null	density_km2: ..... / 4
+176	null	density_sq_mi: ..... / 11
+177	null	county: ..... / Fairbanks North Star Borough
+178	null	census yr: ..... / 2000
+179	null	density_km2: ..... / 2
+180	null	density_sq_mi: ..... / 2
+181	null	county: ..... / Bristol Bay Borough
+182	null	founded year: ..... / 1879
+183	true	census yr: 2000 / 2000
+184	true	county: apache county / Apache County
+185	null	founded: ..... / 1909
+186	null	founded year: ..... / 1909
+187	null	census yr: ..... / 2000
+188	null	density_km2: ..... / 2
+189	null	seat wl: ..... / Safford
+190	null	density_sq_mi: ..... / 5
+191	null	county: ..... / Greenlee County
+192	null	county: ..... / Yavapai County
+193	true	founded: march 9, 1771 / March 9, 1771
+194	null	founded year: ..... / 1771
+195	true	census yr: 2000 / 2000
+196	true	county: bedford county / Bedford County
+197	true	state: pennsylvania / Pennsylvania.
+198	null	founded: ..... / October 9, 1751,
+199	false	census yr: 2000 / 2004
+200	true	county: litchfield county / Litchfield County
+201	true	state: connecticut / Connecticut
+202	null	founded: ..... / May 10, 1666,
+203	true	census yr: 2000 / 2000
+204	true	county: new london county / New London County
+205	true	state: connecticut / Connecticut
+206	null	density_km2: ..... / 2
+207	null	density_sq_mi: ..... / 4
+208	null	county: ..... / Lincoln County
+209	true	county: waupaca county / Waupaca County
+210	false	state: wisconsin / Wisconsin.
+211	false	density_km2: 65 / 79
+212	true	density_sq_mi: 169 / 169
+213	true	county: walworth county / Walworth County
+214	false	state: wisconsin / Wisconsin.
+215	null	census yr: ..... / 2000
+216	null	density_km2: ..... / 0
+217	null	density_sq_mi: ..... / 0
+218	null	county: ..... / Denali Borough
+219	null	census yr: ..... / 2000
+220	null	seat wl: ..... / Milwaukee.
+221	null	density_sq_mi: ..... / 3,931
+222	null	county: ..... / Milwaukee County
+223	null	state: ..... / Wisconsin.
+224	null	density_km2: ..... / 33
+225	null	density_sq_mi: ..... / 81
+226	null	county: ..... / Marathon County
+227	null	state: ..... / Wisconsin.
+228	null	founded: ..... / 1785
+229	null	county: ..... / Tolland County
+230	null	density_km2: ..... / 90
+231	null	density_sq_mi: ..... / 219
+232	null	county: ..... / Sheboygan County
+233	null	state: ..... / Wisconsin.
+234	true	density_km2: 10 / 10
+235	true	seat wl: darlington / Darlington.
+236	true	density_sq_mi: 26 / 26
+237	true	county: lafayette county / Lafayette County
+238	false	state: wisconsin / Wisconsin.
+239	null	founded: ..... / April 12, 1893
+240	true	founded year: 1893 / 1893
+241	true	county: vilas county / Vilas County
+242	false	state: wisconsin / Wisconsin.
+243	null	density_km2: ..... / 11
+244	true	density_sq_mi: 13 / 13
+245	true	county: sawyer county / Sawyer County
+246	false	state: wisconsin / Wisconsin.
+247	false	density_km2: 9 / 8
+248	null	density_sq_mi: ..... / 9
+249	true	county: iron county / Iron County
+250	false	state: wisconsin / Wisconsin.
+251	null	founded: ..... / August 3, 1840
+252	null	founded year: ..... / 1840
+253	null	county: ..... / St. Croix County
+254	null	state: ..... / Wisconsin.
+255	null	density_sq_mi: ..... / 334
+256	true	county: maricopa county / Maricopa County
+257	null	density_km2: ..... / 22
+258	null	density_sq_mi: ..... / 37
+259	null	county: ..... / Waushara County
+260	null	state: ..... / Wisconsin.
+261	null	density_km2: ..... / 19
+262	false	seat wl: marinette / Marinette. Marinette
+263	true	density_sq_mi: 31 / 31
+264	true	county: marinette county / Marinette County
+265	false	state: wisconsin / Wisconsin.
+266	true	largest city wl: stevens point / Stevens Point
+267	null	density_km2: ..... / 33
+268	true	seat wl: stevens point / Stevens Point.
+269	true	density_sq_mi: 83 / 83
+270	true	county: portage county / Portage County
+271	false	state: wisconsin / Wisconsin.
+272	null	density_km2: ..... / 8
+273	false	seat wl: ladysmith / Ladysmith.
+274	true	density_sq_mi: 17 / 17
+275	true	county: rusk county / Rusk County
+276	false	state: wisconsin / Wisconsin.
+277	null	founded: ..... / July 3, 1959,
+278	null	census yr: ..... / 2000
+279	null	density_km2: ..... / 6
+280	null	county: ..... / Menominee County
+281	null	state: ..... / Wisconsin.
+282	null	density_km2: ..... / 2
+283	null	seat wl: ..... / Green River.
+284	null	density_sq_mi: ..... / 4
+285	null	county: ..... / Sweetwater County
+286	null	density_km2: ..... / 14
+287	null	seat wl: ..... / Richland Center.
+288	null	density_sq_mi: ..... / 31
+289	true	county: richland county / Richland County
+290	false	state: wisconsin / Wisconsin.
+291	null	largest city wl: ..... / Rapids-Marshfield
+292	null	density_km2: ..... / 40
+293	true	density_sq_mi: 45 / 45
+294	null	seat wl: ..... / Rapids-Marshfield
+295	null	density_sq_mi: ..... / 95
+296	null	county: ..... / Wood County
+297	null	state: ..... / Wisconsin.
+298	null	density_km2: ..... / 3
+299	null	density_sq_mi: ..... / 7
+300	null	county: ..... / Campbell County
+301	null	founded: ..... / May 12, 1726,
+302	null	county: ..... / Windham County
+303	null	state: ..... / Connecticut
+304	true	density_sq_mi: 64 / 64
+305	true	county: pierce county / Pierce County
+306	false	state: wisconsin / Wisconsin.
+307	true	largest city wl: baraboo / Baraboo
+308	false	density_km2: 25 / 29
+309	true	seat wl: baraboo / Baraboo
+310	true	density_sq_mi: 66 / 66
+311	true	county: sauk county / Sauk County
+312	false	state: wisconsin / Wisconsin.
+313	null	census yr: ..... / 2000
+314	null	county: ..... / Gloucester County
+315	null	state: ..... / Virginia
+316	false	density_km2: 18 / 20
+317	true	density_sq_mi: 46 / 46
+318	true	county: shawano county / Shawano County
+319	false	state: wisconsin / Wisconsin.
+320	null	seat wl: ..... / Administration
+321	true	county: waukesha county / Waukesha County
+322	false	state: wisconsin / Wisconsin.
+323	null	founded: ..... / May 10, 1666,
+324	null	census yr: ..... / 2000
+325	null	seat wl: ..... / Connecticut
+326	null	county: ..... / Hartford County
+327	null	state: ..... / Connecticut
+328	null	founded: ..... / December 7, 1836
+329	null	founded year: ..... / 1836
+330	null	density_km2: ..... / 86
+331	null	seat wl: ..... / Janesville.
+332	null	density_sq_mi: ..... / 211
+333	null	county: ..... / Rock County
+334	null	state: ..... / Wisconsin.
+335	null	density_km2: ..... / 96
+336	null	density_sq_mi: ..... / 237
+337	null	county: ..... / La Crosse County
+338	null	state: ..... / Wisconsin.
+339	null	density_km2: ..... / 224
+340	null	density_sq_mi: ..... / 567
+341	null	county: ..... / Racine County
+342	null	state: ..... / Wisconsin.
+343	null	founded: ..... / March 3, 1879,
+344	null	density_km2: ..... / 8
+345	true	density_sq_mi: 13 / 13
+346	true	county: price county / Price County
+347	false	state: wisconsin / Wisconsin.
+348	null	seat wl: ..... / Balsam Lake.
+349	null	density_sq_mi: ..... / 45
+350	null	county: ..... / Polk County
+351	null	state: ..... / Wisconsin.
+352	null	density_km2: ..... / 13
+353	null	seat wl: ..... / Durand. Pepin
+354	null	density_sq_mi: ..... / 31
+355	null	county: ..... / Pepin County
+356	null	state: ..... / Wisconsin.
+357	true	census yr: 2000 / 2000
+358	null	density_km2: ..... / 138
+359	null	seat wl: ..... / Port Washington.
+360	null	density_sq_mi: ..... / 355
+361	true	county: ozaukee county / Ozaukee County
+362	false	state: wisconsin / Wisconsin.
+363	null	census yr: ..... / 2000
+364	null	county: ..... / Outagamie County,
+365	null	state: ..... / Wisconsin.
+366	null	founded: ..... / 1885
+367	true	founded year: 1885 / 1885
+368	null	density_km2: ..... / 24
+369	true	density_sq_mi: 33 / 33
+370	true	county: oneida county / Oneida County
+371	false	state: wisconsin / Wisconsin.
+372	true	density_km2: 18 / 18
+373	true	county: monroe county / Monroe County
+374	false	state: wisconsin / Wisconsin.
+375	true	density_sq_mi: 35 / 35
+376	true	county: marquette county / Marquette County
+377	false	state: wisconsin / Wisconsin.
+378	true	largest city wl: manitowoc / Manitowoc
+379	null	density_km2: ..... / 59
+380	false	seat wl: manitowoc / Manitowoc.
+381	true	density_sq_mi: 140 / 140
+382	true	county: manitowoc county / Manitowoc County
+383	false	state: wisconsin / Wisconsin.
+384	null	density_km2: ..... / 17
+385	true	density_sq_mi: 34 / 34
+386	true	county: lincoln county / Lincoln County
+387	false	state: wisconsin / Wisconsin.
+388	null	density_km2: ..... / 13
+389	true	density_sq_mi: 24 / 24
+390	true	county: langlade county / Langlade County
+391	false	state: wisconsin / Wisconsin.
+392	true	density_sq_mi: 59 / 59
+393	true	county: kewaunee county / Kewaunee County
+394	false	state: wisconsin / Wisconsin.
+395	null	density_km2: ..... / 220
+396	null	density_sq_mi: ..... / 548
+397	null	county: ..... / Kenosha County
+398	null	state: ..... / Wisconsin.
+399	true	census yr: 2000 / 2000
+400	null	density_km2: ..... / 16
+401	true	density_sq_mi: 32 / 32
+402	true	county: juneau county / Juneau County
+403	false	state: wisconsin / Wisconsin.
+404	false	seat wl: jefferson / Jefferson.
+405	true	density_sq_mi: 133 / 133
+406	true	county: jefferson county / Jefferson County
+407	false	state: wisconsin / Wisconsin.
+408	null	density_km2: ..... / 8
+409	true	density_sq_mi: 19 / 19
+410	true	county: jackson county / Jackson County
+411	false	state: wisconsin / Wisconsin.
+412	null	density_km2: ..... / 13
+413	true	density_sq_mi: 30 / 30
+414	true	county: iowa county / Iowa County
+415	false	state: wisconsin / Wisconsin.
+416	true	census yr: 2000 / 2000
+417	null	density_km2: ..... / 6
+418	null	density_sq_mi: ..... / 12
+419	true	county: natrona county / Natrona County
+420	true	density_km2: 1 / 1
+421	null	density_sq_mi: ..... / 2
+422	false	county: crook county / Crook County, Wyoming Crook County
+423	null	state: arizona / ..........
+424	null	state: arizona / ..........
+425	null	state: arizona / ..........
+426	null	seat: phoenix / ..........
+427	null	state: arizona / ..........
+428	null	state: connecticut / ..........
+429	null	largest city wl: bridgeport / ..........
+430	null	district2: 4th / ..........
+431	null	city type: town / ..........
+432	null	state: delaware / ..........
+433	null	seat: wilmington / ..........
+434	null	state: delaware / ..........
+435	null	seat: georgetown / ..........
+436	null	largest city wl: pittsburgh / ..........
+437	null	seat: bedford / ..........
+438	null	state: wyoming / ..........
+439	null	state: wyoming / ..........
+440	null	seat: jackson / ..........
+441	null	state: wyoming / ..........
+442	null	seat: casper / ..........
+443	null	state: wyoming / ..........
+444	null	seat: cheyenne / ..........
+445	null	state: wyoming / ..........
+446	null	seat: waukesha / ..........
+447	null	seat wl: eagle river / ..........
+448	null	largest city wl: eagle river / ..........
+449	null	named for: william freeman vilas / ..........
+450	null	seat wl: shawano / ..........
+451	null	largest city wl: shawano / ..........
+452	null	largest city wl: ladysmith / ..........
+453	null	area_water_sq_mi: 18 / ..........
+454	null	seat: richland center / ..........
+455	null	density_km2: 25 / ..........
+456	null	seat: port washington / ..........
+457	null	seat wl: rhinelander / ..........
+458	null	largest city wl: rhinelander / ..........
+459	null	seat wl: oconto / ..........
+460	null	largest city wl: oconto / ..........
+461	null	largest city wl: marinette / ..........
+462	null	largest city wl: darlington / ..........
+463	null	seat wl: kewaunee / ..........
+464	null	seat wl: black river falls / ..........
+465	null	largest city wl: black river falls / ..........
+466	null	seat wl: dodgeville / ..........
+467	null	seat wl: ellsworth / ..........
+468	null	largest city wl: dodgeville / ..........

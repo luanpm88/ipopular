@@ -1,0 +1,240 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 11/39
+------------
+Found: 219
+Found Not Null: 90
+Correct: 71
+Wrong: 19
+Total: 143
+-----------
+precision: 0.7888888888888889
+recall: 0.4965034965034965
+F: 0.6094420600858369
+
+
+
+1	true	headquarters: medellín, colombia / Medellín, Colombia
+2	true	founded: 1971 / 1971
+3	null	date: ..... / August 30, 1971
+4	null	parent: ..... / Greek State
+5	true	callsign: olympic / Olympic
+6	true	hubs: athens international airport / Athens International Airport,
+7	null	date: ..... / 31 December 2009,
+8	null	operator: ..... / Olympic Airlines
+9	null	airline: ..... / Olympic Airlines
+10	true	callsign: interflug / Interflug
+11	false	founded: 1958 / 1963
+12	false	callsign: seychelles / Air Seychelles
+13	null	founded: ..... / 15 September 1977,
+14	true	hubs: seychelles international airport / Seychelles International Airport,
+15	true	airline: air seychelles / Air Seychelles
+16	true	date: december 5, 1945 / December 5, 1945,
+17	false	callsign: jet airways / Jet
+18	null	headquarters: ..... / Mumbai, Maharashtra.
+19	null	hubs: ..... / Chhatrapati Shivaji International Airport,
+20	true	airline: jet airways / Jet Airways
+21	true	callsign: di air / DI Air
+22	true	headquarters: podgorica, montenegro / Podgorica, Montenegro.
+23	null	founded: ..... / 1997
+24	null	hubs: ..... / Podgorica Airport,
+25	true	airline: di air / DI Air
+26	false	callsign: aer arann / Aer
+27	true	headquarters: dublin, ireland / Dublin, Ireland.
+28	true	airline: aer arann / Aer Arann
+29	false	callsign: west indian / BSAA
+30	null	founded: ..... / 27 November 1940
+31	true	hubs: piarco international airport / Piarco International Airport
+32	null	operator: ..... / BWIA West Indies
+33	null	airline: ..... / BWIA West Indies Airways
+34	true	callsign: pacific western / Pacific Western
+35	null	operator: ..... / Pacific Western Airlines
+36	true	airline: pacific western airlines / Pacific Western Airlines
+37	null	callsign: ..... / Airzena
+38	null	founded: ..... / 1994
+39	true	airline: georgian airways  / Georgian Airways
+40	null	callsign: ..... / Vladivostok
+41	true	headquarters: vladivostok, russia / Vladivostok, Russia.
+42	true	hubs: vladivostok international airport / Vladivostok International Airport,
+43	null	date: ..... / August 27, 1932,
+44	null	operator: ..... / Vladivostok Air
+45	true	airline: vladivostok air / Vladivostok Air
+46	true	callsign: turkmenistan / Turkmenistan
+47	null	operator: ..... / Turkmenistan Airlines
+48	true	airline: turkemenistan airlines / Turkmenistan Airlines
+49	null	callsign: ..... / Sahara
+50	true	headquarters: mumbai, india / Mumbai, India.
+51	false	founded: 1991 / 20 September 1991
+52	false	airline: jetlite / Sahara Airlines
+53	true	callsign: jetsgo / Jetsgo
+54	false	founded: 2001 / June 12, 2001
+55	null	destinations: ..... / 19
+56	false	airline: jetsgo / Jetsgo Corporation
+57	true	callsign: srilankan / SriLankan
+58	null	hubs: ..... / Bandaranaike International Airport
+59	null	operator: ..... / SriLankan Airlines
+60	true	airline: srilankan airlines / SriLankan Airlines
+61	true	callsign: jetstar / Jetstar
+62	null	headquarters: ..... / Melbourne, Australia.
+63	true	founded: 2003 / 2003
+64	true	hubs: melbourne airport / Melbourne Airport,
+65	null	operator: ..... / Jetstar
+66	true	airline: jetstar airways / Jetstar Airways
+67	null	parent: ..... / Continental Airlines. Aeromar
+68	null	founded: ..... / 29 January 1987
+69	null	hubs: ..... / Mexico City International Airport.
+70	null	date: ..... / August 30, 2010,
+71	null	callsign: ..... / Tower Air
+72	true	founded: 1983 / 1983
+73	true	airline: tower air / Tower Air
+74	true	founded: 1958 / 1958
+75	true	hubs: bremen airport / Bremen Airport.
+76	false	callsign: logan / Loganair
+77	null	headquarters: ..... / Paisley, Renfrewshire, Scotland.
+78	true	founded: 1962 / 1962
+79	true	hubs: glasgow international airport / Glasgow International Airport
+80	true	airline: loganair / Loganair
+81	null	callsign: ..... / Air
+82	null	hubs: ..... / Nausori Airport
+83	null	airline: ..... / Air Pacific
+84	true	alliance: skyteam / SkyTeam
+85	null	callsign: ..... / Aviogenex
+86	true	headquarters: belgrade, serbia / Belgrade, Serbia.
+87	false	founded: april 1968 / 1968
+88	true	hubs: belgrade nikola tesla airport / Belgrade Nikola Tesla Airport.
+89	null	destinations: ..... / 40
+90	true	airline: aviogenex / Aviogenex
+91	null	callsign: ..... / Southeast
+92	null	headquarters: ..... / Largo, Florida,
+93	true	ceased: november 30, 2004 / November 30, 2004.
+94	null	operator: ..... / Southeast Airlines
+95	true	airline: southeast airlines / Southeast Airlines
+96	true	hubs: chofu airport / Chofu Airport,
+97	null	callsign: ..... / Eastern
+98	null	operator: ..... / Eastern Air Lines
+99	null	airline: ..... / Eastern Air Lines
+100	null	hubs: ..... / Fort Lauderdale-Hollywood International Airport
+101	null	date: ..... / September 30, 2007
+102	true	airline: chalks international airlines / Chalk's International Airlines,
+103	true	callsign: china eastern / China Eastern
+104	null	headquarters: ..... / Singapore
+105	null	hubs: ..... / Shanghai Hongqiao International Airport
+106	null	date: ..... / November 9, 2007,
+107	null	operator: ..... / China Eastern Airlines
+108	null	airline: ..... / China Eastern Airlines Corporation
+109	null	callsign: ..... / Miami
+110	null	headquarters: ..... / Miami-Dade County, Florida,
+111	false	founded: august 1990 / 1990
+112	true	airline: miami air international / Miami Air International
+113	null	callsign: ..... / Air Gabon
+114	null	headquarters: ..... / Libreville International Airport
+115	true	founded: 1951 / 1951
+116	true	hubs: libreville international airport / Libreville International Airport
+117	true	airline: air gabon / Air Gabon
+118	null	callsign: ..... / Dalavia
+119	null	headquarters: ..... / Khabarovsk, Russia.
+120	null	founded: ..... / 1953
+121	null	hubs: ..... / Khabarovsk Novy Airport.
+122	null	operator: ..... / OJSC Dalavia
+123	null	airline: ..... / OJSC Dalavia
+124	true	founded: 1998 / 1998
+125	null	ceased: ..... / 1998 and 2002.
+126	true	callsign: kendell / Kendell
+127	null	headquarters: ..... / Kaliningrad, Russia.
+128	null	operator: ..... / Kendell Airlines
+129	true	airline: kendell airlines / Kendell Airlines
+130	false	callsign: arkia / Arkia Israel
+131	false	founded: 1949 (as israel inland airlines) / 1949
+132	null	hubs: ..... / Dov Airport
+133	null	operator: ..... / Arkia Israel Airlines
+134	null	airline: ..... / Arkia Israel Airlines
+135	null	callsign: ..... / TWA
+136	true	date: june 14, 1985 / June 14, 1985,
+137	false	operator: trans world airlines / TWA
+138	null	airline: ..... / TWA Flight
+139	true	callsign: etihad / Etihad
+140	null	destinations: ..... / 64
+141	null	operator: ..... / Etihad Airways
+142	null	airline: ..... / Etihad Airways
+143	true	callsign: estonian / Estonian
+144	null	headquarters: ..... / Tallinn, Estonia.
+145	false	airline: as estonian air / Estonian Air
+146	true	callsign: precision air / Precision Air
+147	null	headquarters: ..... / Dar Es
+148	true	founded: 1991 / 1991
+149	null	hubs: ..... / Julius Nyerere International Airport,
+150	true	airline: precision air / Precision Air
+151	false	callsign: tanzania / Air Tanzania
+152	false	founded: 1977 / 10 March 1977
+153	true	hubs: julius nyerere international airport / Julius Nyerere International Airport,
+154	true	airline: air tanzania / Air Tanzania
+155	null	callsign: ..... / KLM
+156	null	headquarters: ..... / Atlanta, Georgia, USA
+157	true	airline: air atlanta / Air Atlanta
+158	null	operator: ..... / Texas International
+159	true	airline: texas international airlines / Texas International Airlines
+160	null	callsign: ..... / Caledonian
+161	true	airline: caledonian airways / Caledonian Airways
+162	true	parent: japan airlines / Japan Airlines
+163	false	callsign: j-air / Japan
+164	true	alliance: oneworld / Oneworld
+165	true	destinations: 16 / 16
+166	true	callsign: air sinai / Air Sinai
+167	true	headquarters: cairo, egypt / Cairo, Egypt.
+168	true	airline: air sinai / Air Sinai
+169	null	destinations: 14 / ..........
+170	null	founded: july 1979 / ..........
+171	null	callsign: aces / ..........
+172	null	commenced: 1972 / ..........
+173	null	parent: avianca / ..........
+174	null	parent: qantas / ..........
+175	null	airline: ostfriesische lufttransport / ..........
+176	null	icao: olt / ..........
+177	null	destinations: 31 / ..........
+178	null	airline: air europa  / ..........
+179	null	callsign: europa / ..........
+180	null	founded: 1986 / ..........
+181	null	headquarters: llucmajor, majorca, spain / ..........
+182	null	iata: kd / ..........
+183	null	parent: ansett australia / ..........
+184	null	focus_cities: ekaterinburg koltsovo airport / ..........
+185	null	passengers: 153 / ..........
+186	null	founded: 2003 / ..........
+187	null	iata: oa / ..........
+188	null	ceased: 29 september 2009 / ..........
+189	null	focus_cities: thessaloniki international airport, "macedonia" / ..........
+190	null	fleet_size: 3 / ..........
+191	null	icao: atc / ..........
+192	null	focus_cities: dar es salaam / ..........
+193	null	founded: 1984 / ..........
+194	null	ceased: 1987 / ..........
+195	null	callsign: texas international / ..........
+196	null	headquarters: houston, texas / ..........
+197	null	key_people: frank lorenzo / ..........
+198	null	founded: 1961 / ..........
+199	null	hubs: nagoya airfield / ..........
+200	null	airline: interflug / ..........
+201	null	iata: if / ..........
+202	null	ceased: 1991 / ..........
+203	null	hubs: berlin schönefeld airport / ..........
+204	null	headquarters: ashgabat / ..........
+205	null	commenced: october 1991 / ..........
+206	null	hubs: miami international airport / ..........
+207	null	ceased: 2007 / ..........
+208	null	founded: 1982 / ..........
+209	null	subsidiaries: jetlite / ..........
+210	null	airline: air anatolia / ..........
+211	null	callsign: air anatolia / ..........
+212	null	crew: 14 / ..........
+213	null	fatalities: 14 / ..........
+214	null	aircraft type: five tbm avengers / ..........
+215	null	headquarters: richmond, british columbia / ..........
+216	null	headquarters: abu dhabi, united arab emirates / ..........
+217	null	founded: 1 december 1991  / ..........
+218	null	parent: government of tanzania / ..........
+219	null	founded: august 8, 1996 / ..........
+220	null	parent: aer arann / ..........
+221	null	destination: nas fort lauderdale / ..........

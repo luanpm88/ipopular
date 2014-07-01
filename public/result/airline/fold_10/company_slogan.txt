@@ -1,0 +1,14 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	company_slogan: work hard. fly right. / ..........
+2	null	company_slogan: the best care in the air / ..........
+3	null	company_slogan: now you're flying smart / ..........

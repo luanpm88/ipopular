@@ -1,0 +1,20 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 5
+-----------
+precision: 1.0
+recall: 0.4
+F: 0.5714285714285715
+
+
+
+
+1	null	aircraft type: ..... / Boeing 737-2P6
+2	true	aircraft type: boeing 737-270c / Boeing 737-270C,
+3	true	aircraft type: mcdonnell douglas dc-8-63cf / McDonnell Douglas DC-8-63CF
+4	null	aircraft type: boeing 747-146sr / ..........
+5	null	aircraft type: boeing 737-297 / ..........
+6	null	aircraft type: boeing 737-270c / ..........
+7	null	aircraft type: boeing 737-200 / ..........
+8	null	aircraft type: mcdonnell douglas dc-8-63cf / ..........

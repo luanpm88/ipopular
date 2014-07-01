@@ -1,0 +1,32 @@
+Found Not Null: 7
+Correct: 4
+Wrong: 3
+Total: 10
+-----------
+precision: 0.5714285714285714
+recall: 0.4
+F: 0.47058823529411764
+
+
+
+
+1	null	headquarters: ..... / Bridgeton, Missouri.
+2	null	headquarters: ..... / Paradise, Nevada, USA.
+3	null	headquarters: ..... / Burlingame, California,
+4	true	headquarters: coeur d'alene, idaho, usa / Coeur d'Alene, Idaho, USA.
+5	true	headquarters: saarbrücken, germany / Saarbrücken, Germany.
+6	null	headquarters: ..... / Pittsburgh, Pennsylvania, United
+7	false	headquarters: dallas, texas / Dallas, Texas, United
+8	false	headquarters: tulsa, oklahoma / Tulsa, Oklahoma, USA.
+9	true	headquarters: vientiane, laos / Vientiane, Laos.
+10	false	headquarters: richmond, british columbia / Richmond, British Columbia, Canada.
+11	null	headquarters: ..... / Fairbanks, Alaska, United
+12	null	headquarters: ..... / Swords, County Dublin, Ireland.
+13	true	headquarters: cologne, germany / Cologne, Germany,
+14	null	headquarters: ..... / Langenhagen, Germany.
+15	null	headquarters: ..... / Leeds/Bradford Airport, England.
+16	null	headquarters: ..... / Olbia, Sardinia, Italy.
+17	null	headquarters: ..... / Ob, Novosibirsk Oblast, Russia,
+18	null	headquarters: newtown township, delaware county, pennsylvania / ..........
+19	null	headquarters: singapore / ..........
+20	null	headquarters: niagara falls / ..........

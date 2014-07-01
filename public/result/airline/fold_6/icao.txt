@@ -1,0 +1,33 @@
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 4
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	icao: ..... / CanJet
+2	null	icao: ..... / Air
+3	null	icao: ..... / Avensa
+4	null	icao: ..... / Delta
+5	null	icao: ..... / Indian
+6	null	icao: ..... / JIA
+7	false	icao: ank / ANA
+8	null	icao: ..... / Tunisair
+9	false	icao: psa / Opinion
+10	null	icao: ..... / LAPA
+11	null	icao: ..... / Sudan
+12	null	icao: ..... / Air
+13	null	icao: ..... / JetBlue
+14	null	icao: ..... / Kuwait
+15	null	icao: ..... / Gulf
+16	null	icao: ..... / Logo
+17	null	icao: ..... / Delta
+18	null	icao: ..... / Braniff
+19	null	icao: ..... / AirBaltic
+20	null	icao: iac / ..........
+21	null	icao: eva / ..........

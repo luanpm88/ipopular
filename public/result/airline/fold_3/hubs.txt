@@ -1,0 +1,26 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 7
+-----------
+precision: 1.0
+recall: 0.2857142857142857
+F: 0.4444444444444445
+
+
+
+
+1	null	hubs: ..... / Coeur d'Alene Airport
+2	true	hubs: dresden international airport / Dresden International Airport.
+3	null	hubs: ..... / Washington National Airport
+4	null	hubs: ..... / Kahului Airport.
+5	null	hubs: ..... / Wattay International Airport,
+6	null	hubs: ..... / Glasgow International Airport.
+7	null	hubs: ..... / Leeds/Bradford Airport,
+8	null	hubs: ..... / Minsk International Airport.
+9	true	hubs: beirut rafic hariri international airport / Beirut Rafic Hariri International Airport.
+10	null	hubs: zvartnots international airport / ..........
+11	null	hubs: fairbanks international airport / ..........
+12	null	hubs: tashkent international airport / ..........
+13	null	hubs: niagara falls international airport / ..........
+14	null	hubs: san francisco international airport / ..........

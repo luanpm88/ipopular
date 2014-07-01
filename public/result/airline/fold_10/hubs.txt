@@ -1,0 +1,35 @@
+Found Not Null: 6
+Correct: 6
+Wrong: 0
+Total: 13
+-----------
+precision: 1.0
+recall: 0.46153846153846156
+F: 0.631578947368421
+
+
+
+
+1	true	hubs: mexico city international airport / Mexico City International Airport,
+2	true	hubs: ben gurion international airport / Ben Gurion International Airport.
+3	null	hubs: ..... / Sydney Airport.
+4	null	hubs: ..... / Narita International Airport
+5	null	hubs: ..... / Dallas/Fort Worth International Airport.
+6	null	hubs: ..... / Jomo Kenyatta International Airport.
+7	null	hubs: ..... / Anchorage International Airport
+8	null	hubs: ..... / El Dorado International Airport.
+9	true	hubs: zagreb airport / Zagreb Airport,
+10	null	hubs: ..... / London Heathrow Airport.
+11	null	hubs: ..... / Amsterdam Airport
+12	true	hubs: queen alia international airport / Queen Alia International Airport
+13	null	hubs: ..... / Dublin Airport.
+14	null	hubs: ..... / Narita International Airport
+15	true	hubs: helsinki-vantaa airport / Helsinki-Vantaa Airport
+16	true	hubs: sheremetyevo international airport / Sheremetyevo International Airport,
+17	null	hubs: amsterdam airport schiphol / ..........
+18	null	hubs: warsaw chopin airport / ..........
+19	null	hubs: madrid-barajas airport / ..........
+20	null	hubs: or tambo international airport / ..........
+21	null	hubs: auckland airport / ..........
+22	null	hubs: dubai international airport  / ..........
+23	null	hubs: miami international airport / ..........

@@ -1,0 +1,39 @@
+Found Not Null: 6
+Correct: 6
+Wrong: 0
+Total: 17
+-----------
+precision: 1.0
+recall: 0.35294117647058826
+F: 0.5217391304347826
+
+
+
+
+1	null	founded: ..... / September 18, 1794
+2	true	founded: 1819 / 1819
+3	null	founded: ..... / June 11, 1792
+4	null	founded: ..... / 1850
+5	null	founded: ..... / August 5, 2010
+6	true	founded: 1817 / 1817
+7	null	founded: ..... / May 27, 1870
+8	null	founded: ..... / October 21, 1817,
+9	null	founded: ..... / December 28, 1928
+10	true	founded: 1870 / 1870
+11	null	founded: ..... / January 4, 1916
+12	true	founded: 1823 / 1823
+13	true	founded: 1871 / 1871
+14	true	founded: october 29, 1801 / October 29, 1801,
+15	null	founded: ..... / 1806
+16	null	founded: ..... / 1835
+17	null	founded: 1807 / ..........
+18	null	founded: 1879 / ..........
+19	null	founded: 1823 / ..........
+20	null	founded: 1819 / ..........
+21	null	founded: september 11, 1806 / ..........
+22	null	founded: 1849 / ..........
+23	null	founded: 1839 / ..........
+24	null	founded: 1823 / ..........
+25	null	founded: 1807 / ..........
+26	null	founded: november 1845 / ..........
+27	null	founded: 1807 / ..........

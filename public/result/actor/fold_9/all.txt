@@ -1,0 +1,71 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 4/12
+------------
+Found: 54
+Found Not Null: 24
+Correct: 18
+Wrong: 6
+Total: 33
+-----------
+precision: 0.75
+recall: 0.5454545454545454
+F: 0.631578947368421
+
+
+
+1	true	birth_name: robert jonathan demme / Robert Jonathan Demme
+2	true	birth_name: james todd spader / James Todd Spader
+3	true	occupation: actor / actor
+4	null	birth_place: ..... / Boston, Massachusetts,
+5	null	birth_name: ..... / James Maury "Jim"
+6	true	birth_name: john michael frankenheimer / John Michael Frankenheimer
+7	null	birth_name: ..... / Helene Bertha Amalie "Leni" Riefenstahl
+8	null	occupation: ..... / film director, actress
+9	null	birth_place: ..... / Nuneaton, Warwickshire,
+10	null	birth_name: ..... / Jonathan Vincent "Jon" Voight
+11	null	birth_place: ..... / Yonkers, New York,
+12	true	birth_name: julia fiona roberts / Julia Fiona Roberts
+13	true	birth_name: johann peter weißmüller / Johann Peter Weißmüller;
+14	null	occupation: ..... / actor
+15	false	birth_name: lars trier / Lars von Trier
+16	false	occupation: film director and screenwriter / film director
+17	false	birth_name: clarence leroy van cleef, jr. / Lee Van Cleef
+18	null	occupation: ..... / actor
+19	true	birth_name: keanu charles reeves / Keanu Charles Reeves
+20	true	birth_place: beirut, lebanon / Beirut, Lebanon,
+21	false	birth_name: kevin spacey fowler / Kevin Spacey, CBE
+22	null	occupation: ..... / director, screenwriter, producer,
+23	true	occupation: actress / actress
+24	false	other_names: kimberly beck-hilton / Kimberly Beck
+25	null	occupation: ..... / actor
+26	null	other_names: ..... / John Fink
+27	true	birth_name: john adam belushi / John Adam Belushi
+28	null	birth_place: ..... / Chicago, Illinois,
+29	true	birth_name: laura maureen bertram / Laura Maureen Bertram
+30	null	birth_place: ..... / Toronto, Ontario,
+31	true	birth_name: leslie claire margaret caron / Leslie Claire Margaret Caron
+32	false	occupation: actress / film actress
+33	null	birth_place: ..... / Hauts-de-Seine ), France,
+34	null	birth_name: ..... / Karl Gustav Ahlefeldt
+35	true	birth_name: kirsten caroline dunst / Kirsten Caroline Dunst
+36	true	birth_name: kyle merritt maclachlan / Kyle Merritt MacLachlan
+37	null	birth_place: ..... / Yakima, Washington.
+38	true	birth_name: khwaja ahmad abbas / Khwaja Ahmad Abbas
+39	true	birth_name: liv johanne ullmann / Liv Johanne Ullmann
+40	null	occupation: ..... / actress
+41	true	birth_place: tokyo, japan / Tokyo, Japan,
+42	null	other_names: ..... / Jeannine Taylor
+43	true	birth_name: richard kim milford / Richard Kim Milford
+44	null	occupation: filmmaker / ..........
+45	null	birth_name: joseph levitch / ..........
+46	null	occupation: actor / ..........
+47	null	occupation: actress / ..........
+48	null	birth_place: ise, mie prefecture / ..........
+49	null	birth_place: piraeus, greece / ..........
+50	null	death_place: athens, greece / ..........
+51	null	occupation: actress / ..........
+52	null	occupation: actress / ..........

@@ -1,0 +1,18 @@
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 2
+-----------
+precision: 0.5
+recall: 0.5
+F: 0.5
+
+
+
+
+1	null	ceased: ..... / 9 Italians, 7 Americans, 5 Cameroonians, 4 Britons, 3
+2	true	ceased: december 5, 2000 / December 5, 2000.
+3	null	ceased: ..... / 29 October 2006
+4	false	ceased: 1 september 2009 / 31 August 2009
+5	null	ceased: 1 september 2009 / ..........
+6	null	ceased: december 5, 2000 / ..........

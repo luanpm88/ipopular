@@ -1,0 +1,46 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 6
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	largest city wl: ..... / Crestview.
+2	null	largest city wl: ..... / Dadeville. Tallapoosa
+3	null	largest city wl: ..... / Alexander
+4	null	largest city wl: ..... / Northampton. Hampshire
+5	null	largest city wl: ..... / Clearwater,
+6	null	largest city wl: ..... / Orlando-Kissimmee-Sanford
+7	null	largest city wl: ..... / Enterprise–Ozark
+8	null	largest city wl: ..... / Crawfordville. Wakulla
+9	null	largest city wl: ..... / Alabama.
+10	null	largest city wl: ..... / Andalusia.
+11	null	largest city wl: ..... / Fort Payne.
+12	null	largest city wl: ..... / Birmingham
+13	null	largest city wl: ..... / Abbeville. Henry
+14	null	largest city wl: ..... / Springfield
+15	null	largest city wl: ..... / Monroeville.
+16	null	largest city wl: ..... / Sidney
+17	null	largest city wl: ..... / Hayneville. Lowndes
+18	null	largest city wl: ..... / Prattville. Autauga
+19	null	largest city wl: ..... / Tuscaloosa
+20	null	largest city wl: ..... / Charlottesville
+21	null	largest city wl: ..... / Kahului–Wailuku
+22	null	largest city wl: ..... / Kapa'a
+23	null	largest city wl: ..... / Barnstable. Barnstable
+24	null	largest city wl: ..... / Pittsfield.
+25	null	largest city wl: ..... / Springfield
+26	null	largest city wl: ..... / Greenville.
+27	null	largest city wl: ..... / Enterprise–Ozark
+28	null	largest city wl: ..... / Greene
+29	null	largest city wl: ..... / Harlan.
+30	null	largest city wl: decatur / ..........
+31	null	largest city wl: mobile / ..........
+32	null	largest city wl: demopolis / ..........
+33	null	largest city wl: daphne / ..........
+34	null	largest city wl: mammoth lakes / ..........
+35	null	largest city wl: albertville / ..........

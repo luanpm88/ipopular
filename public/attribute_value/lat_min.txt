@@ -1,0 +1,8 @@
+17
+24
+<!-- optional, enter minutes north -->
+35
+<!-- optional, enter minutes north -->
+55
+10
+<!-- optional, enter minutes north -->

@@ -1,0 +1,28 @@
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	operator: ..... / Olympic Airlines
+2	null	operator: ..... / BWIA West Indies
+3	null	operator: ..... / Pacific Western Airlines
+4	null	operator: ..... / Vladivostok Air
+5	null	operator: ..... / Turkmenistan Airlines
+6	null	operator: ..... / SriLankan Airlines
+7	null	operator: ..... / Jetstar
+8	null	operator: ..... / Southeast Airlines
+9	null	operator: ..... / Eastern Air Lines
+10	null	operator: ..... / China Eastern Airlines
+11	null	operator: ..... / OJSC Dalavia
+12	null	operator: ..... / Kendell Airlines
+13	null	operator: ..... / Arkia Israel Airlines
+14	false	operator: trans world airlines / TWA
+15	null	operator: ..... / Etihad Airways
+16	null	operator: ..... / Texas International

@@ -1,0 +1,21 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 6
+-----------
+precision: 1.0
+recall: 0.16666666666666666
+F: 0.2857142857142857
+
+
+
+
+1	null	parent: ..... / Greek State
+2	null	parent: ..... / Continental Airlines. Aeromar
+3	true	parent: japan airlines / Japan Airlines
+4	null	parent: avianca / ..........
+5	null	parent: qantas / ..........
+6	null	parent: ansett australia / ..........
+7	null	parent: japan airlines / ..........
+8	null	parent: government of tanzania / ..........
+9	null	parent: aer arann / ..........

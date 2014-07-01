@@ -1,0 +1,17 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	r accidentname: ..... / UTA Flight 772
+2	true	r accidentname: turkish airlines flight 981 / Turkish Airlines Flight 981
+3	null	r accidentname: ..... / Czech Airlines j. s.c.
+4	null	r accidentname: ..... / thumb|Moldavian Airlines Saab 2000
+5	null	r accidentname: ..... / Swissair Flight 111

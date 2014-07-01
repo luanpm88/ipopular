@@ -1,0 +1,367 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 72
+Attributes with high occurrences: 72/72
+Attributes with high precision: 6/72
+------------
+Found: 739
+Found Not Null: 20
+Correct: 20
+Wrong: 0
+Total: 40
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+1	null	census yr: ..... / 2000
+2	null	county: ..... / Craig County
+3	null	county: ..... / James City County
+4	null	founded: ..... / 1847
+5	null	founded year: ..... / 1847
+6	null	census yr: ..... / 2000
+7	null	county: ..... / Highland County
+8	null	census yr: ..... / 2000
+9	null	county: ..... / Powhatan County
+10	true	seat: georgetown / Georgetown.
+11	null	census yr: ..... / 2000
+12	true	county: williamson county / Williamson County
+13	true	state: texas / Texas
+14	null	census yr: ..... / 2000
+15	null	county: ..... / Addison County
+16	null	county: ..... / right|200px|thumb|"Wilbarger County Remembers",
+17	null	county: ..... / Wichita County
+18	null	founded: ..... / 1807
+19	null	seat: ..... / Lovingston.
+20	null	founded year: ..... / 1807
+21	null	census yr: ..... / 2000
+22	null	county: ..... / Nelson County
+23	null	founded: ..... / 1669
+24	null	county: ..... / Middlesex County
+25	null	founded: ..... / May 1, 1861
+26	null	census yr: ..... / 2000
+27	null	county: ..... / King George County
+28	null	seat: ..... / Huntsville.
+29	null	county: ..... / Walker County
+30	null	state: ..... / Texas
+31	null	census yr: ..... / 2000
+32	true	county: stafford county / Stafford County
+33	null	seat: ..... / Washington.
+34	null	census yr: ..... / 2000
+35	null	county: ..... / Rappahannock County
+36	null	state: ..... / Virginia
+37	null	founded year: ..... / 1754
+38	null	census yr: ..... / 2000
+39	null	county: ..... / Prince Edward County
+40	null	founded: ..... / 1767
+41	null	seat: ..... / Chatham. Pittsylvania
+42	null	founded year: ..... / 1767
+43	null	census yr: ..... / 2000
+44	null	county: ..... / Pittsylvania County
+45	null	census yr: ..... / 2000
+46	null	county: ..... / Patrick County
+47	null	founded: ..... / 1654
+48	null	founded year: ..... / 1654
+49	null	census yr: ..... / 2000
+50	null	county: ..... / New Kent County
+51	null	founded year: ..... / 1791
+52	null	county: ..... / Mathews County
+53	null	founded: ..... / 1742
+54	true	founded year: 1742 / 1742
+55	true	county: fairfax county / Fairfax County
+56	null	founded: ..... / 1, 1752
+57	null	seat: ..... / Dinwiddie.
+58	null	census yr: ..... / 2000
+59	null	county: ..... / Dinwiddie County
+60	null	founded: ..... / 1691
+61	null	founded year: ..... / 1691
+62	null	county: ..... / King and Queen County
+63	null	founded: ..... / January 5, 1822,
+64	null	census yr: ..... / 2000
+65	null	county: ..... / Alleghany County
+66	null	founded: ..... / March 30, 1838
+67	true	founded year: 1838 / 1838
+68	null	census yr: ..... / 2000
+69	true	county: roanoke county / Roanoke County
+70	null	seat: ..... / Courtland.
+71	null	census yr: ..... / 2000
+72	null	county: ..... / Southampton County
+73	null	census yr: ..... / 2000
+74	null	county: ..... / Madison County
+75	null	founded: ..... / 1721
+76	null	seat: ..... / Spotsylvania Courthouse.
+77	null	founded year: ..... / 1721
+78	null	census yr: ..... / 2000
+79	null	county: ..... / Spotsylvania County
+80	null	founded: ..... / February 23, 1832,
+81	null	census yr: ..... / 2000
+82	null	county: ..... / Smyth County
+83	null	state: ..... / Washington
+84	null	seat: ..... / Woodstock. Shenandoah
+85	null	census yr: ..... / 2000
+86	null	county: ..... / Shenandoah County
+87	null	seat: ..... / Gate City.
+88	null	census yr: ..... / 2000
+89	null	county: ..... / Scott County
+90	null	census yr: ..... / 2000
+91	null	county: ..... / Russell County
+92	null	founded: ..... / 1778
+93	null	seat: ..... / Harrisonburg. Rockingham
+94	null	founded year: ..... / 1778
+95	null	census yr: ..... / 2000
+96	null	county: ..... / Rockingham County
+97	null	founded: ..... / October, 1777
+98	null	seat: ..... / Lexington.
+99	null	census yr: ..... / 2000
+100	null	county: ..... / Rockbridge County
+101	null	seat: ..... / Warsaw.
+102	true	county: richmond county / Richmond County
+103	null	census yr: ..... / 2000
+104	null	county: ..... / Pulaski County
+105	null	county: ..... / Prince William County
+106	null	founded: ..... / 1703
+107	null	founded year: ..... / 1703
+108	null	census yr: ..... / 2000
+109	null	county: ..... / Prince George County
+110	null	founded: ..... / 1831
+111	null	founded year: ..... / 1831
+112	null	census yr: ..... / 2000
+113	null	county: ..... / Page County
+114	null	census yr: ..... / 2000
+115	null	county: ..... / Orange County
+116	null	census yr: ..... / 2000
+117	null	county: ..... / Nottoway County
+118	null	seat: ..... / Eastville. Northampton
+119	null	census yr: ..... / 2000
+120	null	county: ..... / Northampton County
+121	null	founded: ..... / 1765
+122	null	founded year: ..... / 1765
+123	null	census yr: ..... / 2000
+124	null	county: ..... / Mecklenburg County
+125	null	founded: ..... / May 1, 1746,
+126	null	seat: ..... / Lunenburg.
+127	null	census yr: ..... / 2000
+128	null	county: ..... / Lunenburg County
+129	null	founded: ..... / 1742
+130	null	founded year: ..... / 1742
+131	null	census yr: ..... / 2000
+132	null	county: ..... / Louisa County
+133	null	founded: ..... / 1757
+134	null	founded year: ..... / 1757
+135	null	county: ..... / Loudoun County
+136	null	founded: ..... / 1793
+137	null	seat: ..... / Jonesville.
+138	null	founded year: ..... / 1793
+139	null	census yr: ..... / 2000
+140	null	county: ..... / Lee County
+141	null	founded: ..... / 1651
+142	null	seat: ..... / Lancaster.
+143	null	founded year: ..... / 1651
+144	null	county: ..... / Lancaster County
+145	null	county: ..... / Wight County
+146	null	founded: ..... / 1777
+147	null	seat: ..... / Collinsville.
+148	null	census yr: ..... / 2000
+149	null	county: ..... / Henry County Henry County
+150	null	census yr: ..... / 2000
+151	null	county: ..... / Henrico County
+152	null	founded: ..... / November 26, 1720,
+153	null	census yr: ..... / 2000
+154	true	county: hanover county / Hanover County
+155	null	founded: ..... / 1752
+156	null	founded year: ..... / 1752
+157	null	census yr: ..... / 2000
+158	null	county: ..... / Halifax County
+159	null	founded: ..... / 1781
+160	null	founded year: ..... / 1781
+161	null	census yr: ..... / 2000
+162	null	county: ..... / Greensville County
+163	null	founded: ..... / 1793
+164	null	founded year: ..... / 1793
+165	null	census yr: ..... / 2000
+166	null	county: ..... / Grayson County. Grayson County
+167	null	founded: ..... / 1806
+168	null	seat: ..... / Pearisburg.
+169	null	founded year: ..... / 1806
+170	null	census yr: ..... / 2000
+171	null	county: ..... / Giles County
+172	null	founded: ..... / 1785
+173	null	founded year: ..... / 1785
+174	null	census yr: ..... / 2000
+175	null	county: ..... / Franklin County
+176	null	founded year: ..... / 1727
+177	null	census yr: ..... / 2000
+178	null	county: ..... / Fluvanna County
+179	null	census yr: ..... / 2000
+180	null	county: ..... / Floyd County
+181	null	founded: ..... / May 1, 1759,
+182	null	seat: ..... / Warrenton,
+183	null	county: ..... / Fauquier County
+184	null	founded: ..... / 1692
+185	null	founded year: ..... / 1692
+186	null	county: ..... / Essex County
+187	null	census yr: ..... / 2000
+188	null	county: ..... / Dickenson County
+189	null	founded: ..... / 1749
+190	null	seat: ..... / Cumberland.
+191	null	founded year: ..... / 1749
+192	null	census yr: ..... / 2000
+193	null	county: ..... / Cumberland County
+194	null	founded: ..... / 1749
+195	null	founded year: ..... / 1749
+196	null	census yr: ..... / 2000
+197	null	county: ..... / Culpeper County
+198	null	founded: ..... / 1836
+199	null	seat: ..... / Berryville.
+200	null	founded year: ..... / 1836
+201	null	census yr: ..... / 2000
+202	null	county: ..... / Clarke County
+203	null	founded: ..... / 1836
+204	null	founded year: ..... / 1836
+205	null	census yr: ..... / 2000
+206	null	county: ..... / Warren County
+207	null	county: ..... / Essex County
+208	null	seat: ..... / Independence
+209	null	county: ..... / Washington County
+210	null	state: ..... / Texas
+211	null	county: ..... / Victoria County
+212	null	state: ..... / Texas
+213	null	seat: ..... / Canton.
+214	null	county: ..... / Van Zandt County
+215	null	seat: ..... / Goochland.
+216	null	founded year: ..... / 1728
+217	null	census yr: ..... / 2000
+218	null	county: ..... / Goochland County
+219	true	founded: february 27, 1801 / February 27, 1801
+220	null	founded year: ..... / 1801
+221	true	county: arlington county / Arlington County
+222	null	county: ..... / Zapata County
+223	null	state: ..... / South Texas
+224	null	founded: ..... / 1770
+225	null	founded year: ..... / 1770
+226	null	census yr: ..... / 2000
+227	null	county: ..... / Botetourt County
+228	null	county: ..... / Wharton County
+229	true	seat: chesterfield / Chesterfield
+230	true	county: chesterfield county / Chesterfield County
+231	null	founded: ..... / 1764
+232	null	founded year: ..... / 1764
+233	null	census yr: ..... / 2000
+234	null	county: ..... / Charlotte County
+235	null	census yr: ..... / 2000
+236	null	county: ..... / City County, Virginia
+237	null	seat: ..... / Bowling
+238	null	census yr: ..... / 2000
+239	null	county: ..... / Caroline County
+240	null	founded: ..... / 1782
+241	null	seat: ..... / Rustburg.
+242	null	founded year: ..... / 1782
+243	null	census yr: ..... / 2000
+244	null	county: ..... / Campbell County
+245	null	founded: ..... / May 1st, 1761
+246	null	seat: ..... / Buckingham.
+247	null	census yr: ..... / 2000
+248	null	county: ..... / Buckingham County
+249	true	founded: 1720 / 1720
+250	true	seat: lawrenceville / Lawrenceville.
+251	null	founded year: ..... / 1720
+252	true	census yr: 2000 / 2000
+253	true	county: brunswick county / Brunswick County
+254	null	founded: ..... / 1861
+255	null	founded year: ..... / 1861
+256	null	census yr: ..... / 2000
+257	null	county: ..... / Bland County
+258	null	founded: ..... / December 14, 1790
+259	null	founded year: ..... / 1790
+260	null	county: ..... / Bath County
+261	null	founded: ..... / 1738
+262	true	founded year: 1738 / 1738
+263	true	county: augusta county / Augusta County
+264	null	founded: ..... / 1761,
+265	null	census yr: ..... / 2000
+266	null	county: ..... / Amherst County
+267	null	seat: ..... / Amelia Courthouse.
+268	null	census yr: ..... / 2000
+269	null	county: ..... / Amelia County
+270	null	founded: ..... / 1634
+271	null	founded year: ..... / 1634
+272	null	census yr: ..... / 2000
+273	null	county: ..... / Accomack County,
+274	null	county: ..... / Windsor County
+275	null	county: ..... / Windham County
+276	null	county: ..... / Washington County
+277	null	county: ..... / Rutland County
+278	null	county: ..... / Orleans County
+279	null	county: ..... / Orange County
+280	null	county: ..... / Lamoille County
+281	null	county: ..... / Grand Isle County
+282	null	county: ..... / Franklin County
+283	null	county: ..... / Chittenden County
+284	null	county: ..... / Caledonia County
+285	null	seat: ..... / Bennington
+286	null	county: ..... / Bennington County
+287	null	founded: ..... / 1846
+288	null	founded year: ..... / 1846
+289	null	county: ..... / Zavala County
+290	null	state: ..... / Texas
+291	null	seat: ..... / Graham.
+292	null	county: ..... / Young County
+293	null	state: ..... / Texas
+294	null	county: ..... / Yoakum County
+295	null	state: ..... / Texas
+296	null	county: ..... / Wood County
+297	null	county: ..... / Wise County
+298	null	seat: ..... / Kermit.
+299	null	county: ..... / Winkler County
+300	null	state: ..... / Texas
+301	null	seat: ..... / Floresville.
+302	null	county: ..... / Wilson County
+303	null	state: ..... / Texas
+304	null	founded: ..... / 1911
+305	null	seat: ..... / Raymondville.
+306	null	founded year: ..... / 1911
+307	null	county: ..... / Willacy County
+308	null	county: ..... / Wheeler County
+309	null	state: ..... / Texas
+310	null	county: ..... / Ward County
+311	null	state: ..... / Texas
+312	null	census yr: ..... / 2000
+313	null	county: ..... / Waller County
+314	null	state: ..... / Texas
+315	null	founded: ..... / 1858
+316	null	founded year: ..... / 1858
+317	null	census yr: ..... / 2000
+318	null	county: ..... / Buchanan County
+319	null	state: ..... / Virginia
+320	null	founded: ..... / 1753
+321	null	founded year: ..... / 1753
+322	null	census yr: ..... / 2000
+323	null	county: ..... / Bedford County
+324	null	seat: ..... / Charlottesville.
+325	null	county: ..... / Albemarle County
+326	null	state: ..... / Virginia
+327	null	county: ..... / Webb County
+328	null	state: ..... / South Texas
+329	null	census yr: 2000 / ..........
+330	null	pop: 8809 / ..........
+331	null	state: virginia / ..........
+332	null	founded: 1664 / ..........
+333	null	seat: stafford / ..........
+334	null	state: virginia / ..........
+335	null	seat wl: salem / ..........
+336	null	census estimate yr: 2009 / ..........
+337	null	area_water_sq_mi: 25 / ..........
+338	null	state: virginia / ..........
+339	null	seat: hanover / ..........
+340	null	census estimate yr: 2007 / ..........
+341	null	state: virginia / ..........
+342	null	named for: thomas fairfax, 6th lord fairfax of cameron / ..........
+343	null	census estimate yr: 2006 / ..........
+344	null	state: virginia / ..........
+345	null	state: virginia / ..........
+346	null	state: virginia / ..........
+347	null	state: virginia / ..........
+348	null	seat: arlington / ..........

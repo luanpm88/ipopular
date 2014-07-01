@@ -1,0 +1,598 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 72
+Attributes with high occurrences: 72/72
+Attributes with high precision: 9/72
+------------
+Found: 759
+Found Not Null: 78
+Correct: 53
+Wrong: 25
+Total: 130
+-----------
+precision: 0.6794871794871795
+recall: 0.4076923076923077
+F: 0.5096153846153846
+
+
+
+1	null	pop: ..... / 200,073
+2	null	density_km2: ..... / 104
+3	null	seat wl: ..... / Charleston,
+4	null	density_sq_mi: ..... / 222
+5	null	county: ..... / Kanawha County
+6	null	state: ..... / West Virginia
+7	null	seat: ..... / Lewisburg.
+8	null	pop: ..... / 34,453
+9	null	density_km2: ..... / 17
+10	null	density_sq_mi: ..... / 34
+11	null	county: ..... / Greenbrier County
+12	null	pop: ..... / 52,468
+13	null	density_sq_mi: ..... / 68
+14	true	county: columbia county / Columbia County
+15	false	state: wisconsin / Wisconsin.
+16	null	founded: ..... / 1851
+17	null	pop: ..... / 23,404
+18	null	density_km2: ..... / 30
+19	null	seat wl: ..... / Buckhannon.
+20	null	density_sq_mi: ..... / 66
+21	null	county: ..... / Upshur County
+22	null	founded: ..... / January 20, 1863.
+23	null	pop: ..... / 40,066
+24	null	density_km2: ..... / 7
+25	null	density_sq_mi: ..... / 16
+26	null	county: ..... / Stevens County
+27	true	pop: 49,597 / 49,597
+28	false	seat wl: lancaster / Lancaster.
+29	true	density_sq_mi: 43 / 43
+30	true	county: grant county / Grant County
+31	false	state: wisconsin / Wisconsin.
+32	null	founded: ..... / February 8, 1854,
+33	null	pop: ..... / 43,287
+34	null	density_sq_mi: ..... / 33
+35	true	county: douglas county / Douglas County
+36	false	state: wisconsin / Wisconsin.
+37	null	pop: ..... / 15,674
+38	null	density_sq_mi: ..... / 19
+39	null	county: ..... / Burnett County
+40	null	state: ..... / Wisconsin.
+41	null	founded: ..... / March 27, 1860,
+42	null	pop: ..... / 16,866
+43	null	density_sq_mi: ..... / 16
+44	true	county: ashland county / Ashland County
+45	false	state: wisconsin / Wisconsin.
+46	null	seat: ..... / Wayne.
+47	null	pop: ..... / 42,903
+48	null	density_km2: ..... / 38
+49	null	density_sq_mi: ..... / 85
+50	null	county: ..... / Wayne County
+51	null	pop: ..... / 28,262
+52	null	density_km2: ..... / 13
+53	null	density_sq_mi: ..... / 27
+54	null	county: ..... / Randolph County
+55	null	seat: ..... / Martinsburg.
+56	null	seat wl: ..... / Martinsburg.
+57	null	county: ..... / Berkeley County
+58	null	state: ..... / Virginia
+59	true	founded: march 9, 1854 / March 9, 1854,
+60	null	seat wl: ..... / Bellingham,
+61	true	county: whatcom county / Whatcom County
+62	null	founded: ..... / March 13, 1899.
+63	null	pop: ..... / 66,616
+64	null	density_km2: ..... / 10
+65	null	seat wl: ..... / Wenatchee,
+66	null	density_sq_mi: ..... / 23
+67	null	county: ..... / Chelan County
+68	null	founded: ..... / 27, 2006
+69	true	county: king county / King County
+70	null	seat: ..... / Princeton.
+71	null	pop: ..... / 62,980
+72	null	density_km2: ..... / 72
+73	null	seat wl: ..... / Princeton.
+74	null	density_sq_mi: ..... / 150
+75	null	county: ..... / Mercer County
+76	null	state: ..... / Virginia
+77	null	founded: ..... / February 23, 1867,
+78	null	seat: ..... / Hamlin.
+79	null	seat wl: ..... / Hamlin.
+80	null	county: ..... / Lincoln County
+81	null	state: ..... / West Virginia
+82	null	pop: ..... / 19,105
+83	true	seat wl: green lake / Green Lake.
+84	true	density_sq_mi: 54 / 54
+85	true	county: green lake county / Green Lake County
+86	false	state: wisconsin / Wisconsin.
+87	null	founded: ..... / 1831
+88	null	pop: ..... / 28,000
+89	null	density_km2: ..... / 26
+90	null	seat wl: ..... / Ripley
+91	null	density_sq_mi: ..... / 60
+92	null	county: ..... / Jackson County
+93	null	seat: ..... / Neillsville.
+94	null	pop: ..... / 33,557
+95	null	seat wl: ..... / Neillsville.
+96	true	density_sq_mi: 28 / 28
+97	null	county: ..... / Clark County
+98	false	state: wisconsin / Wisconsin.
+99	null	pop: ..... / 7,514
+100	null	density_km2: ..... / 25
+101	null	density_sq_mi: ..... / 58
+102	null	county: ..... / Pleasants County
+103	null	state: ..... / Virginia
+104	null	seat: ..... / Elizabeth.
+105	null	pop: ..... / 5,873
+106	null	density_km2: ..... / 14
+107	null	seat wl: ..... / Elizabeth.
+108	null	density_sq_mi: ..... / 25
+109	null	county: ..... / Wirt County
+110	null	state: ..... / Virginia
+111	null	pop: ..... / 32,603
+112	true	density_km2: 7 / 7
+113	null	density_sq_mi: ..... / 18
+114	true	county: douglas county / Douglas County
+115	null	founded: ..... / 1845
+116	null	seat: ..... / West
+117	null	pop: ..... / 7,403
+118	null	density_km2: ..... / 11
+119	null	seat wl: ..... / West Union.
+120	null	density_sq_mi: ..... / 23
+121	null	county: ..... / Doddridge County
+122	null	seat: ..... / New Cumberland.
+123	null	seat wl: ..... / New Cumberland.
+124	null	county: ..... / Hancock County
+125	null	pop: ..... / 33,647
+126	null	seat wl: ..... / Monroe.
+127	true	density_sq_mi: 58 / 58
+128	true	county: green county / Green County
+129	false	state: wisconsin / Wisconsin.
+130	null	seat: ..... / Crandon.
+131	null	pop: ..... / 10,024
+132	true	density_sq_mi: 10 / 10
+133	true	county: forest county / Forest County
+134	false	state: wisconsin / Wisconsin.
+135	null	pop: ..... / 97,296
+136	true	density_sq_mi: 135 / 135
+137	true	county: fond du lac county / Fond du Lac County
+138	false	state: wisconsin / Wisconsin.
+139	null	pop: ..... / 5,088
+140	null	density_km2: ..... / 9
+141	true	density_sq_mi: 10 / 10
+142	true	county: florence county / Florence County
+143	false	state: wisconsin / Wisconsin.
+144	null	seat wl: ..... / Eau Claire.
+145	null	county: ..... / Eau Claire County
+146	null	state: ..... / Wisconsin.
+147	null	seat: ..... / Menomonie.
+148	null	pop: ..... / 39,858
+149	null	seat wl: ..... / Menomonie.
+150	null	density_sq_mi: ..... / 47
+151	null	county: ..... / Dunn County
+152	null	state: ..... / Wisconsin.
+153	false	seat wl: sturgeon bay / Sturgeon
+154	false	county: door county / thumb|right|Door County courthouse Door County
+155	false	state: wisconsin / Wisconsin.
+156	null	pop: ..... / 85,897
+157	null	seat wl: ..... / Juneau.
+158	true	density_sq_mi: 97 / 97
+159	true	county: dodge county / Dodge County
+160	false	state: wisconsin / Wisconsin.
+161	null	founded: ..... / 1836
+162	null	pop: ..... / 426,526
+163	null	density_km2: ..... / 150
+164	null	density_sq_mi: ..... / 355
+165	null	county: ..... / Dane County
+166	null	state: ..... / Wisconsin.
+167	null	pop: ..... / 17,243
+168	null	county: ..... / Crawford County
+169	null	founded: ..... / February 5, 1850
+170	null	seat: ..... / Chilton.
+171	true	county: calumet county / Calumet County
+172	false	state: wisconsin / Wisconsin.
+173	null	pop: ..... / 13,804
+174	null	seat wl: ..... / Alma.
+175	true	density_sq_mi: 20 / 20
+176	true	county: buffalo county / Buffalo County
+177	false	state: wisconsin / Wisconsin.
+178	null	pop: ..... / 226,778
+179	null	density_sq_mi: ..... / 429
+180	null	county: ..... / Brown County
+181	null	state: ..... / Wisconsin.
+182	null	pop: ..... / 15,013
+183	true	density_sq_mi: 10 / 10
+184	null	county: ..... / Bayfield County
+185	false	state: wisconsin / Wisconsin.
+186	true	founded: 1850 / 1850
+187	false	seat: pineville / Pineville.
+188	null	pop: ..... / 25,709
+189	false	density_km2: 20 / 23
+190	null	seat wl: ..... / Pineville. Wyoming
+191	null	density_sq_mi: ..... / 51
+192	true	county: wyoming county / Wyoming County
+193	null	founded: ..... / 1798
+194	null	seat: ..... / Parkersburg.
+195	null	pop: ..... / 87,986
+196	null	density_km2: ..... / 108
+197	null	density_sq_mi: ..... / 240
+198	null	county: ..... / Wood County
+199	true	pop: 9,719 / 9,719
+200	null	density_km2: ..... / 10
+201	null	seat wl: ..... / Webster Springs.
+202	null	density_sq_mi: ..... / 18
+203	true	county: webster county / Webster County
+204	null	seat: ..... / Middlebourne.
+205	null	pop: ..... / 9,592
+206	null	seat wl: ..... / Middlebourne.
+207	null	density_sq_mi: ..... / 37
+208	null	county: ..... / Tyler County
+209	null	founded: ..... / 1871
+210	null	pop: ..... / 12,999
+211	null	seat wl: ..... / Hinton. Summers
+212	null	density_sq_mi: ..... / 36
+213	null	county: ..... / Summers County
+214	null	state: ..... / West Virginia
+215	null	founded: ..... / March 11, 1856.
+216	null	pop: ..... / 15,446
+217	null	density_km2: ..... / 15
+218	null	seat wl: ..... / Spencer. Roane
+219	null	density_sq_mi: ..... / 32
+220	null	county: ..... / Roane County
+221	null	state: ..... / Virginia
+222	null	seat: ..... / Harrisville.
+223	null	pop: ..... / 10,343
+224	null	density_km2: ..... / 12
+225	null	seat wl: ..... / Harrisville.
+226	null	density_sq_mi: ..... / 23
+227	null	county: ..... / Ritchie County
+228	null	state: ..... / Virginia
+229	null	founded: ..... / January 23, 1850
+230	null	pop: ..... / 79,220
+231	null	density_km2: ..... / 59
+232	null	seat wl: ..... / Beckley. Raleigh
+233	null	density_sq_mi: ..... / 130
+234	null	county: ..... / Raleigh County,
+235	null	pop: ..... / 29,334
+236	null	density_sq_mi: ..... / 45
+237	null	county: ..... / Preston County
+238	null	seat: ..... / Summersville.
+239	null	pop: ..... / 26,562
+240	null	seat wl: ..... / Summersville. Nicholas
+241	null	density_sq_mi: ..... / 41
+242	null	county: ..... / Nicholas County
+243	null	state: ..... / Virginia
+244	null	founded: ..... / 1820
+245	null	pop: ..... / 14,943
+246	null	density_km2: ..... / 35
+247	null	seat wl: ..... / Berkeley Springs.
+248	null	density_sq_mi: ..... / 65
+249	null	county: ..... / Morgan County
+250	null	seat: ..... / Union.
+251	null	pop: ..... / 14,583
+252	null	density_km2: ..... / 15
+253	null	seat wl: ..... / Union. Monroe
+254	null	density_sq_mi: ..... / 31
+255	null	county: ..... / Monroe County
+256	null	pop: ..... / 81,866
+257	null	density_km2: ..... / 102
+258	null	seat wl: ..... / Morgantown.
+259	null	density_sq_mi: ..... / 227
+260	null	county: ..... / Monongalia County
+261	null	state: ..... / West Virginia
+262	null	county: ..... / McDowell County
+263	null	state: ..... / Virginia
+264	null	founded: ..... / 1835
+265	null	seat: ..... / Moundsville.
+266	null	pop: ..... / 35,519
+267	null	density_km2: ..... / 52
+268	null	seat wl: ..... / Moundsville.
+269	null	density_sq_mi: ..... / 116
+270	null	county: ..... / Marshall County
+271	null	state: ..... / Virginia
+272	null	founded: ..... / 1842
+273	null	pop: ..... / 56,598
+274	null	density_km2: ..... / 86
+275	null	seat wl: ..... / Fairmont. Marion
+276	null	density_sq_mi: ..... / 183
+277	null	county: ..... / Marion County
+278	null	founded: ..... / 1824
+279	null	pop: ..... / 37,710
+280	null	density_km2: ..... / 37
+281	null	seat wl: ..... / Logan. Logan
+282	null	density_sq_mi: ..... / 83
+283	null	county: ..... / Logan County
+284	null	pop: ..... / 16,919
+285	null	seat wl: ..... / Weston.
+286	null	density_sq_mi: ..... / 44
+287	null	county: ..... / Lewis County
+288	null	founded: ..... / 1801
+289	null	seat: ..... / Charles
+290	null	seat wl: ..... / Charles
+291	null	county: ..... / Jefferson County
+292	null	seat: ..... / Clarksburg.
+293	null	pop: ..... / 68,652
+294	null	density_km2: ..... / 18
+295	null	density_sq_mi: ..... / 165
+296	null	county: ..... / Harrison County
+297	null	seat: ..... / Moorefield.
+298	null	seat wl: ..... / Moorefield. Hardy
+299	null	county: ..... / Hardy County
+300	null	pop: ..... / 55,195
+301	null	density_sq_mi: ..... / 55
+302	null	county: ..... / Chippewa County
+303	null	state: ..... / Wisconsin.
+304	null	pop: ..... / 44,963
+305	null	seat wl: ..... / Barron.
+306	null	density_sq_mi: ..... / 52
+307	null	county: ..... / Barron County
+308	null	state: ..... / Wisconsin.
+309	null	pop: ..... / 17,693
+310	null	density_km2: ..... / 23
+311	null	seat wl: ..... / New Martinsville.
+312	null	density_sq_mi: ..... / 49
+313	null	county: ..... / Wetzel County
+314	null	founded: ..... / 1856
+315	null	pop: ..... / 7,321
+316	null	density_km2: ..... / 11
+317	null	density_sq_mi: ..... / 18
+318	null	county: ..... / Tucker County
+319	null	pop: ..... / 28,253
+320	null	density_km2: ..... / 30
+321	null	seat wl: ..... / Williamson.
+322	null	density_sq_mi: ..... / 67
+323	null	county: ..... / Mingo County
+324	null	seat: ..... / Grantsville.
+325	null	county: ..... / Calhoun County
+326	null	founded: ..... / February 2, 1888.
+327	null	pop: ..... / 39,564
+328	null	density_km2: ..... / 4
+329	null	density_sq_mi: ..... / 8
+330	null	county: ..... / Okanogan County
+331	null	founded: ..... / December 22, 1852,
+332	null	density_km2: ..... / 155
+333	null	density_sq_mi: ..... / 343
+334	true	county: island county / Island County
+335	true	founded: february 21, 1899 / February 21, 1899.
+336	null	pop: ..... / 7,260
+337	null	density_km2: ..... / 2
+338	true	county: ferry county / Ferry County
+339	false	seat: asotin / Clarkston.
+340	true	county: asotin county / Asotin County
+341	null	seat: ..... / Marlinton. Pocahontas
+342	null	pop: ..... / 9,131
+343	null	density_km2: ..... / 8
+344	null	seat wl: ..... / Marlinton. Pocahontas
+345	null	density_sq_mi: ..... / 10
+346	null	county: ..... / Pocahontas County
+347	true	founded: november 11, 1875 / November 11, 1875.
+348	null	pop: ..... / 4,064
+349	true	density_km2: 2 / 2
+350	null	density_sq_mi: ..... / 5
+351	true	county: columbia county / Columbia County
+352	null	seat: ..... / Point Pleasant.
+353	null	pop: ..... / 25,957
+354	null	density_km2: ..... / 28
+355	null	seat wl: ..... / Point Pleasant.
+356	null	density_sq_mi: ..... / 60
+357	null	county: ..... / Mason County
+358	null	pop: ..... / 8,196
+359	null	density_km2: ..... / 7
+360	null	seat wl: ..... / Franklin. Pendleton
+361	null	density_sq_mi: ..... / 12
+362	null	county: ..... / Pendleton County
+363	null	state: ..... / Virginia
+364	null	seat: ..... / Goldendale.
+365	null	pop: ..... / 19,161
+366	null	density_km2: ..... / 5
+367	null	density_sq_mi: ..... / 10
+368	null	county: ..... / Klickitat County
+369	null	area_water_sq_mi: ..... / 5
+370	null	county: ..... / Taylor County
+371	null	founded: ..... / January 29, 1858.
+372	false	pop: 468,684 / 417,939
+373	null	density_km2: ..... / 99
+374	null	seat wl: ..... / Spokane,
+375	true	density_sq_mi: 237 / 237
+376	true	county: spokane county / Spokane County
+377	null	pop: ..... / 67,194
+378	null	density_km2: ..... / 17
+379	null	seat wl: ..... / Montesano,
+380	null	density_sq_mi: ..... / 35
+381	null	county: ..... / Grays Harbor County
+382	null	founded: ..... / December 13, 1753,
+383	null	pop: ..... / 20,203
+384	null	density_km2: ..... / 17
+385	null	seat wl: ..... / Romney, West
+386	null	density_sq_mi: ..... / 32
+387	true	county: hampshire county / Hampshire County
+388	false	state: west virginia / Virginia
+389	null	seat: ..... / Petersburg.
+390	null	pop: ..... / 11,299
+391	null	density_km2: ..... / 13
+392	null	seat wl: ..... / Petersburg. Grant
+393	null	density_sq_mi: ..... / 24
+394	null	county: ..... / Grant County
+395	null	founded: ..... / 1845
+396	null	seat: ..... / Glenville.
+397	null	pop: ..... / 7,160
+398	null	density_km2: ..... / 11
+399	null	seat wl: ..... / Glenville. Gilmer
+400	null	density_sq_mi: ..... / 21
+401	null	county: ..... / Gilmer County
+402	null	founded: ..... / February 28, 1831,
+403	true	seat: fayetteville / Fayetteville.
+404	null	pop: ..... / 47,579
+405	null	density_km2: ..... / 33
+406	null	seat wl: ..... / Fayetteville. Fayette
+407	null	density_sq_mi: ..... / 72
+408	true	county: fayette county / Fayette County
+409	false	state: west virginia / Virginia
+410	null	seat: ..... / Huntington.
+411	null	pop: ..... / 96,784
+412	null	density_sq_mi: ..... / 344
+413	null	county: ..... / Cabell County
+414	null	founded: ..... / 1847
+415	null	pop: ..... / 25,535
+416	null	density_km2: ..... / 23
+417	null	seat wl: ..... / Madison. Boone
+418	null	density_sq_mi: ..... / 51
+419	null	county: ..... / Boone County
+420	null	founded: ..... / 1797
+421	null	seat: ..... / Wellsburg.
+422	null	seat wl: ..... / Wellsburg. Brooke
+423	null	county: ..... / Brooke County
+424	null	pop: ..... / 40,740
+425	null	density_km2: ..... / 8
+426	true	density_sq_mi: 19 / 19
+427	true	county: whitman county / Whitman County
+428	null	seat: ..... / Keyser.
+429	null	seat wl: ..... / Keyser.
+430	null	county: ..... / Mineral County
+431	null	founded: ..... / April 25, 1854.
+432	null	seat: ..... / Walla
+433	null	pop: ..... / 55,180
+434	null	density_km2: ..... / 17
+435	null	density_sq_mi: ..... / 43
+436	null	county: ..... / Walla Walla County
+437	null	founded: ..... / April 25, 1854.
+438	null	pop: ..... / 3,824
+439	null	density_km2: ..... / 7
+440	null	density_sq_mi: ..... / 14
+441	null	county: ..... / Wahkiakum County
+442	null	county: ..... / San Juan County
+443	null	density_km2: ..... / 119
+444	null	county: ..... / Thurston County
+445	null	founded: ..... / March 9, 1854.
+446	null	density_km2: ..... / 3
+447	null	seat wl: ..... / Stevenson,
+448	null	density_sq_mi: ..... / 6
+449	null	county: ..... / Skamania County
+450	null	founded: ..... / January 14, 1861.
+451	null	seat wl: ..... / Snohomish
+452	true	county: snohomish county / Snohomish County
+453	null	founded: ..... / November 28, 1883.
+454	null	pop: ..... / 102,979
+455	null	density_km2: ..... / 25
+456	null	density_sq_mi: ..... / 59
+457	null	county: ..... / Skagit County
+458	null	founded: ..... / December 22, 1852,
+459	null	pop: ..... / 700,820
+460	null	density_km2: ..... / 165
+461	null	density_sq_mi: ..... / 417
+462	null	county: ..... / Pierce County
+463	null	founded: ..... / February 4, 1851.
+464	null	pop: ..... / 20,984
+465	null	density_km2: ..... / 15
+466	null	density_sq_mi: ..... / 22
+467	null	county: ..... / Pacific County
+468	null	seat wl: ..... / Port
+469	null	county: ..... / Kitsap County
+470	null	pop: ..... / 49,405
+471	null	density_km2: ..... / 26
+472	null	density_sq_mi: ..... / 51
+473	null	county: ..... / Mason County
+474	null	founded: ..... / November 24, 1883.
+475	null	pop: ..... / 10,184
+476	null	density_km2: ..... / 2
+477	null	seat wl: ..... / Davenport,
+478	null	density_sq_mi: ..... / 4
+479	null	county: ..... / Lincoln County
+480	null	founded: ..... / December 19, 1845,
+481	null	seat: ..... / Centralia.
+482	null	county: ..... / Lewis County
+483	null	seat: ..... / Ellensburg,
+484	null	pop: ..... / 33,362
+485	null	density_km2: ..... / 7
+486	null	seat wl: ..... / Ellensburg,
+487	null	density_sq_mi: ..... / 14
+488	null	county: ..... / Kittitas County
+489	null	county: ..... / Washington County
+490	null	county: ..... / Grant County
+491	null	pop: ..... / 2,397
+492	null	density_km2: ..... / 2
+493	null	density_sq_mi: ..... / 3
+494	true	county: garfield county / Garfield County
+495	null	founded: ..... / November 28, 1883.
+496	null	pop: ..... / 49,347
+497	null	density_km2: ..... / 13
+498	null	density_sq_mi: ..... / 40
+499	null	county: ..... / Franklin County
+500	null	county: ..... / Cowlitz County
+501	null	county: ..... / Yakima County
+502	true	founded: march 1, 1911 / March 1, 1911.
+503	null	pop: ..... / 11,732
+504	null	density_km2: ..... / 5
+505	null	density_sq_mi: ..... / 8
+506	true	county: pend oreille county / Pend Oreille County
+507	false	area_water_sq_mi: 25 / 5
+508	null	founded: ..... / December 22, 1852,
+509	null	county: ..... / Jefferson County
+510	null	founded: ..... / April 26, 1854.
+511	null	pop: ..... / 64,525
+512	null	density_km2: ..... / 18
+513	null	density_sq_mi: ..... / 37
+514	null	county: ..... / Clallam County
+515	null	county: ..... / York County
+516	null	state: ..... / Virginia
+517	null	seat: ..... / Wytheville.
+518	null	seat wl: ..... / Wytheville.
+519	null	county: ..... / Wythe County
+520	null	pop: ..... / 40,123
+521	null	density_km2: ..... / 44
+522	null	density_sq_mi: ..... / 99
+523	true	county: wise county / Wise County
+524	true	state: virginia / Virginia
+525	null	pop: ..... / 16,718
+526	null	county: ..... / Westmoreland County
+527	null	state: ..... / Virginia
+528	null	density_km2: 17 / ..........
+529	null	seat wl: fond du lac / ..........
+530	null	largest city wl: fond du lac / ..........
+531	null	density_km2: 52 / ..........
+532	null	seat: florence / ..........
+533	null	area_water_sq_mi: 9 / ..........
+534	null	seat wl: superior / ..........
+535	null	area_water_sq_mi: 25 / ..........
+536	null	density_km2: 38 / ..........
+537	null	density_km2: 11 / ..........
+538	null	area_water_sq_mi: 25 / ..........
+539	null	area_water_km2: 65 / ..........
+540	null	seat wl: ashland / ..........
+541	null	state: west virginia / ..........
+542	null	state: west virginia / ..........
+543	null	seat: webster springs / ..........
+544	null	time zone: eastern / ..........
+545	null	state: washington / ..........
+546	null	founded: november 29, 1871 / ..........
+547	null	area_water_sq_mi: 18 / ..........
+548	null	time zone: pacific / ..........
+549	null	named for: marcus whitman / ..........
+550	null	state: washington / ..........
+551	null	seat: bellingham / ..........
+552	null	seat: spokane / ..........
+553	null	named for: spokane tribe / ..........
+554	null	state: washington / ..........
+555	null	founded date: january 14 / ..........
+556	null	census estimate yr: 2010 / ..........
+557	null	pop: 711,100 / ..........
+558	null	state: washington / ..........
+559	null	settlement_type: county / ..........
+560	null	state: washington / ..........
+561	null	seat: seattle / ..........
+562	null	largest_city: seattle / ..........
+563	null	census estimate yr: 2009 / ..........
+564	null	pop: 1,916,441 / ..........
+565	null	state: washington / ..........
+566	null	seat: coupeville / ..........
+567	null	state: washington / ..........
+568	null	founded: november 29, 1881 / ..........
+569	null	state: washington / ..........
+570	null	founded: november 28, 1883 / ..........
+571	null	seat: waterville / ..........
+572	null	state: washington / ..........
+573	null	area_water_sq_mi: 5 / ..........
+574	null	state: washington / ..........
+575	null	founded: october 27, 1883 / ..........
+576	null	seat: wise / ..........
+577	null	state: washington / ..........
+578	null	time zone: pacific / ..........
+579	null	state: washington / ..........

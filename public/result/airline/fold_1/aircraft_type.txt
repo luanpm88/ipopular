@@ -1,0 +1,17 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 0.3333333333333333
+F: 0.5
+
+
+
+
+1	null	aircraft type: ..... / KNILM Douglas
+2	true	aircraft type: boeing 747-2r7f / Boeing 747-2R7F
+3	null	aircraft type: boeing 747-2r7f / ..........
+4	null	aircraft type: boeing 767-3z9er / ..........
+5	null	aircraft type: convair cv-990 / ..........

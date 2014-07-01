@@ -1,0 +1,33 @@
+Found Not Null: 14
+Correct: 13
+Wrong: 1
+Total: 15
+-----------
+precision: 0.9285714285714286
+recall: 0.8666666666666667
+F: 0.896551724137931
+
+
+
+
+1	null	birth_name: ..... / Salma Valgarma Hayek Jiménez-Pinault
+2	null	birth_name: ..... / Timothy James "Tim"
+3	true	birth_name: wallace michael shawn / Wallace Michael Shawn
+4	true	birth_name: winona laura horowitz / Winona Laura Horowitz
+5	true	birth_name: solomon joel cohen / Solomon Joel Cohen
+6	null	birth_name: ..... / Hildegard Frieda Albertine Knef
+7	true	birth_name: kenneth charles williams / Kenneth Charles Williams
+8	true	birth_name: sandra annette bullock / Sandra Annette Bullock
+9	null	birth_name: ..... / Thomas Cruise Mapother IV
+10	true	birth_name: denise lee richards / Denise Lee Richards
+11	true	birth_name: rutger oelsen hauer / Rutger Oelsen Hauer
+12	true	birth_name: juan moreno y herrera-jiménez / Juan Moreno y Herrera-Jiménez
+13	true	birth_name: anna eileen heckart / Anna Eileen Heckart
+14	true	birth_name: otto ludwig preminger / Otto Ludwig Preminger
+15	true	birth_name: archibald alexander leach / Archibald Alexander Leach
+16	null	birth_name: ..... / Theodore "Ted" Raimi
+17	false	birth_name: charles albert browning, jr. / Charles Albert Browning,
+18	null	birth_name: ..... / Anthony John "Tony"
+19	true	birth_name: larry simon gelbart / Larry Simon Gelbart
+20	true	birth_name: george michael dolenz, jr. / George Michael Dolenz, Jr.
+21	null	birth_name: sergio leone / ..........

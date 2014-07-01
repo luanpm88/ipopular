@@ -1,0 +1,19 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 0.3333333333333333
+F: 0.5
+
+
+
+
+1	null	parent: ..... / the sea
+2	null	parent: ..... / Tiger Airways Holdings,
+3	null	parent: ..... / Singapore Airlines.
+4	null	parent: ..... / Nippon Airways
+5	true	parent: british airways / British Airways
+6	null	parent: japan airlines / ..........
+7	null	parent: lufthansa / ..........

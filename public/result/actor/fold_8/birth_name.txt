@@ -1,0 +1,36 @@
+Found Not Null: 17
+Correct: 17
+Wrong: 0
+Total: 19
+-----------
+precision: 1.0
+recall: 0.8947368421052632
+F: 0.9444444444444444
+
+
+
+
+1	true	birth_name: morgan porterfield freeman, jr. / Morgan Porterfield Freeman, Jr.
+2	true	birth_name: nicolas kim coppola / Nicolas Kim Coppola;
+3	true	birth_name: george orson welles / George Orson Welles
+4	true	birth_name: steven andrew soderbergh / Steven Andrew Soderbergh
+5	null	birth_name: ..... / Gladys Marie Smith
+6	true	birth_name: madhuri shankar dixit / Madhuri Shankar Dixit
+7	null	birth_name: ..... / Soad Mohamed Hosny
+8	true	birth_name: marlon brando, jr. / Marlon Brando, Jr.
+9	null	birth_name: ..... / Mandel Bruce "Mandy" Patinkin
+10	true	birth_name: maximilian raoul steiner / Maximilian Raoul Steiner
+11	null	birth_name: ..... / Mary Tyler Moore
+12	true	birth_name: peter michael falk / Peter Michael Falk
+13	true	birth_name: paul rubenfeld / Paul Rubenfeld;
+14	true	birth_name: richard henry sellers / Richard Henry Sellers,
+15	true	birth_name: quentin jerome tarantino / Quentin Jerome Tarantino
+16	null	birth_name: ..... / Sir Ridley Scott
+17	true	birth_name: robert anthony rodriguez / Robert Anthony Rodríguez
+18	true	birth_name: shannon elizabeth fadal / Shannon Elizabeth Fadal,
+19	true	birth_name: peter edward cook / Peter Edward Cook
+20	true	birth_name: russell ira crowe / Russell Ira Crowe
+21	true	birth_name: ruth gordon jones / Ruth Gordon Jones
+22	true	birth_name: robin gayle wright / Robin Gayle Wright
+23	null	birth_name: michael kenneth mann / ..........
+24	null	birth_name: reginald ingram montgomery hitchcock / ..........

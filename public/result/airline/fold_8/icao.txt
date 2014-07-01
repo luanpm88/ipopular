@@ -1,0 +1,40 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 2
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	null	icao: ..... / Dragonair
+2	null	icao: ..... / Oy
+3	null	icao: ..... / AirAsia
+4	true	icao: ana / ANA
+5	null	icao: ..... / Comair
+6	null	icao: ..... / Balkan
+7	null	icao: ..... / Independence
+8	null	icao: ..... / Biman
+9	null	icao: ..... / Aloha
+10	null	icao: ..... / Sterling
+11	null	icao: ..... / FlyLal
+12	null	icao: ..... / Mesaba
+13	null	icao: ..... / Ansett
+14	null	icao: ..... / ASA
+15	null	icao: ..... / Aero
+16	null	icao: ..... / Cyprus
+17	null	icao: ..... / SATA
+18	null	icao: ..... / Maersk
+19	null	icao: ..... / Court
+20	null	icao: ..... / Kalitta
+21	null	icao: ..... / Ryanair
+22	null	icao: ..... / Horizon
+23	null	icao: ..... / Alaska
+24	null	icao: ..... / Service
+25	null	icao: ..... / Hyannis
+26	null	icao: ..... / Arrow
+27	null	icao: ..... / Star
+28	null	icao: ack / ..........

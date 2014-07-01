@@ -1,0 +1,104 @@
+Found Not Null: 12
+Correct: 11
+Wrong: 1
+Total: 12
+-----------
+precision: 0.9166666666666666
+recall: 0.9166666666666666
+F: 0.9166666666666666
+
+
+
+
+1	true	density_sq_mi: 65 / 65
+2	true	density_sq_mi: 52 / 52
+3	null	density_sq_mi: ..... / 59
+4	null	density_sq_mi: ..... / 156
+5	null	density_sq_mi: ..... / 98
+6	null	density_sq_mi: ..... / 25
+7	null	density_sq_mi: ..... / 34
+8	null	density_sq_mi: ..... / 363
+9	null	density_sq_mi: ..... / 84
+10	null	density_sq_mi: ..... / 7
+11	null	density_sq_mi: ..... / 4
+12	null	density_sq_mi: ..... / 69
+13	null	density_sq_mi: ..... / 54
+14	null	density_sq_mi: ..... / 6
+15	null	density_sq_mi: ..... / 4
+16	null	density_sq_mi: ..... / 36
+17	null	density_sq_mi: ..... / 30
+18	null	density_sq_mi: ..... / 406
+19	null	density_sq_mi: ..... / 118
+20	null	density_sq_mi: ..... / 24
+21	null	density_sq_mi: ..... / 8
+22	null	density_sq_mi: ..... / 2
+23	null	density_sq_mi: ..... / 10
+24	null	density_sq_mi: ..... / 14
+25	null	density_sq_mi: ..... / 20
+26	null	density_sq_mi: ..... / 33
+27	null	density_sq_mi: ..... / 405
+28	null	density_sq_mi: ..... / 2
+29	null	density_sq_mi: ..... / 8
+30	true	density_sq_mi: 5 / 5
+31	true	density_sq_mi: 23 / 23
+32	null	density_sq_mi: ..... / 35
+33	null	density_sq_mi: ..... / 24
+34	null	density_sq_mi: ..... / 30
+35	null	density_sq_mi: ..... / 118
+36	null	density_sq_mi: ..... / 671
+37	null	density_sq_mi: ..... / 134
+38	null	density_sq_mi: ..... / 20
+39	null	density_sq_mi: ..... / 7
+40	null	density_sq_mi: ..... / 4
+41	null	density_sq_mi: ..... / 8
+42	null	density_sq_mi: ..... / 487
+43	null	density_sq_mi: ..... / 19
+44	null	density_sq_mi: ..... / 22
+45	null	density_sq_mi: ..... / 17
+46	null	density_sq_mi: ..... / 4
+47	null	density_sq_mi: ..... / 8
+48	null	density_sq_mi: ..... / 5
+49	null	density_sq_mi: ..... / 2
+50	null	density_sq_mi: ..... / 42
+51	null	density_sq_mi: ..... / 4
+52	null	density_sq_mi: ..... / 15
+53	null	density_sq_mi: ..... / 139
+54	null	density_sq_mi: ..... / 21
+55	null	density_sq_mi: ..... / 4
+56	null	density_sq_mi: ..... / 580
+57	null	density_sq_mi: ..... / 7
+58	null	density_sq_mi: ..... / 11
+59	null	density_sq_mi: ..... / 44
+60	null	density_sq_mi: ..... / 43
+61	null	density_sq_mi: ..... / 9
+62	null	density_sq_mi: ..... / 32
+63	null	density_sq_mi: ..... / 7
+64	null	density_sq_mi: ..... / 58
+65	null	density_sq_mi: ..... / 370
+66	null	density_sq_mi: ..... / 14
+67	null	density_sq_mi: ..... / 40
+68	null	density_sq_mi: ..... / 37
+69	null	density_sq_mi: ..... / 5
+70	null	density_sq_mi: ..... / 25
+71	null	density_sq_mi: ..... / 5
+72	null	density_sq_mi: ..... / 7
+73	null	density_sq_mi: ..... / 41
+74	null	density_sq_mi: ..... / 144
+75	true	density_sq_mi: 100 / 100
+76	true	density_sq_mi: 34 / 34
+77	null	density_sq_mi: ..... / 40
+78	null	density_sq_mi: ..... / 8
+79	null	density_sq_mi: ..... / 2
+80	null	density_sq_mi: ..... / 260
+81	null	density_sq_mi: ..... / 101
+82	true	density_sq_mi: 12 / 12
+83	null	density_sq_mi: ..... / 225
+84	true	density_sq_mi: 5 / 5
+85	null	density_sq_mi: ..... / 22
+86	false	density_sq_mi: 3 / 8
+87	null	density_sq_mi: ..... / 36
+88	true	density_sq_mi: 31 / 31
+89	true	density_sq_mi: 2 / 2
+90	null	density_sq_mi: ..... / 10
+91	true	density_sq_mi: 89 / 89
+92	null	density_sq_mi: ..... / 9

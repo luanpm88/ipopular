@@ -1,0 +1,39 @@
+Found Not Null: 12
+Correct: 10
+Wrong: 2
+Total: 18
+-----------
+precision: 0.8333333333333334
+recall: 0.5555555555555556
+F: 0.6666666666666667
+
+
+
+
+1	null	birth_name: ..... / Jamie Lee Curtis
+2	false	birth_name: reginald mckern / Reginald "Leo" McKern,
+3	null	birth_name: ..... / Francis Alick "Frankie"
+4	true	birth_name: emilie charlotte le breton / Emilie Charlotte Le Breton,
+5	true	birth_name: karl frederik lukas moodysson / Karl Frederik Lukas Moodysson
+6	null	birth_name: ..... / Sir David Lean
+7	null	birth_name: ..... / Frederick Bean "Fred/Tex"
+8	null	birth_name: ..... / Christopher D'Olier Reeve
+9	true	birth_name: manoj nelliyattu shyamalan / Manoj Nelliyattu Shyamalan
+10	true	birth_name: maría cristina estela marcela jurado garcía / María Cristina Estela Marcela Jurado García
+11	true	birth_name: james neville mason / James Neville Mason
+12	true	birth_name: michael francis moore / Michael Francis Moore
+13	false	birth_name: ronald william george barker / Ronald William George "Ronnie" Barker,
+14	null	birth_name: ..... / Jackson DeForest Kelley
+15	null	birth_name: ..... / Roscoe Conkling "Fatty"
+16	true	birth_name: eldred gregory peck / Eldred Gregory Peck
+17	null	birth_name: ..... / James Montgomery "Jimmy"
+18	true	birth_name: mary frances reynolds / Mary Frances Reynolds
+19	null	birth_name: ..... / John Christopher "Johnny" Depp II
+20	true	birth_name: kevin david sorbo / Kevin David Sorbo
+21	true	birth_name: natalia nikolaevna zakharenko / Natalia Nikolaevna Zakharenko
+22	null	birth_name: michael andrew fox / ..........
+23	null	birth_name: esai manuel morales, jr. / ..........
+24	null	birth_name: ivo livi / ..........
+25	null	birth_name: ricardo gonzalo pedro montalbán y merino / ..........
+26	null	birth_name: kevin tod smith / ..........
+27	null	birth_name: grace ethel cecile rosalie allen / ..........

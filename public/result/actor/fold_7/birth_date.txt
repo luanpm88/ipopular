@@ -1,0 +1,17 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	birth_date: ..... / December 28, 1925
+2	null	birth_date: ..... / March 29, 1919
+3	null	birth_date: ..... / 5 December
+4	null	birth_date: ..... / January 18, 1904
+5	null	birth_date: ..... / 12 July 1880
+6	null	birth_date: ..... / January 3, 1909
+7	null	birth_date: ..... / February 25, 1928
+8	null	birth_date: ..... / January 3, 1929

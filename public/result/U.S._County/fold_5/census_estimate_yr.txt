@@ -1,0 +1,15 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	census estimate yr: ..... / 2000
+2	null	census estimate yr: 2009 / ..........
+3	null	census estimate yr: 2007 / ..........
+4	null	census estimate yr: 2006 / ..........

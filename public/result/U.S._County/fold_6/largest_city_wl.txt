@@ -1,0 +1,44 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	largest city wl: ..... / Columbia
+2	null	largest city wl: ..... / City
+3	null	largest city wl: ..... / Bellingham,
+4	null	largest city wl: ..... / Princeton.
+5	null	largest city wl: ..... / Ravenswood. Jackson
+6	null	largest city wl: ..... / Neillsville.
+7	null	largest city wl: ..... / New Cumberland.
+8	null	largest city wl: ..... / Eau Claire.
+9	null	largest city wl: ..... / Menomonie.
+10	null	largest city wl: ..... / Sturgeon
+11	null	largest city wl: ..... / Pineville. Wyoming
+12	null	largest city wl: ..... / Middlebourne.
+13	null	largest city wl: ..... / Hinton. Summers
+14	null	largest city wl: ..... / Summersville. Nicholas
+15	null	largest city wl: ..... / Morgantown.
+16	null	largest city wl: ..... / Moundsville.
+17	null	largest city wl: ..... / Moorefield. Hardy
+18	null	largest city wl: ..... / Mason-Dixon
+19	null	largest city wl: ..... / Point Pleasant.
+20	null	largest city wl: ..... / Franklin. Pendleton
+21	null	largest city wl: ..... / West
+22	null	largest city wl: ..... / Petersburg. Grant
+23	null	largest city wl: ..... / Glenville. Gilmer
+24	null	largest city wl: ..... / Fayetteville. Fayette
+25	null	largest city wl: ..... / Wellsburg. Brooke
+26	null	largest city wl: ..... / Stevenson,
+27	null	largest city wl: ..... / Port
+28	null	largest city wl: ..... / Davenport,
+29	null	largest city wl: ..... / Centralia.
+30	null	largest city wl: ..... / Ellensburg,
+31	null	largest city wl: ..... / Washington
+32	null	largest city wl: ..... / Wytheville.
+33	null	largest city wl: fond du lac / ..........

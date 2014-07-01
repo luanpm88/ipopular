@@ -1,0 +1,40 @@
+Found Not Null: 13
+Correct: 11
+Wrong: 2
+Total: 22
+-----------
+precision: 0.8461538461538461
+recall: 0.5
+F: 0.6285714285714286
+
+
+
+
+1	null	birth_name: ..... / Richard "Dick" Semler Barthelmess
+2	true	birth_name: sacha noam baron cohen / Sacha Noam Baron Cohen
+3	true	birth_name: spencer bonaventure tracy / Spencer Bonaventure Tracy
+4	true	birth_name: goldie jeanne hawn / Goldie Jeanne Hawn
+5	false	birth_name: majel leigh hudec / Majel Leigh Hudec; William Shatner
+6	null	birth_name: ..... / Laurette Marcia "Laura" Gemser
+7	true	birth_name: meshilem meier weisenfreund / Meshilem Meier Weisenfreund
+8	true	birth_name: melvin jerome blank / Melvin Jerome Blank
+9	true	birth_name: victor andrew de bier everleigh mclaglen / Victor Andrew de Bier Everleigh McLaglen
+10	true	birth_name: richard walter jenkins / Richard Walter Jenkins
+11	false	birth_name: roberto remigio benigni / Roberto Remigio Benigni, Knight Grand Cross OMRI
+12	null	birth_name: ..... / William Henry Hartnell
+13	null	birth_name: ..... / Margaret Mary Emily Anne Hyra
+14	null	birth_name: ..... / John Howard Carpenter
+15	true	birth_name: kate elizabeth winslet / Kate Elizabeth Winslet
+16	true	birth_name: leonardo wilhelm dicaprio / Leonardo Wilhelm DiCaprio
+17	true	birth_name: leonard simon nimoy / Leonard Simon Nimoy
+18	true	birth_name: jan tomáš forman / Jan Tomáš Forman
+19	null	birth_name: ..... / John Devon Roland
+20	null	birth_name: luchino visconti di modrone / ..........
+21	null	birth_name: laura augusta gainor / ..........
+22	null	birth_name: john charles carter / ..........
+23	null	birth_name: milton berlinger / ..........
+24	null	birth_name: joyce penelope wilhelmina frankenberg / ..........
+25	null	birth_name: leonard rossiter / ..........
+26	null	birth_name: maría de los Ángeles félix güereña / ..........
+27	null	birth_name: patrick george troughton / ..........
+28	null	birth_name: ubbe ert iwwerks / ..........

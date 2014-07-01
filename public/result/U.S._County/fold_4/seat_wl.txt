@@ -1,0 +1,34 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	seat wl: ..... / Mount Pleasant.
+2	null	seat wl: ..... / Glen Rose.
+3	null	seat wl: ..... / Liberty, Texas.
+4	null	seat wl: ..... / Kingsville
+5	null	seat wl: ..... / Kerrville. Kerr
+6	null	seat wl: ..... / Throckmorton
+7	null	seat wl: ..... / Sanderson.
+8	null	seat wl: ..... / Fort Worth.
+9	null	seat wl: ..... / Sterling City.
+10	null	seat wl: ..... / Breckenridge.
+11	null	seat wl: ..... / Rio Grande
+12	null	seat wl: ..... / San Augustine.
+13	null	seat wl: ..... / Kaufman
+14	null	seat wl: ..... / Confederate
+15	null	seat wl: ..... / Corsicana
+16	null	seat wl: ..... / Nacogdoches
+17	null	seat wl: ..... / Eagle
+18	null	seat wl: ..... / Bay City,
+19	null	seat wl: ..... / George West.
+20	null	seat wl: ..... / Groesbeck.
+21	null	seat wl: ..... / Junction City
+22	null	seat wl: ..... / Jayton,
+23	null	seat wl: ..... / Kingsville
+24	null	seat wl: ..... / Karnes City.
+25	null	seat wl: ..... / Alice

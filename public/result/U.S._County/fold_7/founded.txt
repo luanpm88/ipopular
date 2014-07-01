@@ -1,0 +1,35 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	founded: ..... / 1861
+2	null	founded: ..... / February 1, 1881,
+3	null	founded: ..... / 1983
+4	null	founded: ..... / March 15, 1899,
+5	null	founded: ..... / 1785
+6	null	founded: ..... / May 10, 1666,
+7	null	founded: ..... / March 12, 1800,
+8	null	founded: ..... / 1911
+9	null	founded: ..... / February 15, 1909,
+10	null	founded: ..... / 16, 1868
+11	null	founded: ..... / 1909
+12	true	founded: march 9, 1771 / March 9, 1771
+13	null	founded: ..... / October 9, 1751,
+14	null	founded: ..... / May 10, 1666,
+15	null	founded: ..... / 1785
+16	null	founded: ..... / April 12, 1893
+17	null	founded: ..... / August 3, 1840
+18	null	founded: ..... / July 3, 1959,
+19	null	founded: ..... / May 12, 1726,
+20	null	founded: ..... / May 10, 1666,
+21	null	founded: ..... / December 7, 1836
+22	null	founded: ..... / March 3, 1879,
+23	null	founded: ..... / 1885

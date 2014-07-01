@@ -1,0 +1,72 @@
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 3
+-----------
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+F: 0.6666666666666666
+
+
+
+
+1	null	density_km2: ..... / 390
+2	null	density_km2: ..... / 639
+3	null	density_km2: ..... / 143
+4	null	density_km2: ..... / 81
+5	null	density_km2: ..... / 68
+6	null	density_km2: ..... / 41
+7	null	density_km2: ..... / 275
+8	null	density_km2: ..... / 134
+9	null	density_km2: ..... / 84
+10	null	density_km2: ..... / 12
+11	null	density_km2: ..... / 18
+12	null	density_km2: ..... / 75
+13	null	density_km2: ..... / 21
+14	null	density_km2: ..... / 29
+15	null	density_km2: ..... / 86
+16	null	density_km2: ..... / 11
+17	null	density_km2: ..... / 9
+18	null	density_km2: ..... / 111
+19	null	density_km2: ..... / 20
+20	null	density_km2: ..... / 1,720
+21	null	density_km2: ..... / 159
+22	null	density_km2: ..... / 9
+23	null	density_km2: ..... / 1
+24	null	density_km2: ..... / 27
+25	null	density_km2: ..... / 9
+26	null	density_km2: ..... / 16
+27	null	density_km2: ..... / 10
+28	null	density_km2: ..... / 25
+29	null	density_km2: ..... / 20
+30	null	density_km2: ..... / 42
+31	null	density_km2: ..... / 29
+32	null	density_km2: ..... / 11
+33	null	density_km2: ..... / 8
+34	null	density_km2: ..... / 18
+35	null	density_km2: ..... / 41
+36	null	density_km2: ..... / 14
+37	null	density_km2: ..... / 11
+38	null	density_km2: ..... / 11
+39	null	density_km2: ..... / 46
+40	false	density_km2: 18 / 47
+41	null	density_km2: ..... / 7
+42	null	density_km2: ..... / 17
+43	null	density_km2: ..... / 64
+44	null	density_km2: ..... / 23
+45	null	density_km2: ..... / 38
+46	null	density_km2: ..... / 41
+47	null	density_km2: ..... / 14
+48	null	density_km2: ..... / 8
+49	null	density_km2: ..... / 46
+50	null	density_km2: ..... / 28
+51	null	density_km2: ..... / 372
+52	null	density_km2: ..... / 301
+53	true	density_km2: 13 / 13
+54	null	density_km2: ..... / 33
+55	null	density_km2: ..... / 8
+56	null	density_km2: ..... / 84
+57	null	density_km2: ..... / 14
+58	null	density_km2: ..... / 8
+59	true	density_km2: 9 / 9
+60	null	density_km2: ..... / 8

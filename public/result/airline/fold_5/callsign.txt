@@ -1,0 +1,51 @@
+Found Not Null: 13
+Correct: 7
+Wrong: 6
+Total: 18
+-----------
+precision: 0.5384615384615384
+recall: 0.3888888888888889
+F: 0.45161290322580644
+
+
+
+
+1	true	callsign: gandalf / Gandalf
+2	true	callsign: lan / LAN
+3	false	callsign: carnival air / Carnival
+4	null	callsign: ..... / Olympic
+5	null	callsign: ..... / Flash
+6	null	callsign: ..... / American
+7	null	callsign: ..... / Libya
+8	null	callsign: ..... / Japan
+9	null	callsign: ..... / United
+10	false	callsign: malev / Hungarian
+11	true	callsign: flash / Flash
+12	false	callsign: aero continente / Nuevo Continente
+13	null	callsign: ..... / UTA
+14	null	callsign: ..... / Pan
+15	true	callsign: vasp / VASP
+16	null	callsign: ..... / Nok
+17	false	callsign: silkair / Singapore
+18	null	callsign: ..... / Lufthansa
+19	true	callsign: uta / UTA
+20	null	callsign: ..... / Gulf
+21	null	callsign: ..... / TACA
+22	false	callsign: caledonian / British
+23	null	callsign: ..... / Iraqi
+24	null	callsign: ..... / Royal
+25	true	callsign: mandarin / Mandarin
+26	null	callsign: ..... / Spirit
+27	null	callsign: ..... / Qatar
+28	true	callsign: spanair / Spanair
+29	null	callsign: ..... / Avianca
+30	null	callsign: ..... / Bangkok
+31	false	callsign: orient thai / Thai
+32	null	callsign: ..... / Pacific Southwest
+33	null	callsign: ..... / Aloha
+34	null	callsign: ..... / Arrow
+35	null	callsign: delta / ..........
+36	null	callsign: jalways / ..........
+37	null	callsign: air algerie / ..........
+38	null	callsign: air berlin / ..........
+39	null	callsign: antillean / ..........

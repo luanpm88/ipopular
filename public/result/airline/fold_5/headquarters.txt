@@ -1,0 +1,27 @@
+Found Not Null: 7
+Correct: 4
+Wrong: 3
+Total: 8
+-----------
+precision: 0.5714285714285714
+recall: 0.5
+F: 0.5333333333333333
+
+
+
+
+1	true	headquarters: santiago, chile / Santiago, Chile.
+2	false	headquarters: new chitose airport / Chitose, Hokkaidō, Japan.
+3	null	headquarters: ..... / Santo Domingo, Dominican
+4	true	headquarters: dania, florida / Dania, Florida.
+5	true	headquarters: lima, peru / Lima, Peru.
+6	null	headquarters: ..... / São Paulo, Brazil.
+7	null	headquarters: ..... / Sathorn, Bangkok, Thailand,
+8	false	headquarters: singapore / Singapore.
+9	null	headquarters: ..... / Songshan District, Taipei, Taiwan.
+10	null	headquarters: ..... / Miramar, Florida,
+11	true	headquarters: chatuchak district, bangkok, thailand / Chatuchak District, Bangkok, Thailand.
+12	false	headquarters: don mueang, bangkok, thailand / Mueang, Bangkok, Thailand.
+13	null	headquarters: ..... / Cayucos, California, United
+14	null	headquarters: ..... / Naha, Okinawa Prefecture, Japan.
+15	null	headquarters: cairo, egypt / ..........

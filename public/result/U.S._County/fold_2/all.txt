@@ -1,0 +1,708 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 72
+Attributes with high occurrences: 72/72
+Attributes with high precision: 12/72
+------------
+Found: 918
+Found Not Null: 300
+Correct: 208
+Wrong: 92
+Total: 399
+-----------
+precision: 0.6933333333333334
+recall: 0.5213032581453634
+F: 0.5951359084406295
+
+
+
+1	false	density_sq_mi: 5 / 13
+2	true	county: moody county / Moody County
+3	true	state: south dakota / South Dakota
+4	null	seat wl: ..... / Flandreau.
+5	null	largest city wl: ..... / Flandreau.
+6	true	census yr: 2000 / 2000
+7	null	pop: ..... / 6,595
+8	null	density_km2: ..... / 5
+9	false	density_sq_mi: 2 / 5
+10	true	county: miner county / Miner County
+11	true	state: south dakota / South Dakota.
+12	null	density_km2: ..... / 2
+13	null	founded: ..... / September 18, 1794
+14	null	largest city: ..... / Tennessee.
+15	null	county: ..... / Sevier County
+16	null	state: ..... / Tennessee,
+17	null	seat wl: ..... / Sevierville,
+18	null	census yr: ..... / 2000
+19	true	founded: 1819 / 1819
+20	true	density_sq_mi: 18 / 18
+21	true	county: perry county / Perry County
+22	false	state: tennessee / Tennessee.
+23	null	pop: ..... / 7,631
+24	null	density_km2: ..... / 10
+25	false	density_sq_mi: 6 / 14
+26	true	county: turner county / Turner County
+27	true	state: south dakota / South Dakota.
+28	null	density_km2: ..... / 6
+29	true	density_sq_mi: 5 / 5
+30	true	county: spink county / Spink County
+31	true	state: south dakota / South Dakota.
+32	true	density_km2: 2 / 2
+33	true	county: shannon county / Shannon County
+34	false	state: south dakota / South
+35	true	census yr: 2000 / 2000
+36	true	density_sq_mi: 20 / 20
+37	true	county: van buren county / Van Buren County
+38	false	state: tennessee / Tennessee.
+39	null	pop: ..... / 5,508
+40	null	density_km2: ..... / 9
+41	false	density_sq_mi: 2 / 5
+42	true	county: sanborn county / Sanborn County
+43	true	state: south dakota / South Dakota.
+44	null	seat wl: ..... / Woonsocket.
+45	null	largest city wl: ..... / Woonsocket.
+46	null	density_km2: ..... / 2
+47	false	seat: waynesboro / Waynesboro. Wayne
+48	null	largest city: ..... / Waynesboro. Wayne
+49	true	density_sq_mi: 23 / 23
+50	true	county: wayne county / Wayne County
+51	false	state: tennessee / Tennessee.
+52	null	pop: ..... / 16,842
+53	true	density_km2: 9 / 9
+54	true	density_sq_mi: 113 / 113
+55	null	named for: ..... / Major Abram Poindexter Maury of Williamson County,
+56	true	county: maury county / Maury County
+57	false	state: tennessee / Tennessee.
+58	true	pop: 69,498 / 69,498
+59	true	county: hawkins county / Hawkins County
+60	false	state: tennessee / Tennessee.
+61	null	seat wl: ..... / Rogersville, Tennessee's
+62	null	largest city wl: ..... / Rogersville, Tennessee's
+63	false	seat: henderson / Henderson.
+64	true	density_sq_mi: 54 / 54
+65	true	county: chester county / Chester County
+66	false	state: tennessee / Tennessee.
+67	null	seat wl: ..... / Henderson.
+68	null	pop: ..... / 15,540
+69	null	seat: ..... / Maryville,
+70	null	county: ..... / Blount County
+71	null	seat wl: ..... / Knoxville,
+72	true	seat: shelbyville / Shelbyville.
+73	true	density_sq_mi: 79 / 79
+74	true	county: bedford county / Bedford County
+75	false	state: tennessee / Tennessee.
+76	null	seat wl: ..... / Shelbyville.
+77	null	largest city wl: ..... / Shelbyville.
+78	null	density_km2: ..... / 32
+79	null	largest city: ..... / South Fulton.
+80	true	county: obion county / Obion County
+81	null	founded: ..... / June 11, 1792
+82	null	county: ..... / Knox County
+83	true	county: hardin county / Hardin County
+84	false	state: tennessee / Tennessee.
+85	null	seat: ..... / Salem.
+86	false	density_sq_mi: 4 / 10
+87	true	county: mccook county / McCook County
+88	true	state: south dakota / South Dakota.
+89	null	pop: ..... / 5,832
+90	null	density_km2: ..... / 4
+91	null	seat: ..... / Britton.
+92	null	largest city: ..... / Britton.
+93	false	density_sq_mi: 3 / 6
+94	true	county: marshall county / Marshall County
+95	true	state: south dakota / South Dakota.
+96	null	density_km2: ..... / 3
+97	false	seat: franklin / Franklin,
+98	true	county: williamson county / Williamson County
+99	false	state: tennessee / Tennessee.
+100	null	largest city wl: ..... / Nashville-Davidson–Murfreesboro–Franklin
+101	null	pop: ..... / 126,638
+102	null	named for: ..... / War General James White,
+103	true	county: white county / White County
+104	false	state: tennessee / Tennessee.
+105	true	density_sq_mi: 60 / 60
+106	true	county: weakley county / Weakley County
+107	false	state: tennessee / Tennessee.
+108	null	pop: ..... / 34,895
+109	null	density_km2: ..... / 26
+110	null	density_sq_mi: ..... / 328
+111	null	county: ..... / Washington County
+112	null	state: ..... / Tennessee.
+113	null	density_km2: ..... / 146
+114	true	density_sq_mi: 88 / 88
+115	true	county: warren county / Warren County
+116	false	state: tennessee / Tennessee.
+117	null	seat wl: ..... / McMinnville.
+118	null	largest city wl: ..... / McMinnville.
+119	null	density_km2: ..... / 39
+120	null	founded: ..... / 1850
+121	true	density_sq_mi: 80 / 80
+122	true	county: union county / Union County
+123	null	seat wl: ..... / Knoxville,
+124	null	density_km2: ..... / 35
+125	null	density_sq_mi: ..... / 95
+126	null	county: ..... / Unicoi County
+127	null	state: ..... / Tennessee.
+128	null	density_km2: ..... / 44
+129	null	largest city: ..... / Hartsville,
+130	null	density_sq_mi: ..... / 64
+131	null	county: ..... / Trousdale County
+132	null	state: ..... / Tennessee.
+133	null	seat wl: ..... / Hartsville,
+134	null	largest city wl: ..... / Hartsville,
+135	null	pop: ..... / 7,259
+136	null	density_km2: ..... / 27
+137	false	seat: covington / Covington.
+138	true	county: tipton county / Tipton County
+139	false	state: tennessee / Tennessee.
+140	null	seat wl: ..... / Covington. Tipton
+141	null	density_sq_mi: ..... / 246
+142	null	county: ..... / Sumner County
+143	null	state: ..... / Tennessee.
+144	null	seat wl: ..... / Gallatin,
+145	null	census yr: ..... / 2000
+146	null	density_km2: ..... / 98
+147	null	seat: ..... / Blountville.
+148	null	density_sq_mi: ..... / 371
+149	null	county: ..... / Sullivan County
+150	null	state: ..... / Tennessee.
+151	null	seat wl: ..... / Blountville. Sullivan
+152	null	density_km2: ..... / 167
+153	true	density_sq_mi: 27 / 27
+154	true	county: stewart county / Stewart County
+155	false	state: tennessee / Tennessee.
+156	null	pop: ..... / 12,370
+157	null	density_km2: ..... / 13
+158	null	density_sq_mi: ..... / 56
+159	null	county: ..... / Smith County
+160	null	state: ..... / Tennessee.
+161	null	seat wl: ..... / Carthage. Smith
+162	null	density_km2: ..... / 24
+163	null	founded: ..... / August 5, 2010
+164	null	county: ..... / Shelby County
+165	null	state: ..... / Tennessee
+166	null	seat wl: ..... / Memphis. Shelby
+167	true	density_sq_mi: 43 / 43
+168	true	county: sequatchie county / Sequatchie County
+169	false	state: tennessee / Tennessee.
+170	null	seat wl: ..... / Dunlap. Sequatchie
+171	null	largest city wl: ..... / Sequatchie
+172	null	density_km2: ..... / 18
+173	true	seat: huntsville / Huntsville.
+174	null	largest city: ..... / Huntsville.
+175	true	density_sq_mi: 40 / 40
+176	null	named for: ..... / General Winfield Scott.
+177	true	county: scott county / Scott County
+178	false	state: tennessee / Tennessee.
+179	null	density_km2: ..... / 17
+180	null	density_sq_mi: ..... / 294
+181	true	county: rutherford county / Rutherford County
+182	false	state: tennessee / Tennessee.
+183	true	seat wl: murfreesboro / Murfreesboro,
+184	true	largest city wl: murfreesboro / Murfreesboro,
+185	null	census yr: ..... / 2000
+186	null	density_km2: ..... / 114
+187	true	density_sq_mi: 114 / 114
+188	true	county: robertson county / Robertson County
+189	false	state: tennessee / Tennessee.
+190	true	density_km2: 44 / 44
+191	true	density_sq_mi: 144 / 144
+192	true	county: roane county / Roane County
+193	true	census yr: 2000 / 2000
+194	null	pop: ..... / 51,910
+195	null	density_km2: ..... / 65
+196	true	density_sq_mi: 90 / 90
+197	true	county: rhea county / Rhea County
+198	false	state: tennessee / Tennessee.
+199	null	pop: ..... / 28,400
+200	null	density_km2: ..... / 40
+201	null	seat: ..... / Benton.
+202	null	largest city: ..... / Benton.
+203	true	county: polk county / Polk County
+204	null	density_sq_mi: ..... / 30
+205	null	county: ..... / Pickett County
+206	null	state: ..... / Tennessee.
+207	null	census yr: ..... / 2000
+208	null	density_km2: ..... / 18
+209	true	seat: livingston / Livingston.
+210	true	density_sq_mi: 46 / 46
+211	true	county: overton county / Overton County
+212	false	state: tennessee / Tennessee.
+213	null	seat wl: ..... / Livingston. Overton
+214	true	founded: 1817 / 1817
+215	true	density_sq_mi: 38 / 38
+216	true	county: morgan county / Morgan County
+217	false	state: tennessee / Tennessee.
+218	null	pop: ..... / 19,757
+219	true	density_km2: 15 / 15
+220	true	density_sq_mi: 44 / 44
+221	true	county: moore county / Moore County
+222	false	state: tennessee / Tennessee.
+223	null	seat wl: ..... / Lynchburg. Moore
+224	null	largest city wl: ..... / Tullahoma,
+225	true	density_sq_mi: 61 / 61
+226	true	county: monroe county / Monroe County
+227	false	state: tennessee / Tennessee.
+228	null	seat wl: ..... / Madisonville.
+229	null	largest city wl: ..... / Madisonville.
+230	null	pop: ..... / 38,961
+231	null	density_km2: ..... / 27
+232	true	county: meigs county / Meigs County
+233	false	state: tennessee / Tennessee.
+234	true	density_sq_mi: 44 / 44
+235	true	county: mcnairy county / McNairy County
+236	false	state: tennessee / Tennessee.
+237	null	density_km2: ..... / 20
+238	true	county: mcminn county / McMinn County
+239	true	census yr: 2000 / 2000
+240	null	density_km2: ..... / 50
+241	true	county: marshall county / Marshall County
+242	true	county: marion county / Marion County
+243	false	state: tennessee / Tennessee.
+244	true	density_sq_mi: 165 / 165
+245	true	county: madison county / Madison County
+246	false	state: tennessee / Tennessee.
+247	null	pop: ..... / 91,837
+248	null	density_km2: ..... / 69
+249	null	seat: ..... / Lafayette.
+250	null	density_sq_mi: ..... / 66
+251	null	county: ..... / Macon County
+252	null	state: ..... / Tennessee.
+253	null	seat wl: ..... / Lafayette. Macon
+254	null	density_km2: ..... / 29
+255	null	founded: ..... / May 27, 1870
+256	null	density_sq_mi: ..... / 171
+257	null	county: ..... / Loudon County
+258	null	census yr: ..... / 2000
+259	null	pop: ..... / 39,086
+260	null	density_km2: ..... / 76
+261	false	seat: hohenwald / Hohenwald.
+262	null	largest city: ..... / Hohenwald. Lewis
+263	null	density_sq_mi: ..... / 40
+264	true	county: lewis county / Lewis County
+265	false	state: tennessee / Tennessee.
+266	null	pop: ..... / 11,367
+267	null	density_km2: ..... / 17
+268	null	founded: ..... / October 21, 1817,
+269	true	county: lawrence county / Lawrence County
+270	false	state: tennessee / Tennessee.
+271	null	seat wl: ..... / Lawrenceburg.
+272	null	seat: ..... / Lauderdale
+273	null	largest city: ..... / Lauderdale
+274	true	county: lauderdale county / Lauderdale County
+275	false	state: tennessee / Tennessee.
+276	true	density_sq_mi: 49 / 49
+277	true	county: lake county / Lake County
+278	false	state: tennessee / Tennessee.
+279	null	seat wl: ..... / Tiptonville.
+280	null	largest city wl: ..... / Tiptonville.
+281	null	pop: ..... / 7,954
+282	null	density_km2: ..... / 17
+283	true	density_sq_mi: 59 / 59
+284	true	county: johnson county / Johnson County
+285	false	state: tennessee / Tennessee.
+286	null	seat wl: ..... / Mountain City.
+287	null	largest city wl: ..... / Mountain City.
+288	null	pop: ..... / 17,499
+289	null	density_km2: ..... / 26
+290	false	seat: dandridge / Dandridge.
+291	true	density_sq_mi: 162 / 162
+292	true	county: jefferson county / Jefferson County
+293	null	pop: ..... / 44,294
+294	null	density_km2: ..... / 71
+295	false	seat: gainesboro / Cookeville,
+296	true	density_sq_mi: 36 / 36
+297	true	county: jackson county / Jackson County
+298	false	state: tennessee / Tennessee.
+299	null	seat wl: ..... / Gainesboro. Jackson
+300	null	largest city wl: ..... / Gainesboro. Jackson
+301	null	pop: ..... / 10,984
+302	null	density_km2: ..... / 17
+303	true	county: humphreys county / Humphreys County
+304	false	state: tennessee / Tennessee.
+305	null	pop: ..... / 17,929
+306	true	county: houston county / Houston County
+307	false	state: tennessee / Tennessee.
+308	null	pop: ..... / 8,088
+309	true	density_sq_mi: 36 / 36
+310	true	county: hickman county / Hickman County
+311	false	state: tennessee / Tennessee.
+312	null	seat wl: ..... / Centerville. Hickman
+313	true	density_km2: 14 / 14
+314	true	density_sq_mi: 55 / 55
+315	true	county: henry county / Henry County
+316	false	state: tennessee / Tennessee.
+317	null	seat wl: ..... / Paris.
+318	null	largest city wl: ..... / Paris.
+319	null	pop: ..... / 31,115
+320	null	density_km2: ..... / 28
+321	true	density_sq_mi: 49 / 49
+322	true	county: henderson county / Henderson County
+323	false	state: tennessee / Tennessee.
+324	null	seat wl: ..... / Lexington.
+325	null	largest city wl: ..... / Lexington.
+326	null	pop: ..... / 25,522
+327	true	seat: brownsville / Brownsville.
+328	true	density_sq_mi: 37 / 37
+329	true	county: haywood county / Haywood County
+330	null	seat wl: ..... / Brownsville.
+331	null	largest city wl: ..... / Brownsville.
+332	null	density_km2: ..... / 15
+333	true	density_sq_mi: 42 / 42
+334	true	county: hardeman county / Hardeman County
+335	false	state: tennessee / Tennessee.
+336	null	seat wl: ..... / Bolivar.
+337	null	pop: ..... / 28,105
+338	true	density_km2: 16 / 16
+339	true	seat: sneedville / Sneedville.
+340	true	density_sq_mi: 30 / 30
+341	true	county: hancock county / Hancock County
+342	false	state: tennessee / Tennessee.
+343	null	seat wl: ..... / Sneedville.
+344	null	largest city wl: ..... / Sneedville.
+345	null	pop: ..... / 6,786
+346	null	founded: ..... / December 28, 1928
+347	null	named for: ..... / Alexander Hamilton,
+348	null	county: ..... / Hamilton County
+349	null	seat wl: ..... / Chattanooga. Hamilton
+350	true	founded: 1870 / 1870
+351	true	seat: morristown / Morristown.
+352	true	density_sq_mi: 361 / 361
+353	true	county: hamblen county / Hamblen County
+354	null	seat wl: ..... / Morristown. Hamblen
+355	null	largest city wl: ..... / Morristown. Hamblen
+356	null	density_km2: ..... / 153
+357	true	density_sq_mi: 40 / 40
+358	true	county: grundy county / Grundy County
+359	null	seat wl: ..... / Altamont.
+360	null	largest city wl: ..... / Altamont.
+361	null	pop: ..... / 14,332
+362	null	density_km2: ..... / 17
+363	true	density_sq_mi: 101 / 101
+364	true	county: greene county / Greene County
+365	null	seat wl: ..... / Greeneville,
+366	true	census yr: 2000 / 2000
+367	null	pop: ..... / 62,909
+368	null	density_km2: ..... / 45
+369	null	founded: ..... / January 4, 1916
+370	true	county: grainger county / Grainger County
+371	true	state: tennessee / Tennessee
+372	true	density_sq_mi: 48 / 48
+373	true	county: giles county / Giles County
+374	false	state: tennessee / Tennessee.
+375	true	county: gibson county / Gibson County
+376	false	state: tennessee / Tennessee,
+377	false	seat: winchester / Tullahoma,
+378	true	county: franklin county / Franklin County
+379	false	state: tennessee / Tennessee.
+380	null	seat wl: ..... / Winchester. Franklin
+381	null	largest city wl: ..... / Winchester. Franklin
+382	true	founded: 1823 / 1823
+383	true	county: fentress county / Fentress County
+384	false	state: tennessee / Tennessee.
+385	null	seat wl: ..... / Jamestown.
+386	null	largest city wl: ..... / Jamestown.
+387	true	density_sq_mi: 41 / 41
+388	null	named for: ..... / Marquis de la Fayette,
+389	true	county: fayette county / Fayette County
+390	false	state: tennessee / Tennessee.
+391	null	seat wl: ..... / Somerville. Fayette
+392	true	census yr: 2000 / 2000
+393	true	density_km2: 16 / 16
+394	true	county: dyer county / Dyer County
+395	false	state: tennessee / Tennessee.
+396	null	seat wl: ..... / Dyersburg.
+397	null	largest city wl: ..... / Dyersburg.
+398	false	seat: charlotte / Charlotte.
+399	false	largest city: dickson / Charlotte.
+400	true	density_sq_mi: 88 / 88
+401	true	county: dickson county / Dickson County
+402	false	state: tennessee / Tennessee.
+403	null	pop: ..... / 43,156
+404	null	density_km2: ..... / 36
+405	true	density_sq_mi: 57 / 57
+406	true	county: dekalb county / DeKalb County
+407	false	state: tennessee / Tennessee.
+408	null	pop: ..... / 17,423
+409	null	density_km2: ..... / 28
+410	true	seat: decaturville / Decaturville.
+411	null	largest city: ..... / Decaturville.
+412	true	density_sq_mi: 35 / 35
+413	true	county: decatur county / Decatur County
+414	false	state: tennessee / Tennessee.
+415	null	seat wl: ..... / Decaturville.
+416	null	pop: ..... / 11,731
+417	null	density_sq_mi: ..... / 1,135
+418	null	county: ..... / Davidson County
+419	null	state: ..... / Tennessee.
+420	null	pop: ..... / 569,891
+421	null	density_km2: ..... / 504
+422	true	seat: crossville / Crossville.
+423	true	density_sq_mi: 69 / 69
+424	true	county: cumberland county / Cumberland County
+425	false	state: tennessee / Tennessee.
+426	null	seat wl: ..... / Crossville.
+427	null	largest city wl: ..... / Crossville.
+428	true	founded: 1871 / 1871
+429	true	density_sq_mi: 55 / 55
+430	true	county: crockett county / Crockett County
+431	false	state: tennessee / Tennessee.
+432	true	seat: manchester / Manchester.
+433	false	largest city: tullahoma / Manchester.
+434	true	density_sq_mi: 112 / 112
+435	true	county: coffee county / Coffee County
+436	false	state: tennessee / Tennessee.
+437	null	seat wl: ..... / Manchester. Coffee
+438	null	largest city wl: ..... / Manchester. Coffee
+439	null	density_km2: ..... / 48
+440	null	largest city: ..... / Newport, Tennessee,
+441	false	density_sq_mi: 36 / 77
+442	true	county: cocke county / Cocke County
+443	false	state: tennessee / Tennessee.
+444	null	pop: ..... / 33,565
+445	null	density_km2: ..... / 36
+446	true	founded: october 29, 1801 / October 29, 1801,
+447	null	seat: ..... / Anderson
+448	true	density_sq_mi: 69 / 69
+449	true	county: claiborne county / Claiborne County
+450	false	state: tennessee / Tennessee.
+451	null	density_km2: ..... / 30
+452	false	largest city: ashland city / Ashland
+453	true	density_sq_mi: 119 / 119
+454	true	county: cheatham county / Cheatham County
+455	false	state: tennessee / Tennessee.
+456	null	seat wl: ..... / Ashland City.
+457	null	largest city wl: ..... / Ashland
+458	true	census yr: 2000 / 2000
+459	null	density_km2: ..... / 45
+460	null	density_sq_mi: ..... / 166
+461	null	county: ..... / Carter County
+462	null	state: ..... / Tennessee.
+463	null	largest city wl: ..... / Carter
+464	null	density_km2: ..... / 76
+465	null	largest city: ..... / Huntingdon.
+466	true	density_sq_mi: 49 / 49
+467	true	county: carroll county / Carroll County
+468	false	state: tennessee / Tennessee.
+469	null	seat wl: ..... / Huntingdon.
+470	null	pop: ..... / 29,475
+471	true	density_sq_mi: 48 / 48
+472	true	county: cannon county / Cannon County
+473	false	state: tennessee / Tennessee.
+474	null	seat wl: ..... / Woodbury. Cannon
+475	null	pop: ..... / 12,826
+476	null	founded: ..... / 1806
+477	false	seat: jacksboro / Jacksboro.
+478	null	largest city: ..... / Jacksboro.
+479	null	named for: ..... / Colonel Arthur Campbell
+480	true	county: campbell county / Campbell County
+481	false	state: tennessee / Tennessee.
+482	null	seat wl: ..... / Jacksboro.
+483	null	largest city wl: ..... / Jacksboro.
+484	false	density_sq_mi: 112 / 268
+485	true	county: bradley county / Bradley County
+486	false	state: tennessee / Tennessee.
+487	null	seat wl: ..... / Cleveland.
+488	null	pop: ..... / 87,965
+489	null	density_km2: ..... / 112
+490	true	density_sq_mi: 30 / 30
+491	true	county: bledsoe county / Bledsoe County
+492	false	state: tennessee / Tennessee.
+493	null	seat wl: ..... / Pikeville.
+494	null	largest city wl: ..... / Pikeville.
+495	null	density_km2: ..... / 13
+496	null	founded: ..... / 1835
+497	true	density_sq_mi: 42 / 42
+498	true	county: benton county / Benton County
+499	false	state: tennessee / Tennessee.
+500	null	seat: ..... / Knoxville,
+501	null	largest city: ..... / Knoxville,
+502	true	county: anderson county / Anderson County
+503	true	county: ziebach county / Ziebach County
+504	true	state: south dakota / South Dakota.
+505	null	pop: ..... / 2,519
+506	null	density_sq_mi: ..... / 42
+507	null	county: ..... / Yankton County
+508	null	state: ..... / South Dakota.
+509	null	seat wl: ..... / Yankton
+510	null	density_km2: ..... / 17
+511	true	density_sq_mi: 8 / 8
+512	true	county: walworth county / Walworth County
+513	true	state: south dakota / South Dakota.
+514	null	pop: ..... / 5,974
+515	null	density_km2: ..... / 4
+516	false	density_sq_mi: 12 / 27
+517	true	county: union county / Union County
+518	null	seat wl: ..... / Elk Point.
+519	true	census yr: 2000 / 2000
+520	null	pop: ..... / 12,584
+521	null	density_km2: ..... / 12
+522	false	density_sq_mi: 2 / 4
+523	true	county: tripp county / Tripp County
+524	true	state: south dakota / South Dakota.
+525	null	pop: ..... / 6,430
+526	null	density_km2: ..... / 2
+527	false	density_sq_mi: 2 / 6
+528	true	named for: john blair smith todd / John Blair Smith Todd
+529	true	county: todd county / Todd County
+530	true	state: south dakota / South Dakota.
+531	null	pop: ..... / 9,050
+532	null	density_km2: ..... / 2
+533	null	seat: ..... / Onida.
+534	null	largest city: ..... / Onida.
+535	true	density_sq_mi: 2 / 2
+536	true	county: sully county / Sully County
+537	true	state: south dakota / South Dakota.
+538	true	density_km2: 1 / 1
+539	null	seat: ..... / Fort
+540	true	density_sq_mi: 2 / 2
+541	true	county: stanley county / Stanley County
+542	true	state: south dakota / South Dakota.
+543	null	seat wl: ..... / Fort Pierre.
+544	null	largest city wl: ..... / Fort Pierre.
+545	null	pop: ..... / 2,772
+546	true	density_km2: 1 / 1
+547	null	seat: ..... / Sisseton.
+548	false	density_sq_mi: 4 / 9
+549	null	named for: ..... / Solomon Robar, an
+550	true	county: roberts county / Roberts County
+551	true	state: south dakota / South Dakota.
+552	null	pop: ..... / 10,016
+553	null	density_km2: ..... / 4
+554	false	density_sq_mi: 2 / 3
+555	true	county: potter county / Potter County
+556	true	state: south dakota / South Dakota.
+557	null	pop: ..... / 2,693
+558	null	density_km2: ..... / 2
+559	true	county: perkins county / Perkins County
+560	true	state: south dakota / South Dakota.
+561	null	density_sq_mi: ..... / 32
+562	true	county: pennington county / Pennington County
+563	null	seat wl: ..... / Rapid
+564	null	largest city wl: ..... / Rapid
+565	null	pop: ..... / 88,565
+566	null	density_km2: ..... / 13
+567	true	density_sq_mi: 183 / 183
+568	true	county: minnehaha county / Minnehaha County
+569	false	state: south dakota / South
+570	null	census yr: ..... / 1870
+571	null	density_km2: ..... / 74
+572	null	seat: ..... / White River.
+573	false	density_sq_mi: 1 / 2
+574	true	county: mellette county / Mellette County
+575	true	state: south dakota / South Dakota.
+576	null	seat wl: ..... / White River.
+577	null	largest city wl: ..... / White River.
+578	null	pop: ..... / 2,083
+579	null	density_km2: ..... / 1
+580	true	density_sq_mi: 7 / 7
+581	false	named for: general george meade / George Meade.
+582	true	county: meade county / Meade County
+583	true	state: south dakota / South Dakota.
+584	true	density_km2: 3 / 3
+585	null	seat: ..... / Leola.
+586	null	largest city: ..... / Leola.
+587	false	density_sq_mi: 1 / 3
+588	true	county: mcpherson county / McPherson County
+589	true	state: south dakota / South Dakota.
+590	null	density_km2: ..... / 1
+591	null	census estimate yr: 2008 / ..........
+592	null	founded: september 11, 1806 / ..........
+593	null	seat: mcminnville / ..........
+594	null	largest city: mcminnville / ..........
+595	null	state: tennessee / ..........
+596	null	largest city: covington / ..........
+597	null	founded: 1849 / ..........
+598	null	seat: springfield / ..........
+599	null	largest city: springfield / ..........
+600	null	state: tennessee / ..........
+601	null	state: tennessee / ..........
+602	null	founded: 1839 / ..........
+603	null	seat: linden / ..........
+604	null	largest city: linden / ..........
+605	null	largest city: livingston / ..........
+606	null	density_km2: 18 / ..........
+607	null	state: tennessee / ..........
+608	null	seat: lynchburg / ..........
+609	null	largest city: lynchburg / ..........
+610	null	area_water_sq_mi: 18 / ..........
+611	null	seat: decatur / ..........
+612	null	largest city: decatur / ..........
+613	null	state: tennessee / ..........
+614	null	density_sq_mi: 114 / ..........
+615	null	founded: 1807 / ..........
+616	null	state: tennessee / ..........
+617	null	largest city: lewisburg / ..........
+618	null	seat: lawrenceburg / ..........
+619	null	largest city: lawrenceburg / ..........
+620	null	seat: tiptonville / ..........
+621	null	largest city: tiptonville / ..........
+622	null	seat: mountain city / ..........
+623	null	state: tennessee / ..........
+624	null	largest city: gainesboro / ..........
+625	null	seat: centerville / ..........
+626	null	largest city: centerville / ..........
+627	null	largest city: lexington / ..........
+628	null	state: tennessee / ..........
+629	null	largest city: brownsville / ..........
+630	null	government_type: county commission / ..........
+631	null	leader_title: county mayor / ..........
+632	null	founded: 1819 / ..........
+633	null	time zone: central / ..........
+634	null	largest city: sneedville / ..........
+635	null	state: tennessee / ..........
+636	null	state: tennessee / ..........
+637	null	largest city: greeneville / ..........
+638	null	seat: rutledge / ..........
+639	null	founded: 1823 / ..........
+640	null	census yr: 2000 / ..........
+641	null	founded: 1807 / ..........
+642	null	largest city: tullahoma / ..........
+643	null	time zone: central / ..........
+644	null	seat: jamestown / ..........
+645	null	largest city: jamestown / ..........
+646	null	largest city: dyersburg / ..........
+647	null	founded: november 1845 / ..........
+648	null	largest city: crossville / ..........
+649	null	area_water_sq_mi: 3 / ..........
+650	null	founded: 1879 / ..........
+651	null	largest city: henderson / ..........
+652	null	time zone: central / ..........
+653	null	seat: huntingdon / ..........
+654	null	seat: woodbury / ..........
+655	null	largest city: woodbury / ..........
+656	null	seat: cleveland / ..........
+657	null	largest city: cleveland / ..........
+658	null	founded: 1807 / ..........
+659	null	seat: pikeville / ..........
+660	null	largest city: pikeville / ..........
+661	null	largest city: shelbyville / ..........
+662	null	state: tennessee / ..........
+663	null	named for: walworth county, wisconsin / ..........
+664	null	state: south dakota / ..........
+665	null	named for: alfred sully / ..........
+666	null	time zone: central / ..........
+667	null	state: south dakota / ..........
+668	null	census estimate yr: 2009 / ..........
+669	null	area_water_sq_mi: 2 / ..........
+670	null	time zone: central / ..........
+671	null	time zone: central / ..........
+672	null	named for: edwin stanton mccook / ..........
+673	null	named for: marshall vincent / ..........
+674	null	time zone: eastern / ..........
+675	null	seat: lexington / ..........
+676	null	footnotes: hot springs in neighboring fall river county serves as its administrative center / ..........
+677	null	seat: maynardville / ..........
+678	null	founded: 1823 / ..........
+679	null	seat: madisonville / ..........
+680	null	seat: lewisburg / ..........
+681	null	state: tennessee / ..........
+682	null	largest city: morristown / ..........
+683	null	seat: greeneville / ..........
+684	null	seat: somerville / ..........
+685	null	seat: dyersburg / ..........
+686	null	density_km2: 21 / ..........
+687	null	seat: ashland city / ..........
+688	null	time zone: eastern / ..........
+689	null	footnotes: winner in neighboring tripp county serves as it administrative center. / ..........

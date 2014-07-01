@@ -1,0 +1,30 @@
+Found Not Null: 5
+Correct: 5
+Wrong: 0
+Total: 11
+-----------
+precision: 1.0
+recall: 0.45454545454545453
+F: 0.625
+
+
+
+
+1	null	occupation: ..... / comedian, actor,
+2	true	occupation: actress / actress
+3	true	occupation: actor / actor
+4	null	occupation: ..... / actor
+5	true	occupation: actor / actor
+6	null	occupation: ..... / actor
+7	null	occupation: ..... / actor
+8	true	occupation: actor / actor
+9	null	occupation: ..... / actor
+10	true	occupation: actress / actress
+11	null	occupation: ..... / actress
+12	null	occupation: ..... / actor
+13	null	occupation: actor / ..........
+14	null	occupation: actor / ..........
+15	null	occupation: actor / ..........
+16	null	occupation: actress / ..........
+17	null	occupation: actor / ..........
+18	null	occupation: theatre director / ..........

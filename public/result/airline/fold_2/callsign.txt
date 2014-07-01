@@ -1,0 +1,47 @@
+Found Not Null: 7
+Correct: 5
+Wrong: 2
+Total: 14
+-----------
+precision: 0.7142857142857143
+recall: 0.35714285714285715
+F: 0.4761904761904762
+
+
+
+
+1	true	callsign: air zimbabwe / Air Zimbabwe
+2	null	callsign: ..... / Impulse
+3	null	callsign: ..... / Thomsonfly
+4	null	callsign: ..... / Pan
+5	null	callsign: ..... / Siberia
+6	true	callsign: vueling / Vueling
+7	null	callsign: ..... / Transavia
+8	null	callsign: ..... / Shenzhen
+9	null	callsign: ..... / Kosova
+10	null	callsign: ..... / Bulgaria Air
+11	null	callsign: ..... / Scandinavian
+12	null	callsign: ..... / Tiger
+13	null	callsign: ..... / Singapore
+14	true	callsign: privatair / PrivatAir
+15	false	callsign: liat / Leeward
+16	null	callsign: ..... / Castle
+17	null	callsign: ..... / Caledonian
+18	null	callsign: ..... / Aloha
+19	null	callsign: ..... / Tyrolean
+20	null	callsign: ..... / Bearskin
+21	null	callsign: ..... / Corporate
+22	null	callsign: ..... / Japan
+23	true	callsign: britannia / Britannia
+24	null	callsign: ..... / CityFlyer
+25	false	callsign: teal / Tasman Empire
+26	true	callsign: air polonia / Air Polonia
+27	null	callsign: ..... / Portugalia
+28	null	callsign: ..... / Air
+29	null	callsign: kiwi / ..........
+30	null	callsign: air madagascar / ..........
+31	null	callsign: burkina / ..........
+32	null	callsign: botswana / ..........
+33	null	callsign: mavial / ..........
+34	null	callsign: dolomiti / ..........
+35	null	callsign: kingfisher / ..........

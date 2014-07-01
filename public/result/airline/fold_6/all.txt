@@ -1,0 +1,297 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 15/39
+------------
+Found: 241
+Found Not Null: 81
+Correct: 63
+Wrong: 18
+Total: 135
+-----------
+precision: 0.7777777777777778
+recall: 0.4666666666666667
+F: 0.5833333333333334
+
+
+
+1	null	callsign: ..... / CanJet
+2	null	founded: ..... / 1999
+3	null	parent: ..... / IMP Group International
+4	null	airline: ..... / CanJet Airlines
+5	null	commenced: ..... / September 5, 2000.
+6	null	icao: ..... / CanJet
+7	null	callsign: ..... / Air
+8	null	founded: ..... / 2000
+9	true	hubs: pointe-à-pitre international airport / Pointe-à-Pitre International Airport,
+10	true	airline: air caraïbes / Air Caraïbes
+11	null	icao: ..... / Air
+12	true	callsign: avensa / Avensa
+13	false	founded: may 13, 1943 / 1943
+14	true	hubs: simon bolivar international airport / Simon Bolivar International Airport
+15	false	airline: aerovías venezolanas sociedad anónima / Avensa
+16	null	icao: ..... / Avensa
+17	true	callsign: vietnam / Vietnam
+18	null	founded: ..... / 1954
+19	null	destinations: ..... / 46
+20	null	operator: ..... / Vietnam Airlines
+21	null	airline: ..... / Vietnam
+22	null	callsign: ..... / Cayman
+23	null	founded: ..... / 1977
+24	null	airline: ..... / Cayman Airways
+25	null	callsign: ..... / Ethiopian
+26	true	date: 23 november 1996 / 23 November 1996,
+27	null	r accidentname: ..... / Ethiopian Airlines Flight
+28	true	operator: ethiopian airlines / Ethiopian Airlines
+29	null	airline: ..... / Ethiopian Airlines
+30	true	aircraft type: boeing 767-260er / Boeing 767-260ER,
+31	true	headquarters: ulyanovsk, russia / Ulyanovsk, Russia.
+32	true	founded: 1990 / 1990
+33	true	hubs: ulyanovsk vostochny airport / Ulyanovsk Vostochny Airport
+34	false	airline: volga-dnepr / Volga-Dnepr Airlines
+35	true	callsign: eva / EVA
+36	null	operator: ..... / EVA Airways
+37	null	airline: ..... / EVA Airways
+38	null	callsign: ..... / Iran
+39	true	passengers: 274 / 274
+40	true	date: 3 july 1988 / 3 July 1988,
+41	null	r accidentname: ..... / Iran Air Flight 655
+42	true	operator: iran air / Iran Air
+43	null	airline: ..... / Iran Air
+44	null	callsign: ..... / American
+45	true	date: june 1, 1999 / June 1, 1999,
+46	true	r accidentname: american airlines flight 1420 / American Airlines Flight 1420
+47	true	operator: american airlines / American Airlines
+48	null	airline: ..... / American Airlines
+49	true	aircraft type: mcdonnell douglas md-82 / McDonnell Douglas MD-82
+50	null	callsign: ..... / Delta
+51	true	date: august 31, 1988 / August 31, 1988,
+52	null	r accidentname: ..... / Delta Air Lines Flight 1141
+53	true	operator: delta air lines / Delta Air Lines
+54	null	airline: ..... / Delta Air Lines
+55	null	icao: ..... / Delta
+56	true	callsign: air srpska / Air Srpska
+57	true	founded: 1999 / 1999
+58	true	airline: air srpska / Air Srpska
+59	null	callsign: ..... / Indian
+60	null	founded: ..... / After touching down
+61	null	date: ..... / December 24, 1999,
+62	null	r accidentname: ..... / Indian Airlines Flight 814
+63	true	operator: indian airlines / Indian Airlines
+64	null	airline: ..... / Indian Airlines
+65	null	icao: ..... / Indian
+66	null	callsign: ..... / PSA
+67	null	founded: ..... / 1979 as Vee Neal Airlines
+68	null	date: ..... / November 1, 1995,
+69	null	parent: ..... / US Airways Group. PSA
+70	null	airline: ..... / PSA Airlines
+71	null	icao: ..... / JIA
+72	null	headquarters: ..... / Boryspil, Kiev Oblast, Ukraine.
+73	true	hubs: boryspil international airport / Boryspil International Airport
+74	null	destinations: ..... / 20
+75	null	crew: ..... / 8
+76	null	passengers: ..... / 62
+77	null	r accidentname: ..... / CJSC "Aircompany "Aerosvit"
+78	null	airline: ..... / Aerosvit-Ukrainian Airlines
+79	false	founded: march 1974 / 1974
+80	null	hubs: ..... / Tokyo International Airport.
+81	false	parent: all nippon airways / Nippon Airways
+82	null	airline: ..... / Air Nippon
+83	true	commenced: 10 october 1974 / 10 October 1974.
+84	false	icao: ank / ANA
+85	null	callsign: ..... / Tunisair
+86	true	hubs: tunis-carthage international airport / Tunis-Carthage International Airport.
+87	null	date: ..... / 21 October 1998,
+88	false	airline: tunisair / Société Tunisienne de
+89	null	icao: ..... / Tunisair
+90	null	founded: ..... / 13 February 1995,
+91	null	operator: ..... / Air
+92	false	airline: airphil express / Air Philippines
+93	null	commenced: ..... / 1 February 1996
+94	null	callsign: ..... / Avianca
+95	null	date: ..... / March 17, 1988,
+96	null	r accidentname: ..... / Avianca Flight 410
+97	null	operator: ..... / Avianca
+98	null	airline: ..... / Avianca
+99	null	callsign: ..... / Prinair
+100	null	headquarters: ..... / Ponce, Puerto Rico.
+101	null	date: ..... / 24 June 1972,
+102	null	r accidentname: ..... / Prinair Flight 191
+103	null	operator: ..... / Prinair
+104	null	airline: ..... / Prinair
+105	null	callsign: ..... / China
+106	null	r accidentname: ..... / JAT Yugoslav Airlines Flight 367
+107	null	operator: ..... / JAT Yugoslav Airlines
+108	null	airline: ..... / JAT Yugoslav Airlines
+109	false	callsign: psa / Pacific Southwest
+110	true	headquarters: san diego, california / San Diego, California,
+111	null	operator: ..... / Pacific Southwest
+112	true	airline: pacific southwest airlines / Pacific Southwest Airlines
+113	false	icao: psa / Opinion
+114	null	callsign: ..... / Philippine
+115	true	date: december 11, 1994 / December 11, 1994
+116	true	r accidentname: philippine airlines flight 434 / Philippine Airlines Flight 434
+117	true	operator: philippine airlines / Philippine Airlines
+118	null	airline: ..... / Philippine Airlines
+119	true	callsign: lapa / LAPA
+120	null	destinations: ..... / 25
+121	true	airline: líneas aéreas privadas argentinas / Líneas Aéreas Privadas Argentinas
+122	null	icao: ..... / LAPA
+123	null	callsign: ..... / Sudan
+124	true	founded: 1947 / 1947
+125	null	operator: ..... / Sudan
+126	true	airline: sudan airways / Sudan Airways
+127	null	icao: ..... / Sudan
+128	null	headquarters: ..... / Sunan-guyŏk, Pyongyang.
+129	null	founded: ..... / 1950
+130	true	hubs: sunan international airport / Sunan International Airport
+131	null	operator: ..... / Air Koryo
+132	true	airline: air koryo / Air Koryo
+133	null	commenced: ..... / 21 September 1955,
+134	null	icao: ..... / Air
+135	true	callsign: ethiopian / Ethiopian
+136	true	hubs: bole international airport / Bole International Airport
+137	null	date: ..... / 29 September 2010
+138	true	airline: ethiopian airlines / Ethiopian Airlines
+139	null	commenced: ..... / April 8, 1946,
+140	null	callsign: ..... / Antonov
+141	null	founded: ..... / 1989
+142	true	hubs: gostomel airport / Hostomel Airport
+143	null	r accidentname: ..... / Antonov Airlines
+144	null	operator: ..... / Antonov Airlines
+145	true	airline: antonov airlines / Antonov Airlines
+146	false	callsign: namibia / Air Namibia
+147	false	founded: 1946 (as south west air transport) / 1946
+148	null	hubs: ..... / Windhoek Hosea Kutako International Airport
+149	true	airline: air namibia / Air Namibia
+150	true	callsign: jetblue / JetBlue
+151	true	destinations: 63 / 63
+152	null	operator: ..... / JetBlue Airways
+153	true	airline: jetblue airways / JetBlue Airways
+154	null	commenced: ..... / February 11, 2000,
+155	null	icao: ..... / JetBlue
+156	true	headquarters: tehran, iran / Tehran, Iran.
+157	false	founded: 1992 / 1991
+158	null	hubs: ..... / Imam Khomeini International Airport,
+159	true	destinations: 28 / 28
+160	null	operator: ..... / Officially Mahan
+161	false	airline: mahan air / Officially Mahan Airlines
+162	false	callsign: kuwaiti / Kuwait
+163	true	hubs: kuwait international airport / Kuwait International Airport
+164	null	operator: ..... / Kuwait
+165	true	airline: kuwait airways / Kuwait Airways
+166	null	icao: ..... / Kuwait
+167	false	callsign: gulf air / Gulf
+168	true	hubs: bahrain international airport / Bahrain International Airport.
+169	null	destinations: ..... / 45
+170	null	r accidentname: ..... / Gulf Air (
+171	null	operator: ..... / Gulf Air
+172	true	airline: gulf air / Gulf Air
+173	null	icao: ..... / Gulf
+174	null	hubs: ..... / Damascus International Airport.
+175	null	destinations: ..... / 40
+176	null	callsign: ..... / Thomas Cook
+177	null	headquarters: ..... / Manchester, England.
+178	null	founded: ..... / 2008
+179	null	airline: ..... / Thomas Cook Airlines
+180	null	airline: ..... / Air California
+181	null	icao: ..... / Logo
+182	null	callsign: ..... / Delta
+183	null	hubs: ..... / Dallas-Fort Worth International Airport.
+184	null	r accidentname: ..... / Delta Air Lines Flight
+185	null	operator: ..... / Delta Air Lines
+186	null	airline: ..... / Delta Air Lines
+187	null	icao: ..... / Delta
+188	true	callsign: china southern / China Southern
+189	null	headquarters: ..... / Baiyun District, Guangzhou, Guangdong Province,
+190	null	operator: ..... / China Southern
+191	null	airline: ..... / China Southern Airlines
+192	null	callsign: ..... / Cebu
+193	null	founded: ..... / August 26, 1988,
+194	null	hubs: ..... / Ninoy Aquino International Airport
+195	null	airline: ..... / Cebu Pacific Air
+196	null	callsign: ..... / Atlantic Coast
+197	null	founded: ..... / 1989
+198	true	airline: atlantic coast airlines / Atlantic Coast Airlines
+199	false	callsign: braniff / Braniff International
+200	true	founded: 1928 / 1928
+201	true	airline: braniff international airways / Braniff International Airways
+202	null	commenced: ..... / May 12, 1982,
+203	null	icao: ..... / Braniff
+204	null	founded: ..... / 15:40;
+205	null	destinations: ..... / 14:50
+206	null	crew: ..... / 14:50
+207	null	passengers: ..... / 76
+208	null	r accidentname: ..... / China Airlines Flight 611
+209	true	operator: china airlines / China Airlines
+210	null	airline: ..... / China Airlines
+211	null	callsign: ..... / China
+212	null	founded: ..... / M.
+213	true	crew: 15 / 15
+214	true	date: 22 august 1999 / 22 August 1999,
+215	null	parent: ..... / on 22
+216	true	r accidentname: china airlines flight 642 / China Airlines Flight 642
+217	true	operator: china airlines / China Airlines
+218	null	airline: ..... / China Airlines
+219	false	aircraft type: mcdonnell douglas md-11 / McDonnell Douglas
+220	null	callsign: ..... / Finncomm
+221	null	hubs: ..... / Seinäjoki Airport
+222	null	date: ..... / July 17, 2010,
+223	null	airline: ..... / Finncomm Airlines
+224	null	icao: ..... / AirBaltic
+225	null	founded: 1949 / ..........
+226	null	destinations: 13 / ..........
+227	null	parent: groupe dubreuil / ..........
+228	null	secondary_hubs: le lamentin airport / ..........
+229	null	callsign: aerosvit / ..........
+230	null	founded: 25 march 1994 / ..........
+231	null	iata: el / ..........
+232	null	alliance: star alliance / ..........
+233	null	alliance: arab air carriers organization / ..........
+234	null	aircraft type: boeing 747-283b / ..........
+235	null	destination: narita international airport / ..........
+236	null	icao: iac / ..........
+237	null	parent: nacil / ..........
+238	null	founded: 1953 / ..........
+239	null	headquarters: mumbai / ..........
+240	null	alliance: skyteam / ..........
+241	null	callsign: mahan / ..........
+242	null	callsign: syrianair / ..........
+243	null	callsign: aircal / ..........
+244	null	founded: 1967 / ..........
+245	null	headquarters: newport beach, california / ..........
+246	null	site: dallas-fort worth international airport / ..........
+247	null	fatalities: 14 / ..........
+248	null	aircraft type: boeing 727 / ..........
+249	null	origin: dallas-fort worth international airport / ..........
+250	null	destination: salt lake city international airport / ..........
+251	null	passengers: 101 / ..........
+252	null	parent: atlantic coast holdings, inc. / ..........
+253	null	site: kenyan airspace / ..........
+254	null	injuries: 50 / ..........
+255	null	survivors: 50 / ..........
+256	null	parent: braniff airways, inc. / ..........
+257	null	icao: eva / ..........
+258	null	callsign: air koryo / ..........
+259	null	site: persian gulf / ..........
+260	null	origin: chiang kai-shek international airport / ..........
+261	null	destination: hong kong international airport / ..........
+262	null	occurrence_type: accident / ..........
+263	null	site: hong kong international airport / ..........
+264	null	fatalities: 3 / ..........
+265	null	origin: don mueang international airport / ..........
+266	null	passengers: 300 / ..........
+267	null	survivors: 312 / ..........
+268	null	occurrence_type: hijacking / ..........
+269	null	origin: tribhuvan international airport / ..........
+270	null	destination: indira gandhi international airport / ..........
+271	null	passengers: 178 / ..........
+272	null	origin: dallas-fort worth international airport / ..........
+273	null	destination: little rock national airport / ..........
+274	null	bases: tokyo international airport / ..........
+275	null	origin: ninoy aquino international airport / ..........
+276	null	parent: jetblue airways corporation / ..........
+277	null	alliance: arab air carriers organization / ..........
+278	null	aircraft type: airbus a300b2-203 / ..........

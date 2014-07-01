@@ -1,0 +1,30 @@
+Found Not Null: 8
+Correct: 8
+Wrong: 0
+Total: 8
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	operator: ..... / Carnival Air
+2	true	operator: flash airlines / Flash Airlines
+3	true	operator: american airlines / American Airlines
+4	true	operator: egyptair / EgyptAir
+5	true	operator: japan airlines / Japan Airlines
+6	null	operator: ..... / United Airlines
+7	null	operator: ..... / Flash Airlines
+8	null	operator: ..... / UTA
+9	null	operator: ..... / Nok Air
+10	null	operator: ..... / ALM Antillean
+11	null	operator: ..... / Luxair
+12	null	operator: ..... / Gulf Air
+13	true	operator: iraqi airways / Iraqi Airways
+14	null	operator: ..... / Royal Air
+15	true	operator: avianca airlines / Avianca Airlines
+16	null	operator: ..... / Pacific Southwest Airlines
+17	true	operator: aloha airlines / Aloha Airlines
+18	true	operator: arrow air / Arrow Air

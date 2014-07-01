@@ -1,0 +1,39 @@
+Found Not Null: 2
+Correct: 0
+Wrong: 2
+Total: 9
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	seat: ..... / Palestine. Anderson
+2	null	seat: ..... / Lebanon
+3	null	seat: ..... / Levelland,
+4	null	seat: ..... / Hillsboro.
+5	null	seat: ..... / Galveston.
+6	null	seat: ..... / Fairfield.
+7	null	seat: ..... / Crowell,
+8	null	seat: ..... / Waxahachie.
+9	null	seat: ..... / Clarendon.
+10	null	seat: ..... / Gatesville. Coryell
+11	null	seat: ..... / Gainesville.
+12	null	seat: ..... / Brownsville.
+13	false	seat: port lavaca / Port
+14	false	seat: big spring / Big
+15	null	seat: ..... / Brownwood.
+16	null	seat: ..... / Falfurrias.
+17	null	seat: ..... / Silverton.
+18	null	seat: ..... / Bryan
+19	null	seat: ..... / Bellville.
+20	null	seat: ..... / Jourdanton.
+21	null	seat: sierra blanca / ..........
+22	null	seat: marshall / ..........
+23	null	seat: el paso / ..........
+24	null	seat: denton / ..........
+25	null	seat: crosbyton / ..........
+26	null	seat: san marcos / ..........
+27	null	seat: alpine / ..........

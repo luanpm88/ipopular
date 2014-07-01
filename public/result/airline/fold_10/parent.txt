@@ -1,0 +1,27 @@
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 10
+-----------
+precision: 0.6666666666666666
+recall: 0.2
+F: 0.30769230769230765
+
+
+
+
+1	false	parent: amr corporation / American's parent, AMR Corporation
+2	null	parent: ..... / Lufthansa Group
+3	null	parent: ..... / New Zealand
+4	null	parent: ..... / Silver City Airways
+5	null	parent: ..... / British Airways
+6	null	parent: ..... / US Airways Group
+7	true	parent: republic airways holdings / Republic Airways Holdings
+8	true	parent: china aviation development foundation / China Aviation Development Foundation
+9	null	parent: air france-klm / ..........
+10	null	parent: british airways / ..........
+11	null	parent: avianca-taca ltd. / ..........
+12	null	parent: virgin group / ..........
+13	null	parent: international airlines group / ..........
+14	null	parent: united continental holdings, inc. / ..........
+15	null	parent: the emirates group / ..........

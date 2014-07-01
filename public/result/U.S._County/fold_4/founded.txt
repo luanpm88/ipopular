@@ -1,0 +1,20 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	founded: ..... / 3, 2009,
+2	true	founded: 1876 / 1876
+3	null	founded: ..... / December 14, 1837,
+4	null	founded: ..... / 1846
+5	null	founded: ..... / 1876
+6	null	founded: ..... / September 26, 2009,
+7	null	founded: ..... / 1876
+8	null	founded: ..... / 1921

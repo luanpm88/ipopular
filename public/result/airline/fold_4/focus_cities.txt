@@ -1,0 +1,14 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	focus_cities: ekaterinburg koltsovo airport / ..........
+2	null	focus_cities: thessaloniki international airport, "macedonia" / ..........
+3	null	focus_cities: dar es salaam / ..........

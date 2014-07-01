@@ -1,0 +1,8 @@
+79
+76
+<!-- optional, enter degrees west; used with "latitude" to display coord template -->
+117
+118
+79
+<!-- optional, enter degrees west; used with "latitude" to display coord template -->
+<!-- optional, enter degrees west; used with "latitude" to display coord template -->

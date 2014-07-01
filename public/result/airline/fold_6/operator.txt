@@ -1,0 +1,36 @@
+Found Not Null: 8
+Correct: 8
+Wrong: 0
+Total: 8
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	operator: ..... / Vietnam Airlines
+2	true	operator: ethiopian airlines / Ethiopian Airlines
+3	null	operator: ..... / EVA Airways
+4	true	operator: iran air / Iran Air
+5	true	operator: american airlines / American Airlines
+6	true	operator: delta air lines / Delta Air Lines
+7	true	operator: indian airlines / Indian Airlines
+8	null	operator: ..... / Air
+9	null	operator: ..... / Avianca
+10	null	operator: ..... / Prinair
+11	null	operator: ..... / JAT Yugoslav Airlines
+12	null	operator: ..... / Pacific Southwest
+13	true	operator: philippine airlines / Philippine Airlines
+14	null	operator: ..... / Sudan
+15	null	operator: ..... / Air Koryo
+16	null	operator: ..... / Antonov Airlines
+17	null	operator: ..... / JetBlue Airways
+18	null	operator: ..... / Officially Mahan
+19	null	operator: ..... / Kuwait
+20	null	operator: ..... / Gulf Air
+21	null	operator: ..... / Delta Air Lines
+22	null	operator: ..... / China Southern
+23	true	operator: china airlines / China Airlines
+24	true	operator: china airlines / China Airlines

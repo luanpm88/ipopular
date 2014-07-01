@@ -1,0 +1,22 @@
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+Total: 5
+-----------
+precision: 1.0
+recall: 0.6
+F: 0.7499999999999999
+
+
+
+
+1	true	headquarters: ulyanovsk, russia / Ulyanovsk, Russia.
+2	null	headquarters: ..... / Boryspil, Kiev Oblast, Ukraine.
+3	null	headquarters: ..... / Ponce, Puerto Rico.
+4	true	headquarters: san diego, california / San Diego, California,
+5	null	headquarters: ..... / Sunan-guyŏk, Pyongyang.
+6	true	headquarters: tehran, iran / Tehran, Iran.
+7	null	headquarters: ..... / Manchester, England.
+8	null	headquarters: ..... / Baiyun District, Guangzhou, Guangdong Province,
+9	null	headquarters: mumbai / ..........
+10	null	headquarters: newport beach, california / ..........

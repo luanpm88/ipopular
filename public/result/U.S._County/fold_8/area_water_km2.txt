@@ -1,0 +1,44 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	area_water_km2: ..... / 68
+2	null	area_water_km2: ..... / 41
+3	null	area_water_km2: ..... / 12
+4	null	area_water_km2: ..... / 18
+5	null	area_water_km2: ..... / 75
+6	null	area_water_km2: ..... / 21
+7	null	area_water_km2: ..... / 29
+8	null	area_water_km2: ..... / 86
+9	null	area_water_km2: ..... / 11
+10	null	area_water_km2: ..... / 9
+11	null	area_water_km2: ..... / 27
+12	null	area_water_km2: ..... / 16
+13	null	area_water_km2: ..... / 10
+14	null	area_water_km2: ..... / 25
+15	null	area_water_km2: ..... / 20
+16	null	area_water_km2: ..... / 42
+17	null	area_water_km2: ..... / 29
+18	null	area_water_km2: ..... / 11
+19	null	area_water_km2: ..... / 18
+20	null	area_water_km2: ..... / 41
+21	null	area_water_km2: ..... / 11
+22	null	area_water_km2: ..... / 11
+23	null	area_water_km2: ..... / 46
+24	null	area_water_km2: ..... / 47
+25	null	area_water_km2: ..... / 17
+26	null	area_water_km2: ..... / 64
+27	null	area_water_km2: ..... / 23
+28	null	area_water_km2: ..... / 38
+29	null	area_water_km2: ..... / 41
+30	null	area_water_km2: ..... / 46
+31	null	area_water_km2: ..... / 28
+32	null	area_water_km2: ..... / 13
+33	null	area_water_km2: ..... / 33
+34	null	area_water_km2: ..... / 84
+35	null	area_water_km2: ..... / 14

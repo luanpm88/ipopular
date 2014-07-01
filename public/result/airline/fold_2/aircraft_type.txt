@@ -1,0 +1,17 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 4
+-----------
+precision: 1.0
+recall: 0.25
+F: 0.4
+
+
+
+
+1	true	aircraft type: boeing 727-235 / Boeing 727-235,
+2	null	aircraft type: ..... / McDonnell Douglas MD-81,
+3	null	aircraft type: douglas dc-8 / ..........
+4	null	aircraft type: mcdonnell douglas dc-10-30 / ..........
+5	null	aircraft type: boeing 737-36n / ..........

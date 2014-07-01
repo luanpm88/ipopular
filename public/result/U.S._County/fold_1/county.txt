@@ -1,0 +1,175 @@
+Found Not Null: 50
+Correct: 50
+Wrong: 0
+Total: 50
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	true	county: jerauld county / Jerauld County
+2	true	county: brown county / Brown County
+3	null	county: ..... / Allendale County
+4	true	county: westmoreland county / Westmoreland County
+5	null	county: ..... / Pike County
+6	true	county: northumberland county / Northumberland County
+7	null	county: ..... / Lancaster County
+8	true	county: lake county / Lake County
+9	true	county: lyman county / Lyman County
+10	null	county: ..... / Marlboro County
+11	true	county: lincoln county / Lincoln County
+12	true	county: lawrence county / Lawrence County
+13	true	county: kingsbury county / Kingsbury County
+14	true	county: jones county / Jones County
+15	true	county: jackson county / Jackson County
+16	true	county: hyde county / Hyde County
+17	true	county: hutchinson county / Hutchinson County
+18	true	county: hughes county / Hughes County
+19	true	county: haakon county / Haakon County
+20	true	county: harding county / Harding County
+21	true	county: hanson county / Hanson County
+22	true	county: hand county / Hand County
+23	true	county: hamlin county / Hamlin County
+24	true	county: gregory county / Gregory County
+25	true	county: grant county / Grant County
+26	true	county: faulk county / Faulk County
+27	true	county: fall river county / Fall River County
+28	true	county: edmunds county / Edmunds County
+29	null	county: ..... / Douglas County
+30	true	county: dewey county / Dewey County
+31	true	county: deuel county / Deuel County
+32	null	county: ..... / Cherokee County
+33	true	county: day county / Day County
+34	null	county: ..... / Davison County
+35	true	county: custer county / Custer County
+36	true	county: corson county / Corson County
+37	true	county: codington county / Codington County
+38	true	county: clark county / Clark County
+39	true	county: charles mix county / Charles Mix County
+40	true	county: campbell county / Campbell County
+41	true	county: butte county / Butte County
+42	true	county: buffalo county / Buffalo County
+43	true	county: brule county / Brule County
+44	true	county: brookings county / Brookings County
+45	true	county: bon homme county / Bon Homme County
+46	true	county: bennett county / Bennett County
+47	true	county: beadle county / Beadle County
+48	true	county: aurora county / Aurora County
+49	null	county: ..... / York County
+50	null	county: ..... / Williamsburg County
+51	null	county: ..... / Union County
+52	null	county: ..... / Sumter County
+53	null	county: ..... / Spartanburg County
+54	null	county: ..... / Saluda County
+55	null	county: ..... / Richland County
+56	null	county: ..... / Pickens County
+57	null	county: ..... / Orangeburg County
+58	null	county: ..... / Oconee County
+59	null	county: ..... / Newberry County
+60	null	county: ..... / Laurens County
+61	null	county: ..... / McCormick County
+62	null	county: ..... / Marion County
+63	true	county: lexington county / Lexington County
+64	null	county: ..... / Lee County
+65	null	county: ..... / Kershaw County
+66	null	county: ..... / Jasper County
+67	null	county: ..... / Horry County
+68	null	county: ..... / Hampton County
+69	null	county: ..... / Greenwood County
+70	null	county: ..... / Greenville County
+71	null	county: ..... / Georgetown County
+72	null	county: ..... / Fairfield County
+73	null	county: ..... / Edgefield County
+74	null	county: ..... / Dorchester County
+75	null	county: ..... / Dillon County
+76	null	county: ..... / Darlington County
+77	null	county: ..... / Providence County
+78	null	county: ..... / Colleton County
+79	null	county: ..... / Clarendon County, New South Wales. Clarendon County
+80	true	county: chesterfield county / Chesterfield County
+81	null	county: ..... / Chester County
+82	null	county: ..... / Charleston County
+83	null	county: ..... / Calhoun County
+84	null	county: ..... / Berkeley County
+85	null	county: ..... / Beaufort County
+86	true	county: wayne county / Wayne County
+87	null	county: ..... / Barnwell County
+88	null	county: ..... / Bamberg County
+89	true	county: anderson county / Anderson County
+90	null	county: ..... / Aiken County
+91	null	county: ..... / Abbeville County
+92	null	county: ..... / Newport County
+93	null	county: ..... / Kent County
+94	null	county: ..... / Bristol County
+95	null	county: ..... / York County
+96	null	county: ..... / Wyoming County
+97	null	county: ..... / Washington County
+98	true	county: warren county / Warren County
+99	true	county: venango county / Venango County
+100	null	county: ..... / Union County
+101	null	county: ..... / Northampton County
+102	null	county: ..... / Tioga County
+103	null	county: ..... / Susquehanna County
+104	true	county: sullivan county / Sullivan County
+105	null	county: ..... / Somerset County
+106	null	county: ..... / Snyder County
+107	null	county: ..... / Schuylkill County
+108	true	county: potter county / Potter County
+109	null	county: ..... / Philadelphia County
+110	null	county: ..... / Perry County
+111	null	county: ..... / Montour County
+112	null	county: ..... / Monroe County
+113	true	county: mifflin county / Mifflin County
+114	null	county: lyman county / ..........
+115	null	county: lincoln county / ..........
+116	null	county: lawrence county / ..........
+117	null	county: lake county / ..........
+118	null	county: kingsbury county / ..........
+119	null	county: jones county / ..........
+120	null	county: jerauld county / ..........
+121	null	county: jackson county / ..........
+122	null	county: hyde county / ..........
+123	null	county: hutchinson county / ..........
+124	null	county: hughes county / ..........
+125	null	county: harding county / ..........
+126	null	county: hanson county / ..........
+127	null	county: hand county / ..........
+128	null	county: hamlin county / ..........
+129	null	county: haakon county / ..........
+130	null	county: gregory county / ..........
+131	null	county: grant county / ..........
+132	null	county: faulk county / ..........
+133	null	county: fall river county / ..........
+134	null	county: deuel county / ..........
+135	null	county: day county / ..........
+136	null	county: custer county / ..........
+137	null	county: corson county / ..........
+138	null	county: codington county / ..........
+139	null	county: clark county / ..........
+140	null	county: butte county / ..........
+141	null	county: buffalo county / ..........
+142	null	county: brown county / ..........
+143	null	county: brookings county / ..........
+144	null	county: bon homme county / ..........
+145	null	county: bennett county / ..........
+146	null	county: beadle county / ..........
+147	null	county: aurora county / ..........
+148	null	county: lexington county / ..........
+149	null	county: chesterfield county / ..........
+150	null	county: anderson county / ..........
+151	null	county: westmoreland county / ..........
+152	null	county: wayne county / ..........
+153	null	county: warren county / ..........
+154	null	county: venango county / ..........
+155	null	county: sullivan county / ..........
+156	null	county: potter county / ..........
+157	null	county: northumberland county / ..........
+158	null	county: mifflin county / ..........
+159	null	county: edmunds county / ..........
+160	null	county: dewey county / ..........
+161	null	county: charles mix county / ..........
+162	null	county: campbell county / ..........
+163	null	county: brule county / ..........

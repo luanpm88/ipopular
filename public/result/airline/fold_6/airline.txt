@@ -1,0 +1,55 @@
+Found Not Null: 19
+Correct: 14
+Wrong: 5
+Total: 19
+-----------
+precision: 0.7368421052631579
+recall: 0.7368421052631579
+F: 0.7368421052631579
+
+
+
+
+1	null	airline: ..... / CanJet Airlines
+2	true	airline: air caraïbes / Air Caraïbes
+3	false	airline: aerovías venezolanas sociedad anónima / Avensa
+4	null	airline: ..... / Vietnam
+5	null	airline: ..... / Cayman Airways
+6	null	airline: ..... / Ethiopian Airlines
+7	false	airline: volga-dnepr / Volga-Dnepr Airlines
+8	null	airline: ..... / EVA Airways
+9	null	airline: ..... / Iran Air
+10	null	airline: ..... / American Airlines
+11	null	airline: ..... / Delta Air Lines
+12	true	airline: air srpska / Air Srpska
+13	null	airline: ..... / Indian Airlines
+14	null	airline: ..... / PSA Airlines
+15	null	airline: ..... / Aerosvit-Ukrainian Airlines
+16	null	airline: ..... / Air Nippon
+17	false	airline: tunisair / Société Tunisienne de
+18	false	airline: airphil express / Air Philippines
+19	null	airline: ..... / Avianca
+20	null	airline: ..... / Prinair
+21	null	airline: ..... / JAT Yugoslav Airlines
+22	true	airline: pacific southwest airlines / Pacific Southwest Airlines
+23	null	airline: ..... / Philippine Airlines
+24	true	airline: líneas aéreas privadas argentinas / Líneas Aéreas Privadas Argentinas
+25	true	airline: sudan airways / Sudan Airways
+26	true	airline: air koryo / Air Koryo
+27	true	airline: ethiopian airlines / Ethiopian Airlines
+28	true	airline: antonov airlines / Antonov Airlines
+29	true	airline: air namibia / Air Namibia
+30	true	airline: jetblue airways / JetBlue Airways
+31	false	airline: mahan air / Officially Mahan Airlines
+32	true	airline: kuwait airways / Kuwait Airways
+33	true	airline: gulf air / Gulf Air
+34	null	airline: ..... / Thomas Cook Airlines
+35	null	airline: ..... / Air California
+36	null	airline: ..... / Delta Air Lines
+37	null	airline: ..... / China Southern Airlines
+38	null	airline: ..... / Cebu Pacific Air
+39	true	airline: atlantic coast airlines / Atlantic Coast Airlines
+40	true	airline: braniff international airways / Braniff International Airways
+41	null	airline: ..... / China Airlines
+42	null	airline: ..... / China Airlines
+43	null	airline: ..... / Finncomm Airlines

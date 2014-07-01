@@ -1,0 +1,61 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	pop: ..... / 6,595
+2	null	pop: ..... / 7,631
+3	null	pop: ..... / 5,508
+4	null	pop: ..... / 16,842
+5	true	pop: 69,498 / 69,498
+6	null	pop: ..... / 15,540
+7	null	pop: ..... / 5,832
+8	null	pop: ..... / 126,638
+9	null	pop: ..... / 34,895
+10	null	pop: ..... / 7,259
+11	null	pop: ..... / 12,370
+12	null	pop: ..... / 51,910
+13	null	pop: ..... / 28,400
+14	null	pop: ..... / 19,757
+15	null	pop: ..... / 38,961
+16	null	pop: ..... / 91,837
+17	null	pop: ..... / 39,086
+18	null	pop: ..... / 11,367
+19	null	pop: ..... / 7,954
+20	null	pop: ..... / 17,499
+21	null	pop: ..... / 44,294
+22	null	pop: ..... / 10,984
+23	null	pop: ..... / 17,929
+24	null	pop: ..... / 8,088
+25	null	pop: ..... / 31,115
+26	null	pop: ..... / 25,522
+27	null	pop: ..... / 28,105
+28	null	pop: ..... / 6,786
+29	null	pop: ..... / 14,332
+30	null	pop: ..... / 62,909
+31	null	pop: ..... / 43,156
+32	null	pop: ..... / 17,423
+33	null	pop: ..... / 11,731
+34	null	pop: ..... / 569,891
+35	null	pop: ..... / 33,565
+36	null	pop: ..... / 29,475
+37	null	pop: ..... / 12,826
+38	null	pop: ..... / 87,965
+39	null	pop: ..... / 2,519
+40	null	pop: ..... / 5,974
+41	null	pop: ..... / 12,584
+42	null	pop: ..... / 6,430
+43	null	pop: ..... / 9,050
+44	null	pop: ..... / 2,772
+45	null	pop: ..... / 10,016
+46	null	pop: ..... / 2,693
+47	null	pop: ..... / 88,565
+48	null	pop: ..... / 2,083
+49	null	pop: 69,498 / ..........

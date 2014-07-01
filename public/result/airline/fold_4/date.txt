@@ -1,0 +1,20 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 2
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	date: ..... / August 30, 1971
+2	null	date: ..... / 31 December 2009,
+3	true	date: december 5, 1945 / December 5, 1945,
+4	null	date: ..... / August 27, 1932,
+5	null	date: ..... / August 30, 2010,
+6	null	date: ..... / September 30, 2007
+7	null	date: ..... / November 9, 2007,
+8	true	date: june 14, 1985 / June 14, 1985,

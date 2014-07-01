@@ -1,0 +1,626 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 72
+Attributes with high occurrences: 72/72
+Attributes with high precision: 11/72
+------------
+Found: 784
+Found Not Null: 107
+Correct: 92
+Wrong: 15
+Total: 184
+-----------
+precision: 0.8598130841121495
+recall: 0.5
+F: 0.6323024054982818
+
+
+
+1	null	founded: ..... / 2, 1685,
+2	null	density_km2: ..... / 390
+3	null	density_sq_mi: ..... / 962
+4	null	county: ..... / Bristol County
+5	null	founded: ..... / March 26, 1793
+6	null	density_km2: ..... / 639
+7	null	density_sq_mi: ..... / 1,628
+8	null	seat: ..... / Dedham.
+9	null	founded year: ..... / 1793
+10	null	county: ..... / Norfolk County
+11	null	state: ..... / Massachusetts.
+12	null	founded date: ..... / March 26,
+13	null	census yr: ..... / 2006
+14	null	county: ..... / Lawrence County
+15	null	census estimate yr: ..... / 2005
+16	null	seat wl: ..... / Chipley,
+17	null	seat: ..... / Chipley, Florida. Washington
+18	null	county: ..... / Washington County
+19	null	state: ..... / Florida
+20	null	founded: ..... / 1, 1683,
+21	null	density_km2: ..... / 143
+22	null	density_sq_mi: ..... / 144
+23	null	county: ..... / The County of Dukes County
+24	null	state: ..... / Massachusetts.
+25	null	founded date: ..... / November 1,
+26	null	founded: ..... / 6, 1818
+27	null	density_km2: ..... / 81
+28	null	density_sq_mi: ..... / 191
+29	true	founded year: 1818 / 1818
+30	true	county: morgan county / Morgan County
+31	null	founded: ..... / February 9, 1903,
+32	null	density_km2: ..... / 68
+33	null	density_sq_mi: ..... / 153
+34	null	county: ..... / Houston County
+35	null	founded date: ..... / February 9,
+36	null	founded: ..... / December 26, 1823,
+37	null	density_km2: ..... / 41
+38	null	density_sq_mi: ..... / 89
+39	true	census yr: 2000 / 2000
+40	true	county: walker county / Walker County
+41	null	founded date: ..... / December 26,
+42	null	density_km2: ..... / 275
+43	null	density_sq_mi: ..... / 716
+44	null	county: ..... / Plymouth County
+45	null	state: ..... / Massachusetts.
+46	false	founded: december 18, 1812  / 15, 1817,
+47	null	density_km2: ..... / 134
+48	null	density_sq_mi: ..... / 324
+49	false	county: mobile county / Mobile County]p
+50	null	census estimate yr: ..... / 2005
+51	null	density_km2: ..... / 84
+52	null	seat wl: ..... / Crestview.
+53	null	density_sq_mi: ..... / 182
+54	true	census yr: 2000 / 2000
+55	true	county: okaloosa county / Okaloosa County
+56	null	founded: ..... / February 6, 1818,
+57	true	census yr: 2000 / 2000
+58	true	county: marengo county / Marengo County
+59	true	founded date: february 6 / February 6,
+60	null	founded: ..... / February 4, 1867,
+61	null	density_km2: ..... / 12
+62	null	density_sq_mi: ..... / 26
+63	null	seat: ..... / Vernon
+64	null	census yr: ..... / 2000
+65	null	county: ..... / Lamar County
+66	null	founded date: ..... / February 4,
+67	null	founded: ..... / April 2, 1731,
+68	null	seat wl: ..... / Leominster.
+69	null	census yr: ..... / 2000
+70	null	county: ..... / Worcester County
+71	null	founded date: ..... / April 2,
+72	null	density_km2: ..... / 18
+73	null	density_sq_mi: ..... / 41
+74	null	county: ..... / Escambia County
+75	null	founded: ..... / February 7, 1818,
+76	null	density_km2: ..... / 75
+77	null	density_sq_mi: ..... / 180
+78	null	county: ..... / Shelby County
+79	null	state: ..... / Alabama
+80	null	founded date: ..... / February 7,
+81	null	density_km2: ..... / 21
+82	null	density_sq_mi: ..... / 44
+83	null	census yr: ..... / 2000
+84	null	county: ..... / Pike County
+85	null	founded: ..... / December 18, 1832.
+86	null	density_km2: ..... / 29
+87	null	seat wl: ..... / Dadeville. Tallapoosa
+88	null	density_sq_mi: ..... / 58
+89	false	seat: dadeville / Dadeville. Tallapoosa
+90	true	county: tallapoosa county / Tallapoosa County
+91	null	founded date: ..... / December 18,
+92	true	census estimate yr: 2008 / 2008
+93	null	seat wl: ..... / Sarasota,
+94	false	seat: sarasota / Sarasota,
+95	null	census yr: ..... / 1763
+96	true	county: sarasota county / Sarasota County
+97	true	founded: december 7, 1866 / December 7, 1866,
+98	null	density_km2: ..... / 86
+99	null	density_sq_mi: ..... / 193
+100	true	census yr: 2000 / 2000
+101	true	county: etowah county / Etowah County
+102	null	census yr: ..... / 2000
+103	true	county: baldwin county / Baldwin County
+104	null	founded: ..... / November 30, 1866.
+105	null	density_km2: ..... / 11
+106	null	density_sq_mi: ..... / 22
+107	null	census yr: ..... / 2000
+108	null	county: ..... / Crenshaw County
+109	null	founded date: ..... / November 30,
+110	true	founded: december 13, 1819 / December 13, 1819.
+111	null	seat wl: ..... / Scottsboro
+112	true	seat: scottsboro / Scottsboro
+113	true	county: jackson county / Jackson County
+114	null	founded date: ..... / December 13,
+115	true	founded: december 13, 1808 / December 13, 1808
+116	null	seat wl: ..... / Huntsville. Madison
+117	false	seat: huntsville / Huntsville. Madison
+118	null	founded year: ..... / 1808
+119	true	county: madison county / Madison County
+120	null	founded date: ..... / December 13,
+121	null	founded: ..... / 1861
+122	null	seat: ..... / Bridgeport.
+123	true	founded year: 1861 / 1861
+124	true	census yr: 2000 / 2000
+125	true	county: mono county / Mono County
+126	null	founded: ..... / December 18, 1832.
+127	null	density_km2: ..... / 9
+128	null	density_sq_mi: ..... / 19
+129	null	census yr: ..... / 2000
+130	null	county: ..... / Coosa County
+131	null	founded date: ..... / December 18,
+132	null	founded: ..... / 1662
+133	null	density_km2: ..... / 111
+134	null	seat wl: ..... / Northampton. Hampshire
+135	null	density_sq_mi: ..... / 288
+136	null	seat: ..... / Northampton.
+137	null	founded year: ..... / 1662
+138	null	county: ..... / Hampshire County
+139	null	state: ..... / Massachusetts.
+140	null	county: ..... / Palm Beach County
+141	null	state: ..... / Florida
+142	null	seat wl: ..... / Phenix City.
+143	null	density_sq_mi: ..... / 78
+144	true	seat: phenix city / Phenix City.
+145	true	county: russell county / Russell County
+146	null	density_km2: ..... / 20
+147	null	density_sq_mi: ..... / 46
+148	null	county: ..... / Okeechobee County
+149	null	density_km2: ..... / 1,720
+150	null	seat wl: ..... / Clearwater, Florida,
+151	null	seat: ..... / Clearwater,
+152	null	county: ..... / Pinellas County
+153	null	founded: ..... / May 10, 1643,
+154	null	county: ..... / Essex County
+155	null	founded date: ..... / May 10,
+156	null	founded: ..... / February 17, 1843
+157	null	density_sq_mi: ..... / 226
+158	null	founded year: ..... / 1843
+159	null	county: ..... / Black Hawk County
+160	null	founded: ..... / April 25, 1913
+161	null	seat wl: ..... / Enterprise
+162	null	county: ..... / Seminole County
+163	null	state: ..... / Florida
+164	null	founded date: ..... / April 25,
+165	null	county: ..... / Orange County
+166	null	state: ..... / Florida
+167	null	census estimate yr: ..... / 2006
+168	true	county: osceola county / Osceola County
+169	null	founded: ..... / June 2, 1887,
+170	null	seat wl: ..... / Dade City,
+171	null	county: ..... / Pasco County
+172	null	founded date: ..... / June 2,
+173	null	founded: ..... / 1905
+174	null	census estimate yr: ..... / 2005
+175	null	density_km2: ..... / 159
+176	null	density_sq_mi: ..... / 337
+177	null	seat: ..... / Fort
+178	null	founded year: ..... / 1905
+179	null	census yr: ..... / 2000
+180	null	county: ..... / St. Lucie County
+181	null	census estimate yr: ..... / 2000
+182	null	seat: ..... / Milton.
+183	null	census yr: ..... / 2000
+184	null	county: ..... / Santa Rosa County
+185	null	census estimate yr: ..... / 2005
+186	null	density_km2: ..... / 9
+187	null	density_sq_mi: ..... / 18
+188	null	county: ..... / Taylor County
+189	null	density_km2: ..... / 1
+190	null	density_sq_mi: ..... / 2
+191	null	census yr: ..... / 2000
+192	null	county: ..... / Johnson County
+193	null	founded: ..... / December 18, 1832.
+194	null	density_km2: ..... / 27
+195	null	density_sq_mi: ..... / 61
+196	null	seat: ..... / Lafayette.
+197	null	census yr: ..... / 2000
+198	null	county: ..... / Chambers County
+199	null	founded date: ..... / December 18,
+200	true	founded: december 30, 1868 / December 30, 1868,
+201	true	county: chilton county / Chilton County
+202	true	state: alabama / Alabama
+203	null	density_km2: ..... / 9
+204	null	density_sq_mi: ..... / 17
+205	null	census yr: ..... / 2000
+206	null	county: ..... / Choctaw County
+207	null	founded: ..... / 1921
+208	null	census estimate yr: ..... / 2005
+209	null	density_km2: ..... / 16
+210	null	founded year: ..... / 1921
+211	null	census yr: ..... / 2000
+212	null	county: ..... / Union County
+213	true	founded: december 10, 1812 / December 10, 1812
+214	null	density_km2: ..... / 10
+215	null	seat wl: ..... / Clarkesville,
+216	null	density_sq_mi: ..... / 22
+217	false	seat: grove hill / Clarkesville,
+218	null	founded year: ..... / 1812
+219	true	county: clarke county / Clarke County
+220	null	founded date: ..... / December 10,
+221	true	founded: january 9, 1836 / January 9, 1836.
+222	null	density_km2: ..... / 25
+223	null	density_sq_mi: ..... / 43
+224	true	seat: centre / Centre
+225	true	census yr: 2000 / 2000
+226	false	county: cherokee county / Cherokee County, Alabama
+227	null	founded date: ..... / January 9,
+228	null	founded: ..... / February 12, 1850,
+229	null	density_km2: ..... / 20
+230	null	seat wl: ..... / Double Springs.
+231	null	density_sq_mi: ..... / 40
+232	false	seat: double springs / Double
+233	true	county: winston county / Winston County
+234	null	founded date: ..... / February 12,
+235	null	density_km2: ..... / 42
+236	null	density_sq_mi: ..... / 92
+237	null	founded year: ..... / 1867
+238	true	census yr: 2000 / 2000
+239	true	county: colbert county / Colbert County
+240	false	state: alabama / Tennessee
+241	null	density_km2: ..... / 29
+242	null	seat wl: ..... / Enterprise–Ozark
+243	null	density_sq_mi: ..... / 64
+244	null	county: ..... / Coffee County
+245	null	founded: ..... / December 6, 1866,
+246	null	density_km2: ..... / 11
+247	null	density_sq_mi: ..... / 25
+248	null	census yr: ..... / 2000
+249	null	county: ..... / Cleburne County
+250	null	founded date: ..... / December 6,
+251	null	census estimate yr: ..... / 2005
+252	null	seat wl: ..... / Crawfordville. Wakulla
+253	null	seat: ..... / Crawfordville.
+254	null	county: ..... / Wakulla County
+255	null	density_km2: ..... / 8
+256	null	density_sq_mi: ..... / 17
+257	null	census yr: ..... / 2000
+258	null	county: ..... / Conecuh County]p
+259	null	density_km2: ..... / 18
+260	null	seat wl: ..... / Andalusia.
+261	null	density_sq_mi: ..... / 36
+262	null	seat: ..... / Andalusia.
+263	null	census yr: ..... / 2000
+264	null	county: ..... / Covington County,
+265	null	county: ..... / Cullman County
+266	null	state: ..... / Tennessee
+267	null	founded: ..... / 9, 1836,
+268	null	seat wl: ..... / Fort Payne.
+269	null	seat: ..... / Fort
+270	null	census yr: ..... / 2000
+271	null	county: ..... / DeKalb County
+272	null	founded: ..... / February 15, 1866
+273	null	density_km2: ..... / 41
+274	null	density_sq_mi: ..... / 106
+275	null	founded year: ..... / 1866
+276	null	census yr: ..... / 2000
+277	null	county: ..... / Elmore County
+278	null	founded date: ..... / February 15,
+279	null	founded: ..... / February 6, 1818.
+280	true	density_sq_mi: 49 / 49
+281	null	seat: ..... / Russellville
+282	null	founded year: ..... / 1867
+283	true	county: franklin county / Franklin County
+284	true	founded date: february 6 / February 6,
+285	null	density_sq_mi: ..... / 45
+286	null	seat: ..... / Geneva. Geneva
+287	null	census yr: ..... / 2000
+288	null	county: ..... / Geneva County
+289	true	founded: december 13, 1819 / December 13, 1819,
+290	null	seat wl: ..... / Birmingham
+291	true	census yr: 2000 / 2000
+292	true	county: jefferson county / Jefferson County
+293	null	founded date: ..... / December 13,
+294	true	founded: december 13, 1819 / December 13, 1819.
+295	null	density_km2: ..... / 14
+296	null	seat wl: ..... / Abbeville. Henry
+297	null	density_sq_mi: ..... / 29
+298	false	seat: abbeville / Abbeville.
+299	true	county: henry county / Henry County
+300	null	founded date: ..... / December 13,
+301	null	founded: ..... / 24 June 1811
+302	null	county: ..... / Franklin County
+303	null	state: ..... / Massachusetts.
+304	null	founded: ..... / 1866
+305	true	founded year: 1866 / 1866
+306	true	county: inyo county / Inyo County
+307	false	founded: december 5, 1866 / 5, 1866,
+308	null	seat wl: ..... / Opelika,
+309	true	county: lee county / Lee County
+310	null	density_sq_mi: ..... / 42
+311	null	census yr: ..... / 2000
+312	null	county: ..... / Marion County
+313	null	state: ..... / Alabama
+314	null	founded: ..... / June 29, 1815.
+315	null	density_km2: ..... / 11
+316	null	seat wl: ..... / Monroeville.
+317	null	density_sq_mi: ..... / 24
+318	true	seat: monroeville / Monroeville.
+319	true	county: monroe county / Monroe County
+320	false	state: alabama / Tennessee.
+321	true	founded: december 20, 1820 / December 20, 1820,
+322	null	density_km2: ..... / 11
+323	null	density_sq_mi: ..... / 24
+324	true	county: pickens county / Pickens County
+325	null	founded date: ..... / December 20,
+326	null	founded: ..... / 1819
+327	null	density_km2: ..... / 46
+328	true	density_sq_mi: 117 / 117
+329	null	founded year: ..... / 1819
+330	true	census yr: 2000 / 2000
+331	true	county: shelby county / Shelby County
+332	null	census estimate yr: ..... / 2009
+333	true	seat wl: shelbyville / Shelbyville.
+334	null	seat: ..... / Shelbyville.
+335	true	county: shelby county / Shelby County
+336	null	founded: ..... / December 18, 1832,
+337	false	density_km2: 18 / 47
+338	null	density_sq_mi: ..... / 109
+339	true	county: talladega county / Talladega County
+340	null	founded date: ..... / December 18,
+341	true	founded: december 13, 1819 / December 13, 1819.
+342	null	density_km2: ..... / 7
+343	null	density_sq_mi: ..... / 15
+344	true	county: wilcox county / Wilcox County
+345	null	founded date: ..... / December 13,
+346	null	seat wl: ..... / Hayneville. Lowndes
+347	null	seat: ..... / Hayneville.
+348	null	census yr: ..... / 2000
+349	null	county: ..... / Lowndes County
+350	null	founded date: ..... / January 20,
+351	null	founded: ..... / December 18, 1832,
+352	null	density_km2: ..... / 17
+353	null	density_sq_mi: ..... / 40
+354	null	census yr: ..... / 2000
+355	null	county: ..... / Macon County
+356	null	founded date: ..... / December 18,
+357	null	census yr: ..... / 2000
+358	null	county: ..... / Hawaii County
+359	null	state: ..... / Utah
+360	null	founded: ..... / May 10, 1643,
+361	null	county: ..... / Suffolk County
+362	null	state: ..... / Massachusetts
+363	null	founded date: ..... / May 10,
+364	null	founded: ..... / December 18, 1832,
+365	null	census estimate yr: ..... / 2006
+366	null	census yr: ..... / 2000
+367	null	county: ..... / Barbour County, Alabama
+368	null	founded date: ..... / December 18,
+369	null	founded: ..... / November 21, 1818,
+370	null	census estimate yr: ..... / 2008
+371	null	seat wl: ..... / Prattville. Autauga
+372	null	seat: ..... / Prattville.
+373	true	census yr: 2000 / 2000
+374	true	county: autauga county / Autauga County
+375	null	founded date: ..... / November 21,
+376	null	founded: ..... / January 30,
+377	null	seat wl: ..... / Greensboro
+378	null	seat: ..... / Greensboro
+379	null	census yr: ..... / 2000
+380	null	county: ..... / Hale County
+381	true	founded: february 9, 1818 / February 9, 1818,
+382	null	density_sq_mi: ..... / 47
+383	true	county: dallas county / Dallas County
+384	true	county: sumter county / Sumter County
+385	true	county: lancaster county / Lancaster County,
+386	null	density_km2: ..... / 64
+387	null	density_sq_mi: ..... / 145
+388	null	seat: ..... / Guntersville. Marshall
+389	null	census yr: ..... / 2000
+390	true	county: marshall county / Marshall County
+391	null	census estimate yr: ..... / 2005
+392	null	density_km2: ..... / 23
+393	null	seat wl: ..... / Oak,
+394	null	density_sq_mi: ..... / 51
+395	true	county: suwannee county / Suwannee County
+396	null	seat: ..... / Athens. Limestone
+397	null	county: ..... / Limestone County
+398	null	founded year: ..... / 1821
+399	null	census yr: ..... / 2000
+400	null	county: ..... / St. Johns County
+401	null	founded: ..... / 1838
+402	null	density_km2: ..... / 38
+403	null	seat wl: ..... / Stanardsville. Greene
+404	null	density_sq_mi: ..... / 97
+405	null	seat: ..... / Stanardsville.
+406	null	founded year: ..... / 1838
+407	null	county: ..... / Greene County
+408	null	state: ..... / Virginia
+409	null	founded: ..... / 18, 1832,
+410	false	seat: wedowee / Wedowee. Randolph
+411	null	founded year: ..... / 1833
+412	true	county: randolph county / Randolph County
+413	true	county: tuscaloosa county / Tuscaloosa County
+414	null	census yr: ..... / 2000
+415	null	county: ..... / Kalawao County
+416	null	seat wl: ..... / Kahului–Wailuku
+417	null	census yr: ..... / 2000
+418	null	county: ..... / Maui County
+419	null	density_km2: ..... / 41
+420	null	density_sq_mi: ..... / 94
+421	null	census yr: ..... / 2000
+422	null	county: ..... / Kauai County Kauai County
+423	null	founded: ..... / 1836
+424	null	density_km2: ..... / 14
+425	null	density_sq_mi: ..... / 29
+426	null	founded year: ..... / 1836
+427	null	census yr: ..... / 2000
+428	null	county: ..... / Braxton County
+429	null	state: ..... / West Virginia
+430	null	density_km2: ..... / 8
+431	null	density_sq_mi: ..... / 16
+432	null	seat: ..... / Marion.
+433	true	census yr: 2000 / 2000
+434	true	county: perry county / Perry County
+435	true	founded: 1836 / 1836
+436	null	seat wl: ..... / Will
+437	null	founded year: ..... / 1836
+438	true	county: will county / Will County
+439	true	state: illinois / Illinois
+440	null	census estimate yr: ..... / 2006
+441	null	density_km2: ..... / 46
+442	null	seat wl: ..... / Bushnell, Florida
+443	null	density_sq_mi: ..... / 98
+444	null	census yr: ..... / 2000
+445	null	county: ..... / Sumter County
+446	true	county: polk county / Polk County
+447	true	state: florida / Florida
+448	null	census estimate yr: ..... / 2005
+449	null	seat wl: ..... / DeLand,
+450	null	county: ..... / Volusia County
+451	null	census estimate yr: ..... / 2005
+452	null	density_km2: ..... / 28
+453	null	seat wl: ..... / DeFuniak Springs,
+454	null	density_sq_mi: ..... / 38
+455	null	seat: ..... / DeFuniak
+456	null	county: ..... / Walton County
+457	null	founded: ..... / 2 June 1685
+458	null	density_km2: ..... / 372
+459	null	seat wl: ..... / Barnstable. Barnstable
+460	null	density_sq_mi: ..... / 562
+461	null	seat: ..... / Barnstable. Barnstable
+462	null	county: ..... / Barnstable County
+463	null	seat wl: ..... / Pittsfield.
+464	null	county: ..... / Berkshire County
+465	null	state: ..... / Massachusetts.
+466	null	density_km2: ..... / 301
+467	null	seat wl: ..... / Springfield
+468	null	density_sq_mi: ..... / 738
+469	null	county: ..... / Hampden County
+470	true	county: middlesex county / Middlesex County,
+471	true	state: massachusetts / Massachusetts
+472	null	founded date: ..... / May 10,
+473	null	founded: ..... / February 7, 1818,
+474	true	density_km2: 13 / 13
+475	true	density_sq_mi: 33 / 33
+476	null	seat: ..... / Centreville,,
+477	true	census yr: 2000 / 2000
+478	true	county: bibb county / Bibb County
+479	null	founded date: ..... / February 7,
+480	null	density_km2: ..... / 33
+481	null	density_sq_mi: ..... / 79
+482	null	census yr: ..... / 2000
+483	null	county: ..... / Blount County
+484	null	state: ..... / Tennessee,
+485	null	founded date: ..... / February 6,
+486	true	founded: december 5, 1866 / December 5, 1866.
+487	null	density_km2: ..... / 8
+488	null	density_sq_mi: ..... / 19
+489	true	census yr: 2000 / 2000
+490	false	county: bullock county / Bullock County, Alabama
+491	null	seat wl: ..... / Greenville.
+492	null	seat: ..... / Greenville.
+493	null	census yr: ..... / 2000
+494	null	county: ..... / Butler County
+495	null	founded: ..... / December 18, 1832,
+496	null	density_km2: ..... / 84
+497	null	density_sq_mi: ..... / 184
+498	null	census yr: ..... / 2000
+499	null	county: ..... / Calhoun County
+500	null	founded date: ..... / December 18,
+501	null	seat wl: ..... / Enterprise–Ozark
+502	null	census yr: ..... / 2000
+503	null	county: ..... / Dale County
+504	null	density_km2: ..... / 14
+505	true	density_sq_mi: 30 / 30
+506	null	seat: ..... / Fayette.
+507	true	census yr: 2000 / 2000
+508	true	county: fayette county / Fayette County
+509	null	founded: ..... / December 13, 1819.
+510	null	density_km2: ..... / 8
+511	null	density_sq_mi: ..... / 15
+512	null	census yr: ..... / 2000
+513	null	county: ..... / Greene County
+514	null	founded date: ..... / December 13,
+515	null	founded: ..... / December 23, 1814,
+516	null	seat: ..... / Florence. Lauderdale
+517	null	founded year: ..... / 1818
+518	null	county: ..... / Lauderdale County
+519	null	seat: ..... / Havre.
+520	true	county: hill county / Hill County
+521	null	founded: ..... / January 15, 1851.
+522	true	density_km2: 9 / 9
+523	null	seat wl: ..... / Harlan.
+524	null	density_sq_mi: ..... / 22
+525	true	county: shelby county / Shelby County
+526	null	founded date: ..... / January 15,
+527	null	density_km2: ..... / 8
+528	null	density_sq_mi: ..... / 17
+529	null	seat: ..... / Chatom. Washington
+530	null	county: ..... / Washington County
+531	null	census estimate yr: 2008 / ..........
+532	null	seat: crestview / ..........
+533	null	state: florida / ..........
+534	null	founded: may 12, 1887 / ..........
+535	null	seat: kissimmee / ..........
+536	null	largest_city: kissimmee / ..........
+537	null	census yr: 2000 / ..........
+538	null	census estimate yr: 2006 / ..........
+539	null	state: florida / ..........
+540	null	seat: cambridge and lowell / ..........
+541	null	pop: 1,482,478 / ..........
+542	null	state: alabama / ..........
+543	null	time zone: central / ..........
+544	null	seat wl: bay minette / ..........
+545	null	largest city wl: daphne / ..........
+546	null	state: alabama / ..........
+547	null	seat: union springs / ..........
+548	null	seat: clanton / ..........
+549	null	state: alabama / ..........
+550	null	area_total_sq_mi: 632 / ..........
+551	null	state: alabama / ..........
+552	null	seat wl: decatur / ..........
+553	null	largest city wl: decatur / ..........
+554	null	named for: daniel morgan / ..........
+555	null	seat: tuscumbia / ..........
+556	null	state: alabama / ..........
+557	null	seat wl: fayette / ..........
+558	null	state: alabama / ..........
+559	null	seat wl: russellville / ..........
+560	null	named for: benjamin franklin / ..........
+561	null	state: alabama / ..........
+562	null	state: alabama / ..........
+563	null	seat: birmingham / ..........
+564	null	state: california / ..........
+565	null	seat wl: independence / ..........
+566	null	state: alabama / ..........
+567	null	seat: opelika / ..........
+568	null	census estimate yr: 2009 / ..........
+569	null	area_total_sq_mi: 813 / ..........
+570	null	state: alabama / ..........
+571	null	seat wl: linden / ..........
+572	null	largest city wl: demopolis / ..........
+573	null	named for: battle of marengo / ..........
+574	null	founded date: january 9 / ..........
+575	null	seat wl: guntersville / ..........
+576	null	largest city wl: albertville / ..........
+577	null	named for: john marshall / ..........
+578	null	state: alabama / ..........
+579	null	seat wl: mobile / ..........
+580	null	largest city wl: mobile / ..........
+581	null	state: alabama / ..........
+582	null	area_total_sq_mi: 584 / ..........
+583	null	founded: december 18, 1832 / ..........
+584	null	area_total_sq_mi: 647 / ..........
+585	null	seat wl: sidney / ..........
+586	null	named for: isaac shelby / ..........
+587	null	state: kentucky / ..........
+588	null	state: alabama / ..........
+589	null	seat: talladega / ..........
+590	null	area_total_sq_mi: 760 / ..........
+591	null	area_total_sq_mi: 766 / ..........
+592	null	state: alabama / ..........
+593	null	seat: tuscaloosa / ..........
+594	null	state: alabama / ..........
+595	null	seat: jasper / ..........
+596	null	area_total_sq_mi: 805 / ..........
+597	null	state: california / ..........
+598	null	seat wl: bridgeport / ..........
+599	null	largest city wl: mammoth lakes / ..........
+600	null	named for: mono lake / ..........
+601	null	seat: joliet / ..........
+602	null	state: pennsylvania / ..........
+603	null	founded: may 10, 1729 / ..........
+604	null	seat: lancaster / ..........
+605	null	founded date: february 6 / ..........
+606	null	founded: february 6, 1867 / ..........
+607	null	seat: carrollton / ..........

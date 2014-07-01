@@ -1,0 +1,30 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	founded year: ..... / 1794
+2	null	founded year: ..... / 1819
+3	null	founded year: ..... / 1807
+4	null	founded year: ..... / 1807
+5	null	founded year: ..... / 1823
+6	null	founded year: ..... / 1792
+7	null	founded year: ..... / 1850
+8	null	founded year: ..... / 2010
+9	null	founded year: ..... / 1849
+10	null	founded year: ..... / 1817
+11	null	founded year: ..... / 1870
+12	null	founded year: ..... / 1870
+13	null	founded year: ..... / 1916
+14	null	founded year: ..... / 1823
+15	null	founded year: ..... / 1871
+16	null	founded year: ..... / 1806
+17	null	founded year: ..... / 1807
+18	null	founded year: ..... / 1835
+19	null	founded year: ..... / 1814
+20	null	founded year: ..... / 1842
+21	null	founded year: ..... / 1889

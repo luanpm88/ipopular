@@ -1,0 +1,52 @@
+Found Not Null: 27
+Correct: 24
+Wrong: 3
+Total: 31
+-----------
+precision: 0.8888888888888888
+recall: 0.7741935483870968
+F: 0.8275862068965517
+
+
+
+
+1	null	airline: ..... / Olympic Airlines
+2	true	airline: air seychelles / Air Seychelles
+3	true	airline: jet airways / Jet Airways
+4	true	airline: di air / DI Air
+5	true	airline: aer arann / Aer Arann
+6	null	airline: ..... / BWIA West Indies Airways
+7	true	airline: pacific western airlines / Pacific Western Airlines
+8	true	airline: georgian airways  / Georgian Airways
+9	true	airline: vladivostok air / Vladivostok Air
+10	true	airline: turkemenistan airlines / Turkmenistan Airlines
+11	false	airline: jetlite / Sahara Airlines
+12	false	airline: jetsgo / Jetsgo Corporation
+13	true	airline: srilankan airlines / SriLankan Airlines
+14	true	airline: jetstar airways / Jetstar Airways
+15	true	airline: tower air / Tower Air
+16	true	airline: loganair / Loganair
+17	null	airline: ..... / Air Pacific
+18	true	airline: aviogenex / Aviogenex
+19	true	airline: southeast airlines / Southeast Airlines
+20	null	airline: ..... / Eastern Air Lines
+21	true	airline: chalks international airlines / Chalk's International Airlines,
+22	null	airline: ..... / China Eastern Airlines Corporation
+23	true	airline: miami air international / Miami Air International
+24	true	airline: air gabon / Air Gabon
+25	null	airline: ..... / OJSC Dalavia
+26	true	airline: kendell airlines / Kendell Airlines
+27	null	airline: ..... / Arkia Israel Airlines
+28	null	airline: ..... / TWA Flight
+29	null	airline: ..... / Etihad Airways
+30	false	airline: as estonian air / Estonian Air
+31	true	airline: precision air / Precision Air
+32	true	airline: air tanzania / Air Tanzania
+33	true	airline: air atlanta / Air Atlanta
+34	true	airline: texas international airlines / Texas International Airlines
+35	true	airline: caledonian airways / Caledonian Airways
+36	true	airline: air sinai / Air Sinai
+37	null	airline: ostfriesische lufttransport / ..........
+38	null	airline: air europa  / ..........
+39	null	airline: interflug / ..........
+40	null	airline: air anatolia / ..........

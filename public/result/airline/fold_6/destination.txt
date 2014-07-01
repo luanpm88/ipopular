@@ -1,0 +1,18 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 5
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	destination: ..... / Pearson International Airport.
+2	null	destination: ..... / Los Angeles International Airport.
+3	null	destination: narita international airport / ..........
+4	null	destination: salt lake city international airport / ..........
+5	null	destination: hong kong international airport / ..........
+6	null	destination: indira gandhi international airport / ..........
+7	null	destination: little rock national airport / ..........

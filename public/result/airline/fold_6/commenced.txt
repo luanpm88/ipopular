@@ -1,0 +1,20 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	commenced: ..... / September 5, 2000.
+2	true	commenced: 10 october 1974 / 10 October 1974.
+3	null	commenced: ..... / 1 February 1996
+4	null	commenced: ..... / 21 September 1955,
+5	null	commenced: ..... / April 8, 1946,
+6	null	commenced: ..... / February 11, 2000,
+7	null	commenced: ..... / May 12, 1982,
+8	null	commenced: 10 october 1974 / ..........

@@ -1,0 +1,74 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 3/12
+------------
+Found: 57
+Found Not Null: 21
+Correct: 20
+Wrong: 1
+Total: 31
+-----------
+precision: 0.9523809523809523
+recall: 0.6451612903225806
+F: 0.7692307692307692
+
+
+
+1	true	birth_place: danville, quebec, canada / Danville, Quebec, Canada,
+2	true	birth_name: morgan porterfield freeman, jr. / Morgan Porterfield Freeman, Jr.
+3	null	occupation: ..... / actor, film director,
+4	null	birth_place: ..... / Memphis, Tennessee,
+5	true	birth_name: nicolas kim coppola / Nicolas Kim Coppola;
+6	null	occupation: ..... / Actor
+7	null	birth_place: ..... / Long Beach, California.
+8	false	occupation: actress / actor
+9	true	birth_name: george orson welles / George Orson Welles
+10	null	occupation: ..... / actor
+11	null	occupation: ..... / actor
+12	true	birth_name: steven andrew soderbergh / Steven Andrew Soderbergh
+13	null	birth_name: ..... / Gladys Marie Smith
+14	null	birth_place: ..... / Rockville, Maryland,
+15	true	birth_name: madhuri shankar dixit / Madhuri Shankar Dixit
+16	null	birth_name: ..... / Soad Mohamed Hosny
+17	true	occupation: actress / actress
+18	true	birth_name: marlon brando, jr. / Marlon Brando, Jr.
+19	null	occupation: ..... / actor
+20	null	birth_name: ..... / Mandel Bruce "Mandy" Patinkin
+21	null	occupation: ..... / actor
+22	null	birth_place: ..... / Chicago, Illinois,
+23	true	birth_name: maximilian raoul steiner / Maximilian Raoul Steiner
+24	null	birth_name: ..... / Mary Tyler Moore
+25	true	birth_name: peter michael falk / Peter Michael Falk
+26	true	birth_name: paul rubenfeld / Paul Rubenfeld;
+27	null	occupation: ..... / film producer,
+28	true	birth_name: richard henry sellers / Richard Henry Sellers,
+29	null	occupation: ..... / actor
+30	null	birth_place: ..... / Southsea, Portsmouth,
+31	true	birth_name: quentin jerome tarantino / Quentin Jerome Tarantino
+32	null	birth_place: ..... / Knoxville, Tennessee,
+33	null	birth_name: ..... / Sir Ridley Scott
+34	true	birth_name: robert anthony rodriguez / Robert Anthony Rodríguez
+35	null	birth_place: ..... / San Antonio, Texas,
+36	true	birth_name: shannon elizabeth fadal / Shannon Elizabeth Fadal,
+37	null	occupation: ..... / actress
+38	true	birth_name: peter edward cook / Peter Edward Cook
+39	true	birth_name: russell ira crowe / Russell Ira Crowe
+40	null	occupation: ..... / actor
+41	true	birth_place: wellington, new zealand / Wellington, New Zealand,
+42	true	birth_name: ruth gordon jones / Ruth Gordon Jones
+43	null	occupation: ..... / actress
+44	true	birth_name: robin gayle wright / Robin Gayle Wright
+45	null	birth_place: ..... / Dallas, Texas,
+46	null	birth_name: michael kenneth mann / ..........
+47	null	occupation: actress / ..........
+48	null	occupation: voice actor / ..........
+49	null	birth_place: kenosha, wisconsin,  / ..........
+50	null	occupation: actress / ..........
+51	null	birth_name: reginald ingram montgomery hitchcock / ..........
+52	null	birth_place: dublin, ireland / ..........
+53	null	birth_place: dresden, germany / ..........
+54	null	death_place: london, england / ..........
+55	null	other_names: souad hosni / ..........

@@ -1,0 +1,52 @@
+Found Not Null: 13
+Correct: 8
+Wrong: 5
+Total: 18
+-----------
+precision: 0.6153846153846154
+recall: 0.4444444444444444
+F: 0.5161290322580646
+
+
+
+
+1	null	callsign: ..... / CanJet
+2	null	callsign: ..... / Air
+3	true	callsign: avensa / Avensa
+4	true	callsign: vietnam / Vietnam
+5	null	callsign: ..... / Cayman
+6	null	callsign: ..... / Ethiopian
+7	true	callsign: eva / EVA
+8	null	callsign: ..... / Iran
+9	null	callsign: ..... / American
+10	null	callsign: ..... / Delta
+11	true	callsign: air srpska / Air Srpska
+12	null	callsign: ..... / Indian
+13	null	callsign: ..... / PSA
+14	null	callsign: ..... / Tunisair
+15	null	callsign: ..... / Avianca
+16	null	callsign: ..... / Prinair
+17	null	callsign: ..... / China
+18	false	callsign: psa / Pacific Southwest
+19	null	callsign: ..... / Philippine
+20	true	callsign: lapa / LAPA
+21	null	callsign: ..... / Sudan
+22	true	callsign: ethiopian / Ethiopian
+23	null	callsign: ..... / Antonov
+24	false	callsign: namibia / Air Namibia
+25	true	callsign: jetblue / JetBlue
+26	false	callsign: kuwaiti / Kuwait
+27	false	callsign: gulf air / Gulf
+28	null	callsign: ..... / Thomas Cook
+29	null	callsign: ..... / Delta
+30	true	callsign: china southern / China Southern
+31	null	callsign: ..... / Cebu
+32	null	callsign: ..... / Atlantic Coast
+33	false	callsign: braniff / Braniff International
+34	null	callsign: ..... / China
+35	null	callsign: ..... / Finncomm
+36	null	callsign: aerosvit / ..........
+37	null	callsign: mahan / ..........
+38	null	callsign: syrianair / ..........
+39	null	callsign: aircal / ..........
+40	null	callsign: air koryo / ..........

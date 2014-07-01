@@ -1,0 +1,21 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 6
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	largest city wl: ..... / Fairfield.
+2	null	largest city wl: ..... / Dallas,
+3	null	largest city wl: ..... / Gainesville
+4	null	largest city wl: ..... / Jacksonville
+5	null	largest city wl: palestine / ..........
+6	null	largest city wl: goliad / ..........
+7	null	largest city wl: la grange / ..........
+8	null	largest city wl: gail / ..........
+9	null	largest city wl: lufkin / ..........
+10	null	largest city wl: beeville / ..........

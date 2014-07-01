@@ -1,0 +1,122 @@
+Found Not Null: 83
+Correct: 20
+Wrong: 63
+Total: 97
+-----------
+precision: 0.24096385542168675
+recall: 0.20618556701030927
+F: 0.2222222222222222
+
+
+
+
+1	true	state: south dakota / South Dakota
+2	true	state: south dakota / South Dakota.
+3	null	state: ..... / Tennessee,
+4	false	state: tennessee / Tennessee.
+5	true	state: south dakota / South Dakota.
+6	true	state: south dakota / South Dakota.
+7	false	state: south dakota / South
+8	false	state: tennessee / Tennessee.
+9	true	state: south dakota / South Dakota.
+10	false	state: tennessee / Tennessee.
+11	false	state: tennessee / Tennessee.
+12	false	state: tennessee / Tennessee.
+13	false	state: tennessee / Tennessee.
+14	false	state: tennessee / Tennessee.
+15	false	state: tennessee / Tennessee.
+16	true	state: south dakota / South Dakota.
+17	true	state: south dakota / South Dakota.
+18	false	state: tennessee / Tennessee.
+19	false	state: tennessee / Tennessee.
+20	false	state: tennessee / Tennessee.
+21	null	state: ..... / Tennessee.
+22	false	state: tennessee / Tennessee.
+23	null	state: ..... / Tennessee.
+24	null	state: ..... / Tennessee.
+25	false	state: tennessee / Tennessee.
+26	null	state: ..... / Tennessee.
+27	null	state: ..... / Tennessee.
+28	false	state: tennessee / Tennessee.
+29	null	state: ..... / Tennessee.
+30	null	state: ..... / Tennessee
+31	false	state: tennessee / Tennessee.
+32	false	state: tennessee / Tennessee.
+33	false	state: tennessee / Tennessee.
+34	false	state: tennessee / Tennessee.
+35	false	state: tennessee / Tennessee.
+36	null	state: ..... / Tennessee.
+37	false	state: tennessee / Tennessee.
+38	false	state: tennessee / Tennessee.
+39	false	state: tennessee / Tennessee.
+40	false	state: tennessee / Tennessee.
+41	false	state: tennessee / Tennessee.
+42	false	state: tennessee / Tennessee.
+43	false	state: tennessee / Tennessee.
+44	false	state: tennessee / Tennessee.
+45	null	state: ..... / Tennessee.
+46	false	state: tennessee / Tennessee.
+47	false	state: tennessee / Tennessee.
+48	false	state: tennessee / Tennessee.
+49	false	state: tennessee / Tennessee.
+50	false	state: tennessee / Tennessee.
+51	false	state: tennessee / Tennessee.
+52	false	state: tennessee / Tennessee.
+53	false	state: tennessee / Tennessee.
+54	false	state: tennessee / Tennessee.
+55	false	state: tennessee / Tennessee.
+56	false	state: tennessee / Tennessee.
+57	false	state: tennessee / Tennessee.
+58	false	state: tennessee / Tennessee.
+59	true	state: tennessee / Tennessee
+60	false	state: tennessee / Tennessee.
+61	false	state: tennessee / Tennessee,
+62	false	state: tennessee / Tennessee.
+63	false	state: tennessee / Tennessee.
+64	false	state: tennessee / Tennessee.
+65	false	state: tennessee / Tennessee.
+66	false	state: tennessee / Tennessee.
+67	false	state: tennessee / Tennessee.
+68	false	state: tennessee / Tennessee.
+69	null	state: ..... / Tennessee.
+70	false	state: tennessee / Tennessee.
+71	false	state: tennessee / Tennessee.
+72	false	state: tennessee / Tennessee.
+73	false	state: tennessee / Tennessee.
+74	false	state: tennessee / Tennessee.
+75	false	state: tennessee / Tennessee.
+76	null	state: ..... / Tennessee.
+77	false	state: tennessee / Tennessee.
+78	false	state: tennessee / Tennessee.
+79	false	state: tennessee / Tennessee.
+80	false	state: tennessee / Tennessee.
+81	false	state: tennessee / Tennessee.
+82	false	state: tennessee / Tennessee.
+83	true	state: south dakota / South Dakota.
+84	null	state: ..... / South Dakota.
+85	true	state: south dakota / South Dakota.
+86	true	state: south dakota / South Dakota.
+87	true	state: south dakota / South Dakota.
+88	true	state: south dakota / South Dakota.
+89	true	state: south dakota / South Dakota.
+90	true	state: south dakota / South Dakota.
+91	true	state: south dakota / South Dakota.
+92	true	state: south dakota / South Dakota.
+93	false	state: south dakota / South
+94	true	state: south dakota / South Dakota.
+95	true	state: south dakota / South Dakota.
+96	true	state: south dakota / South Dakota.
+97	null	state: tennessee / ..........
+98	null	state: tennessee / ..........
+99	null	state: tennessee / ..........
+100	null	state: tennessee / ..........
+101	null	state: tennessee / ..........
+102	null	state: tennessee / ..........
+103	null	state: tennessee / ..........
+104	null	state: tennessee / ..........
+105	null	state: tennessee / ..........
+106	null	state: tennessee / ..........
+107	null	state: tennessee / ..........
+108	null	state: tennessee / ..........
+109	null	state: south dakota / ..........
+110	null	state: south dakota / ..........

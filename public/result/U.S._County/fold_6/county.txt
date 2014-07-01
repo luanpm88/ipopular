@@ -1,0 +1,126 @@
+Found Not Null: 30
+Correct: 29
+Wrong: 1
+Total: 30
+-----------
+precision: 0.9666666666666667
+recall: 0.9666666666666667
+F: 0.9666666666666667
+
+
+
+
+1	null	county: ..... / Kanawha County
+2	null	county: ..... / Greenbrier County
+3	true	county: columbia county / Columbia County
+4	null	county: ..... / Upshur County
+5	null	county: ..... / Stevens County
+6	true	county: grant county / Grant County
+7	true	county: douglas county / Douglas County
+8	null	county: ..... / Burnett County
+9	true	county: ashland county / Ashland County
+10	null	county: ..... / Wayne County
+11	null	county: ..... / Randolph County
+12	null	county: ..... / Berkeley County
+13	true	county: whatcom county / Whatcom County
+14	null	county: ..... / Chelan County
+15	true	county: king county / King County
+16	null	county: ..... / Mercer County
+17	null	county: ..... / Lincoln County
+18	true	county: green lake county / Green Lake County
+19	null	county: ..... / Jackson County
+20	null	county: ..... / Clark County
+21	null	county: ..... / Pleasants County
+22	null	county: ..... / Wirt County
+23	true	county: douglas county / Douglas County
+24	null	county: ..... / Doddridge County
+25	null	county: ..... / Hancock County
+26	true	county: green county / Green County
+27	true	county: forest county / Forest County
+28	true	county: fond du lac county / Fond du Lac County
+29	true	county: florence county / Florence County
+30	null	county: ..... / Eau Claire County
+31	null	county: ..... / Dunn County
+32	false	county: door county / thumb|right|Door County courthouse Door County
+33	true	county: dodge county / Dodge County
+34	null	county: ..... / Dane County
+35	null	county: ..... / Crawford County
+36	true	county: calumet county / Calumet County
+37	true	county: buffalo county / Buffalo County
+38	null	county: ..... / Brown County
+39	null	county: ..... / Bayfield County
+40	true	county: wyoming county / Wyoming County
+41	null	county: ..... / Wood County
+42	true	county: webster county / Webster County
+43	null	county: ..... / Tyler County
+44	null	county: ..... / Summers County
+45	null	county: ..... / Roane County
+46	null	county: ..... / Ritchie County
+47	null	county: ..... / Raleigh County,
+48	null	county: ..... / Preston County
+49	null	county: ..... / Nicholas County
+50	null	county: ..... / Morgan County
+51	null	county: ..... / Monroe County
+52	null	county: ..... / Monongalia County
+53	null	county: ..... / McDowell County
+54	null	county: ..... / Marshall County
+55	null	county: ..... / Marion County
+56	null	county: ..... / Logan County
+57	null	county: ..... / Lewis County
+58	null	county: ..... / Jefferson County
+59	null	county: ..... / Harrison County
+60	null	county: ..... / Hardy County
+61	null	county: ..... / Chippewa County
+62	null	county: ..... / Barron County
+63	null	county: ..... / Wetzel County
+64	null	county: ..... / Tucker County
+65	null	county: ..... / Mingo County
+66	null	county: ..... / Calhoun County
+67	null	county: ..... / Okanogan County
+68	true	county: island county / Island County
+69	true	county: ferry county / Ferry County
+70	true	county: asotin county / Asotin County
+71	null	county: ..... / Pocahontas County
+72	true	county: columbia county / Columbia County
+73	null	county: ..... / Mason County
+74	null	county: ..... / Pendleton County
+75	null	county: ..... / Klickitat County
+76	null	county: ..... / Taylor County
+77	true	county: spokane county / Spokane County
+78	null	county: ..... / Grays Harbor County
+79	true	county: hampshire county / Hampshire County
+80	null	county: ..... / Grant County
+81	null	county: ..... / Gilmer County
+82	true	county: fayette county / Fayette County
+83	null	county: ..... / Cabell County
+84	null	county: ..... / Boone County
+85	null	county: ..... / Brooke County
+86	true	county: whitman county / Whitman County
+87	null	county: ..... / Mineral County
+88	null	county: ..... / Walla Walla County
+89	null	county: ..... / Wahkiakum County
+90	null	county: ..... / San Juan County
+91	null	county: ..... / Thurston County
+92	null	county: ..... / Skamania County
+93	true	county: snohomish county / Snohomish County
+94	null	county: ..... / Skagit County
+95	null	county: ..... / Pierce County
+96	null	county: ..... / Pacific County
+97	null	county: ..... / Kitsap County
+98	null	county: ..... / Mason County
+99	null	county: ..... / Lincoln County
+100	null	county: ..... / Lewis County
+101	null	county: ..... / Kittitas County
+102	null	county: ..... / Washington County
+103	null	county: ..... / Grant County
+104	true	county: garfield county / Garfield County
+105	null	county: ..... / Franklin County
+106	null	county: ..... / Cowlitz County
+107	null	county: ..... / Yakima County
+108	true	county: pend oreille county / Pend Oreille County
+109	null	county: ..... / Jefferson County
+110	null	county: ..... / Clallam County
+111	null	county: ..... / York County
+112	null	county: ..... / Wythe County
+113	true	county: wise county / Wise County
+114	null	county: ..... / Westmoreland County

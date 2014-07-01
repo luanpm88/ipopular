@@ -1,0 +1,23 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	census estimate yr: ..... / 2005
+2	null	census estimate yr: ..... / 2005
+3	null	census estimate yr: ..... / 2000
+4	null	census estimate yr: ..... / 2005
+5	null	census estimate yr: ..... / 2005
+6	null	census estimate yr: ..... / 2005
+7	null	census estimate yr: ..... / 2008
+8	null	census estimate yr: ..... / 2005
+9	null	census estimate yr: ..... / 2005
+10	null	census estimate yr: ..... / 2005
+11	null	census estimate yr: ..... / 2005
+12	null	census estimate yr: ..... / 2005
+13	null	census estimate yr: ..... / 2005
+14	null	census estimate yr: ..... / 2008

@@ -1,0 +1,79 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 3/12
+------------
+Found: 66
+Found Not Null: 23
+Correct: 20
+Wrong: 3
+Total: 33
+-----------
+precision: 0.8695652173913043
+recall: 0.6060606060606061
+F: 0.7142857142857143
+
+
+
+1	null	birth_place: ..... / Los Angeles,
+2	null	birth_name: ..... / Jamie Lee Curtis
+3	null	occupation: ..... / actress
+4	false	birth_name: reginald mckern / Reginald "Leo" McKern,
+5	null	occupation: ..... / actor
+6	true	birth_place: edmonton, alberta, canada / Edmonton, Alberta, Canada,
+7	null	birth_name: ..... / Francis Alick "Frankie"
+8	null	occupation: ..... / actor
+9	true	birth_name: emilie charlotte le breton / Emilie Charlotte Le Breton,
+10	true	occupation: actress / actress
+11	null	birth_place: ..... / San Francisco, California,
+12	null	birth_place: ..... / San Francisco, California,
+13	true	birth_name: karl frederik lukas moodysson / Karl Frederik Lukas Moodysson
+14	null	occupation: ..... / film writer
+15	null	occupation: ..... / actor
+16	null	birth_place: ..... / Croydon, Surrey
+17	null	birth_name: ..... / Sir David Lean
+18	null	birth_name: ..... / Frederick Bean "Fred/Tex"
+19	null	occupation: ..... / voice actor
+20	null	birth_name: ..... / Christopher D'Olier Reeve
+21	true	birth_name: manoj nelliyattu shyamalan / Manoj Nelliyattu Shyamalan
+22	null	birth_place: ..... / Guadalajara, México
+23	true	birth_name: maría cristina estela marcela jurado garcía / María Cristina Estela Marcela Jurado García
+24	true	occupation: actress / actress
+25	true	birth_name: james neville mason / James Neville Mason
+26	true	occupation: actor / actor
+27	true	birth_name: michael francis moore / Michael Francis Moore
+28	true	occupation: actor / actor
+29	false	birth_name: ronald william george barker / Ronald William George "Ronnie" Barker,
+30	null	occupation: ..... / actor
+31	true	birth_place: toccoa, georgia / Toccoa, Georgia,
+32	null	birth_name: ..... / Jackson DeForest Kelley
+33	null	occupation: ..... / actor
+34	null	birth_name: ..... / Roscoe Conkling "Fatty"
+35	true	birth_name: eldred gregory peck / Eldred Gregory Peck
+36	true	birth_place: vancouver, british columbia / Vancouver, British Columbia,
+37	null	birth_name: ..... / James Montgomery "Jimmy"
+38	true	occupation: actor / actor
+39	null	birth_place: ..... / Paso, Texas,
+40	true	birth_name: mary frances reynolds / Mary Frances Reynolds
+41	true	birth_place: roanne, loire, france / Roanne, Loire, France.
+42	null	occupation: ..... / film director.
+43	null	birth_place: ..... / Owensboro, Kentucky,
+44	null	birth_name: ..... / John Christopher "Johnny" Depp II
+45	null	occupation: ..... / actor
+46	null	birth_place: ..... / Mound, Minnesota,
+47	true	birth_name: kevin david sorbo / Kevin David Sorbo
+48	true	occupation: actor / actor
+49	true	birth_name: natalia nikolaevna zakharenko / Natalia Nikolaevna Zakharenko
+50	false	occupation: actress / actor
+51	null	birth_name: michael andrew fox / ..........
+52	null	birth_place: york, yorkshire, england / ..........
+53	null	birth_name: esai manuel morales, jr. / ..........
+54	null	birth_name: ivo livi / ..........
+55	null	birth_place: monsummano terme, italy / ..........
+56	null	birth_place: taylor, texas / ..........
+57	null	birth_name: ricardo gonzalo pedro montalbán y merino / ..........
+58	null	birth_name: kevin tod smith / ..........
+59	null	birth_name: grace ethel cecile rosalie allen / ..........
+60	null	death_place: santa catalina island, california / ..........

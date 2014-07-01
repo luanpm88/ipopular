@@ -1,0 +1,35 @@
+Found Not Null: 10
+Correct: 7
+Wrong: 3
+Total: 18
+-----------
+precision: 0.7
+recall: 0.3888888888888889
+F: 0.5
+
+
+
+
+1	true	founded: 1974 / 1974
+2	true	founded: 24 september 1946 / 24 September 1946
+3	true	founded: 1945 / 1945
+4	null	founded: ..... / 2002
+5	false	founded: 1995 / 28 August 1995
+6	false	founded: 14 june 1968 / 1967
+7	null	founded: ..... / September 15, 1925, when
+8	true	founded: 1946 / 1946
+9	true	founded: 1923 / 1923
+10	false	founded: october 1968 / 1968
+11	true	founded: 1962 / 1962
+12	null	founded: ..... / 1930
+13	null	founded: ..... / 1946
+14	null	founded: ..... / 1920
+15	true	founded: 1986 / 1986
+16	null	founded: 1946 / ..........
+17	null	founded: 1995 / ..........
+18	null	founded: 1983 / ..........
+19	null	founded: 1937 / ..........
+20	null	founded: 8 october 1929 / ..........
+21	null	founded: 1994 / ..........
+22	null	founded: 1998 / ..........
+23	null	founded: august 1, 1951 / ..........

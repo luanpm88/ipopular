@@ -1,0 +1,15 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 4
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	aircraft type: lockheed l1011-200 tristar / ..........
+2	null	aircraft type: mcdonnell douglas dc-8-61 / ..........
+3	null	aircraft type: fairchild fh-227d / ..........
+4	null	aircraft type: boeing 747-244b combi / ..........

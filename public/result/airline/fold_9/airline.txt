@@ -1,0 +1,51 @@
+Found Not Null: 21
+Correct: 15
+Wrong: 6
+Total: 31
+-----------
+precision: 0.7142857142857143
+recall: 0.4838709677419355
+F: 0.5769230769230769
+
+
+
+
+1	false	airline: royal brunei airlines / Royal Brunei
+2	null	airline: ..... / Cathay Pacific
+3	true	airline: iraqi airways / Iraqi Airways
+4	null	airline: ..... / World Atlantic Airlines
+5	false	airline: airbaltic / Air Baltic
+6	null	airline: ..... / WestJet Airlines
+7	true	airline: ariana afghan airlines / Ariana Afghan Airlines
+8	true	airline: air mauritius / Air Mauritius
+9	null	airline: ..... / Scandinavian Airlines
+10	true	airline: tam airlines / TAM Airlines
+11	true	airline: sabena / SABENA
+12	true	airline: air jamaica / Air Jamaica
+13	true	airline: solomon airlines / Solomon Airlines
+14	true	airline: frontier airlines / Frontier Airlines,
+15	true	airline: pakistan international airlines  / Pakistan International Airlines
+16	false	airline: hawaiian airlines, inc. / Hawaiian Airlines,
+17	true	airline: trans world airlines / Trans World Airlines
+18	null	airline: ..... / Turkish Airlines
+19	false	airline: garuda indonesia / PT
+20	null	airline: ..... / Trans Australia Airlines
+21	true	airline: icelandair / Icelandair
+22	true	airline: singapore airlines / Singapore Airlines
+23	true	airline: ata airlines / ATA Airlines,
+24	null	airline: ..... / Malaysia
+25	null	airline: ..... / Iran Air
+26	false	airline: air atlanta icelandic / Air Atlanta
+27	true	airline: das air cargo / DAS Air Cargo
+28	false	airline: culebra air services / Culebra Air
+29	true	airline: easyjet / EasyJet
+30	null	airline: british overseas airways corporation / ..........
+31	null	airline: cubana de aviación / ..........
+32	null	airline: swiss international air lines / ..........
+33	null	airline: swissair / ..........
+34	null	airline: crossair / ..........
+35	null	airline: freedom air / ..........
+36	null	airline: viasa / ..........
+37	null	airline: bahamasair / ..........
+38	null	airline: widerøe / ..........
+39	null	airline: norwegian air shuttle asa / ..........

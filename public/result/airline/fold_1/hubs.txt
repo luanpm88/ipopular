@@ -1,0 +1,43 @@
+Found Not Null: 6
+Correct: 5
+Wrong: 1
+Total: 9
+-----------
+precision: 0.8333333333333334
+recall: 0.5555555555555556
+F: 0.6666666666666667
+
+
+
+
+1	null	hubs: ..... / Miami International Airport
+2	null	hubs: ..... / Vienna International Airport
+3	null	hubs: ..... / Christchurch International Airport
+4	null	hubs: ..... / Ngurah Rai Airport,
+5	null	hubs: ..... / Los Angeles International Airport
+6	null	hubs: ..... / Oakland International Airport
+7	null	hubs: ..... / Stapleton International Airport
+8	true	hubs: singapore changi airport / Singapore Changi Airport.
+9	true	hubs: tribhuvan international airport / Tribhuvan International Airport,
+10	null	hubs: ..... / London Gatwick Airport
+11	null	hubs: ..... / Don Mueang International Airport,
+12	null	hubs: ..... / Brasilia International Airport
+13	false	hubs: mehrabad airport / Mehrabad Airport, Tehran.
+14	null	hubs: ..... / Mehrabad International Airport
+15	null	hubs: ..... / Mehrabad International Airport,
+16	true	hubs: mashhad international airport / Mashhad International Airport.
+17	true	hubs: frankfurt airport / Frankfurt Airport.
+18	null	hubs: ..... / Soekarno-Hatta International Airport,
+19	null	hubs: ..... / Macau International Airport.
+20	null	hubs: ..... / Terrace Airport
+21	true	hubs: vancouver international airport / Vancouver International Airport.
+22	null	hubs: ..... / Zürich International Airport
+23	null	hubs: singapore changi airport / ..........
+24	null	hubs: tribhuvan international airport / ..........
+25	null	hubs: london luton airport / ..........
+26	null	hubs: frankfurt airport / ..........
+27	null	hubs: suvarnabhumi airport / ..........
+28	null	hubs: vancouver international airport / ..........
+29	null	hubs: mehrabad airport / ..........
+30	null	hubs: mashhad international airport / ..........
+31	null	hubs: phnom penh international airport / ..........

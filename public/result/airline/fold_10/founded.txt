@@ -1,0 +1,35 @@
+Found Not Null: 4
+Correct: 3
+Wrong: 1
+Total: 12
+-----------
+precision: 0.75
+recall: 0.25
+F: 0.375
+
+
+
+
+1	null	founded: ..... / March 14, 1927,
+2	true	founded: 1971 / 1971
+3	null	founded: ..... / 1977
+4	true	founded: 1934 / 1934
+5	null	founded: ..... / 1926
+6	null	founded: ..... / 1940
+7	null	founded: ..... / 1989
+8	false	founded: 1 january 1929 / 1929
+9	null	founded: ..... / 1926
+10	null	founded: ..... / 1928
+11	null	founded: ..... / 24 May 1958
+12	null	founded: ..... / 1963
+13	true	founded: 15 april 1936 / 15 April 1936,
+14	null	founded: ..... / 1978
+15	null	founded: ..... / 2010
+16	null	founded: 7 october 1919 / ..........
+17	null	founded: 1920 / ..........
+18	null	founded: 1946 / ..........
+19	null	founded: 1998 / ..........
+20	null	founded: 28 june 1927 / ..........
+21	null	founded: 1948 / ..........
+22	null	founded: 1985 / ..........
+23	null	founded: february 1981 / ..........

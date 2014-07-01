@@ -1,0 +1,20 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	birth_place: ..... / Brunswick, New Jersey,
+2	null	birth_place: ..... / Dubuque, Iowa,
+3	null	birth_place: ..... / Wise, Virginia,
+4	null	birth_place: ..... / Marshalltown, Iowa,
+5	null	birth_place: ..... / Newmarket, Ontario,
+6	null	birth_place: ..... / Bridgeport, Connecticut
+7	null	birth_place: ..... / Salisbury, Wiltshire, England.
+8	null	birth_place: ..... / Bellefonte, Pennsylvania.
+9	null	birth_place: durban, south africa / ..........

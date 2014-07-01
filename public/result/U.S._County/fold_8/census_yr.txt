@@ -1,0 +1,65 @@
+Found Not Null: 14
+Correct: 14
+Wrong: 0
+Total: 15
+-----------
+precision: 1.0
+recall: 0.9333333333333333
+F: 0.9655172413793104
+
+
+
+
+1	null	census yr: ..... / 2006
+2	true	census yr: 2000 / 2000
+3	true	census yr: 2000 / 2000
+4	true	census yr: 2000 / 2000
+5	null	census yr: ..... / 2000
+6	null	census yr: ..... / 2000
+7	null	census yr: ..... / 2000
+8	null	census yr: ..... / 1763
+9	true	census yr: 2000 / 2000
+10	null	census yr: ..... / 2000
+11	null	census yr: ..... / 2000
+12	true	census yr: 2000 / 2000
+13	null	census yr: ..... / 2000
+14	null	census yr: ..... / 2000
+15	null	census yr: ..... / 2000
+16	null	census yr: ..... / 2000
+17	null	census yr: ..... / 2000
+18	null	census yr: ..... / 2000
+19	null	census yr: ..... / 2000
+20	true	census yr: 2000 / 2000
+21	true	census yr: 2000 / 2000
+22	null	census yr: ..... / 2000
+23	null	census yr: ..... / 2000
+24	null	census yr: ..... / 2000
+25	null	census yr: ..... / 2000
+26	null	census yr: ..... / 2000
+27	null	census yr: ..... / 2000
+28	true	census yr: 2000 / 2000
+29	null	census yr: ..... / 2000
+30	true	census yr: 2000 / 2000
+31	null	census yr: ..... / 2000
+32	null	census yr: ..... / 2000
+33	null	census yr: ..... / 2000
+34	null	census yr: ..... / 2000
+35	true	census yr: 2000 / 2000
+36	null	census yr: ..... / 2000
+37	null	census yr: ..... / 2000
+38	null	census yr: ..... / 2000
+39	null	census yr: ..... / 2000
+40	null	census yr: ..... / 2000
+41	null	census yr: ..... / 2000
+42	null	census yr: ..... / 2000
+43	true	census yr: 2000 / 2000
+44	null	census yr: ..... / 2000
+45	true	census yr: 2000 / 2000
+46	null	census yr: ..... / 2000
+47	true	census yr: 2000 / 2000
+48	null	census yr: ..... / 2000
+49	null	census yr: ..... / 2000
+50	null	census yr: ..... / 2000
+51	true	census yr: 2000 / 2000
+52	null	census yr: ..... / 2000
+53	null	census yr: 2000 / ..........

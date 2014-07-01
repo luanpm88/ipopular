@@ -1,0 +1,19 @@
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 4
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	ceased: ..... / Moscow
+2	null	ceased: ..... / 25 March 2004.
+3	false	ceased: 5 december 2004 / 2004
+4	null	ceased: march 24, 1999 / ..........
+5	null	ceased: november 15, 1999 / ..........
+6	null	ceased: 5 december 2004 / ..........
+7	null	ceased: april 2006 / ..........

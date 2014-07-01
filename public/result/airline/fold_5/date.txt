@@ -1,0 +1,32 @@
+Found Not Null: 5
+Correct: 4
+Wrong: 1
+Total: 6
+-----------
+precision: 0.8
+recall: 0.6666666666666666
+F: 0.7272727272727272
+
+
+
+
+1	null	date: ..... / February 15, 1970
+2	true	date: december 20, 1995 / December 20, 1995,
+3	true	date: november 23, 1985 / November 23, 1985,
+4	false	date: 12 august 1985 / August 12, 1985.
+5	null	date: ..... / July 19, 1989,
+6	null	date: ..... / 26 July 2010,
+7	null	date: ..... / 3 January 2004,
+8	null	date: ..... / February 22, 1991.
+9	null	date: ..... / 25 December 2003
+10	null	date: ..... / September 5, 1986,
+11	null	date: ..... / July 6, 1959,
+12	null	date: ..... / 6 November 2002,
+13	null	date: ..... / 23 September 1983,
+14	true	date: 25 december 1986 / 25 December 1986,
+15	null	date: ..... / 16 October 1991,
+16	null	date: ..... / December 7, 1987,
+17	null	date: ..... / 19, 1997,
+18	null	date: ..... / April 28, 1988,
+19	true	date: december 12, 1985 / December 12, 1985,
+20	null	date: november 27, 1989 / ..........

@@ -1,0 +1,26 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	founded date: ..... / February 26,
+2	null	founded date: ..... / March 26,
+3	null	founded date: ..... / March 2,
+4	null	founded date: ..... / June 22,
+5	null	founded date: ..... / June 22,
+6	null	founded date: ..... / August 19,
+7	null	founded date: ..... / March 28,
+8	null	founded date: ..... / March 12,
+9	null	founded date: ..... / March 22,
+10	null	founded date: ..... / March 26,
+11	null	founded date: ..... / February 21,
+12	null	founded date: ..... / April 17,
+13	null	founded date: ..... / March 1,
+14	null	founded date: ..... / March 22,
+15	null	founded date: february 22 / ..........

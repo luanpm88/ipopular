@@ -1,0 +1,30 @@
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 4
+-----------
+precision: 0.6666666666666666
+recall: 0.5
+F: 0.5714285714285715
+
+
+
+
+1	null	operator: ..... / Kiwi International
+2	null	operator: ..... / Impulse Airlines
+3	null	operator: ..... / Pan Am
+4	null	operator: ..... / Siberia Airlines
+5	null	operator: ..... / Shenzhen Airlines
+6	null	operator: ..... / Kosova Airlines
+7	null	operator: ..... / Bulgaria Air
+8	false	operator: sas / Scandinavian Airlines
+9	null	operator: ..... / Tiger Airways
+10	null	operator: ..... / Singapore Airlines
+11	null	operator: ..... / Leeward Islands
+12	null	operator: ..... / Lufthansa
+13	null	operator: ..... / Tyrolean Airways
+14	null	operator: ..... / Corporate Airlines
+15	true	operator: japan airlines / Japan Airlines
+16	null	operator: ..... / Kingfisher Red,
+17	true	operator: air new zealand / Air New Zealand
+18	null	operator: silkair / ..........

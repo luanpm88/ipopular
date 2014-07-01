@@ -1,0 +1,285 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 17/39
+------------
+Found: 225
+Found Not Null: 106
+Correct: 67
+Wrong: 39
+Total: 167
+-----------
+precision: 0.6320754716981132
+recall: 0.40119760479041916
+F: 0.4908424908424909
+
+
+
+1	false	callsign: air moldova / Air
+2	true	founded: 1993 / 1993
+3	true	hubs: chişinău international airport / Chişinău International Airport
+4	true	airline: air moldova / Air Moldova
+5	null	callsign: ..... / US
+6	true	iata: us / US
+7	true	airline: us  airways / US Airways
+8	null	headquarters: ..... / Devon, England.
+9	false	founded: 1979 (as jersey european airways) / 1979
+10	false	airline: flybe / Flybe Limited
+11	null	icao: ..... / Flybe
+12	null	commenced: ..... / 1 November 1979
+13	true	crew: 14 / 14
+14	true	passengers: 156 / 156
+15	null	ceased: ..... / 9 Italians, 7 Americans, 5 Cameroonians, 4 Britons, 3
+16	null	r accidentname: ..... / UTA Flight 772
+17	null	operator: ..... / UTA
+18	null	airline: ..... / UTA
+19	null	icao: ..... / UTA
+20	null	callsign: ..... / Virgin Blue
+21	true	headquarters: bowen hills, brisbane, queensland, australia / Bowen Hills, Brisbane, Queensland, Australia.
+22	true	airline: virgin blue / Virgin Blue
+23	null	icao: ..... / Virgin
+24	null	callsign: ..... / AirTran
+25	false	headquarters: orlando, florida / Milwaukee, Wisconsin.
+26	true	airline: airtran airways / AirTran Airways
+27	null	icao: ..... / ValuJet
+28	null	occurrence_type: ..... / accident
+29	false	callsign: reeve / Reeve Aleutian
+30	null	headquarters: ..... / Anchorage, Alaska, United
+31	true	ceased: december 5, 2000 / December 5, 2000.
+32	true	airline: reeve aleutian airways / Reeve Aleutian Airways
+33	null	icao: ..... / Reeve
+34	true	occurrence_type: accident / accident
+35	null	callsign: ..... / Turkish
+36	true	crew: 13 / 13
+37	null	passengers: ..... / 167
+38	true	r accidentname: turkish airlines flight 981 / Turkish Airlines Flight 981
+39	true	operator: turkish airlines / Turkish Airlines
+40	null	airline: ..... / Turkish Airlines
+41	true	alliance: skyteam / SkyTeam
+42	null	callsign: ..... / Czech
+43	null	founded: ..... / 6 October 1923,
+44	null	destinations: ..... / 69
+45	null	r accidentname: ..... / Czech Airlines j. s.c.
+46	null	operator: ..... / Czech Airlines
+47	null	airline: ..... / Czech Airlines
+48	true	icao: csa / CSA
+49	true	callsign: chautauqua / Chautauqua
+50	null	headquarters: ..... / Indianapolis, Indiana,
+51	true	founded: 1973 / 1973
+52	null	hubs: ..... / Indianapolis International Airport,
+53	false	parent: republic airways holdings / Chautauqua Airlines, Inc.
+54	null	destinations: ..... / 98
+55	true	airline: chautauqua airlines / Chautauqua Airlines,
+56	null	callsign: ..... / Kavminvodyavia
+57	false	founded: 1995 / 1961
+58	null	hubs: ..... / Mineralnye Vody Airport
+59	null	destinations: ..... / 20
+60	true	callsign: moldavian / Moldavian
+61	null	headquarters: ..... / Romania.
+62	true	founded: 1994 / 1994
+63	true	hubs: chişinău international airport / Chişinău International Airport.
+64	null	r accidentname: ..... / thumb|Moldavian Airlines Saab 2000
+65	false	airline: moldavian airlines / thumb|Moldavian Airlines Saab 2000 Moldavian Airlines
+66	null	callsign: ..... / Oneworld
+67	null	founded: ..... / 1999
+68	null	icao: ..... / Oneworld
+69	false	callsign: british / BA Connect
+70	false	founded: 2006 / 1970
+71	true	airline: ba connect / BA Connect
+72	false	callsign: condor / Lufthansa
+73	null	headquarters: ..... / Kelsterbach, Hesse,
+74	true	founded: 1955 / 1955
+75	true	hubs: frankfurt airport / Frankfurt Airport
+76	false	airline: condor / Condor Flugdienst,
+77	null	icao: ..... / Condor
+78	true	callsign: pulkovo / Pulkovo
+79	false	founded: 24 june 1932 / 1932
+80	null	ceased: ..... / 29 October 2006
+81	false	airline: pulkovo aviation enterprise / Pulkovo Aviation
+82	null	icao: ..... / Pulkovo
+83	true	callsign: world / World
+84	null	founded: ..... / 1948
+85	true	airline: world airways / World Airways,
+86	null	icao: ..... / World
+87	null	callsign: ..... / off
+88	null	founded: ..... / 8 January 1989,
+89	null	airline: ..... / taking off
+90	null	icao: ..... / off
+91	true	callsign: air midwest / Air Midwest
+92	null	destinations: ..... / 28
+93	true	airline: air midwest / Air Midwest
+94	null	callsign: ..... / KLM
+95	null	founded: ..... / 1991
+96	true	hubs: amsterdam airport schiphol / Amsterdam Airport Schiphol
+97	false	airline: klm cityhopper / KLM
+98	null	icao: ..... / KLM
+99	null	r accidentname: ..... / Swissair Flight 111
+100	false	callsign: pace / Hooters Air
+101	true	founded: 2003 / 2003
+102	true	airline: hooters air / Hooters Air
+103	null	icao: ..... / Hooters
+104	true	callsign: philippine / Philippine
+105	false	founded: march 15, 1941 / 1941
+106	null	hubs: ..... / Ninoy Aquino International Airport
+107	null	destinations: ..... / 24
+108	true	airline: philippine airlines / Philippine Airlines,
+109	true	icao: pal / PAL
+110	null	alliance: ..... / Star Alliance.
+111	false	callsign: air china / Air
+112	null	hubs: ..... / Beijing Capital International Airport.
+113	true	airline: air china / Air China
+114	null	icao: ..... / Air
+115	true	callsign: copa / Copa
+116	true	headquarters: panama city, panama / Panama City, Panama,
+117	null	hubs: ..... / Tocumen International Airport,
+118	true	destinations: 45 / 45
+119	null	operator: ..... / Copa Airlines
+120	true	airline: copa airlines / Copa Airlines
+121	true	callsign: corsair / Corsair
+122	true	headquarters: rungis, france / Rungis, France.
+123	false	founded: 1981 (as corse air international) / 1981
+124	false	hubs: orly airport, paris / Orly Airport,
+125	false	airline: corsairfly / Corsair
+126	null	commenced: ..... / 17 May 1981
+127	false	alliance: star alliance / Star
+128	true	callsign: thai / Thai
+129	true	hubs: suvarnabhumi airport / Suvarnabhumi Airport,
+130	null	destinations: ..... / 71
+131	false	airline: thai airways international / Thai Airways
+132	null	callsign: ..... / SkyEurope
+133	false	founded: november 2001 / 2001
+134	false	ceased: 1 september 2009 / 31 August 2009
+135	false	airline: skyeurope / SkyEurope Airlines
+136	null	icao: ..... / SkyEurope
+137	true	commenced: 13 february 2002 / 13 February 2002
+138	false	callsign: jazz / Air
+139	null	hubs: ..... / Halifax Stanfield International Airport
+140	false	airline: air canada jazz / Air Canada
+141	null	icao: ..... / CCAL
+142	true	callsign: adria / Adria
+143	false	founded: march 1961 / 1961
+144	true	hubs: ljubljana airport / Ljubljana Airport
+145	null	destinations: ..... / 28
+146	true	airline: adria airways / Adria Airways
+147	null	icao: ..... / Adria
+148	null	callsign: ..... / Skywest
+149	true	headquarters: perth, western australia, australia / Perth, Western Australia, Australia;
+150	null	operator: ..... / Skywest Airlines
+151	false	airline: skywest / Skywest Airlines
+152	null	icao: ..... / Skywest
+153	false	headquarters: mississauga, ontario / Mississauga, Ontario, Canada.
+154	null	hubs: ..... / Toronto Pearson International Airport,
+155	true	airline: air georgian / Air Georgian
+156	null	callsign: ..... / Air
+157	true	founded: 2001 / 2001
+158	false	callsign: korean air / Korean
+159	false	founded: 1962 / 1984
+160	null	hubs: ..... / Gimhae International Airport.
+161	null	airline: ..... / Korean Air
+162	null	icao: ..... / Korean
+163	true	alliance: star alliance / Star Alliance.
+164	true	hubs: cairo international airport / Cairo International Airport
+165	null	destinations: ..... / 75
+166	null	airline: ..... / EgyptAir Airlines
+167	false	callsign: wardair / Wardair Canada
+168	true	founded: 1953 / 1953
+169	null	airline: ..... / Wardair Canada
+170	null	icao: ..... / Wardair
+171	true	alliance: star alliance / Star Alliance
+172	true	callsign: asiana / Asiana
+173	null	headquarters: ..... / Osoe-dong, Gangseo-gu, Seoul.
+174	true	founded: 1988 / 1988
+175	null	hubs: ..... / Gimpo International Airport
+176	false	parent: kumho asiana group / Star Alliance
+177	null	destinations: ..... / 66
+178	null	operator: ..... / Asiana Airlines
+179	null	airline: ..... / Asiana Airlines
+180	null	icao: ..... / Asiana
+181	false	callsign: jat / Aeroput
+182	false	founded: 17 june 1927 (as aeroput) / 1927
+183	null	hubs: ..... / Belgrade Nikola Tesla Airport
+184	true	destinations: 37 / 37
+185	true	icao: jat / Jat
+186	false	callsign: kaunas / Air
+187	true	hubs: kaunas international airport / Kaunas International Airport
+188	false	airline: air lithuania / Air Company
+189	null	icao: ..... / Air
+190	null	callsign: ..... / Lauda Air
+191	null	headquarters: ..... / Schwechat, Austria.
+192	null	hubs: ..... / Vienna International Airport.
+193	null	airline: ..... / Lauda Air
+194	null	icao: ..... / Lauda
+195	null	callsign: ..... / Canadian
+196	true	founded: 1942 / 1942
+197	null	icao: ..... / TCA
+198	true	headquarters: smithers, british columbia / Smithers, British Columbia.
+199	null	hubs: ..... / Smithers Airport,
+200	true	airline: central mountain air / Central Mountain Air
+201	null	callsign: ..... / Great
+202	true	airline: great lakes airlines / Great Lakes Airlines,
+203	null	callsign: ..... / SkyTeam
+204	null	founded: ..... / 2000
+205	null	icao: ..... / SkyTeam
+206	null	headquarters: tempe, arizona / ..........
+207	null	focus_cities: ronald reagan washington national airport / ..........
+208	null	alliance: star alliance / ..........
+209	null	parent: us airways group / ..........
+210	null	callsign: jersey / ..........
+211	null	parent: british airways / ..........
+212	null	alliance: oneworld / ..........
+213	null	logo_size: 100 / ..........
+214	null	destinations: 44 / ..........
+215	null	parent: air france-klm / ..........
+216	null	alliance: skyteam / ..........
+217	null	date: 2 september 1998 / ..........
+218	null	occurrence_type: accident / ..........
+219	null	operator: swissair / ..........
+220	null	parent: pace airlines / ..........
+221	null	commenced: march 6, 2003 / ..........
+222	null	headquarters: myrtle beach, south carolina / ..........
+223	null	parent: china national aviation corporation / ..........
+224	null	frequent_flyer: onepass / ..........
+225	null	date: 19 september 1989 / ..........
+226	null	site: sahara desert / ..........
+227	null	tail number: n54629 / ..........
+228	null	destinations: 30 / ..........
+229	null	headquarters: bratislava, slovakia / ..........
+230	null	headquarters: enfield, nova scotia / ..........
+231	null	destinations: 82 / ..........
+232	null	commenced: 1956 / ..........
+233	null	headquarters: ljubljana airport / ..........
+234	null	alliance: star alliance / ..........
+235	null	founded: 1963 / ..........
+236	null	hubs: perth airport / ..........
+237	null	callsign: georgian / ..........
+238	null	founded: 1994 / ..........
+239	null	secondary_hubs: halifax stanfield international airport, / ..........
+240	null	focus_cities: toronto / ..........
+241	null	airline: air canada tango / ..........
+242	null	parent: air canada / ..........
+243	null	callsign: egyptair / ..........
+244	null	parent: airtran holdings  / ..........
+245	null	headquarters: edmonton, alberta / ..........
+246	null	key_people: max ward / ..........
+247	null	airline: air santo domingo / ..........
+248	null	parent: russia state transport company / ..........
+249	null	airline: jat airways / ..........
+250	null	date: 3 march 1974 / ..........
+251	null	founded: 13 september 1991 / ..........
+252	null	alliance: skyteam / ..........
+253	null	iata: ok / ..........
+254	null	airline: canadian pacific air lines / ..........
+255	null	iata: cp / ..........
+256	null	headquarters: peachtree city, georgia / ..........
+257	null	destinations: 17 / ..........
+258	null	headquarters: chişinău, moldova / ..........
+259	null	destinations: 31 / ..........
+260	null	hubs: brisbane airport / ..........
+261	null	fleet_size: 13 / ..........
+262	null	parent: chorus aviation  / ..........
+263	null	headquarters: cheyenne, wyoming / ..........
+264	null	parent: egyptair holding company / ..........
+265	null	callsign: air santo domingo / ..........
+266	null	secondary_hubs: palanga international airport / ..........

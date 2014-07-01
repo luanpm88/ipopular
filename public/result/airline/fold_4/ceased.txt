@@ -1,0 +1,19 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 5
+-----------
+precision: 1.0
+recall: 0.2
+F: 0.33333333333333337
+
+
+
+
+1	true	ceased: november 30, 2004 / November 30, 2004.
+2	null	ceased: ..... / 1998 and 2002.
+3	null	ceased: november 30, 2004 / ..........
+4	null	ceased: 29 september 2009 / ..........
+5	null	ceased: 1987 / ..........
+6	null	ceased: 1991 / ..........
+7	null	ceased: 2007 / ..........

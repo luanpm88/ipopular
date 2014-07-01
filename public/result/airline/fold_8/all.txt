@@ -1,0 +1,251 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 10/39
+------------
+Found: 206
+Found Not Null: 66
+Correct: 45
+Wrong: 21
+Total: 127
+-----------
+precision: 0.6818181818181818
+recall: 0.3543307086614173
+F: 0.46632124352331605
+
+
+
+1	true	callsign: libyan / Libyan
+2	null	hubs: ..... / Tripoli International Airport.
+3	null	airline: ..... / Libyan Airlines
+4	null	callsign: ..... / Continental Express
+5	null	hubs: ..... / Houston Intercontinental Airport
+6	true	airline: continental express / Continental Express
+7	false	founded: 24 may 1985 / 1985
+8	true	hubs: hong kong international airport / Hong Kong International Airport.
+9	true	destinations: 32 / 32
+10	null	airline: ..... / time
+11	null	icao: ..... / Dragonair
+12	false	callsign: air finland / Oy
+13	true	founded: 2002 / 2002
+14	true	hubs: helsinki-vantaa airport / Helsinki-Vantaa Airport
+15	false	airline: air finland / Oy Air Finland Ltd
+16	null	icao: ..... / Oy
+17	null	callsign: ..... / AirAsia
+18	null	airline: ..... / AirAsia Berhad
+19	null	icao: ..... / AirAsia
+20	null	callsign: ..... / O'Connor
+21	false	headquarters: mount gambier, south australia / Mount Gambier, South Australia, Australia.
+22	null	hubs: ..... / Mount Gambier Airport,
+23	true	airline: o'connor airlines / O'Connor Airlines
+24	null	callsign: ..... / ANA
+25	null	hubs: ..... / Narita International Airport
+26	null	destinations: ..... / 49
+27	true	icao: ana / ANA
+28	null	callsign: ..... / Delta
+29	null	founded: ..... / 1977
+30	null	hubs: ..... / Cincinnati-Northern Kentucky International Airport
+31	null	parent: ..... / Delta Air Lines
+32	null	icao: ..... / Comair
+33	null	callsign: ..... / Balkan
+34	null	airline: ..... / Balkan Airlines
+35	null	icao: ..... / Balkan
+36	null	callsign: ..... / Gulfstream
+37	null	headquarters: ..... / Dania Beach, Florida,
+38	null	founded: ..... / 1988
+39	null	hubs: ..... / Fort Lauderdale-Hollywood International Airport,
+40	null	destinations: ..... / 9
+41	null	airline: ..... / Gulfstream International Airlines
+42	null	commenced: ..... / December 1, 1990.
+43	true	callsign: independence / Independence
+44	null	founded: ..... / 1989
+45	true	hubs: washington dulles international airport / Washington Dulles International Airport.
+46	true	parent: flyi, inc. / FLYi, Inc.
+47	true	airline: independence air / Independence Air
+48	null	icao: ..... / Independence
+49	false	callsign: bangladesh / Biman Bangladesh
+50	null	headquarters: ..... / Kurmitola, Dhaka.
+51	true	hubs: shahjalal international airport / Shahjalal International Airport
+52	null	airline: ..... / Biman Bangladesh Airlines
+53	null	icao: ..... / Biman
+54	true	callsign: aloha / Aloha
+55	true	airline: aloha airlines / Aloha Airlines
+56	null	icao: ..... / Aloha
+57	null	callsign: ..... / Austral
+58	null	headquarters: ..... / Buenos Aires, Argentina.
+59	null	founded: ..... / 1971
+60	true	alliance: oneworld / Oneworld
+61	false	callsign: eagle flight / Delta
+62	true	headquarters: fort worth, texas / Fort Worth, Texas,
+63	false	airline: american eagle / American Eagle Airlines
+64	true	callsign: sterling / Sterling
+65	null	founded: ..... / 2005
+66	false	airline: sterling airlines a/s / Sterling Airlines
+67	null	icao: ..... / Sterling
+68	null	callsign: ..... / United
+69	null	founded: ..... / 1965
+70	null	airline: ..... / Air Wisconsin
+71	null	commenced: ..... / 1965 to 1994
+72	null	callsign: ..... / SkyWest
+73	null	airline: ..... / SkyWest Airlines,
+74	null	hubs: ..... / Vilnius International Airport.
+75	null	airline: ..... / FlyLal
+76	null	icao: ..... / FlyLal
+77	null	callsign: ..... / Mesaba
+78	null	headquarters: ..... / Eagan, Minnesota.
+79	null	parent: ..... / Pinnacle Airlines Corporation.
+80	null	airline: ..... / Mesaba Airlines
+81	null	icao: ..... / Mesaba
+82	true	callsign: ansett / Ansett
+83	true	headquarters: melbourne, australia / Melbourne, Australia,
+84	false	founded: 1936 / 2001
+85	false	airline: ansett australia / Ansett Airways
+86	null	icao: ..... / Ansett
+87	null	callsign: ..... / Continental
+88	null	parent: ..... / Continental Airlines.
+89	true	airline: continental micronesia / Continental Micronesia,
+90	null	callsign: ..... / ASA
+91	null	hubs: ..... / Hartsfield-Jackson Atlanta International Airport
+92	null	parent: ..... / SkyWest, Inc. ASA
+93	null	airline: ..... / Atlantic Southeast Airlines,
+94	null	icao: ..... / ASA
+95	null	callsign: ..... / Aero
+96	null	headquarters: ..... / Tallinn, Estonia.
+97	true	airline: aero airlines / Aero Airlines
+98	null	icao: ..... / Aero
+99	true	callsign: cyprus / Cyprus
+100	true	founded: 1947 / 1947
+101	true	destinations: 22 / 22
+102	null	airline: ..... / Cyprus Airways
+103	null	icao: ..... / Cyprus
+104	true	callsign: futura / Futura
+105	true	headquarters: palma de mallorca, spain / Palma de Mallorca, Spain.
+106	true	hubs: palma de mallorca airport / Palma de Mallorca Airport.
+107	true	airline: futura international airways / Futura International Airways
+108	true	hubs: bauerfield international airport / Bauerfield International Airport,
+109	true	airline: air vanuatu / Air Vanuatu
+110	false	callsign: azores / SATA
+111	null	headquarters: ..... / Ponta Delgada,
+112	true	founded: 1990 / 1990
+113	true	airline: sata international / SATA International
+114	null	icao: ..... / SATA
+115	false	commenced: 1991 / 8 April 1998.
+116	null	callsign: ..... / Maersk
+117	null	headquarters: ..... / Dragør, Dragør Municipality;
+118	true	founded: 1969 / 1969
+119	true	airline: maersk air / Maersk Air
+120	null	icao: ..... / Maersk
+121	null	callsign: ..... / Argus
+122	null	airline: ..... / Court Line
+123	null	icao: ..... / Court
+124	null	callsign: ..... / Kalitta Air
+125	null	headquarters: ..... / Ypsilanti Township, Michigan,
+126	null	hubs: ..... / Willow Run Airport
+127	true	airline: kalitta air / Kalitta Air
+128	null	icao: ..... / Kalitta
+129	true	callsign: ryanair / Ryanair
+130	true	founded: 1985 / 1985
+131	true	airline: ryanair / Ryanair
+132	null	icao: ..... / Ryanair
+133	null	parent: ..... / AeroMéxico. Its headquarters
+134	null	airline: ..... / Aeroperú
+135	false	callsign: horizon air / Horizon
+136	false	headquarters: seatac, washington / SeaTac, Washington, United
+137	null	icao: ..... / Horizon
+138	true	commenced: september 1, 1981 / September 1, 1981
+139	false	callsign: alaska / Horizon
+140	false	airline: alaska airlines / Alaska
+141	null	icao: ..... / Alaska
+142	false	callsign: commutair / Champlain
+143	true	founded: 1989 / 1989
+144	null	hubs: ..... / Cleveland Hopkins International
+145	null	icao: ..... / Service
+146	null	commenced: ..... / August 1, 1989.
+147	null	callsign: ..... / Hyannis Air
+148	false	headquarters: barnstable, massachusetts, united states / Barnstable, Massachusetts, United
+149	null	icao: ..... / Hyannis
+150	false	callsign: ack air / Nantucket
+151	null	headquarters: ..... / Hyannis, Massachusetts, United
+152	true	airline: nantucket airlines / Nantucket Airlines
+153	null	callsign: ..... / Mesa
+154	null	hubs: ..... / Sky Harbor International Airport
+155	null	callsign: ..... / Arrow Cargo
+156	false	headquarters: miami-dade county, florida / Miami-Dade County, Florida, USA.
+157	true	hubs: miami international airport / Miami International Airport
+158	null	destinations: ..... / 245
+159	false	airline: arrow air / Arrow Cargo
+160	null	icao: ..... / Arrow
+161	null	hubs: ..... / San Francisco International Airport
+162	true	airline: hughes airwest / Hughes Airwest
+163	null	callsign: ..... / Star Alliance
+164	null	founded: ..... / 1973
+165	null	airline: ..... / Star Alliance
+166	null	icao: ..... / Star
+167	true	callsign: canadian / Canadian
+168	null	founded: ..... / 1987
+169	null	destinations: ..... / 160
+170	null	airline: ..... / Canadian Airlines
+171	null	commenced: ..... / 1987 until 2001.
+172	null	iata: cy / ..........
+173	null	parent: libyan african aviation holding company / ..........
+174	null	founded: 1965 / ..........
+175	null	ceased: 29 october 2008 / ..........
+176	null	hubs: copenhagen airport / ..........
+177	null	iata: of / ..........
+178	null	fleet_size: 3 / ..........
+179	null	headquarters: vantaa, finland / ..........
+180	null	founded: 2000 / ..........
+181	null	airline: air america / ..........
+182	null	callsign: air america / ..........
+183	null	founded: 1950 / ..........
+184	null	parent: american airdale corporation / ..........
+185	null	founded: 1989 / ..........
+186	null	iata: nf / ..........
+187	null	founded: 1981 / ..........
+188	null	subsidiaries: sata international / ..........
+189	null	fleet_size: 8 / ..........
+190	null	callsign: dragon / ..........
+191	null	commenced: july 1985 / ..........
+192	null	fleet_size: 32 / ..........
+193	null	parent: cathay pacific / ..........
+194	null	hubs: london luton airport / ..........
+195	null	key_people: conrad kalitta / ..........
+196	null	iata: nh / ..........
+197	null	founded: 27 december 1952 / ..........
+198	null	airline: horizon air / ..........
+199	null	founded: 1981 / ..........
+200	null	parent: alaska air group / ..........
+201	null	iata: as / ..........
+202	null	headquarters: seatac, washington / ..........
+203	null	secondary_hubs: los angeles international airport / ..........
+204	null	parent: alaska air group / ..........
+205	null	ceased: january 5, 2006 / ..........
+206	null	airline: commutair / ..........
+207	null	alliance: continental airlines / ..........
+208	null	founded: 1984 / ..........
+209	null	airline: cape air / ..........
+210	null	parent: hyannis air service, inc. / ..........
+211	null	fleet_size: 5 / ..........
+212	null	icao: ack / ..........
+213	null	commenced: may 16, 1968 / ..........
+214	null	iata: an / ..........
+215	null	founded: 1947 / ..........
+216	null	airline: bmi / ..........
+217	null	callsign: midland / ..........
+218	null	parent: lufthansa / ..........
+219	null	hubs: london heathrow airport / ..........
+220	null	parent: canadian airlines corporation / ..........
+221	null	headquarters: calgary, alberta / ..........
+222	null	founded: 1993 / ..........
+223	null	alliance: star alliance / ..........
+224	null	commenced: july 26, 1946 / ..........
+225	null	hubs: honolulu international airport / ..........
+226	null	frequent_flyer: alohapass / ..........
+227	null	headquarters: honolulu, hawaii / ..........
+228	null	parent: government of cyprus / ..........
+229	null	frequent_flyer: qantas frequent flyer / ..........
+230	null	headquarters: loudoun county, virginia / ..........
+231	null	founded: 1968 (as air micronesia) / ..........
+232	null	hubs: kuala lumpur international airport / ..........

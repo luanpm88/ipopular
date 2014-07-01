@@ -1,0 +1,66 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 3/12
+------------
+Found: 50
+Found Not Null: 22
+Correct: 18
+Wrong: 4
+Total: 29
+-----------
+precision: 0.8181818181818182
+recall: 0.6206896551724138
+F: 0.7058823529411765
+
+
+
+1	null	birth_name: ..... / Salma Valgarma Hayek Jiménez-Pinault
+2	true	birth_place: coatzacoalcos, veracruz, mexico / Coatzacoalcos, Veracruz, Mexico,
+3	null	birth_name: ..... / Timothy James "Tim"
+4	true	occupation: film director / film director
+5	false	birth_place: emden, lower saxony, germany / Emden, Lower Saxony,
+6	true	birth_name: wallace michael shawn / Wallace Michael Shawn
+7	null	occupation: ..... / actor
+8	true	birth_name: winona laura horowitz / Winona Laura Horowitz
+9	true	birth_name: solomon joel cohen / Solomon Joel Cohen
+10	null	birth_name: ..... / Hildegard Frieda Albertine Knef
+11	true	birth_name: kenneth charles williams / Kenneth Charles Williams
+12	null	birth_place: ..... / Street, King's Cross, London,
+13	true	birth_name: sandra annette bullock / Sandra Annette Bullock
+14	null	occupation: ..... / actress
+15	null	birth_place: ..... / Arlington, Virginia,
+16	null	occupation: ..... / actress
+17	null	birth_place: ..... / Long Beach, California,
+18	null	birth_place: ..... / Athens, Greece, as Thomas Lee Bass,
+19	null	birth_name: ..... / Thomas Cruise Mapother IV
+20	null	occupation: ..... / actor
+21	null	birth_place: ..... / Syracuse, New York,
+22	true	birth_name: denise lee richards / Denise Lee Richards
+23	true	birth_name: rutger oelsen hauer / Rutger Oelsen Hauer
+24	false	occupation: actor / actress
+25	true	birth_place: breukelen, netherlands / Breukelen, Netherlands,
+26	true	birth_name: juan moreno y herrera-jiménez / Juan Moreno y Herrera-Jiménez
+27	true	birth_name: anna eileen heckart / Anna Eileen Heckart
+28	true	occupation: actress / actress
+29	null	birth_place: ..... / Columbus, Ohio,
+30	true	birth_name: otto ludwig preminger / Otto Ludwig Preminger
+31	true	birth_name: archibald alexander leach / Archibald Alexander Leach
+32	null	birth_name: ..... / Theodore "Ted" Raimi
+33	false	birth_place: detroit, michigan, usa / Detroit, Michigan,
+34	false	birth_name: charles albert browning, jr. / Charles Albert Browning,
+35	null	occupation: ..... / actor
+36	null	birth_name: ..... / Anthony John "Tony"
+37	true	occupation: actor / actor
+38	true	birth_name: larry simon gelbart / Larry Simon Gelbart
+39	true	birth_name: george michael dolenz, jr. / George Michael Dolenz, Jr.
+40	null	birth_place: ..... / Los Angeles, California,
+41	null	occupation: actor, singer, composer / ..........
+42	null	occupation: actor, musician / ..........
+43	null	birth_name: sergio leone / ..........
+44	null	occupation: film director / ..........
+45	null	occupation: actor / ..........
+46	null	birth_place: copenhagen, denmark / ..........
+47	null	birth_place: hall green, birmingham, england / ..........

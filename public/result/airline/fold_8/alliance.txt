@@ -1,0 +1,15 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 0.3333333333333333
+F: 0.5
+
+
+
+
+1	true	alliance: oneworld / Oneworld
+2	null	alliance: continental airlines / ..........
+3	null	alliance: star alliance / ..........

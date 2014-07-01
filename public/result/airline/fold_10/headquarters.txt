@@ -1,0 +1,23 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 6
+-----------
+precision: 1.0
+recall: 0.16666666666666666
+F: 0.2857142857142857
+
+
+
+
+1	null	headquarters: ..... / Embakasi, Nairobi,
+2	null	headquarters: ..... / Buenos Aires,
+3	null	headquarters: ..... / Miami-Dade County, Florida.
+4	true	headquarters: oak creek, wisconsin / Oak Creek, Wisconsin.
+5	null	headquarters: ..... / Minato, Tokyo, Japan.
+6	null	headquarters: ..... / Dallas, Texas.
+7	null	headquarters: fort worth, texas / ..........
+8	null	headquarters: tempe, arizona / ..........
+9	null	headquarters: puerto rico / ..........
+10	null	headquarters: eagan, minnesota / ..........
+11	null	headquarters: miami-dade county, florida / ..........

@@ -1,0 +1,53 @@
+Found Not Null: 17
+Correct: 9
+Wrong: 8
+Total: 20
+-----------
+precision: 0.5294117647058824
+recall: 0.45
+F: 0.48648648648648646
+
+
+
+
+1	true	callsign: libyan / Libyan
+2	null	callsign: ..... / Continental Express
+3	false	callsign: air finland / Oy
+4	null	callsign: ..... / AirAsia
+5	null	callsign: ..... / O'Connor
+6	null	callsign: ..... / ANA
+7	null	callsign: ..... / Delta
+8	null	callsign: ..... / Balkan
+9	null	callsign: ..... / Gulfstream
+10	true	callsign: independence / Independence
+11	false	callsign: bangladesh / Biman Bangladesh
+12	true	callsign: aloha / Aloha
+13	null	callsign: ..... / Austral
+14	false	callsign: eagle flight / Delta
+15	true	callsign: sterling / Sterling
+16	null	callsign: ..... / United
+17	null	callsign: ..... / SkyWest
+18	null	callsign: ..... / Mesaba
+19	true	callsign: ansett / Ansett
+20	null	callsign: ..... / Continental
+21	null	callsign: ..... / ASA
+22	null	callsign: ..... / Aero
+23	true	callsign: cyprus / Cyprus
+24	true	callsign: futura / Futura
+25	false	callsign: azores / SATA
+26	null	callsign: ..... / Maersk
+27	null	callsign: ..... / Argus
+28	null	callsign: ..... / Kalitta Air
+29	true	callsign: ryanair / Ryanair
+30	false	callsign: horizon air / Horizon
+31	false	callsign: alaska / Horizon
+32	false	callsign: commutair / Champlain
+33	null	callsign: ..... / Hyannis Air
+34	false	callsign: ack air / Nantucket
+35	null	callsign: ..... / Mesa
+36	null	callsign: ..... / Arrow Cargo
+37	null	callsign: ..... / Star Alliance
+38	true	callsign: canadian / Canadian
+39	null	callsign: air america / ..........
+40	null	callsign: dragon / ..........
+41	null	callsign: midland / ..........

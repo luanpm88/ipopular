@@ -1,0 +1,24 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 5
+-----------
+precision: 1.0
+recall: 0.4
+F: 0.5714285714285715
+
+
+
+
+1	true	date: july 9, 1982 / July 9, 1982
+2	null	date: ..... / 4 October 2001,
+3	null	date: ..... / 20 November 1974
+4	null	date: ..... / October 1, 2010,
+5	null	date: ..... / October 19, 2004,
+6	null	date: ..... / 26 July 2005,
+7	null	date: ..... / 11 August 2001
+8	null	date: ..... / 23 April 2006,
+9	true	date: 28 november 1979 / 28 November 1979,
+10	null	date: 27 december 1991 / ..........
+11	null	date: september 28, 1977 / ..........
+12	null	date: 19 december 1997 / ..........

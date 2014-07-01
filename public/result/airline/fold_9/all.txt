@@ -1,0 +1,241 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 10/39
+------------
+Found: 204
+Found Not Null: 89
+Correct: 61
+Wrong: 28
+Total: 155
+-----------
+precision: 0.6853932584269663
+recall: 0.3935483870967742
+F: 0.5
+
+
+
+1	true	founded: 1974 / 1974
+2	true	hubs: brunei international airport / Brunei International Airport
+3	true	destinations: 19 / 19
+4	false	airline: royal brunei airlines / Royal Brunei
+5	true	alliance: oneworld / Oneworld
+6	true	callsign: cathay / Cathay
+7	true	founded: 24 september 1946 / 24 September 1946
+8	true	hubs: hong kong international airport / Hong Kong International Airport,
+9	null	destinations: ..... / 114
+10	null	airline: ..... / Cathay Pacific
+11	null	icao: ..... / Cathay
+12	true	callsign: iraqi / Iraqi
+13	true	founded: 1945 / 1945
+14	null	hubs: ..... / Baghdad International Airport
+15	true	airline: iraqi airways / Iraqi Airways
+16	null	icao: ..... / Gatwick
+17	null	callsign: ..... / World Atlantic
+18	null	headquarters: ..... / Miami, Florida.
+19	null	founded: ..... / 2002
+20	null	airline: ..... / World Atlantic Airlines
+21	false	founded: 1995 / 28 August 1995
+22	null	hubs: ..... / Riga International Airport
+23	false	airline: airbaltic / Air Baltic
+24	null	icao: ..... / AirBaltic
+25	null	callsign: ..... / WestJet
+26	null	hubs: ..... / Calgary International Airport,
+27	null	destinations: ..... / 71
+28	null	airline: ..... / WestJet Airlines
+29	null	icao: ..... / WestJet
+30	false	callsign: ariana / Ariana Afghan
+31	true	hubs: kabul international airport / Kabul International Airport.
+32	true	airline: ariana afghan airlines / Ariana Afghan Airlines
+33	null	icao: ..... / Ariana
+34	null	callsign: ..... / Air
+35	false	founded: 14 june 1968 / 1967
+36	true	hubs: sir seewoosagur ramgoolam international airport / Sir Seewoosagur Ramgoolam International Airport,
+37	null	destinations: ..... / 30
+38	true	airline: air mauritius / Air Mauritius
+39	null	callsign: ..... / LAB
+40	null	founded: ..... / September 15, 1925, when
+41	null	hubs: ..... / Jorge Wilstermann International Airport,
+42	false	alliance: star alliance / Star
+43	true	callsign: scandinavian / Scandinavian
+44	true	founded: 1946 / 1946
+45	null	airline: ..... / Scandinavian Airlines
+46	true	icao: sas / SAS
+47	true	callsign: tam / TAM
+48	true	airline: tam airlines / TAM Airlines
+49	true	callsign: swiss / Swiss
+50	true	hubs: zurich airport / Zurich Airport
+51	null	icao: ..... / Swiss
+52	true	callsign: sabena / SABENA
+53	true	founded: 1923 / 1923
+54	false	hubs: brussels airport / Brussels National Airport.
+55	true	airline: sabena / SABENA
+56	null	icao: ..... / SABENA
+57	false	founded: october 1968 / 1968
+58	true	airline: air jamaica / Air Jamaica
+59	null	icao: ..... / Tobago
+60	false	callsign: viasa / Iberia
+61	null	icao: ..... / Aeropostal
+62	true	callsign: solomon / Solomon
+63	true	founded: 1962 / 1962
+64	true	airline: solomon airlines / Solomon Airlines
+65	null	callsign: ..... / Frontier
+66	null	headquarters: ..... / Indianapolis, Indiana,
+67	true	parent: republic airways holdings / Republic Airways Holdings,
+68	true	airline: frontier airlines / Frontier Airlines,
+69	null	icao: ..... / Frontier
+70	false	callsign: speedbird / Southampton
+71	true	hubs: london heathrow airport / London Heathrow Airport
+72	null	parent: ..... / British European Airways Corporation
+73	true	callsign: sam / SAM
+74	null	hubs: ..... / El Dorado International Airport
+75	false	callsign: pakistan / Orient
+76	null	hubs: ..... / Jinnah International Airport
+77	null	destinations: ..... / 43
+78	true	airline: pakistan international airlines  / Pakistan International Airlines
+79	false	icao: pia / Pakistan
+80	true	callsign: swissair / Swissair
+81	null	hubs: ..... / Zurich Airport
+82	true	callsign: hawaiian / Hawaiian
+83	true	hubs: honolulu international airport / Honolulu International Airport
+84	true	parent: hawaiian holdings inc. / Hawaiian Holdings, Inc.
+85	false	airline: hawaiian airlines, inc. / Hawaiian Airlines,
+86	false	callsign: twa / Trans World
+87	null	founded: ..... / 1930
+88	true	airline: trans world airlines / Trans World Airlines
+89	true	icao: twa / TWA
+90	true	alliance: star alliance / Star Alliance
+91	false	callsign: turkish / JAT
+92	false	hubs: atatürk international airport / Atatürk Airport
+93	null	ceased: ..... / 2006, 2007, 2008
+94	null	airline: ..... / Turkish Airlines
+95	true	callsign: dominicana / Dominicana
+96	null	alliance: ..... / SkyTeam
+97	false	callsign: indonesia / Garuda Indonesia
+98	null	hubs: ..... / Soekarno-Hatta International Airport
+99	false	airline: garuda indonesia / PT
+100	true	callsign: crossair / Crossair
+101	false	hubs: euro-airport basel-mulhouse-freiburg / Zürich International Airport
+102	null	icao: ..... / Crossair
+103	null	callsign: ..... / Trans Australia
+104	null	founded: ..... / 1946
+105	null	airline: ..... / Trans Australia Airlines
+106	false	icao: taa / Qantas
+107	null	callsign: ..... / Icelandair
+108	false	hubs: keflavík international airport / Reykjavík Airport
+109	true	parent: icelandair group / Icelandair Group
+110	null	destinations: ..... / 25
+111	true	airline: icelandair / Icelandair
+112	true	callsign: singapore / Singapore
+113	null	headquarters: ..... / Singapore. Singapore
+114	true	airline: singapore airlines / Singapore Airlines
+115	true	icao: sia / SIA
+116	true	alliance: skyteam / SkyTeam
+117	null	founded: ..... / 1920
+118	true	hubs: henri coandă international airport / Henri Coandă International Airport.
+119	null	destinations: ..... / 53
+120	null	destinations: ..... / 95
+121	false	callsign: amtran / ATA
+122	true	headquarters: indianapolis, indiana / Indianapolis, Indiana.
+123	false	ceased: april 3, 2008 / Airlines
+124	true	airline: ata airlines / ATA Airlines,
+125	null	icao: ..... / ATA
+126	true	alliance: skyteam / SkyTeam
+127	true	callsign: alitalia / Alitalia
+128	null	icao: ..... / Alitalia
+129	null	callsign: ..... / Malaysia
+130	null	airline: ..... / Malaysia
+131	null	callsign: ..... / Iran
+132	null	hubs: ..... / Mehrabad Airport
+133	null	airline: ..... / Iran Air
+134	null	icao: ..... / Iran
+135	true	headquarters: kópavogur, iceland / Kópavogur, Iceland.
+136	true	founded: 1986 / 1986
+137	true	hubs: keflavík international airport / Keflavík International Airport.
+138	false	airline: air atlanta icelandic / Air Atlanta
+139	null	callsign: ..... / DAS
+140	false	hubs: london gatwick / London Gatwick Airport and Entebbe International Airport,
+141	true	airline: das air cargo / DAS Air Cargo
+142	true	callsign: cubana / Cubana
+143	null	destinations: ..... / 30
+144	null	icao: ..... / Cubana
+145	null	callsign: ..... / Culebra
+146	false	airline: culebra air services / Culebra Air
+147	false	callsign: bahamas / Bahamasair
+148	true	hubs: lynden pindling international airport / Lynden Pindling International Airport.
+149	null	destinations: ..... / 15
+150	null	icao: ..... / Bahamasair
+151	null	callsign: ..... / EasyJet
+152	true	airline: easyjet / EasyJet
+153	null	icao: ..... / EasyJet
+154	false	callsign: japan air / JAL
+155	true	headquarters: shinagawa, tokyo, japan / Shinagawa, Tokyo, Japan.
+156	null	destinations: ..... / 220
+157	null	icao: rba / ..........
+158	null	callsign: brunei / ..........
+159	null	founded: 1946 / ..........
+160	null	airline: british overseas airways corporation / ..........
+161	null	parent: swire pacific / ..........
+162	null	focus_cities: kahului airport / ..........
+163	null	founded: 1995 / ..........
+164	null	icao: mas / ..........
+165	null	founded: 1983 / ..........
+166	null	founded: 1937 / ..........
+167	null	icao: tam / ..........
+168	null	parent: latam airlines group / ..........
+169	null	callsign: atlanta / ..........
+170	null	commenced: august 1972 / ..........
+171	null	airline: cubana de aviación / ..........
+172	null	founded: 8 october 1929 / ..........
+173	null	parent: sas group / ..........
+174	null	airline: swiss international air lines / ..........
+175	null	iata: lx / ..........
+176	null	iata: sn / ..........
+177	null	airline: swissair / ..........
+178	null	ceased: 31 march 2002 / ..........
+179	null	commenced: 1995 / ..........
+180	null	ceased: 30 march 2008 / ..........
+181	null	parent: sairgroup / ..........
+182	null	airline: crossair / ..........
+183	null	key_people: moritz suter / ..........
+184	null	callsign: jamaica / ..........
+185	null	parent: caribbean airlines / ..........
+186	null	commenced: 1 april 1969 / ..........
+187	null	founded: 1994 / ..........
+188	null	frequent_flyer: earlyreturns / ..........
+189	null	callsign: tarom / ..........
+190	null	parent: government of romania / ..........
+191	null	fleet_size: 26 / ..........
+192	null	founded: 1998 / ..........
+193	null	commenced: 1998 / ..........
+194	null	headquarters: puerto rico / ..........
+195	null	airline: freedom air / ..........
+196	null	callsign: air baltic / ..........
+197	null	airline: viasa / ..........
+198	null	airline: bahamasair / ..........
+199	null	commenced: 7 june 1973  / ..........
+200	null	headquarters: nassau, bahamas / ..........
+201	null	fleet_size: 7 / ..........
+202	null	icao: thy / ..........
+203	null	destinations: 171 / ..........
+204	null	parent: iran national airlines corporation / ..........
+205	null	parent: dominicana de aviación / ..........
+206	null	headquarters: santo domingo / ..........
+207	null	commenced: 29 january 1949 / ..........
+208	null	parent: easyjet plc / ..........
+209	null	icao: sam / ..........
+210	null	headquarters: bogotá, colombia / ..........
+211	null	icao: jal / ..........
+212	null	founded: august 1, 1951 / ..........
+213	null	alliance: oneworld / ..........
+214	null	airline: widerøe / ..........
+215	null	frequent_flyer: eurobonus / ..........
+216	null	parent: sas group / ..........
+217	null	airline: norwegian air shuttle asa / ..........
+218	null	fleet_size: 54 / ..........
+219	null	frequent_flyer: norwegian reward / ..........
+220	null	parent: government of brunei / ..........
+221	null	parent: bahamian government / ..........
+222	null	bases: trondheim airport, værnes / ..........

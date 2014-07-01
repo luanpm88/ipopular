@@ -1,0 +1,29 @@
+Found Not Null: 10
+Correct: 9
+Wrong: 1
+Total: 12
+-----------
+precision: 0.9
+recall: 0.75
+F: 0.8181818181818182
+
+
+
+
+1	true	birth_name: cybill lynne shepherd / Cybill Lynne Shepherd
+2	null	birth_name: ..... / Mel Colm-Cille Gerard Gibson, AO
+3	true	birth_name: helen elizabeth hunt / Helen Elizabeth Hunt
+4	true	birth_name: mary virginia martin / Mary Virginia Martin
+5	null	birth_name: ..... / Alfredo James "Al" Pacino
+6	true	birth_name: william clark gable / William Clark Gable
+7	true	birth_name: cameron michelle diaz / Cameron Michelle Diaz
+8	true	birth_name: gwyneth kate paltrow / Gwyneth Kate Paltrow
+9	true	birth_name: sophie danièle sylvie maupu / Sophie Danièle Sylvie Maupu
+10	true	birth_name: ashley tyler ciminella / Ashley Tyler Ciminella
+11	null	birth_name: ..... / Thomas Jeffrey "Tom"
+12	false	birth_name: laurence kerr olivier / Laurence Kerr Olivier, Baron Olivier, OM
+13	null	birth_name: ..... / Vittorio Gassman Knight Grand
+14	true	birth_name: ava lavinia gardner / Ava Lavinia Gardner
+15	null	birth_name: ..... / Cecil Antonio "Tony"
+16	null	birth_name: mai elisabeth zetterling / ..........
+17	null	birth_name: elizabeth rosemond taylor / ..........

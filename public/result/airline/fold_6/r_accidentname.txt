@@ -1,0 +1,27 @@
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	r accidentname: ..... / Ethiopian Airlines Flight
+2	null	r accidentname: ..... / Iran Air Flight 655
+3	true	r accidentname: american airlines flight 1420 / American Airlines Flight 1420
+4	null	r accidentname: ..... / Delta Air Lines Flight 1141
+5	null	r accidentname: ..... / Indian Airlines Flight 814
+6	null	r accidentname: ..... / CJSC "Aircompany "Aerosvit"
+7	null	r accidentname: ..... / Avianca Flight 410
+8	null	r accidentname: ..... / Prinair Flight 191
+9	null	r accidentname: ..... / JAT Yugoslav Airlines Flight 367
+10	true	r accidentname: philippine airlines flight 434 / Philippine Airlines Flight 434
+11	null	r accidentname: ..... / Antonov Airlines
+12	null	r accidentname: ..... / Gulf Air (
+13	null	r accidentname: ..... / Delta Air Lines Flight
+14	null	r accidentname: ..... / China Airlines Flight 611
+15	true	r accidentname: china airlines flight 642 / China Airlines Flight 642

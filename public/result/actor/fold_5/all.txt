@@ -1,0 +1,86 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 4/12
+------------
+Found: 47
+Found Not Null: 21
+Correct: 18
+Wrong: 3
+Total: 41
+-----------
+precision: 0.8571428571428571
+recall: 0.43902439024390244
+F: 0.5806451612903225
+
+
+
+1	null	birth_date: ..... / 9, 1895
+2	null	birth_name: ..... / Richard "Dick" Semler Barthelmess
+3	true	birth_name: sacha noam baron cohen / Sacha Noam Baron Cohen
+4	null	occupation: ..... / comedian, actor,
+5	true	birth_name: spencer bonaventure tracy / Spencer Bonaventure Tracy
+6	null	birth_place: ..... / Milwaukee, Wisconsin,
+7	true	birth_name: goldie jeanne hawn / Goldie Jeanne Hawn
+8	null	birth_place: ..... / Washington, D.
+9	false	birth_name: majel leigh hudec / Majel Leigh Hudec; William Shatner
+10	null	birth_name: ..... / Laurette Marcia "Laura" Gemser
+11	true	occupation: actress / actress
+12	null	birth_date: ..... / 22, 1895
+13	true	birth_name: meshilem meier weisenfreund / Meshilem Meier Weisenfreund
+14	true	occupation: actor / actor
+15	null	birth_date: ..... / 30, 1908
+16	true	birth_name: melvin jerome blank / Melvin Jerome Blank
+17	null	occupation: ..... / actor
+18	true	birth_name: victor andrew de bier everleigh mclaglen / Victor Andrew de Bier Everleigh McLaglen
+19	true	birth_name: richard walter jenkins / Richard Walter Jenkins
+20	true	occupation: actor / actor
+21	null	birth_date: ..... / 4, 1923
+22	null	occupation: ..... / actor
+23	null	birth_date: ..... / 12, 1908
+24	null	occupation: ..... / actor
+25	false	birth_name: roberto remigio benigni / Roberto Remigio Benigni, Knight Grand Cross OMRI
+26	true	occupation: actor / actor
+27	null	birth_place: ..... / Liverpool,
+28	null	birth_name: ..... / William Henry Hartnell
+29	true	birth_place: st pancras, london, england / St Pancras, London, England,
+30	null	occupation: ..... / actor
+31	null	birth_name: ..... / Margaret Mary Emily Anne Hyra
+32	true	occupation: actress / actress
+33	null	birth_name: ..... / John Howard Carpenter
+34	null	birth_place: ..... / Carthage, New York,
+35	true	birth_name: kate elizabeth winslet / Kate Elizabeth Winslet
+36	null	occupation: ..... / actress
+37	true	birth_name: leonardo wilhelm dicaprio / Leonardo Wilhelm DiCaprio
+38	null	occupation: ..... / actor
+39	true	birth_name: leonard simon nimoy / Leonard Simon Nimoy
+40	null	birth_place: ..... / Boston, Massachusetts,
+41	null	birth_date: ..... / 6, 1906
+42	false	birth_date: april 8, 1914 / 8, 1914
+43	null	birth_date: ..... / 19, 1946
+44	true	birth_name: jan tomáš forman / Jan Tomáš Forman
+45	null	birth_name: ..... / John Devon Roland
+46	null	birth_place: ..... / Chelsea, London,
+47	true	birth_place: rzeszów, poland / Rzeszów, Poland
+48	null	birth_name: luchino visconti di modrone / ..........
+49	null	occupation: actor / ..........
+50	null	occupation: actor / ..........
+51	null	occupation: actor / ..........
+52	null	occupation: actress / ..........
+53	null	birth_name: laura augusta gainor / ..........
+54	null	birth_name: john charles carter / ..........
+55	null	birth_name: milton berlinger / ..........
+56	null	birth_name: joyce penelope wilhelmina frankenberg / ..........
+57	null	birth_name: leonard rossiter / ..........
+58	null	birth_date: 21 october 1926 / ..........
+59	null	birth_name: maría de los Ángeles félix güereña / ..........
+60	null	occupation: actor / ..........
+61	null	birth_place: Čáslav, czechoslovakia / ..........
+62	null	birth_name: patrick george troughton / ..........
+63	null	occupation: theatre director / ..........
+64	null	birth_name: ubbe ert iwwerks / ..........
+65	null	birth_place: hayes, middlesex, england / ..........
+66	null	birth_place: Álamos, sonora, mexico / ..........
+67	null	death_place: pontedera, italy / ..........

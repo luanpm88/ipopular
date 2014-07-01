@@ -1,0 +1,24 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	largest city wl: ..... / Kingsville
+2	null	largest city wl: ..... / Kerrville
+3	null	largest city wl: ..... / Sanderson.
+4	null	largest city wl: ..... / Sterling City.
+5	null	largest city wl: ..... / Breckenridge.
+6	null	largest city wl: ..... / Rio Grande
+7	null	largest city wl: ..... / San Augustine.
+8	null	largest city wl: ..... / Corsicana
+9	null	largest city wl: ..... / Nacogdoches
+10	null	largest city wl: ..... / Bay
+11	null	largest city wl: ..... / George West.
+12	null	largest city wl: ..... / Groesbeck.
+13	null	largest city wl: ..... / Kingsville
+14	null	largest city wl: ..... / Karnes
+15	null	largest city wl: ..... / Alice

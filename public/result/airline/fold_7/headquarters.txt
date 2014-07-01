@@ -1,0 +1,35 @@
+Found Not Null: 7
+Correct: 5
+Wrong: 2
+Total: 16
+-----------
+precision: 0.7142857142857143
+recall: 0.3125
+F: 0.43478260869565216
+
+
+
+
+1	null	headquarters: ..... / Devon, England.
+2	true	headquarters: bowen hills, brisbane, queensland, australia / Bowen Hills, Brisbane, Queensland, Australia.
+3	false	headquarters: orlando, florida / Milwaukee, Wisconsin.
+4	null	headquarters: ..... / Anchorage, Alaska, United
+5	null	headquarters: ..... / Indianapolis, Indiana,
+6	null	headquarters: ..... / Romania.
+7	null	headquarters: ..... / Kelsterbach, Hesse,
+8	true	headquarters: panama city, panama / Panama City, Panama,
+9	true	headquarters: rungis, france / Rungis, France.
+10	true	headquarters: perth, western australia, australia / Perth, Western Australia, Australia;
+11	false	headquarters: mississauga, ontario / Mississauga, Ontario, Canada.
+12	null	headquarters: ..... / Osoe-dong, Gangseo-gu, Seoul.
+13	null	headquarters: ..... / Schwechat, Austria.
+14	true	headquarters: smithers, british columbia / Smithers, British Columbia.
+15	null	headquarters: tempe, arizona / ..........
+16	null	headquarters: myrtle beach, south carolina / ..........
+17	null	headquarters: bratislava, slovakia / ..........
+18	null	headquarters: enfield, nova scotia / ..........
+19	null	headquarters: ljubljana airport / ..........
+20	null	headquarters: edmonton, alberta / ..........
+21	null	headquarters: peachtree city, georgia / ..........
+22	null	headquarters: chişinău, moldova / ..........
+23	null	headquarters: cheyenne, wyoming / ..........

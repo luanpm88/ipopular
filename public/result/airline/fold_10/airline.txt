@@ -1,0 +1,54 @@
+Found Not Null: 25
+Correct: 18
+Wrong: 7
+Total: 30
+-----------
+precision: 0.72
+recall: 0.6
+F: 0.6545454545454547
+
+
+
+
+1	false	airline: pan american world airways / Pan American
+2	true	airline: air florida / Air Florida
+3	true	airline: go fly / Go Fly
+4	null	airline: ..... / Air France-KLM
+5	true	airline: qantas airways / Qantas Airways
+6	true	airline: northwest airlines / Northwest Airlines,
+7	true	airline: american airlines / American Airlines,
+8	true	airline: kenya airways / Kenya Airways
+9	false	airline: delta air lines / Delta Air
+10	null	airline: ..... / American Airlines
+11	false	airline: south african airways / African Airways
+12	null	airline: ..... / Lufthansa Group
+13	true	airline: aerolíneas argentinas / Aerolíneas Argentinas
+14	null	airline: ..... / Korean Air Lines
+15	false	airline: air new zealand / Air
+16	null	airline: ..... / Saudi Arabian Airlines
+17	null	airline: ..... / Avianca
+18	false	airline: virgin atlantic airways / Virgin Atlantic
+19	true	airline: croatia airlines / Croatia Airlines
+20	true	airline: silver city airways / Silver City Airways
+21	null	airline: ..... / Polskie Linie Lotnicze
+22	true	airline: eastern air lines / Eastern Air Lines
+23	false	airline: vieques air link / Vieques Air
+24	true	airline: british airways / British Airways
+25	true	airline: america west airlines / America West Airlines
+26	true	airline: midwest airlines / Midwest Airlines
+27	true	airline: western airlines / Western Airlines
+28	null	airline: ..... / Martinair
+29	null	airline: ..... / Royal Jordanian Airlines
+30	true	airline: continental airlines / Continental Airlines
+31	true	airline: aer lingus / Aer Lingus
+32	false	airline: united airlines / United Air
+33	true	airline: air canada / Air Canada
+34	null	airline: ..... / Nippon Cargo Airlines
+35	true	airline: southwest airlines / Southwest Airlines
+36	null	airline: ..... / China Airlines
+37	null	airline: ..... / Skyservice Airlines
+38	null	airline: aeroméxico / ..........
+39	null	airline: gol linhas aéreas inteligentes s.a / ..........
+40	null	airline: iberia / ..........
+41	null	airline: emirates / ..........
+42	null	airline: finnair / ..........

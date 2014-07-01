@@ -1,0 +1,39 @@
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	icao: ..... / Flybe
+2	null	icao: ..... / UTA
+3	null	icao: ..... / Virgin
+4	null	icao: ..... / ValuJet
+5	null	icao: ..... / Reeve
+6	true	icao: csa / CSA
+7	null	icao: ..... / Oneworld
+8	null	icao: ..... / Condor
+9	null	icao: ..... / Pulkovo
+10	null	icao: ..... / World
+11	null	icao: ..... / off
+12	null	icao: ..... / KLM
+13	null	icao: ..... / Hooters
+14	true	icao: pal / PAL
+15	null	icao: ..... / Air
+16	null	icao: ..... / SkyEurope
+17	null	icao: ..... / CCAL
+18	null	icao: ..... / Adria
+19	null	icao: ..... / Skywest
+20	null	icao: ..... / Korean
+21	null	icao: ..... / Wardair
+22	null	icao: ..... / Asiana
+23	true	icao: jat / Jat
+24	null	icao: ..... / Air
+25	null	icao: ..... / Lauda
+26	null	icao: ..... / TCA
+27	null	icao: ..... / SkyTeam

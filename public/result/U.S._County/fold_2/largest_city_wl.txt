@@ -1,0 +1,45 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	largest city wl: ..... / Flandreau.
+2	null	largest city wl: ..... / Woonsocket.
+3	null	largest city wl: ..... / Rogersville, Tennessee's
+4	null	largest city wl: ..... / Shelbyville.
+5	null	largest city wl: ..... / Nashville-Davidson–Murfreesboro–Franklin
+6	null	largest city wl: ..... / McMinnville.
+7	null	largest city wl: ..... / Hartsville,
+8	null	largest city wl: ..... / Sequatchie
+9	true	largest city wl: murfreesboro / Murfreesboro,
+10	null	largest city wl: ..... / Tullahoma,
+11	null	largest city wl: ..... / Madisonville.
+12	null	largest city wl: ..... / Tiptonville.
+13	null	largest city wl: ..... / Mountain City.
+14	null	largest city wl: ..... / Gainesboro. Jackson
+15	null	largest city wl: ..... / Paris.
+16	null	largest city wl: ..... / Lexington.
+17	null	largest city wl: ..... / Brownsville.
+18	null	largest city wl: ..... / Sneedville.
+19	null	largest city wl: ..... / Morristown. Hamblen
+20	null	largest city wl: ..... / Altamont.
+21	null	largest city wl: ..... / Winchester. Franklin
+22	null	largest city wl: ..... / Jamestown.
+23	null	largest city wl: ..... / Dyersburg.
+24	null	largest city wl: ..... / Crossville.
+25	null	largest city wl: ..... / Manchester. Coffee
+26	null	largest city wl: ..... / Ashland
+27	null	largest city wl: ..... / Carter
+28	null	largest city wl: ..... / Jacksboro.
+29	null	largest city wl: ..... / Pikeville.
+30	null	largest city wl: ..... / Fort Pierre.
+31	null	largest city wl: ..... / Rapid
+32	null	largest city wl: ..... / White River.
+33	null	largest city wl: murfreesboro / ..........

@@ -1,0 +1,18 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	area_water_sq_mi: ..... / 1
+2	null	area_water_sq_mi: ..... / 6
+3	null	area_water_sq_mi: ..... / 1
+4	null	area_water_sq_mi: ..... / 25
+5	null	area_water_sq_mi: ..... / 6
+6	null	area_water_sq_mi: ..... / 1
+7	null	area_water_sq_mi: 18 / ..........

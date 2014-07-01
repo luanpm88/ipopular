@@ -1,0 +1,126 @@
+Found Not Null: 17
+Correct: 16
+Wrong: 1
+Total: 17
+-----------
+precision: 0.9411764705882353
+recall: 0.9411764705882353
+F: 0.9411764705882353
+
+
+
+
+1	null	county: ..... / Titus County
+2	null	county: ..... / Shackelford County
+3	null	county: ..... / McLennan County
+4	null	county: ..... / Smith County
+5	null	county: ..... / San Saba County
+6	true	county: presidio county / Presidio County
+7	null	county: ..... / Llano County
+8	null	county: ..... / Kendall County
+9	true	county: reagan county / Reagan County
+10	null	county: ..... / Real County Historical Museum
+11	null	county: ..... / Scurry County. Scurry County
+12	null	county: ..... / Val Verde County
+13	null	county: ..... / Uvalde County
+14	null	county: ..... / Swisher County
+15	null	county: ..... / Somervell County
+16	null	county: ..... / Sherman County
+17	null	county: ..... / Lamar County
+18	null	county: ..... / Roberts County
+19	null	county: ..... / Nueces County
+20	null	county: ..... / McCulloch County
+21	null	county: ..... / Liberty County
+22	null	county: ..... / Kleberg County
+23	null	county: ..... / Kerr County
+24	true	county: jones county / Jones County
+25	null	county: ..... / Hunt County
+26	null	county: ..... / Mason County
+27	null	county: ..... / Lavaca County
+28	null	county: ..... / Upton County
+29	null	county: ..... / Upshur County
+30	null	county: ..... / Tyler County
+31	null	county: ..... / Trinity County
+32	null	county: ..... / Travis County
+33	null	county: ..... / Tom Green County
+34	null	county: ..... / Throckmorton County
+35	null	county: ..... / Terry County
+36	true	county: terrell county / Terrell County
+37	null	county: ..... / Taylor County
+38	true	county: tarrant county / Tarrant County
+39	null	county: ..... / Sutton County
+40	true	county: stonewall county / Stonewall County
+41	null	county: ..... / Sterling County
+42	true	county: stephens county / Stephens County
+43	null	county: ..... / Starr County
+44	true	county: shelby county / Shelby County
+45	null	county: ..... / Schleicher County
+46	null	county: ..... / San Patricio County
+47	null	county: ..... / San Jacinto County
+48	null	county: ..... / San Augustine County
+49	null	county: ..... / Sabine County
+50	null	county: ..... / Rusk County
+51	null	county: ..... / Rockwall County
+52	null	county: ..... / Robertson County
+53	null	county: ..... / Refugio County
+54	true	county: reeves county / Reeves County
+55	null	county: ..... / Red River County
+56	null	county: ..... / Randall County
+57	null	county: ..... / Rains County
+58	null	county: ..... / Potter County
+59	true	county: polk county / Polk County
+60	true	county: pecos county / Pecos County
+61	null	county: ..... / Parmer County
+62	null	county: ..... / Parker County
+63	null	county: ..... / Panola County
+64	null	county: ..... / Palo Pinto County
+65	null	county: ..... / Oldham County
+66	null	county: ..... / Ochiltree County Courthouse
+67	null	county: ..... / Nolan County
+68	null	county: ..... / Newton County
+69	null	county: ..... / Navarro County
+70	null	county: ..... / Nacogdoches County
+71	null	county: ..... / Motley County
+72	null	county: ..... / Morris County
+73	null	county: ..... / Montague County
+74	null	county: ..... / Mitchell County
+75	null	county: ..... / Mills County
+76	null	county: ..... / Milam County
+77	null	county: ..... / Midland County
+78	null	county: ..... / Menard County
+79	null	county: ..... / Medina County
+80	null	county: ..... / McMullen County
+81	null	county: ..... / Maverick County
+82	null	county: ..... / thumb|Matagorda County Office Building Matagorda County
+83	null	county: ..... / Martin County
+84	null	county: ..... / Marion County
+85	null	county: ..... / Madison County
+86	true	county: lynn county / Lynn County
+87	null	county: ..... / Lubbock County
+88	null	county: ..... / Loving County
+89	null	county: ..... / Oak County
+90	null	county: ..... / Lipscomb County
+91	null	county: ..... / Limestone County
+92	null	county: ..... / Leon County
+93	null	county: ..... / Lee County
+94	null	county: ..... / Lampasas County
+95	null	county: ..... / Lamb County
+96	null	county: ..... / La Salle County
+97	true	county: knox county / Knox County
+98	null	county: ..... / Kinney County
+99	null	county: ..... / King County
+100	null	county: ..... / Kimble County
+101	true	county: kent county / Kent County
+102	null	county: ..... / Kenedy County
+103	null	county: ..... / Kaufman County
+104	true	county: karnes county / Karnes County
+105	null	county: ..... / Johnson County
+106	null	county: ..... / Jim Wells County
+107	null	county: ..... / Jim Hogg County
+108	null	county: ..... / Jefferson County
+109	false	county: jeff davis county / Davis County. Jeff Davis County
+110	true	county: jasper county / Jasper County
+111	null	county: ..... / Jackson County
+112	null	county: ..... / Jack County
+113	null	county: ..... / Irion County
+114	null	county: ..... / Hutchinson County

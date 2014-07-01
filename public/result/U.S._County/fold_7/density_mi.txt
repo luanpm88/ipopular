@@ -1,0 +1,80 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	density mi: ..... / 36
+2	null	density mi: ..... / 0,88
+3	null	density mi: ..... / 11
+4	null	density mi: ..... / 2
+5	null	density mi: ..... / 11
+6	null	density mi: ..... / 7
+7	null	density mi: ..... / 31
+8	null	density mi: ..... / 3
+9	null	density mi: ..... / 4
+10	null	density mi: ..... / 10
+11	null	density mi: ..... / 5
+12	null	density mi: ..... / 4
+13	null	density mi: ..... / 4
+14	null	density mi: ..... / 1
+15	null	density mi: ..... / 30
+16	null	density mi: ..... / 2
+17	null	density mi: ..... / 6
+18	null	density mi: ..... / 4
+19	null	density mi: ..... / 3
+20	null	density mi: ..... / 4
+21	null	density mi: ..... / 8
+22	null	density mi: ..... / 273
+23	null	density mi: ..... / 20
+24	null	density mi: ..... / 35
+25	null	density mi: ..... / 37
+26	null	density mi: ..... / 20
+27	null	density mi: ..... / 11
+28	null	density mi: ..... / 2
+29	null	density mi: ..... / 5
+30	null	density mi: ..... / 4
+31	null	density mi: ..... / 169
+32	null	density mi: ..... / 0
+33	null	density mi: ..... / 3,931
+34	null	density mi: ..... / 81
+35	null	density mi: ..... / 219
+36	null	density mi: ..... / 26
+37	null	density mi: ..... / 13
+38	null	density mi: ..... / 9
+39	null	density mi: ..... / 334
+40	null	density mi: ..... / 37
+41	null	density mi: ..... / 31
+42	null	density mi: ..... / 83
+43	null	density mi: ..... / 17
+44	null	density mi: ..... / 4
+45	null	density mi: ..... / 31
+46	null	density mi: ..... / 95
+47	null	density mi: ..... / 7
+48	null	density mi: ..... / 64
+49	null	density mi: ..... / 66
+50	null	density mi: ..... / 46
+51	null	density mi: ..... / 211
+52	null	density mi: ..... / 237
+53	null	density mi: ..... / 567
+54	null	density mi: ..... / 13
+55	null	density mi: ..... / 45
+56	null	density mi: ..... / 31
+57	null	density mi: ..... / 355
+58	null	density mi: ..... / 33
+59	null	density mi: ..... / 45
+60	null	density mi: ..... / 35
+61	null	density mi: ..... / 140
+62	null	density mi: ..... / 34
+63	null	density mi: ..... / 24
+64	null	density mi: ..... / 59
+65	null	density mi: ..... / 548
+66	null	density mi: ..... / 32
+67	null	density mi: ..... / 133
+68	null	density mi: ..... / 19
+69	null	density mi: ..... / 30
+70	null	density mi: ..... / 12
+71	null	density mi: ..... / 2

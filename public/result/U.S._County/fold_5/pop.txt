@@ -1,0 +1,38 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	pop: ..... / 131,664
+2	null	pop: ..... / 20,808
+3	null	pop: ..... / 23,177
+4	null	pop: ..... / 15,725
+5	null	pop: ..... / 13,093
+6	null	pop: ..... / 11,567
+7	null	pop: ..... / 37,355
+8	null	pop: ..... / 11,560
+9	null	pop: ..... / 16,657
+10	null	pop: ..... / 31,584
+11	null	pop: ..... / 84,088
+12	null	pop: ..... / 12,472
+13	null	pop: ..... / 6,926
+14	null	pop: ..... / 6,871
+15	null	pop: ..... / 57,418
+16	null	pop: ..... / 44,216
+17	null	pop: ..... / 28,226
+18	null	pop: ..... / 6,901
+19	null	pop: ..... / 45,417
+20	null	pop: ..... / 36,994
+21	null	pop: ..... / 17,943
+22	null	pop: ..... / 7,322
+23	null	pop: ..... / 48,793
+24	null	pop: ..... / 20,082
+25	null	pop: ..... / 5,284
+26	null	pop: ..... / 10,909
+27	null	pop: 8809 / ..........

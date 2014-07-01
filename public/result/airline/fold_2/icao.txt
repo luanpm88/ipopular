@@ -1,0 +1,37 @@
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	icao: ..... / Air
+2	null	icao: ..... / Air
+3	null	icao: ..... / Kiwi
+4	null	icao: ..... / Impulse
+5	null	icao: ..... / Thomsonfly
+6	null	icao: ..... / Pan
+7	null	icao: ..... / sea
+8	null	icao: ..... / Vueling
+9	null	icao: ..... / Air
+10	null	icao: ..... / Shenzhen
+11	null	icao: ..... / Bulgaria
+12	null	icao: ..... / Cargo
+13	null	icao: ..... / PrivatAir
+14	null	icao: ..... / JAL
+15	null	icao: ..... / LIAT
+16	null	icao: ..... / Lufthansa
+17	false	icao: - / Castle
+18	null	icao: ..... / PlaneStation
+19	null	icao: ..... / Britannia
+20	null	icao: ..... / CityFlyer Express
+21	null	icao: ..... / Air
+22	null	icao: ..... / Kingfisher
+23	null	icao: ..... / Air
+24	null	icao: ..... / Air
+25	null	icao: ..... / Air

@@ -1,0 +1,67 @@
+Found Not Null: 18
+Correct: 1
+Wrong: 17
+Total: 32
+-----------
+precision: 0.05555555555555555
+recall: 0.03125
+F: 0.04
+
+
+
+
+1	null	state: ..... / West Virginia
+2	false	state: wisconsin / Wisconsin.
+3	false	state: wisconsin / Wisconsin.
+4	false	state: wisconsin / Wisconsin.
+5	null	state: ..... / Wisconsin.
+6	false	state: wisconsin / Wisconsin.
+7	null	state: ..... / Virginia
+8	null	state: ..... / Virginia
+9	null	state: ..... / West Virginia
+10	false	state: wisconsin / Wisconsin.
+11	false	state: wisconsin / Wisconsin.
+12	null	state: ..... / Virginia
+13	null	state: ..... / Virginia
+14	false	state: wisconsin / Wisconsin.
+15	false	state: wisconsin / Wisconsin.
+16	false	state: wisconsin / Wisconsin.
+17	false	state: wisconsin / Wisconsin.
+18	null	state: ..... / Wisconsin.
+19	null	state: ..... / Wisconsin.
+20	false	state: wisconsin / Wisconsin.
+21	false	state: wisconsin / Wisconsin.
+22	null	state: ..... / Wisconsin.
+23	false	state: wisconsin / Wisconsin.
+24	false	state: wisconsin / Wisconsin.
+25	null	state: ..... / Wisconsin.
+26	false	state: wisconsin / Wisconsin.
+27	null	state: ..... / West Virginia
+28	null	state: ..... / Virginia
+29	null	state: ..... / Virginia
+30	null	state: ..... / Virginia
+31	null	state: ..... / West Virginia
+32	null	state: ..... / Virginia
+33	null	state: ..... / Virginia
+34	null	state: ..... / Wisconsin.
+35	null	state: ..... / Wisconsin.
+36	null	state: ..... / Virginia
+37	false	state: west virginia / Virginia
+38	false	state: west virginia / Virginia
+39	null	state: ..... / Virginia
+40	true	state: virginia / Virginia
+41	null	state: ..... / Virginia
+42	null	state: washington / ..........
+43	null	state: washington / ..........
+44	null	state: washington / ..........
+45	null	state: west virginia / ..........
+46	null	state: west virginia / ..........
+47	null	state: washington / ..........
+48	null	state: washington / ..........
+49	null	state: washington / ..........
+50	null	state: washington / ..........
+51	null	state: washington / ..........
+52	null	state: washington / ..........
+53	null	state: washington / ..........
+54	null	state: washington / ..........
+55	null	state: washington / ..........

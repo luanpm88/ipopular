@@ -1,0 +1,14 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	r accidentname: ..... / American Airlines Flight 587,
+2	null	r accidentname: ..... / Korean Air Lines Flight
+3	null	r accidentname: ..... / Polskie Linie Lotnicze LOT
+4	null	r accidentname: ..... / America West Airlines
+5	null	r accidentname: ..... / Royal Jordanian Airlines (

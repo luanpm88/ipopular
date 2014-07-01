@@ -1,0 +1,534 @@
+Total articles: 1145
+Articles for test: 1031
+Articles for train: 114
+Total attributes: 72
+Attributes with high occurrences: 72/72
+Attributes with high precision: 10/72
+------------
+Found: 817
+Found Not Null: 78
+Correct: 71
+Wrong: 7
+Total: 127
+-----------
+precision: 0.9102564102564102
+recall: 0.5590551181102362
+F: 0.6926829268292682
+
+
+
+1	true	density_sq_mi: 65 / 65
+2	null	county: ..... / Bastrop County
+3	true	density_km2: 25 / 25
+4	null	named for: ..... / Claude Benton Hudspeth,
+5	true	county: hudspeth county / Hudspeth County
+6	null	named for: ..... / Rafael Gonzales,
+7	null	county: ..... / Gonzales County
+8	null	state: ..... / Texas
+9	null	founded year: ..... / 1721
+10	null	county: ..... / Bosque County
+11	null	state: ..... / Texas
+12	null	seat: ..... / Palestine. Anderson
+13	true	density_sq_mi: 52 / 52
+14	true	county: anderson county / Anderson County
+15	false	seat wl: palestine / Palestine. Anderson
+16	null	density_km2: ..... / 17
+17	null	density_sq_mi: ..... / 59
+18	null	county: ..... / Caldwell County
+19	null	seat: ..... / Lebanon
+20	null	density_sq_mi: ..... / 156
+21	null	county: ..... / Wilson County
+22	null	state: ..... / Tennessee.
+23	null	seat wl: ..... / Lebanon
+24	null	founded: ..... / 1866
+25	null	density_sq_mi: ..... / 98
+26	null	named for: ..... / John Bell Hood,
+27	null	founded year: ..... / 1866
+28	null	county: ..... / Hood County
+29	null	density_km2: ..... / 45
+30	null	seat: ..... / Levelland,
+31	null	density_sq_mi: ..... / 25
+32	null	named for: ..... / George Washington Hockley,
+33	null	county: ..... / Hockley County
+34	null	seat wl: ..... / Levelland,
+35	null	density_km2: ..... / 10
+36	null	seat: ..... / Hillsboro.
+37	null	density_sq_mi: ..... / 34
+38	null	named for: ..... / George Washington Hill,
+39	null	county: ..... / Hill County
+40	null	state: ..... / Texas
+41	null	density_km2: ..... / 15
+42	null	density_sq_mi: ..... / 363
+43	null	county: ..... / Hidalgo County
+44	null	density_km2: ..... / 123
+45	null	density_sq_mi: ..... / 84
+46	null	county: ..... / Henderson County
+47	null	state: ..... / Texas
+48	null	density_km2: ..... / 41
+49	null	named for: ..... / John Hemphill,
+50	null	county: ..... / Hemphill County. Hemphill County
+51	null	state: ..... / Texas
+52	null	density_sq_mi: ..... / 7
+53	null	county: ..... / Haskell County
+54	null	density_km2: ..... / 4
+55	null	density_sq_mi: ..... / 4
+56	null	county: ..... / Hartley County
+57	null	density_km2: ..... / 1
+58	null	density_sq_mi: ..... / 69
+59	null	named for: ..... / Jonas Harrison,
+60	true	county: harrison county / Harrison County
+61	null	seat wl: ..... / Marshall
+62	null	density_km2: ..... / 29
+63	null	density_sq_mi: ..... / 54
+64	null	county: ..... / Hardin County
+65	null	density_sq_mi: ..... / 6
+66	null	county: ..... / Hansford County
+67	null	state: ..... / Texas
+68	null	density_km2: ..... / 2
+69	null	density_sq_mi: ..... / 4
+70	null	county: ..... / Hall County
+71	null	density_km2: ..... / 2
+72	null	density_sq_mi: ..... / 36
+73	null	county: ..... / Hale County
+74	null	density_km2: ..... / 14
+75	null	county: ..... / Guadalupe County
+76	null	state: ..... / Texas
+77	null	density_sq_mi: ..... / 30
+78	null	named for: ..... / Jesse Grimes,
+79	null	county: ..... / Grimes County
+80	null	census yr: ..... / 2000
+81	null	density_km2: ..... / 12
+82	null	density_sq_mi: ..... / 406
+83	null	named for: ..... / John Gregg,
+84	null	county: ..... / Gregg County
+85	null	density_km2: ..... / 169
+86	null	density_sq_mi: ..... / 118
+87	null	named for: ..... / Peter Wagener Grayson,
+88	null	county: ..... / Grayson County
+89	null	density_km2: ..... / 52
+90	null	density_sq_mi: ..... / 24
+91	null	county: ..... / Gray County
+92	null	seat wl: ..... / Pampa
+93	null	density_km2: ..... / 11
+94	null	density_sq_mi: ..... / 8
+95	false	named for: father miguel hidalgo / Father Miguel Hidalgo; "Goliad"
+96	true	county: goliad county / Goliad County
+97	null	density_km2: ..... / 4
+98	null	density_sq_mi: ..... / 2
+99	null	named for: ..... / George Washington Glasscock,
+100	null	county: ..... / Glasscock County
+101	null	density_km2: ..... / 1
+102	null	founded: ..... / December 15, 1847,
+103	null	named for: ..... / Robert Addison Gillespie,
+104	null	county: ..... / Gillespie County
+105	null	state: ..... / Texas
+106	null	seat: ..... / Galveston.
+107	null	county: ..... / Galveston County
+108	null	state: ..... / Texas
+109	null	seat wl: ..... / Galveston.
+110	null	census yr: ..... / 2007
+111	null	density_sq_mi: ..... / 10
+112	null	county: ..... / Gaines County
+113	null	density_km2: ..... / 4
+114	null	density_sq_mi: ..... / 14
+115	null	county: ..... / Frio County
+116	null	density_km2: ..... / 5
+117	null	seat: ..... / Fairfield.
+118	null	density_sq_mi: ..... / 20
+119	null	county: ..... / Freestone County
+120	null	seat wl: ..... / Fairfield.
+121	null	density_km2: ..... / 9
+122	null	density_sq_mi: ..... / 33
+123	null	county: ..... / Franklin County
+124	null	density_km2: ..... / 18
+125	null	density_sq_mi: ..... / 405
+126	true	county: fort bend county / Fort Bend County
+127	true	state: texas / Texas
+128	null	seat wl: ..... / Richmond,
+129	true	census yr: 2000 / 2000
+130	null	density_km2: ..... / 133
+131	null	seat: ..... / Crowell,
+132	null	density_sq_mi: ..... / 2
+133	null	named for: ..... / Robert Levi Foard,
+134	null	county: ..... / Foard County
+135	null	state: ..... / Texas
+136	null	seat wl: ..... / Crowell,
+137	null	density_km2: ..... / 1
+138	null	density_sq_mi: ..... / 8
+139	null	named for: ..... / Dolphin Ward Floyd,
+140	null	county: ..... / Floyd County
+141	null	density_km2: ..... / 3
+142	true	density_sq_mi: 5 / 5
+143	true	named for: samuel rhoads fisher / Samuel Rhoads Fisher,
+144	true	county: fisher county / Fisher County
+145	true	density_km2: 2 / 2
+146	true	density_sq_mi: 23 / 23
+147	true	named for: marquis de la fayette / Marquis de la Fayette,
+148	true	county: fayette county / Fayette County
+149	null	density_km2: ..... / 12
+150	null	density_sq_mi: ..... / 35
+151	null	named for: ..... / James Fannin,
+152	null	county: ..... / Fannin County
+153	null	state: ..... / Texas
+154	null	seat wl: ..... / Bonham
+155	null	density_km2: ..... / 14
+156	null	density_sq_mi: ..... / 24
+157	null	county: ..... / Falls County
+158	null	density_km2: ..... / 10
+159	null	density_sq_mi: ..... / 30
+160	null	named for: ..... / George Bernard Erath,
+161	null	county: ..... / Erath County
+162	null	density_km2: ..... / 13
+163	null	seat: ..... / Waxahachie.
+164	null	density_sq_mi: ..... / 118
+165	null	named for: ..... / Richard Ellis,
+166	null	county: ..... / Ellis County
+167	null	state: ..... / Texas
+168	null	density_km2: ..... / 42
+169	null	density_sq_mi: ..... / 671
+170	true	county: el paso county / El Paso County
+171	null	census yr: ..... / 2007
+172	null	density_km2: ..... / 222
+173	null	named for: ..... / Haden Harrison Edwards,
+174	null	county: ..... / Edwards County
+175	null	density_km2: ..... / 1
+176	null	density_sq_mi: ..... / 134
+177	null	county: ..... / Ector County
+178	null	density_km2: ..... / 55
+179	null	density_sq_mi: ..... / 20
+180	null	named for: ..... / William Mosby Eastland,
+181	null	county: ..... / Eastland County
+182	null	density_km2: ..... / 10
+183	null	density_sq_mi: ..... / 7
+184	null	county: ..... / Duval County
+185	null	state: ..... / Texas
+186	null	density_km2: ..... / 3
+187	null	seat: ..... / Clarendon.
+188	null	density_sq_mi: ..... / 4
+189	null	county: ..... / Donley County
+190	null	seat wl: ..... / Clarendon.
+191	null	density_km2: ..... / 3
+192	null	density_sq_mi: ..... / 8
+193	null	named for: ..... / Philip Dimmitt,
+194	null	county: ..... / Dimmit County
+195	null	state: ..... / Texas
+196	null	density_km2: ..... / 3
+197	null	county: ..... / Dickens County
+198	null	state: ..... / Texas
+199	null	seat wl: ..... / Dickens.
+200	null	density_sq_mi: ..... / 487
+201	true	county: denton county / Denton County
+202	null	seat wl: ..... / Denton.
+203	null	density_km2: ..... / 189
+204	null	density_sq_mi: ..... / 19
+205	null	county: ..... / Delta County
+206	null	density_km2: ..... / 9
+207	null	density_sq_mi: ..... / 22
+208	true	named for: green dewitt / Green DeWitt,
+209	true	county: dewitt county / DeWitt County
+210	null	density_km2: ..... / 10
+211	null	county: ..... / Deaf Smith County
+212	null	state: ..... / Texas
+213	null	census yr: ..... / 2000
+214	null	density_sq_mi: ..... / 17
+215	null	named for: ..... / Nicholas Mosby Dawson,
+216	null	county: ..... / Dawson County
+217	null	state: ..... / Texas
+218	null	density_km2: ..... / 6
+219	null	founded year: ..... / 1846
+220	null	county: ..... / Dallas County
+221	null	state: ..... / Texas
+222	null	seat wl: ..... / Dallas,
+223	null	founded: ..... / 1876
+224	null	density_sq_mi: ..... / 4
+225	null	named for: ..... / James Wilmer Dallam,
+226	null	founded year: ..... / 1876
+227	null	county: ..... / Dallam County
+228	null	density_km2: ..... / 2
+229	true	county: culberson county / Culberson County
+230	true	state: texas / Texas
+231	null	density_km2: ..... / 0
+232	null	density_sq_mi: ..... / 8
+233	true	county: crosby county / Crosby County
+234	null	density_km2: ..... / 4
+235	null	county: ..... / Crockett County
+236	null	density_sq_mi: ..... / 5
+237	null	named for: ..... / William Carey Crane,
+238	null	county: ..... / Crane County
+239	null	density_km2: ..... / 2
+240	null	density_sq_mi: ..... / 2
+241	null	named for: ..... / George Washington Cottle,
+242	null	county: ..... / Cottle County
+243	null	density_km2: ..... / 1
+244	null	seat: ..... / Gatesville. Coryell
+245	null	county: ..... / Coryell County
+246	null	state: ..... / Texas
+247	null	seat: ..... / Gainesville.
+248	null	density_sq_mi: ..... / 42
+249	null	named for: ..... / William Gordon Cooke,
+250	null	county: ..... / Cooke County
+251	null	state: ..... / Texas
+252	null	seat wl: ..... / Gainesville
+253	null	density_km2: ..... / 17
+254	null	density_sq_mi: ..... / 4
+255	null	county: ..... / Concho County
+256	null	census yr: ..... / 2000
+257	null	density_km2: ..... / 2
+258	null	density_sq_mi: ..... / 15
+259	null	county: ..... / Comanche County
+260	null	density_km2: ..... / 8
+261	null	density_sq_mi: ..... / 139
+262	null	county: ..... / Comal County
+263	null	density_km2: ..... / 58
+264	null	density_sq_mi: ..... / 21
+265	null	county: ..... / Colorado County
+266	null	density_km2: ..... / 10
+267	null	density_sq_mi: ..... / 4
+268	null	named for: ..... / James Collinsworth,
+269	null	county: ..... / Collingsworth County
+270	null	density_km2: ..... / 2
+271	null	density_sq_mi: ..... / 580
+272	null	named for: ..... / Collin McKinney,
+273	null	county: ..... / Collin County
+274	null	density_km2: ..... / 230
+275	null	density_sq_mi: ..... / 7
+276	null	named for: ..... / Robert M. Coleman,
+277	null	county: ..... / Coleman County
+278	null	density_km2: ..... / 4
+279	null	named for: ..... / Richard Coke,
+280	null	county: ..... / Coke County
+281	null	census yr: ..... / 2000
+282	null	density_km2: ..... / 3
+283	null	density_sq_mi: ..... / 11
+284	null	named for: ..... / George Campbell Childress,
+285	null	county: ..... / Childress County
+286	null	state: ..... / Texas
+287	null	density_km2: ..... / 4
+288	null	density_sq_mi: ..... / 44
+289	true	county: cherokee county / Cherokee County
+290	null	seat wl: ..... / Jacksonville
+291	null	density_km2: ..... / 18
+292	null	density_sq_mi: ..... / 43
+293	null	named for: ..... / Thomas Jefferson Chambers ,
+294	null	county: ..... / Chambers County
+295	null	state: ..... / Texas
+296	null	census yr: ..... / 2000
+297	null	density_km2: ..... / 17
+298	null	density_sq_mi: ..... / 9
+299	null	named for: ..... / Henri Castro,
+300	null	county: ..... / Castro County. Castro County
+301	null	density_km2: ..... / 4
+302	true	founded: 1846 / 1846
+303	null	density_sq_mi: ..... / 32
+304	null	founded year: ..... / 1846
+305	true	county: cass county / Cass County
+306	true	state: texas / Texas
+307	null	density_km2: ..... / 15
+308	null	density_sq_mi: ..... / 7
+309	null	named for: ..... / Samuel Price Carson,
+310	null	county: ..... / Carson County
+311	null	density_km2: ..... / 3
+312	null	density_sq_mi: ..... / 58
+313	null	named for: ..... / John Lafayette Camp,
+314	null	county: ..... / Camp County
+315	null	state: ..... / Texas
+316	null	density_km2: ..... / 26
+317	null	seat: ..... / Brownsville.
+318	null	density_sq_mi: ..... / 370
+319	null	county: ..... / Cameron County
+320	null	state: ..... / Texas
+321	null	seat wl: ..... / Brownsville. Cameron
+322	null	density_km2: ..... / 132
+323	null	density_sq_mi: ..... / 14
+324	null	named for: ..... / James Hughes Callahan,
+325	null	county: ..... / Callahan County
+326	null	density_km2: ..... / 7
+327	false	seat: port lavaca / Port
+328	null	density_sq_mi: ..... / 40
+329	null	named for: ..... / John Caldwell Calhoun,
+330	true	county: calhoun county / Calhoun County
+331	false	seat: big spring / Big
+332	null	density_sq_mi: ..... / 37
+333	true	county: howard county / Howard County
+334	null	seat wl: ..... / Big
+335	null	density_km2: ..... / 15
+336	null	founded: ..... / December 22, 1836
+337	null	named for: ..... / John Richardson Harris,
+338	null	founded year: ..... / 1836
+339	null	county: ..... / Harris County
+340	null	state: ..... / Texas
+341	null	census yr: ..... / 2000
+342	null	density_km2: ..... / 751
+343	null	density_sq_mi: ..... / 5
+344	true	county: garza county / Garza County
+345	true	state: texas / Texas
+346	true	density_km2: 2 / 2
+347	null	density_sq_mi: ..... / 25
+348	null	named for: ..... / Edward Burleson,
+349	null	county: ..... / Burleson County
+350	null	density_km2: ..... / 12
+351	null	density_sq_mi: ..... / 5
+352	null	county: ..... / Cochran County
+353	null	density_km2: ..... / 2
+354	null	named for: ..... / Samuel Houston,
+355	null	county: ..... / Houston County
+356	null	state: ..... / Texas
+357	null	density_sq_mi: ..... / 7
+358	null	county: ..... / Hardeman County
+359	null	state: ..... / Texas
+360	null	density_km2: ..... / 3
+361	true	named for: james hamilton jr. / James Hamilton Jr.
+362	true	county: hamilton county / Hamilton County
+363	null	density_sq_mi: ..... / 41
+364	null	county: ..... / Hopkins County
+365	null	density_km2: ..... / 18
+366	null	density_sq_mi: ..... / 144
+367	true	county: hays county / Hays County
+368	null	density_km2: ..... / 53
+369	true	county: borden county / Borden County
+370	null	founded: ..... / 1846
+371	true	density_sq_mi: 100 / 100
+372	true	founded year: 1846 / 1846
+373	true	county: angelina county / Angelina County
+374	null	density_km2: ..... / 40
+375	true	density_sq_mi: 34 / 34
+376	true	named for: david gouverneur burnet / David Gouverneur Burnet,
+377	true	county: burnet county / Burnet County
+378	null	density_km2: ..... / 16
+379	null	seat: ..... / Brownwood.
+380	null	density_sq_mi: ..... / 40
+381	true	named for: henry stevenson brown / Henry Stevenson Brown,
+382	true	county: brown county / Brown County
+383	false	density_km2: 15/km² / 19
+384	null	seat: ..... / Falfurrias.
+385	null	density_sq_mi: ..... / 8
+386	null	named for: ..... / James Abijah Brooks,
+387	null	county: ..... / Brooks County
+388	null	density_km2: ..... / 3
+389	null	seat: ..... / Silverton.
+390	null	density_sq_mi: ..... / 2
+391	null	named for: ..... / Andrew Briscoe,
+392	null	county: ..... / Briscoe County
+393	null	state: ..... / Texas
+394	null	density_km2: ..... / 1
+395	null	named for: ..... / Colonel Henry Percy Brewster,
+396	true	county: brewster county / Brewster County
+397	true	state: texas / Texas
+398	null	census yr: ..... / 2000
+399	null	seat: ..... / Bryan
+400	null	density_sq_mi: ..... / 260
+401	null	named for: ..... / Brazos River,
+402	null	county: ..... / Brazos County
+403	null	state: ..... / Texas
+404	null	density_km2: ..... / 101
+405	null	density_sq_mi: ..... / 101
+406	null	named for: ..... / James Bowie,
+407	null	county: ..... / Bowie County
+408	null	density_km2: ..... / 41
+409	true	density_sq_mi: 12 / 12
+410	true	county: blanco county / Blanco County
+411	true	state: texas / Texas
+412	null	density_km2: ..... / 6
+413	null	founded: ..... / December 20, 1836,
+414	null	county: ..... / Bexar County
+415	null	density_sq_mi: ..... / 225
+416	null	named for: ..... / Peter Hansborough Bell,
+417	null	county: ..... / Bell County
+418	null	state: ..... / Texas
+419	null	density_km2: ..... / 88
+420	true	county: bee county / Bee County
+421	true	density_sq_mi: 5 / 5
+422	true	named for: henry weidner baylor / Henry Weidner Baylor,
+423	null	county: ..... / Baylor County
+424	true	census yr: 2000 / 2000
+425	null	density_km2: ..... / 3
+426	null	density_sq_mi: ..... / 22
+427	null	county: ..... / Bandera County,
+428	null	state: ..... / Texas
+429	null	density_km2: ..... / 12
+430	false	density_sq_mi: 3 / 8
+431	true	named for: peter james bailey / Peter James Bailey,
+432	null	founded year: ..... / 1935
+433	true	county: bailey county / Bailey County
+434	true	state: texas / Texas
+435	null	density_km2: ..... / 3
+436	null	seat: ..... / Bellville.
+437	null	density_sq_mi: ..... / 36
+438	true	county: austin county / Austin County
+439	true	state: texas / Texas
+440	true	census yr: 2000 / 2000
+441	null	density_km2: ..... / 16
+442	null	seat: ..... / Jourdanton.
+443	true	density_sq_mi: 31 / 31
+444	null	county: ..... / Atascosa County
+445	true	state: texas / Texas
+446	true	density_km2: 12 / 12
+447	true	density_sq_mi: 2 / 2
+448	true	county: armstrong county / Armstrong County
+449	true	state: texas / Texas
+450	true	density_km2: 1 / 1
+451	null	density_sq_mi: ..... / 10
+452	false	named for: branch tanner archer, a commissioner for the republic of texas / Branch Tanner Archer,
+453	null	county: ..... / Archer County
+454	null	density_km2: ..... / 4
+455	null	founded: ..... / 1871
+456	true	density_sq_mi: 89 / 89
+457	true	founded year: 1871 / 1871
+458	true	county: aransas county / Aransas County
+459	true	state: texas / Texas
+460	null	density_km2: ..... / 51
+461	null	founded: ..... / 21, 1876
+462	null	density_sq_mi: ..... / 9
+463	null	named for: ..... / Richard Andrews,
+464	null	county: ..... / Andrews County
+465	null	state: ..... / Texas
+466	null	density_km2: ..... / 4
+467	null	state: texas / ..........
+468	null	seat: sierra blanca / ..........
+469	null	state: texas / ..........
+470	null	seat: san marcos / ..........
+471	null	pop: 149,476 / ..........
+472	null	state: texas / ..........
+473	null	seat: marshall / ..........
+474	null	state: texas / ..........
+475	null	founded year: 1856 / ..........
+476	null	seat wl: hamilton / ..........
+477	null	time zone: central / ..........
+478	null	largest city wl: goliad / ..........
+479	null	state: texas / ..........
+480	null	area_water_km2: 2 / ..........
+481	null	seat wl: la grange / ..........
+482	null	largest city wl: la grange / ..........
+483	null	area_water_km2: 25 / ..........
+484	null	seat: el paso / ..........
+485	null	census estimate yr: 2007 / ..........
+486	null	seat: denton / ..........
+487	null	census estimate yr: 2009 / ..........
+488	null	state: texas / ..........
+489	null	seat: crosbyton / ..........
+490	null	area_water_sq_mi: 2 / ..........
+491	null	seat wl: burnet / ..........
+492	null	seat: alpine / ..........
+493	null	state: texas / ..........
+494	null	seat wl: gail / ..........
+495	null	largest city wl: gail / ..........
+496	null	founded year: 1858 / ..........
+497	null	seat wl: johnson city / ..........
+498	null	area_water_km2: 6 / ..........
+499	null	time zone: central / ..........
+500	null	named for: the blanco river / ..........
+501	null	state: texas / ..........
+502	null	seat wl: beeville / ..........
+503	null	largest city wl: beeville / ..........
+504	null	state: texas / ..........
+505	null	state: texas / ..........
+506	null	named for: felipe enrique neri, baron de bastrop / ..........
+507	null	seat wl: muleshoe / ..........
+508	null	founded year: 1876 / ..........
+509	null	state: texas / ..........
+510	null	state: texas / ..........
+511	null	seat wl: lufkin / ..........
+512	null	largest city wl: lufkin / ..........
+513	null	largest city wl: palestine / ..........
+514	null	seat wl: goliad / ..........
+515	null	named for: the rio nuestra senora de aranzazu, a spanish outpost in early texas / ..........

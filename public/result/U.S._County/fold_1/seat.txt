@@ -1,0 +1,66 @@
+Found Not Null: 6
+Correct: 2
+Wrong: 4
+Total: 8
+-----------
+precision: 0.3333333333333333
+recall: 0.25
+F: 0.28571428571428575
+
+
+
+
+1	null	seat: ..... / Wessington
+2	null	seat: ..... / Aberdeen.
+3	null	seat: ..... / Allendale.
+4	true	seat: greensburg / Greensburg.
+5	null	seat: ..... / Lancaster.
+6	null	seat: ..... / Bennettsville.
+7	null	seat: ..... / Kadoka. Washabaugh
+8	null	seat: ..... / Buffalo.
+9	null	seat: ..... / Alexandria.
+10	null	seat: ..... / Webster.
+11	null	seat: ..... / Watertown.
+12	null	seat: ..... / Mound City.
+13	null	seat: ..... / Chamberlain.
+14	null	seat: ..... / Brookings.
+15	null	seat: ..... / Plankinton.
+16	null	seat: ..... / York
+17	null	seat: ..... / Kingstree.
+18	null	seat: ..... / Spartanburg.
+19	null	seat: ..... / Orangeburg.
+20	null	seat: ..... / Laurens.
+21	null	seat: ..... / McCormick.
+22	false	seat: lexington / Lexington.
+23	null	seat: ..... / Bishopville.
+24	null	seat: ..... / Ridgeland. Jasper
+25	null	seat: ..... / Greenwood.
+26	null	seat: ..... / Greenville.
+27	null	seat: ..... / Georgetown.
+28	null	seat: ..... / Winnsboro.
+29	null	seat: ..... / Edgefield.
+30	null	seat: ..... / Darlington.
+31	null	seat: ..... / Walterboro.
+32	true	seat: chesterfield / Chesterfield.
+33	null	seat: ..... / Chester.
+34	null	seat: ..... / Charleston.
+35	null	seat: ..... / Moncks
+36	false	seat: honesdale / Honesdale.
+37	null	seat: ..... / Barnwell.
+38	null	seat: ..... / Abbeville.
+39	null	seat: ..... / Washington.
+40	false	seat: warren / Warren.
+41	null	seat: ..... / Lewisburg.
+42	null	seat: ..... / Wellsboro.
+43	null	seat: ..... / Middleburg.
+44	null	seat: ..... / Pottsville
+45	null	seat: ..... / Cumberland
+46	false	seat: lewistown / Lewistown.
+47	null	seat: greensburg / ..........
+48	null	seat: lexington / ..........
+49	null	seat: chesterfield / ..........
+50	null	seat: honesdale / ..........
+51	null	seat: anderson / ..........
+52	null	seat: warren / ..........
+53	null	seat: coudersport / ..........
+54	null	seat: lewistown / ..........

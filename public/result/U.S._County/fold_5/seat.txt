@@ -1,0 +1,52 @@
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+Total: 6
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	true	seat: georgetown / Georgetown.
+2	null	seat: ..... / Lovingston.
+3	null	seat: ..... / Huntsville.
+4	null	seat: ..... / Washington.
+5	null	seat: ..... / Chatham. Pittsylvania
+6	null	seat: ..... / Dinwiddie.
+7	null	seat: ..... / Courtland.
+8	null	seat: ..... / Spotsylvania Courthouse.
+9	null	seat: ..... / Woodstock. Shenandoah
+10	null	seat: ..... / Gate City.
+11	null	seat: ..... / Harrisonburg. Rockingham
+12	null	seat: ..... / Lexington.
+13	null	seat: ..... / Warsaw.
+14	null	seat: ..... / Eastville. Northampton
+15	null	seat: ..... / Lunenburg.
+16	null	seat: ..... / Jonesville.
+17	null	seat: ..... / Lancaster.
+18	null	seat: ..... / Collinsville.
+19	null	seat: ..... / Pearisburg.
+20	null	seat: ..... / Warrenton,
+21	null	seat: ..... / Cumberland.
+22	null	seat: ..... / Berryville.
+23	null	seat: ..... / Independence
+24	null	seat: ..... / Canton.
+25	null	seat: ..... / Goochland.
+26	true	seat: chesterfield / Chesterfield
+27	null	seat: ..... / Bowling
+28	null	seat: ..... / Rustburg.
+29	null	seat: ..... / Buckingham.
+30	true	seat: lawrenceville / Lawrenceville.
+31	null	seat: ..... / Amelia Courthouse.
+32	null	seat: ..... / Bennington
+33	null	seat: ..... / Graham.
+34	null	seat: ..... / Kermit.
+35	null	seat: ..... / Floresville.
+36	null	seat: ..... / Raymondville.
+37	null	seat: ..... / Charlottesville.
+38	null	seat: stafford / ..........
+39	null	seat: hanover / ..........
+40	null	seat: arlington / ..........

@@ -1,0 +1,126 @@
+Found Not Null: 97
+Correct: 97
+Wrong: 0
+Total: 97
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	true	county: moody county / Moody County
+2	true	county: miner county / Miner County
+3	null	county: ..... / Sevier County
+4	true	county: perry county / Perry County
+5	true	county: turner county / Turner County
+6	true	county: spink county / Spink County
+7	true	county: shannon county / Shannon County
+8	true	county: van buren county / Van Buren County
+9	true	county: sanborn county / Sanborn County
+10	true	county: wayne county / Wayne County
+11	true	county: maury county / Maury County
+12	true	county: hawkins county / Hawkins County
+13	true	county: chester county / Chester County
+14	null	county: ..... / Blount County
+15	true	county: bedford county / Bedford County
+16	true	county: obion county / Obion County
+17	null	county: ..... / Knox County
+18	true	county: hardin county / Hardin County
+19	true	county: mccook county / McCook County
+20	true	county: marshall county / Marshall County
+21	true	county: williamson county / Williamson County
+22	true	county: white county / White County
+23	true	county: weakley county / Weakley County
+24	null	county: ..... / Washington County
+25	true	county: warren county / Warren County
+26	true	county: union county / Union County
+27	null	county: ..... / Unicoi County
+28	null	county: ..... / Trousdale County
+29	true	county: tipton county / Tipton County
+30	null	county: ..... / Sumner County
+31	null	county: ..... / Sullivan County
+32	true	county: stewart county / Stewart County
+33	null	county: ..... / Smith County
+34	null	county: ..... / Shelby County
+35	true	county: sequatchie county / Sequatchie County
+36	true	county: scott county / Scott County
+37	true	county: rutherford county / Rutherford County
+38	true	county: robertson county / Robertson County
+39	true	county: roane county / Roane County
+40	true	county: rhea county / Rhea County
+41	true	county: polk county / Polk County
+42	null	county: ..... / Pickett County
+43	true	county: overton county / Overton County
+44	true	county: morgan county / Morgan County
+45	true	county: moore county / Moore County
+46	true	county: monroe county / Monroe County
+47	true	county: meigs county / Meigs County
+48	true	county: mcnairy county / McNairy County
+49	true	county: mcminn county / McMinn County
+50	true	county: marshall county / Marshall County
+51	true	county: marion county / Marion County
+52	true	county: madison county / Madison County
+53	null	county: ..... / Macon County
+54	null	county: ..... / Loudon County
+55	true	county: lewis county / Lewis County
+56	true	county: lawrence county / Lawrence County
+57	true	county: lauderdale county / Lauderdale County
+58	true	county: lake county / Lake County
+59	true	county: johnson county / Johnson County
+60	true	county: jefferson county / Jefferson County
+61	true	county: jackson county / Jackson County
+62	true	county: humphreys county / Humphreys County
+63	true	county: houston county / Houston County
+64	true	county: hickman county / Hickman County
+65	true	county: henry county / Henry County
+66	true	county: henderson county / Henderson County
+67	true	county: haywood county / Haywood County
+68	true	county: hardeman county / Hardeman County
+69	true	county: hancock county / Hancock County
+70	null	county: ..... / Hamilton County
+71	true	county: hamblen county / Hamblen County
+72	true	county: grundy county / Grundy County
+73	true	county: greene county / Greene County
+74	true	county: grainger county / Grainger County
+75	true	county: giles county / Giles County
+76	true	county: gibson county / Gibson County
+77	true	county: franklin county / Franklin County
+78	true	county: fentress county / Fentress County
+79	true	county: fayette county / Fayette County
+80	true	county: dyer county / Dyer County
+81	true	county: dickson county / Dickson County
+82	true	county: dekalb county / DeKalb County
+83	true	county: decatur county / Decatur County
+84	null	county: ..... / Davidson County
+85	true	county: cumberland county / Cumberland County
+86	true	county: crockett county / Crockett County
+87	true	county: coffee county / Coffee County
+88	true	county: cocke county / Cocke County
+89	true	county: claiborne county / Claiborne County
+90	true	county: cheatham county / Cheatham County
+91	null	county: ..... / Carter County
+92	true	county: carroll county / Carroll County
+93	true	county: cannon county / Cannon County
+94	true	county: campbell county / Campbell County
+95	true	county: bradley county / Bradley County
+96	true	county: bledsoe county / Bledsoe County
+97	true	county: benton county / Benton County
+98	true	county: anderson county / Anderson County
+99	true	county: ziebach county / Ziebach County
+100	null	county: ..... / Yankton County
+101	true	county: walworth county / Walworth County
+102	true	county: union county / Union County
+103	true	county: tripp county / Tripp County
+104	true	county: todd county / Todd County
+105	true	county: sully county / Sully County
+106	true	county: stanley county / Stanley County
+107	true	county: roberts county / Roberts County
+108	true	county: potter county / Potter County
+109	true	county: perkins county / Perkins County
+110	true	county: pennington county / Pennington County
+111	true	county: minnehaha county / Minnehaha County
+112	true	county: mellette county / Mellette County
+113	true	county: meade county / Meade County
+114	true	county: mcpherson county / McPherson County

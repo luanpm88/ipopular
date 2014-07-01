@@ -1,0 +1,26 @@
+Found Not Null: 5
+Correct: 5
+Wrong: 0
+Total: 10
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	true	alliance: skyteam / SkyTeam
+2	null	alliance: ..... / Oneworld
+3	true	alliance: star alliance / Star Alliance,
+4	null	alliance: ..... / Star Alliance
+5	true	alliance: star alliance / Star Alliance
+6	null	alliance: ..... / Star
+7	true	alliance: star alliance / Star Alliance,
+8	true	alliance: oneworld / Oneworld
+9	null	alliance: ..... / SkyTeam
+10	null	alliance: oneworld / ..........
+11	null	alliance: skyteam / ..........
+12	null	alliance: skyteam / ..........
+13	null	alliance: star alliance / ..........
+14	null	alliance: star alliance / ..........

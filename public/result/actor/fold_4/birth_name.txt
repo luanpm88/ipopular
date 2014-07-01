@@ -1,0 +1,36 @@
+Found Not Null: 12
+Correct: 9
+Wrong: 3
+Total: 17
+-----------
+precision: 0.75
+recall: 0.5294117647058824
+F: 0.6206896551724139
+
+
+
+
+1	true	birth_name: simone henriette charlotte kaminker / Simone Henriette Charlotte Kaminker
+2	true	birth_name: robert james keeshan / Robert James Keeshan
+3	false	birth_name: henry warren beatty / Warren Beatty (
+4	true	birth_name: john joseph travolta / John Joseph Travolta
+5	true	birth_name: samuel leroy jackson / Samuel Leroy Jackson
+6	true	birth_name: caryn elaine johnson / Caryn Elaine Johnson;
+7	null	birth_name: ..... / Gwenyth Evelyn “Gwen”
+8	true	birth_name: paul edward lynde / Paul Edward Lynde
+9	null	birth_name: ..... / Mordecai Richler, CC
+10	null	birth_name: ..... / Daniel Louis "Dan" Castellaneta
+11	null	birth_name: ..... / Rodney Stephen "Rod"
+12	false	birth_name: maurice joseph micklewhite / Sir Michael Caine,
+13	null	birth_name: ..... / Timothy Irving Frederick
+14	true	birth_name: charles robert redford jr. / Charles Robert Redford Jr.
+15	null	birth_name: ..... / Jeffrey Leon "Jeff" Bridges
+16	null	birth_name: ..... / Ronald William "Ron"
+17	false	birth_name: margaret taylor rutherford / Dame Margaret Rutherford DBE
+18	true	birth_name: maurice auguste chevalier / Maurice Auguste Chevalier
+19	true	birth_name: yuliy borisovich bryner / Yuliy Borisovich Bryner
+20	null	birth_name: eugene rubessa / ..........
+21	null	birth_name: jeanne bourgeois / ..........
+22	null	birth_name: emilie claudette chauchoin / ..........
+23	null	birth_name: lev milstein / ..........
+24	null	birth_name: wilhelm weiller / ..........

@@ -1,0 +1,24 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 2
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	true	destinations: 19 / 19
+2	null	destinations: ..... / 114
+3	null	destinations: ..... / 71
+4	null	destinations: ..... / 30
+5	null	destinations: ..... / 43
+6	null	destinations: ..... / 25
+7	null	destinations: ..... / 53
+8	null	destinations: ..... / 95
+9	null	destinations: ..... / 30
+10	null	destinations: ..... / 15
+11	null	destinations: ..... / 220
+12	null	destinations: 171 / ..........

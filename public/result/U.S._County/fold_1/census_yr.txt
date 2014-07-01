@@ -1,0 +1,35 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 4
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	null	census yr: ..... / 2000
+2	true	census yr: 2000 / 2000
+3	null	census yr: ..... / 2000
+4	null	census yr: ..... / 2000
+5	null	census yr: ..... / 2000
+6	null	census yr: ..... / 2000
+7	null	census yr: ..... / 2000
+8	null	census yr: ..... / 2000
+9	null	census yr: ..... / 2000
+10	null	census yr: ..... / 2000
+11	null	census yr: ..... / 2000
+12	null	census yr: ..... / 2000
+13	null	census yr: ..... / 2000
+14	null	census yr: ..... / 2000
+15	null	census yr: ..... / 2005
+16	null	census yr: ..... / 2000
+17	true	census yr: 2000 / 2000
+18	null	census yr: ..... / 2000
+19	null	census yr: ..... / 2000
+20	null	census yr: 2000 / ..........
+21	null	census yr: 2000 / ..........
+22	null	census yr: 2000 / ..........
+23	null	census yr: 2000 / ..........

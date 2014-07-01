@@ -1,0 +1,53 @@
+Found Not Null: 20
+Correct: 14
+Wrong: 6
+Total: 25
+-----------
+precision: 0.7
+recall: 0.56
+F: 0.6222222222222222
+
+
+
+
+1	null	airline: ..... / Libyan Airlines
+2	true	airline: continental express / Continental Express
+3	null	airline: ..... / time
+4	false	airline: air finland / Oy Air Finland Ltd
+5	null	airline: ..... / AirAsia Berhad
+6	true	airline: o'connor airlines / O'Connor Airlines
+7	null	airline: ..... / Balkan Airlines
+8	null	airline: ..... / Gulfstream International Airlines
+9	true	airline: independence air / Independence Air
+10	null	airline: ..... / Biman Bangladesh Airlines
+11	true	airline: aloha airlines / Aloha Airlines
+12	false	airline: american eagle / American Eagle Airlines
+13	false	airline: sterling airlines a/s / Sterling Airlines
+14	null	airline: ..... / Air Wisconsin
+15	null	airline: ..... / SkyWest Airlines,
+16	null	airline: ..... / FlyLal
+17	null	airline: ..... / Mesaba Airlines
+18	false	airline: ansett australia / Ansett Airways
+19	true	airline: continental micronesia / Continental Micronesia,
+20	null	airline: ..... / Atlantic Southeast Airlines,
+21	true	airline: aero airlines / Aero Airlines
+22	null	airline: ..... / Cyprus Airways
+23	true	airline: futura international airways / Futura International Airways
+24	true	airline: air vanuatu / Air Vanuatu
+25	true	airline: sata international / SATA International
+26	true	airline: maersk air / Maersk Air
+27	null	airline: ..... / Court Line
+28	true	airline: kalitta air / Kalitta Air
+29	true	airline: ryanair / Ryanair
+30	null	airline: ..... / Aeroperú
+31	false	airline: alaska airlines / Alaska
+32	true	airline: nantucket airlines / Nantucket Airlines
+33	false	airline: arrow air / Arrow Cargo
+34	true	airline: hughes airwest / Hughes Airwest
+35	null	airline: ..... / Star Alliance
+36	null	airline: ..... / Canadian Airlines
+37	null	airline: air america / ..........
+38	null	airline: horizon air / ..........
+39	null	airline: commutair / ..........
+40	null	airline: cape air / ..........
+41	null	airline: bmi / ..........

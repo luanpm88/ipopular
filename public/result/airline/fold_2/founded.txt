@@ -1,0 +1,37 @@
+Found Not Null: 10
+Correct: 7
+Wrong: 3
+Total: 15
+-----------
+precision: 0.7
+recall: 0.4666666666666667
+F: 0.56
+
+
+
+
+1	null	founded: ..... / 1967
+2	null	founded: ..... / 1947
+3	true	founded: 1972 / 1972
+4	null	founded: ..... / 1992
+5	null	founded: ..... / Moscow time ( 9:45
+6	null	founded: ..... / 1984
+7	false	founded: 1967 / 17 March 1967
+8	true	founded: 2002 / 2002
+9	false	founded: june 4, 1928 / 1928
+10	true	founded: 1977 / 1977
+11	null	founded: ..... / 20 September 1956
+12	true	founded: 1979 / 1979
+13	null	founded: ..... / 2005
+14	null	founded: ..... / 1978
+15	true	founded: 2003 / 2003
+16	false	founded: 1 december 1961 / 1961
+17	true	founded: 1989 / 1989
+18	true	founded: 2001 / 2001
+19	null	founded: ..... / 1988
+20	null	founded: ..... / 1977
+21	null	founded: february 2004 / ..........
+22	null	founded: december 2003 / ..........
+23	null	founded: 1 april 1995 / ..........
+24	null	founded: 1992 / ..........
+25	null	founded: 2003 / ..........

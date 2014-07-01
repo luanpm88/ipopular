@@ -1,0 +1,22 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	date: ..... / 15 September 1934,
+2	null	date: ..... / October 29, 2008,
+3	null	date: ..... / November 12, 2001,
+4	true	date: 1 september 1983 / 1 September 1983,
+5	null	date: ..... / 21 December 2010,
+6	null	date: ..... / April 26, 2010,
+7	null	date: ..... / 31 March 1974
+8	null	date: ..... / April 13, 2010,
+9	null	date: ..... / October 1, 2010,
+10	null	date: 1 september 1983 / ..........

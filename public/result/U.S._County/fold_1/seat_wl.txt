@@ -1,0 +1,83 @@
+Found Not Null: 12
+Correct: 8
+Wrong: 4
+Total: 15
+-----------
+precision: 0.6666666666666666
+recall: 0.5333333333333333
+F: 0.5925925925925926
+
+
+
+
+1	null	seat wl: ..... / Wessington
+2	null	seat wl: ..... / Allendale.
+3	null	seat wl: ..... / Lancaster.
+4	null	seat wl: ..... / Madison.
+5	null	seat wl: ..... / Kennebec.
+6	null	seat wl: ..... / Bennettsville.
+7	null	seat wl: ..... / Canton
+8	null	seat wl: ..... / Kadoka. Washabaugh
+9	null	seat wl: ..... / Olivet.
+10	null	seat wl: ..... / Philip.
+11	null	seat wl: ..... / Buffalo.
+12	null	seat wl: ..... / Alexandria. Hanson
+13	null	seat wl: ..... / Burke.
+14	null	seat wl: ..... / Milbank.
+15	null	seat wl: ..... / Faulkton.
+16	null	seat wl: ..... / Armour.
+17	true	seat wl: timber lake / Timber Lake.
+18	true	seat wl: clear lake / Clear Lake.
+19	false	seat wl: custer / Custer.
+20	false	seat wl: watertown / Watertown. Codington
+21	false	seat wl: clark / Clark.
+22	true	seat wl: lake andes / Lake Andes.
+23	true	seat wl: mound city / Mound City.
+24	true	seat wl: belle fourche / Belle Fourche.
+25	true	seat wl: gann valley / Gann Valley,
+26	true	seat wl: chamberlain / Chamberlain.
+27	false	seat wl: brookings / Brookings.
+28	true	seat wl: huron / Huron
+29	null	seat wl: ..... / York
+30	null	seat wl: ..... / Kingstree.
+31	null	seat wl: ..... / Columbia,
+32	null	seat wl: ..... / Orangeburg.
+33	null	seat wl: ..... / McCormick.
+34	null	seat wl: ..... / Lexington. Lexington
+35	null	seat wl: ..... / Ridgeland. Jasper
+36	null	seat wl: ..... / Conway,
+37	null	seat wl: ..... / Greenwood.
+38	null	seat wl: ..... / Greenville.
+39	null	seat wl: ..... / Georgetown.
+40	null	seat wl: ..... / Winnsboro. Fairfield
+41	null	seat wl: ..... / Edgefield. Edgefield
+42	null	seat wl: ..... / Darlington.
+43	null	seat wl: ..... / Chesterfield.
+44	null	seat wl: ..... / Chester.
+45	null	seat wl: ..... / Moncks
+46	null	seat wl: ..... / Honesdale.
+47	null	seat wl: ..... / Barnwell.
+48	null	seat wl: ..... / Aiken
+49	null	seat wl: ..... / Washington.
+50	null	seat wl: ..... / Warren.
+51	null	seat wl: ..... / Lewisburg.
+52	null	seat wl: ..... / Easton. Northampton
+53	null	seat wl: ..... / Wellsboro.
+54	null	seat wl: ..... / Middleburg.
+55	null	seat wl: ..... / Schuylkill
+56	null	seat wl: ..... / Cumberland
+57	null	seat wl: hot springs / ..........
+58	null	seat wl: timber lake / ..........
+59	null	seat wl: clear lake / ..........
+60	null	seat wl: custer / ..........
+61	null	seat wl: watertown / ..........
+62	null	seat wl: clark / ..........
+63	null	seat wl: lake andes / ..........
+64	null	seat wl: mound city / ..........
+65	null	seat wl: belle fourche / ..........
+66	null	seat wl: gann valley / ..........
+67	null	seat wl: chamberlain / ..........
+68	null	seat wl: brookings / ..........
+69	null	seat wl: martin / ..........
+70	null	seat wl: huron / ..........
+71	null	seat wl: plankinton / ..........

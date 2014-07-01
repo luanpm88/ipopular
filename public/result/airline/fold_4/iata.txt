@@ -1,0 +1,16 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	iata: ..... / Jet
+2	null	iata: ..... / Jetstar
+3	null	iata: kd / ..........
+4	null	iata: oa / ..........
+5	null	iata: if / ..........

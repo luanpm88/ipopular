@@ -1,0 +1,33 @@
+Found Not Null: 4
+Correct: 1
+Wrong: 3
+Total: 5
+-----------
+precision: 0.25
+recall: 0.2
+F: 0.22222222222222224
+
+
+
+
+1	true	icao: lan / LAN
+2	null	icao: ..... / Carnival
+3	null	icao: ..... / Research
+4	null	icao: ..... / Libya
+5	null	icao: ..... / Shrapnel
+6	false	icao: jaz / JALways
+7	null	icao: ..... / VASP
+8	null	icao: ..... / Nok
+9	false	icao: uta / Union
+10	null	icao: ..... / TACA
+11	false	icao: ram / Royal
+12	null	icao: ..... / Spirit
+13	null	icao: ..... / Spanair
+14	null	icao: ..... / Blue1
+15	null	icao: ..... / Pacific
+16	null	icao: ..... / 28
+17	null	icao: uta / ..........
+18	null	icao: lan / ..........
+19	null	icao: jaz / ..........
+20	null	icao: ram / ..........
+21	null	icao: alm / ..........

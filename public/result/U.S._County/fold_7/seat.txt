@@ -1,0 +1,45 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 10
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	seat: ..... / Ketchikan.
+2	null	seat: ..... / California
+3	null	seat: ..... / Bisbee. Cochise
+4	null	seat: ..... / Pittsburgh.
+5	null	seat: ..... / Newcastle.
+6	null	seat: ..... / Sheridan. Sheridan
+7	null	seat: ..... / Wheatland.
+8	null	seat: ..... / Torrington.
+9	null	seat: ..... / Lander.
+10	null	seat: ..... / Whitehall.
+11	null	seat: ..... / Medford.
+12	null	seat: ..... / Milwaukee.
+13	null	seat: ..... / Wausau.
+14	null	seat: ..... / Sheboygan,
+15	null	seat: ..... / Darlington.
+16	null	seat: ..... / Marinette.
+17	null	seat: ..... / Keshena.
+18	null	seat: ..... / Green River. Sweetwater
+19	null	seat: ..... / Gloucester
+20	null	seat: ..... / Janesville.
+21	null	seat: ..... / Durand.
+22	null	seat: ..... / Manitowoc.
+23	null	seat: ..... / Jefferson.
+24	null	seat: ..... / Black
+25	null	seat: wilmington / ..........
+26	null	seat: georgetown / ..........
+27	null	seat: jackson / ..........
+28	null	seat: cheyenne / ..........
+29	null	seat: bedford / ..........
+30	null	seat: phoenix / ..........
+31	null	seat: richland center / ..........
+32	null	seat: waukesha / ..........
+33	null	seat: port washington / ..........
+34	null	seat: casper / ..........

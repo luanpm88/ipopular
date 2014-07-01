@@ -1,0 +1,34 @@
+Found Not Null: 4
+Correct: 4
+Wrong: 0
+Total: 5
+-----------
+precision: 1.0
+recall: 0.8
+F: 0.888888888888889
+
+
+
+
+1	null	operator: ..... / Modern Air
+2	true	operator: lauda air / Lauda Air
+3	true	operator: china airlines / China Airlines
+4	null	operator: ..... / United Airlines
+5	null	operator: ..... / Jetstar Asia
+6	null	operator: ..... / One-Two-GO Airlines
+7	null	operator: ..... / Iran Aseman
+8	null	operator: ..... / Qeshm Air
+9	null	operator: ..... / Iran Air
+10	null	operator: ..... / Mekong Airlines
+11	true	operator: twa / TWA
+12	null	operator: ..... / Xiamen Airlines
+13	null	operator: ..... / President Airlines
+14	null	operator: ..... / Republic Express
+15	null	operator: ..... / Eastern Provincial Airways
+16	true	operator: northwest orient airlines / Northwest Orient Airlines
+17	null	operator: ..... / Eastern Air Lines
+18	null	operator: china airlines / ..........
+19	null	operator: lauda air / ..........
+20	null	operator: swissair / ..........
+21	null	operator: northwest orient airlines / ..........
+22	null	operator: twa / ..........

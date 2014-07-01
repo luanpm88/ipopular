@@ -1,0 +1,19 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 2
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	null	operator: ..... / UTA
+2	true	operator: turkish airlines / Turkish Airlines
+3	null	operator: ..... / Czech Airlines
+4	null	operator: ..... / Copa Airlines
+5	null	operator: ..... / Skywest Airlines
+6	null	operator: ..... / Asiana Airlines
+7	null	operator: swissair / ..........

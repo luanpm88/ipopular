@@ -1,0 +1,126 @@
+Found Not Null: 30
+Correct: 30
+Wrong: 0
+Total: 30
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	county: ..... / Bastrop County
+2	true	county: hudspeth county / Hudspeth County
+3	null	county: ..... / Gonzales County
+4	null	county: ..... / Bosque County
+5	true	county: anderson county / Anderson County
+6	null	county: ..... / Caldwell County
+7	null	county: ..... / Wilson County
+8	null	county: ..... / Hood County
+9	null	county: ..... / Hockley County
+10	null	county: ..... / Hill County
+11	null	county: ..... / Hidalgo County
+12	null	county: ..... / Henderson County
+13	null	county: ..... / Hemphill County. Hemphill County
+14	null	county: ..... / Haskell County
+15	null	county: ..... / Hartley County
+16	true	county: harrison county / Harrison County
+17	null	county: ..... / Hardin County
+18	null	county: ..... / Hansford County
+19	null	county: ..... / Hall County
+20	null	county: ..... / Hale County
+21	null	county: ..... / Guadalupe County
+22	null	county: ..... / Grimes County
+23	null	county: ..... / Gregg County
+24	null	county: ..... / Grayson County
+25	null	county: ..... / Gray County
+26	true	county: goliad county / Goliad County
+27	null	county: ..... / Glasscock County
+28	null	county: ..... / Gillespie County
+29	null	county: ..... / Galveston County
+30	null	county: ..... / Gaines County
+31	null	county: ..... / Frio County
+32	null	county: ..... / Freestone County
+33	null	county: ..... / Franklin County
+34	true	county: fort bend county / Fort Bend County
+35	null	county: ..... / Foard County
+36	null	county: ..... / Floyd County
+37	true	county: fisher county / Fisher County
+38	true	county: fayette county / Fayette County
+39	null	county: ..... / Fannin County
+40	null	county: ..... / Falls County
+41	null	county: ..... / Erath County
+42	null	county: ..... / Ellis County
+43	true	county: el paso county / El Paso County
+44	null	county: ..... / Edwards County
+45	null	county: ..... / Ector County
+46	null	county: ..... / Eastland County
+47	null	county: ..... / Duval County
+48	null	county: ..... / Donley County
+49	null	county: ..... / Dimmit County
+50	null	county: ..... / Dickens County
+51	true	county: denton county / Denton County
+52	null	county: ..... / Delta County
+53	true	county: dewitt county / DeWitt County
+54	null	county: ..... / Deaf Smith County
+55	null	county: ..... / Dawson County
+56	null	county: ..... / Dallas County
+57	null	county: ..... / Dallam County
+58	true	county: culberson county / Culberson County
+59	true	county: crosby county / Crosby County
+60	null	county: ..... / Crockett County
+61	null	county: ..... / Crane County
+62	null	county: ..... / Cottle County
+63	null	county: ..... / Coryell County
+64	null	county: ..... / Cooke County
+65	null	county: ..... / Concho County
+66	null	county: ..... / Comanche County
+67	null	county: ..... / Comal County
+68	null	county: ..... / Colorado County
+69	null	county: ..... / Collingsworth County
+70	null	county: ..... / Collin County
+71	null	county: ..... / Coleman County
+72	null	county: ..... / Coke County
+73	null	county: ..... / Childress County
+74	true	county: cherokee county / Cherokee County
+75	null	county: ..... / Chambers County
+76	null	county: ..... / Castro County. Castro County
+77	true	county: cass county / Cass County
+78	null	county: ..... / Carson County
+79	null	county: ..... / Camp County
+80	null	county: ..... / Cameron County
+81	null	county: ..... / Callahan County
+82	true	county: calhoun county / Calhoun County
+83	true	county: howard county / Howard County
+84	null	county: ..... / Harris County
+85	true	county: garza county / Garza County
+86	null	county: ..... / Burleson County
+87	null	county: ..... / Cochran County
+88	null	county: ..... / Houston County
+89	null	county: ..... / Hardeman County
+90	true	county: hamilton county / Hamilton County
+91	null	county: ..... / Hopkins County
+92	true	county: hays county / Hays County
+93	true	county: borden county / Borden County
+94	true	county: angelina county / Angelina County
+95	true	county: burnet county / Burnet County
+96	true	county: brown county / Brown County
+97	null	county: ..... / Brooks County
+98	null	county: ..... / Briscoe County
+99	true	county: brewster county / Brewster County
+100	null	county: ..... / Brazos County
+101	null	county: ..... / Bowie County
+102	true	county: blanco county / Blanco County
+103	null	county: ..... / Bexar County
+104	null	county: ..... / Bell County
+105	true	county: bee county / Bee County
+106	null	county: ..... / Baylor County
+107	null	county: ..... / Bandera County,
+108	true	county: bailey county / Bailey County
+109	true	county: austin county / Austin County
+110	null	county: ..... / Atascosa County
+111	true	county: armstrong county / Armstrong County
+112	null	county: ..... / Archer County
+113	true	county: aransas county / Aransas County
+114	null	county: ..... / Andrews County

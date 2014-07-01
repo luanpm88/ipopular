@@ -1,0 +1,16 @@
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 3
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	false	origin: el dorado international airport / El Dorado International
+2	null	origin: miami international airport / ..........
+3	null	origin: el dorado international airport / ..........
+4	null	origin: hilo international airport / ..........

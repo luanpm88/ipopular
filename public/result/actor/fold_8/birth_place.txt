@@ -1,0 +1,25 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 5
+-----------
+precision: 1.0
+recall: 0.4
+F: 0.5714285714285715
+
+
+
+
+1	true	birth_place: danville, quebec, canada / Danville, Quebec, Canada,
+2	null	birth_place: ..... / Memphis, Tennessee,
+3	null	birth_place: ..... / Long Beach, California.
+4	null	birth_place: ..... / Rockville, Maryland,
+5	null	birth_place: ..... / Chicago, Illinois,
+6	null	birth_place: ..... / Southsea, Portsmouth,
+7	null	birth_place: ..... / Knoxville, Tennessee,
+8	null	birth_place: ..... / San Antonio, Texas,
+9	true	birth_place: wellington, new zealand / Wellington, New Zealand,
+10	null	birth_place: ..... / Dallas, Texas,
+11	null	birth_place: kenosha, wisconsin,  / ..........
+12	null	birth_place: dublin, ireland / ..........
+13	null	birth_place: dresden, germany / ..........

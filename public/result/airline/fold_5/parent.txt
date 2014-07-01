@@ -1,0 +1,24 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 6
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	parent: ..... / Japan Airlines Domestic
+2	null	parent: ..... / Two minutes
+3	null	parent: ..... / Singapore Airlines
+4	null	parent: ..... / British Airways
+5	null	parent: ..... / Dr Prasert Prasarttong-Osoth
+6	null	parent: ..... / US Airways Group
+7	null	parent: ..... / Hilo International
+8	null	parent: viação aérea são paulo / ..........
+9	null	parent: flash group / ..........
+10	null	parent: japan airlines / ..........
+11	null	parent: carnival cruise lines / ..........
+12	null	parent: china airlines / ..........
+13	null	parent: government of qatar / ..........

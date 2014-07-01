@@ -1,0 +1,16 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 1
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	birth_date: ..... / May 3, 1952
+2	null	birth_date: ..... / December 25, 1899
+3	null	birth_date: ..... / August 19, 1921
+4	null	birth_date: ..... / May 10, 1890
+5	null	birth_date: 1923 / ..........

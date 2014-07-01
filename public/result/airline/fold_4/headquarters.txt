@@ -1,0 +1,36 @@
+Found Not Null: 7
+Correct: 7
+Wrong: 0
+Total: 12
+-----------
+precision: 1.0
+recall: 0.5833333333333334
+F: 0.7368421052631579
+
+
+
+
+1	true	headquarters: medellín, colombia / Medellín, Colombia
+2	null	headquarters: ..... / Mumbai, Maharashtra.
+3	true	headquarters: podgorica, montenegro / Podgorica, Montenegro.
+4	true	headquarters: dublin, ireland / Dublin, Ireland.
+5	true	headquarters: vladivostok, russia / Vladivostok, Russia.
+6	true	headquarters: mumbai, india / Mumbai, India.
+7	null	headquarters: ..... / Melbourne, Australia.
+8	null	headquarters: ..... / Paisley, Renfrewshire, Scotland.
+9	true	headquarters: belgrade, serbia / Belgrade, Serbia.
+10	null	headquarters: ..... / Largo, Florida,
+11	null	headquarters: ..... / Singapore
+12	null	headquarters: ..... / Miami-Dade County, Florida,
+13	null	headquarters: ..... / Libreville International Airport
+14	null	headquarters: ..... / Khabarovsk, Russia.
+15	null	headquarters: ..... / Kaliningrad, Russia.
+16	null	headquarters: ..... / Tallinn, Estonia.
+17	null	headquarters: ..... / Dar Es
+18	null	headquarters: ..... / Atlanta, Georgia, USA
+19	true	headquarters: cairo, egypt / Cairo, Egypt.
+20	null	headquarters: llucmajor, majorca, spain / ..........
+21	null	headquarters: houston, texas / ..........
+22	null	headquarters: ashgabat / ..........
+23	null	headquarters: richmond, british columbia / ..........
+24	null	headquarters: abu dhabi, united arab emirates / ..........

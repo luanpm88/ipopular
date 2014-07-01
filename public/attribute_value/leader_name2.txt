@@ -1,0 +1,9 @@
+[[michael patton]]|
+ area_total_sq_mi =381 |
+ area_land_sq_mi =380 |
+ area_water_sq_mi =0 |
+ area percentage = 0.00% |
+ census yr = 2000|
+ pop = 13874 |
+ density_km2 =14|
+ web = www.floydvirginia.com

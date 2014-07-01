@@ -1,0 +1,36 @@
+Found Not Null: 17
+Correct: 15
+Wrong: 2
+Total: 21
+-----------
+precision: 0.8823529411764706
+recall: 0.7142857142857143
+F: 0.7894736842105262
+
+
+
+
+1	true	birth_name: katherine anne clarke / Katherine Anne Clarke
+2	true	birth_name: graham arthur chapman / Graham Arthur Chapman
+3	true	birth_name: brian russell de palma / Brian Russell De Palma
+4	true	birth_name: william gary busey / William Gary Busey
+5	true	birth_name: humphrey deforest bogart / Humphrey DeForest Bogart
+6	true	birth_name: harry julius shearer / Harry Julius Shearer
+7	null	birth_name: ..... / Sir Ian Murray McKellen,
+8	null	birth_name: ..... / Fredrick Aaron "Fred"
+9	false	birth_name: harry donald secombe / Sir Harry Donald
+10	null	birth_name: ..... / Gordon Michael Woolvett
+11	true	birth_name: bruce lorne campbell / Bruce Lorne Campbell
+12	true	birth_name: ivan simon cary elwes / Ivan Simon Cary Elwes
+13	true	birth_name: calista kay flockhart / Calista Kay Flockhart
+14	true	birth_name: george walton lucas, jr. / George Walton Lucas, Jr.
+15	true	birth_name: david paul cronenberg / David Paul Cronenberg,
+16	true	birth_name: gary wayne coleman / Gary Wayne Coleman
+17	true	birth_name: william dwight schultz / William Dwight Schultz
+18	true	birth_name: delroy george lindo / Delroy George Lindo
+19	false	birth_name: elizabeth grace ward / Elizabeth Ward Gracen
+20	true	birth_name: blythe katherine danner / Blythe Katherine Danner
+21	null	birth_name: dirk niewoehner / ..........
+22	null	birth_name: maria halle berry / ..........
+23	null	birth_name: izabela dorota skorupko / ..........
+24	null	birth_name: erik alfred leslie satie / ..........

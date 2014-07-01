@@ -1,0 +1,77 @@
+Found Not Null: 15
+Correct: 13
+Wrong: 2
+Total: 19
+-----------
+precision: 0.8666666666666667
+recall: 0.6842105263157895
+F: 0.7647058823529413
+
+
+
+
+1	null	founded: ..... / 2, 1685,
+2	null	founded: ..... / March 26, 1793
+3	null	founded: ..... / 1, 1683,
+4	null	founded: ..... / 6, 1818
+5	null	founded: ..... / February 9, 1903,
+6	null	founded: ..... / December 26, 1823,
+7	false	founded: december 18, 1812  / 15, 1817,
+8	null	founded: ..... / February 6, 1818,
+9	null	founded: ..... / February 4, 1867,
+10	null	founded: ..... / April 2, 1731,
+11	null	founded: ..... / February 7, 1818,
+12	null	founded: ..... / December 18, 1832.
+13	true	founded: december 7, 1866 / December 7, 1866,
+14	null	founded: ..... / November 30, 1866.
+15	true	founded: december 13, 1819 / December 13, 1819.
+16	true	founded: december 13, 1808 / December 13, 1808
+17	null	founded: ..... / 1861
+18	null	founded: ..... / December 18, 1832.
+19	null	founded: ..... / 1662
+20	null	founded: ..... / May 10, 1643,
+21	null	founded: ..... / February 17, 1843
+22	null	founded: ..... / April 25, 1913
+23	null	founded: ..... / June 2, 1887,
+24	null	founded: ..... / 1905
+25	null	founded: ..... / December 18, 1832.
+26	true	founded: december 30, 1868 / December 30, 1868,
+27	null	founded: ..... / 1921
+28	true	founded: december 10, 1812 / December 10, 1812
+29	true	founded: january 9, 1836 / January 9, 1836.
+30	null	founded: ..... / February 12, 1850,
+31	null	founded: ..... / December 6, 1866,
+32	null	founded: ..... / 9, 1836,
+33	null	founded: ..... / February 15, 1866
+34	null	founded: ..... / February 6, 1818.
+35	true	founded: december 13, 1819 / December 13, 1819,
+36	true	founded: december 13, 1819 / December 13, 1819.
+37	null	founded: ..... / 24 June 1811
+38	null	founded: ..... / 1866
+39	false	founded: december 5, 1866 / 5, 1866,
+40	null	founded: ..... / June 29, 1815.
+41	true	founded: december 20, 1820 / December 20, 1820,
+42	null	founded: ..... / 1819
+43	null	founded: ..... / December 18, 1832,
+44	true	founded: december 13, 1819 / December 13, 1819.
+45	null	founded: ..... / December 18, 1832,
+46	null	founded: ..... / May 10, 1643,
+47	null	founded: ..... / December 18, 1832,
+48	null	founded: ..... / November 21, 1818,
+49	null	founded: ..... / January 30,
+50	true	founded: february 9, 1818 / February 9, 1818,
+51	null	founded: ..... / 1838
+52	null	founded: ..... / 18, 1832,
+53	null	founded: ..... / 1836
+54	true	founded: 1836 / 1836
+55	null	founded: ..... / 2 June 1685
+56	null	founded: ..... / February 7, 1818,
+57	true	founded: december 5, 1866 / December 5, 1866.
+58	null	founded: ..... / December 18, 1832,
+59	null	founded: ..... / December 13, 1819.
+60	null	founded: ..... / December 23, 1814,
+61	null	founded: ..... / January 15, 1851.
+62	null	founded: december 18, 1832 / ..........
+63	null	founded: may 12, 1887 / ..........
+64	null	founded: february 6, 1867 / ..........
+65	null	founded: may 10, 1729 / ..........

@@ -1,0 +1,274 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 15/39
+------------
+Found: 203
+Found Not Null: 65
+Correct: 53
+Wrong: 12
+Total: 129
+-----------
+precision: 0.8153846153846154
+recall: 0.4108527131782946
+F: 0.5463917525773196
+
+
+
+1	true	callsign: air zimbabwe / Air Zimbabwe
+2	null	founded: ..... / 1967
+3	true	hubs: harare international airport / Harare International Airport.
+4	true	airline: air zimbabwe / Air Zimbabwe
+5	null	icao: ..... / Air
+6	null	airline: ..... / Air Rhodesia
+7	null	icao: ..... / Air
+8	null	operator: ..... / Kiwi International
+9	null	airline: ..... / Kiwi International Air Lines
+10	null	icao: ..... / Kiwi
+11	true	commenced: september 21, 1992 / September 21, 1992
+12	true	headquarters: antananarivo, madagascar / Antananarivo, Madagascar.
+13	null	founded: ..... / 1947
+14	true	hubs: ivato international airport / Ivato International Airport,
+15	true	airline: air madagascar / Air Madagascar
+16	true	founded: 1972 / 1972
+17	false	airline: air botswana / Air Botswana Corporation
+18	null	callsign: ..... / Impulse
+19	null	founded: ..... / 1992
+20	null	hubs: ..... / Sydney International Airport
+21	null	operator: ..... / Impulse Airlines
+22	null	airline: ..... / Impulse Airlines
+23	null	icao: ..... / Impulse
+24	null	commenced: ..... / 25 May 2004.
+25	null	callsign: ..... / Thomsonfly
+26	null	airline: ..... / Thomsonfly
+27	null	icao: ..... / Thomsonfly
+28	null	callsign: ..... / Pan
+29	true	date: july 9, 1982 / July 9, 1982
+30	null	operator: ..... / Pan Am
+31	null	airline: ..... / Pan
+32	null	icao: ..... / Pan
+33	true	aircraft type: boeing 727-235 / Boeing 727-235,
+34	null	callsign: ..... / Siberia
+35	null	parent: ..... / the sea
+36	null	founded: ..... / Moscow time ( 9:45
+37	null	ceased: ..... / Moscow
+38	null	date: ..... / 4 October 2001,
+39	null	passengers: ..... / 66
+40	null	crew: ..... / 12
+41	null	operator: ..... / Siberia Airlines
+42	null	airline: ..... / Siberia Airlines
+43	null	icao: ..... / sea
+44	null	commenced: ..... / Moscow
+45	true	callsign: vueling / Vueling
+46	null	icao: ..... / Vueling
+47	null	callsign: ..... / Transavia
+48	null	founded: ..... / 1984
+49	null	ceased: ..... / 25 March 2004.
+50	null	airline: ..... / Air Holland
+51	null	icao: ..... / Air
+52	false	founded: 1967 / 17 March 1967
+53	true	hubs: ouagadougou airport / Ouagadougou Airport.
+54	true	airline: air burkina / Air Burkina
+55	null	callsign: ..... / Shenzhen
+56	null	headquarters: ..... / Bao'an District, Shenzhen, Guangdong,
+57	null	hubs: ..... / Shenzhen Bao'an International Airport
+58	null	operator: ..... / Shenzhen Airlines
+59	null	airline: ..... / Shenzhen Airlines
+60	null	icao: ..... / Shenzhen
+61	null	callsign: ..... / Kosova
+62	null	operator: ..... / Kosova Airlines
+63	true	airline: kosova airlines / Kosova Airlines
+64	true	headquarters: magadan, russia / Magadan, Russia,
+65	true	airline: mavial magadan airlines / Mavial Magadan Airlines
+66	null	callsign: ..... / Bulgaria Air
+67	true	founded: 2002 / 2002
+68	true	hubs: sofia airport / Sofia Airport
+69	null	operator: ..... / Bulgaria Air
+70	true	airline: bulgaria air / Bulgaria Air
+71	null	icao: ..... / Bulgaria
+72	null	callsign: ..... / Scandinavian
+73	false	operator: sas / Scandinavian Airlines
+74	null	airline: ..... / Scandinavian Airlines
+75	null	aircraft type: ..... / McDonnell Douglas MD-81,
+76	false	founded: june 4, 1928 / 1928
+77	null	icao: ..... / Cargo
+78	false	commenced: september 15, 1928 / November 15, 1999.
+79	null	callsign: ..... / Tiger
+80	null	parent: ..... / Tiger Airways Holdings,
+81	true	headquarters: singapore / Singapore
+82	null	operator: ..... / Tiger Airways
+83	true	airline: tiger airways / Tiger Airways
+84	true	destinations: 36 / 36
+85	null	callsign: ..... / Singapore
+86	null	parent: ..... / Singapore Airlines.
+87	true	headquarters: singapore / Singapore
+88	null	operator: ..... / Singapore Airlines
+89	false	airline: singapore airlines cargo / Singapore Airlines
+90	true	callsign: privatair / PrivatAir
+91	true	founded: 1977 / 1977
+92	null	hubs: ..... / Cointrin International Airport
+93	null	icao: ..... / PrivatAir
+94	true	hubs: osaka international airport / Osaka International Airport
+95	null	airline: ..... / JAL Express
+96	null	icao: ..... / JAL
+97	true	destinations: 22 / 22
+98	false	callsign: liat / Leeward
+99	null	founded: ..... / 20 September 1956
+100	null	operator: ..... / Leeward Islands
+101	false	airline: leeward islands air transport / Leeward Islands Air
+102	null	icao: ..... / LIAT
+103	null	date: ..... / 20 November 1974
+104	null	passengers: ..... / 140
+105	null	crew: ..... / 17
+106	null	operator: ..... / Lufthansa
+107	null	airline: ..... / Lufthansa
+108	null	icao: ..... / Lufthansa
+109	null	callsign: ..... / Castle
+110	true	founded: 1979 / 1979
+111	true	airline: castle air / Castle Air
+112	false	icao: - / Castle
+113	null	callsign: ..... / Caledonian
+114	true	airline: british airtours / British Airtours
+115	null	callsign: ..... / Aloha
+116	true	hubs: bonriki international airport / Bonriki International Airport,
+117	null	parent: ..... / Nippon Airways
+118	null	founded: ..... / 2005
+119	true	hubs: fukuoka airport / Fukuoka Airport
+120	null	date: ..... / October 1, 2010,
+121	null	callsign: ..... / Tyrolean
+122	null	headquarters: ..... / Innsbruck, Austria.
+123	null	founded: ..... / 1978
+124	null	hubs: ..... / Innsbruck Airport,
+125	null	operator: ..... / Tyrolean Airways
+126	null	airline: ..... / Tyrolean Airways
+127	null	callsign: ..... / Bearskin
+128	null	headquarters: ..... / Sioux Lookout, Ontario, Canada.
+129	null	airline: ..... / Bearskin Lake Air
+130	null	callsign: ..... / Corporate
+131	null	date: ..... / October 19, 2004,
+132	null	operator: ..... / Corporate Airlines
+133	null	airline: ..... / Corporate Airlines
+134	true	founded: 2003 / 2003
+135	null	hubs: ..... / Shannon Airport
+136	null	date: ..... / 26 July 2005,
+137	null	icao: ..... / PlaneStation
+138	null	callsign: ..... / Japan
+139	true	operator: japan airlines / Japan Airlines
+140	null	airline: ..... / Japan Airlines
+141	true	callsign: britannia / Britannia
+142	false	founded: 1 december 1961 / 1961
+143	true	airline: britannia airways / Britannia Airways
+144	null	icao: ..... / Britannia
+145	null	commenced: ..... / 5 May 1962
+146	null	callsign: ..... / CityFlyer
+147	true	parent: british airways / British Airways
+148	null	headquarters: ..... / London Gatwick Airport
+149	true	hubs: london gatwick airport / London Gatwick Airport
+150	true	airline: cityflyer express / CityFlyer Express
+151	null	icao: ..... / CityFlyer Express
+152	false	callsign: teal / Tasman Empire
+153	null	airline: ..... / Tasman Empire Airways
+154	true	founded: 1989 / 1989
+155	null	hubs: ..... / Munich Airport.
+156	true	airline: air dolomiti / Air Dolomiti
+157	true	callsign: air polonia / Air Polonia
+158	true	founded: 2001 / 2001
+159	false	ceased: 5 december 2004 / 2004
+160	true	airline: air polonia / Air Polonia
+161	null	icao: ..... / Air
+162	null	commenced: ..... / 8 December 2003
+163	null	callsign: ..... / Portugalia
+164	null	founded: ..... / 1988
+165	null	hubs: ..... / Portela Airport
+166	null	date: ..... / 11 August 2001
+167	null	commenced: ..... / 7 July 1990
+168	true	passengers: 97 / 97
+169	true	crew: 7 / 7
+170	null	airline: ..... / Soekarno-Hatta International
+171	true	headquarters: mumbai, india / Mumbai, India.
+172	null	operator: ..... / Kingfisher Red,
+173	true	airline: kingfisher red / Kingfisher Red,
+174	null	icao: ..... / Kingfisher
+175	null	hubs: ..... / Cardiff International Airport
+176	null	date: ..... / 23 April 2006,
+177	true	airline: air wales / Air Wales
+178	null	icao: ..... / Air
+179	null	callsign: ..... / Air
+180	null	headquarters: ..... / Glasgow, Scotland.
+181	null	airline: ..... / Air Scotland
+182	null	icao: ..... / Air
+183	null	commenced: ..... / 29 March 2003,
+184	null	founded: ..... / 1977
+185	true	date: 28 november 1979 / 28 November 1979,
+186	true	passengers: 237 / 237
+187	true	crew: 20 / 20
+188	true	operator: air new zealand / Air New Zealand
+189	null	airline: ..... / Air New Zealand
+190	null	icao: ..... / Air
+191	null	commenced: ..... / 1977 and 1979,
+192	null	type: microburst-induced wind shear / ..........
+193	null	occurrence_type: accident / ..........
+194	null	site: kenner, louisiana / ..........
+195	null	airline: vueling airlines / ..........
+196	null	founded: february 2004 / ..........
+197	null	callsign: kiwi / ..........
+198	null	ceased: march 24, 1999 / ..........
+199	null	subsidiaries: hemus air / ..........
+200	null	date: 27 december 1991 / ..........
+201	null	fatalities: 0 / ..........
+202	null	injuries: 25 / ..........
+203	null	origin: stockholm-arlanda airport / ..........
+204	null	fleet_size: 14 / ..........
+205	null	callsign: air madagascar / ..........
+206	null	bases: singapore / ..........
+207	null	founded: december 2003 / ..........
+208	null	callsign: burkina / ..........
+209	null	headquarters: ouagadougou, burkina faso / ..........
+210	null	fleet_size: 11 / ..........
+211	null	alliance: wow alliance / ..........
+212	null	airline: privatair / ..........
+213	null	headquarters: meyrin, switzerland / ..........
+214	null	callsign: botswana / ..........
+215	null	hubs: sir seretse khama international airport / ..........
+216	null	airline: compañía de aviación faucett / ..........
+217	null	ceased: november 15, 1999 / ..........
+218	null	headquarters: lima / ..........
+219	null	airline: air kiribati / ..........
+220	null	founded: 1 april 1995 / ..........
+221	null	alliance: oneworld / ..........
+222	null	parent: japan airlines / ..........
+223	null	iata: - / ..........
+224	null	airline: dba / ..........
+225	null	founded: 1992 / ..........
+226	null	airline: eujet / ..........
+227	null	bases: shannon airport / ..........
+228	null	date: september 28, 1977 / ..........
+229	null	type: hijacking / ..........
+230	null	occurrence_type: hijacking / ..........
+231	null	site: dhaka, bangladesh / ..........
+232	null	aircraft type: douglas dc-8 / ..........
+233	null	callsign: mavial / ..........
+234	null	hubs: manchester airport / ..........
+235	null	callsign: dolomiti / ..........
+236	null	focus_cities: munich airport / ..........
+237	null	parent: lufthansa / ..........
+238	null	hubs: warsaw frédéric chopin airport / ..........
+239	null	date: 19 december 1997 / ..........
+240	null	origin: soekarno-hatta international airport / ..........
+241	null	destination: singapore changi airport / ..........
+242	null	operator: silkair / ..........
+243	null	iata: it / ..........
+244	null	callsign: kingfisher / ..........
+245	null	ceased: april 2006 / ..........
+246	null	bases: cardiff international airport / ..........
+247	null	occurrence_type: accident / ..........
+248	null	aircraft type: mcdonnell douglas dc-10-30 / ..........
+249	null	destination: auckland international airport / ..........
+250	null	fleet_size: 1 / ..........
+251	null	founded: 2003 / ..........
+252	null	headquarters: fukuoka, fukuoka prefecture, japan / ..........
+253	null	iata: by / ..........
+254	null	headquarters: villafranca di verona, italy / ..........
+255	null	aircraft type: boeing 737-36n / ..........

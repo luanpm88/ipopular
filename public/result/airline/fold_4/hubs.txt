@@ -1,0 +1,36 @@
+Found Not Null: 11
+Correct: 11
+Wrong: 0
+Total: 14
+-----------
+precision: 1.0
+recall: 0.7857142857142857
+F: 0.88
+
+
+
+
+1	true	hubs: athens international airport / Athens International Airport,
+2	true	hubs: seychelles international airport / Seychelles International Airport,
+3	null	hubs: ..... / Chhatrapati Shivaji International Airport,
+4	null	hubs: ..... / Podgorica Airport,
+5	true	hubs: piarco international airport / Piarco International Airport
+6	true	hubs: vladivostok international airport / Vladivostok International Airport,
+7	null	hubs: ..... / Bandaranaike International Airport
+8	true	hubs: melbourne airport / Melbourne Airport,
+9	null	hubs: ..... / Mexico City International Airport.
+10	true	hubs: bremen airport / Bremen Airport.
+11	true	hubs: glasgow international airport / Glasgow International Airport
+12	null	hubs: ..... / Nausori Airport
+13	true	hubs: belgrade nikola tesla airport / Belgrade Nikola Tesla Airport.
+14	true	hubs: chofu airport / Chofu Airport,
+15	null	hubs: ..... / Fort Lauderdale-Hollywood International Airport
+16	null	hubs: ..... / Shanghai Hongqiao International Airport
+17	true	hubs: libreville international airport / Libreville International Airport
+18	null	hubs: ..... / Khabarovsk Novy Airport.
+19	null	hubs: ..... / Dov Airport
+20	null	hubs: ..... / Julius Nyerere International Airport,
+21	true	hubs: julius nyerere international airport / Julius Nyerere International Airport,
+22	null	hubs: nagoya airfield / ..........
+23	null	hubs: berlin schönefeld airport / ..........
+24	null	hubs: miami international airport / ..........

@@ -1,0 +1,82 @@
+Found Not Null: 7
+Correct: 3
+Wrong: 4
+Total: 8
+-----------
+precision: 0.42857142857142855
+recall: 0.375
+F: 0.39999999999999997
+
+
+
+
+1	null	density_km2: ..... / 20
+2	null	density_km2: ..... / 0,52
+3	null	density_km2: ..... / 2
+4	null	density_km2: ..... / 5
+5	null	density_km2: ..... / 1
+6	null	density_km2: ..... / 1
+7	null	density_km2: ..... / 0
+8	null	density_km2: ..... / 6
+9	null	density_km2: ..... / 2
+10	null	density_km2: ..... / 10
+11	null	density_km2: ..... / 1
+12	null	density_km2: ..... / 2
+13	null	density_km2: ..... / 4
+14	null	density_km2: ..... / 3
+15	null	density_km2: ..... / 2
+16	null	density_km2: ..... / 2
+17	null	density_km2: ..... / 0
+18	null	density_km2: ..... / 13
+19	null	density_km2: ..... / 1
+20	null	density_km2: ..... / 3
+21	null	density_km2: ..... / 2
+22	null	density_km2: ..... / 1
+23	null	density_km2: ..... / 2
+24	null	density_km2: ..... / 4
+25	null	density_km2: ..... / 106
+26	null	density_km2: ..... / 13
+27	null	density_km2: ..... / 16
+28	null	density_km2: ..... / 16
+29	null	density_km2: ..... / 9
+30	null	density_km2: ..... / 0
+31	null	density_km2: ..... / 4
+32	null	density_km2: ..... / 2
+33	null	density_km2: ..... / 2
+34	null	density_km2: ..... / 2
+35	false	density_km2: 65 / 79
+36	null	density_km2: ..... / 0
+37	null	density_km2: ..... / 33
+38	null	density_km2: ..... / 90
+39	true	density_km2: 10 / 10
+40	null	density_km2: ..... / 11
+41	false	density_km2: 9 / 8
+42	null	density_km2: ..... / 22
+43	null	density_km2: ..... / 19
+44	null	density_km2: ..... / 33
+45	null	density_km2: ..... / 8
+46	null	density_km2: ..... / 6
+47	null	density_km2: ..... / 2
+48	null	density_km2: ..... / 14
+49	null	density_km2: ..... / 40
+50	null	density_km2: ..... / 3
+51	false	density_km2: 25 / 29
+52	false	density_km2: 18 / 20
+53	null	density_km2: ..... / 86
+54	null	density_km2: ..... / 96
+55	null	density_km2: ..... / 224
+56	null	density_km2: ..... / 8
+57	null	density_km2: ..... / 13
+58	null	density_km2: ..... / 138
+59	null	density_km2: ..... / 24
+60	true	density_km2: 18 / 18
+61	null	density_km2: ..... / 59
+62	null	density_km2: ..... / 17
+63	null	density_km2: ..... / 13
+64	null	density_km2: ..... / 220
+65	null	density_km2: ..... / 16
+66	null	density_km2: ..... / 8
+67	null	density_km2: ..... / 13
+68	null	density_km2: ..... / 6
+69	true	density_km2: 1 / 1
+70	null	density_km2: 25 / ..........

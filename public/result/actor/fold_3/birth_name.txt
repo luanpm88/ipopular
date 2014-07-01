@@ -1,0 +1,40 @@
+Found Not Null: 17
+Correct: 15
+Wrong: 2
+Total: 22
+-----------
+precision: 0.8823529411764706
+recall: 0.6818181818181818
+F: 0.7692307692307693
+
+
+
+
+1	true	birth_name: nicholas simon lyndhurst / Nicholas Simon Lyndhurst
+2	true	birth_name: jean pierre hersholt / Jean Pierre Hersholt
+3	null	birth_name: ..... / Louis Burton Lindley,
+4	true	birth_name: walter john matthow / Walter John Matthow
+5	true	birth_name: mary louise streep / Mary Louise Streep
+6	true	birth_name: lady jayne seymour fonda / Lady Jayne Seymour Fonda,
+7	true	birth_name: ernest frederick mcintyre bickel / Ernest Frederick McIntyre Bickel
+8	null	birth_name: ..... / Winstead Sheffield "Doodles"
+9	true	birth_name: phylis lee isley / Phylis Lee Isley
+10	true	birth_name: michael igorevitch peschkowsky / Michael Igorevitch Peschkowsky
+11	true	birth_name: david paul scofield / David Paul Scofield,
+12	true	birth_name: king wallis vidor / King Wallis Vidor
+13	true	birth_name: ramón gerardo antonio estévez / Ramón Gerardo Antonio Estévez
+14	true	birth_name: dorothy faye dunaway / Dorothy Faye Dunaway
+15	null	birth_name: ..... / Philip St. John Basil Rathbone
+16	null	birth_name: ..... / Anna Nicole Smith
+17	false	birth_name: maureen diane lipman / Maureen Diane Lipman CBE
+18	false	birth_name: john sidney blyth / John Sidney Blyth Barrymore
+19	true	birth_name: william claude rains / William Claude Rains
+20	true	birth_name: virginia katherine mcmath / Virginia Katherine McMath
+21	null	birth_name: ..... / George Robert Phillips "Spanky"
+22	null	birth_name: ..... / Ami Dolenz
+23	true	birth_name: lionel herbert blythe / Lionel Herbert Blythe
+24	null	birth_name: frederick austerlitz / ..........
+25	null	birth_name: paul verhoeven / ..........
+26	null	birth_name: william henry pratt / ..........
+27	null	birth_name: david selznick / ..........
+28	null	birth_name: flora mckenzie robson / ..........

@@ -17,7 +17,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: ipopular_actor
+  database: iw_county
   pool: 5
   username: luan
   password: benho

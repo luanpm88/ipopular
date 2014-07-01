@@ -1,0 +1,35 @@
+Found Not Null: 9
+Correct: 8
+Wrong: 1
+Total: 11
+-----------
+precision: 0.8888888888888888
+recall: 0.7272727272727273
+F: 0.7999999999999999
+
+
+
+
+1	true	hubs: chişinău international airport / Chişinău International Airport
+2	null	hubs: ..... / Indianapolis International Airport,
+3	null	hubs: ..... / Mineralnye Vody Airport
+4	true	hubs: chişinău international airport / Chişinău International Airport.
+5	true	hubs: frankfurt airport / Frankfurt Airport
+6	true	hubs: amsterdam airport schiphol / Amsterdam Airport Schiphol
+7	null	hubs: ..... / Ninoy Aquino International Airport
+8	null	hubs: ..... / Beijing Capital International Airport.
+9	null	hubs: ..... / Tocumen International Airport,
+10	false	hubs: orly airport, paris / Orly Airport,
+11	true	hubs: suvarnabhumi airport / Suvarnabhumi Airport,
+12	null	hubs: ..... / Halifax Stanfield International Airport
+13	true	hubs: ljubljana airport / Ljubljana Airport
+14	null	hubs: ..... / Toronto Pearson International Airport,
+15	null	hubs: ..... / Gimhae International Airport.
+16	true	hubs: cairo international airport / Cairo International Airport
+17	null	hubs: ..... / Gimpo International Airport
+18	null	hubs: ..... / Belgrade Nikola Tesla Airport
+19	true	hubs: kaunas international airport / Kaunas International Airport
+20	null	hubs: ..... / Vienna International Airport.
+21	null	hubs: ..... / Smithers Airport,
+22	null	hubs: perth airport / ..........
+23	null	hubs: brisbane airport / ..........

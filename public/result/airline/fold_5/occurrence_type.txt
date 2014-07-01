@@ -1,0 +1,19 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 6
+-----------
+precision: 1.0
+recall: 0.16666666666666666
+F: 0.2857142857142857
+
+
+
+
+1	true	occurrence_type: accident / accident
+2	null	occurrence_type: accident / ..........
+3	null	occurrence_type: hijacking / ..........
+4	null	occurrence_type: accident / ..........
+5	null	occurrence_type: accident / ..........
+6	null	occurrence_type: accident / ..........
+7	null	occurrence_type: hijacking / ..........

@@ -1,0 +1,26 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	operator: ..... / Air Florida
+2	null	operator: ..... / Qantas Airways
+3	null	operator: ..... / American Airlines
+4	true	operator: korean air lines / Korean Air Lines
+5	null	operator: ..... / Saudi Arabian
+6	null	operator: ..... / Croatia
+7	null	operator: ..... / Vieques Air
+8	null	operator: ..... / British Airways
+9	null	operator: ..... / America West Airlines
+10	null	operator: ..... / Royal Jordanian Airlines
+11	null	operator: ..... / Southwest Airlines
+12	null	operator: ..... / China Airlines
+13	null	operator: ..... / Skyservice
+14	null	operator: korean air lines / ..........

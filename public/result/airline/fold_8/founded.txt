@@ -1,0 +1,39 @@
+Found Not Null: 8
+Correct: 6
+Wrong: 2
+Total: 19
+-----------
+precision: 0.75
+recall: 0.3157894736842105
+F: 0.44444444444444436
+
+
+
+
+1	false	founded: 24 may 1985 / 1985
+2	true	founded: 2002 / 2002
+3	null	founded: ..... / 1977
+4	null	founded: ..... / 1988
+5	null	founded: ..... / 1989
+6	null	founded: ..... / 1971
+7	null	founded: ..... / 2005
+8	null	founded: ..... / 1965
+9	false	founded: 1936 / 2001
+10	true	founded: 1947 / 1947
+11	true	founded: 1990 / 1990
+12	true	founded: 1969 / 1969
+13	true	founded: 1985 / 1985
+14	true	founded: 1989 / 1989
+15	null	founded: ..... / 1973
+16	null	founded: ..... / 1987
+17	null	founded: 1965 / ..........
+18	null	founded: 2000 / ..........
+19	null	founded: 1950 / ..........
+20	null	founded: 1989 / ..........
+21	null	founded: 1981 / ..........
+22	null	founded: 27 december 1952 / ..........
+23	null	founded: 1981 / ..........
+24	null	founded: 1984 / ..........
+25	null	founded: 1947 / ..........
+26	null	founded: 1993 / ..........
+27	null	founded: 1968 (as air micronesia) / ..........

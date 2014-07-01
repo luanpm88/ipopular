@@ -1,0 +1,68 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	settlement_type: ..... / borough
+2	null	settlement_type: ..... / County
+3	null	settlement_type: ..... / County
+4	null	settlement_type: ..... / County
+5	null	settlement_type: ..... / County
+6	null	settlement_type: ..... / County
+7	null	settlement_type: ..... / County
+8	null	settlement_type: ..... / County
+9	null	settlement_type: ..... / County
+10	null	settlement_type: ..... / County
+11	null	settlement_type: ..... / County
+12	null	settlement_type: ..... / County
+13	null	settlement_type: ..... / County
+14	null	settlement_type: ..... / county
+15	null	settlement_type: ..... / County
+16	null	settlement_type: ..... / County
+17	null	settlement_type: ..... / County
+18	null	settlement_type: ..... / County
+19	null	settlement_type: ..... / County
+20	null	settlement_type: ..... / county
+21	null	settlement_type: ..... / County
+22	null	settlement_type: ..... / County
+23	null	settlement_type: ..... / County
+24	null	settlement_type: ..... / County
+25	null	settlement_type: ..... / County
+26	null	settlement_type: ..... / county
+27	null	settlement_type: ..... / County
+28	null	settlement_type: ..... / County
+29	null	settlement_type: ..... / County
+30	null	settlement_type: ..... / County
+31	null	settlement_type: ..... / County
+32	null	settlement_type: ..... / borough
+33	null	settlement_type: ..... / County
+34	null	settlement_type: ..... / County
+35	null	settlement_type: ..... / County
+36	null	settlement_type: ..... / County
+37	null	settlement_type: ..... / County
+38	null	settlement_type: ..... / County
+39	null	settlement_type: ..... / County
+40	null	settlement_type: ..... / County
+41	null	settlement_type: ..... / County
+42	null	settlement_type: ..... / County
+43	null	settlement_type: ..... / County
+44	null	settlement_type: ..... / County
+45	null	settlement_type: ..... / County
+46	null	settlement_type: ..... / County
+47	null	settlement_type: ..... / county
+48	null	settlement_type: ..... / County
+49	null	settlement_type: ..... / County
+50	null	settlement_type: ..... / County
+51	null	settlement_type: ..... / County
+52	null	settlement_type: ..... / County
+53	null	settlement_type: ..... / County
+54	null	settlement_type: ..... / County
+55	null	settlement_type: ..... / County
+56	null	settlement_type: ..... / County
+57	null	settlement_type: ..... / County
+58	null	settlement_type: ..... / County
+59	null	settlement_type: ..... / county

@@ -1,0 +1,126 @@
+Found Not Null: 47
+Correct: 44
+Wrong: 3
+Total: 47
+-----------
+precision: 0.9361702127659575
+recall: 0.9361702127659575
+F: 0.9361702127659575
+
+
+
+
+1	null	county: ..... / Bristol County
+2	null	county: ..... / Norfolk County
+3	null	county: ..... / Lawrence County
+4	null	county: ..... / Washington County
+5	null	county: ..... / The County of Dukes County
+6	true	county: morgan county / Morgan County
+7	null	county: ..... / Houston County
+8	true	county: walker county / Walker County
+9	null	county: ..... / Plymouth County
+10	false	county: mobile county / Mobile County]p
+11	true	county: okaloosa county / Okaloosa County
+12	true	county: marengo county / Marengo County
+13	null	county: ..... / Lamar County
+14	null	county: ..... / Worcester County
+15	null	county: ..... / Escambia County
+16	null	county: ..... / Shelby County
+17	null	county: ..... / Pike County
+18	true	county: tallapoosa county / Tallapoosa County
+19	true	county: sarasota county / Sarasota County
+20	true	county: etowah county / Etowah County
+21	true	county: baldwin county / Baldwin County
+22	null	county: ..... / Crenshaw County
+23	true	county: jackson county / Jackson County
+24	true	county: madison county / Madison County
+25	true	county: mono county / Mono County
+26	null	county: ..... / Coosa County
+27	null	county: ..... / Hampshire County
+28	null	county: ..... / Palm Beach County
+29	true	county: russell county / Russell County
+30	null	county: ..... / Okeechobee County
+31	null	county: ..... / Pinellas County
+32	null	county: ..... / Essex County
+33	null	county: ..... / Black Hawk County
+34	null	county: ..... / Seminole County
+35	null	county: ..... / Orange County
+36	true	county: osceola county / Osceola County
+37	null	county: ..... / Pasco County
+38	null	county: ..... / St. Lucie County
+39	null	county: ..... / Santa Rosa County
+40	null	county: ..... / Taylor County
+41	null	county: ..... / Johnson County
+42	null	county: ..... / Chambers County
+43	true	county: chilton county / Chilton County
+44	null	county: ..... / Choctaw County
+45	null	county: ..... / Union County
+46	true	county: clarke county / Clarke County
+47	false	county: cherokee county / Cherokee County, Alabama
+48	true	county: winston county / Winston County
+49	true	county: colbert county / Colbert County
+50	null	county: ..... / Coffee County
+51	null	county: ..... / Cleburne County
+52	null	county: ..... / Wakulla County
+53	null	county: ..... / Conecuh County]p
+54	null	county: ..... / Covington County,
+55	null	county: ..... / Cullman County
+56	null	county: ..... / DeKalb County
+57	null	county: ..... / Elmore County
+58	true	county: franklin county / Franklin County
+59	null	county: ..... / Geneva County
+60	true	county: jefferson county / Jefferson County
+61	true	county: henry county / Henry County
+62	null	county: ..... / Franklin County
+63	true	county: inyo county / Inyo County
+64	true	county: lee county / Lee County
+65	null	county: ..... / Marion County
+66	true	county: monroe county / Monroe County
+67	true	county: pickens county / Pickens County
+68	true	county: shelby county / Shelby County
+69	true	county: shelby county / Shelby County
+70	true	county: talladega county / Talladega County
+71	true	county: wilcox county / Wilcox County
+72	null	county: ..... / Lowndes County
+73	null	county: ..... / Macon County
+74	null	county: ..... / Hawaii County
+75	null	county: ..... / Suffolk County
+76	null	county: ..... / Barbour County, Alabama
+77	true	county: autauga county / Autauga County
+78	null	county: ..... / Hale County
+79	true	county: dallas county / Dallas County
+80	true	county: sumter county / Sumter County
+81	true	county: lancaster county / Lancaster County,
+82	true	county: marshall county / Marshall County
+83	true	county: suwannee county / Suwannee County
+84	null	county: ..... / Limestone County
+85	null	county: ..... / St. Johns County
+86	null	county: ..... / Greene County
+87	true	county: randolph county / Randolph County
+88	true	county: tuscaloosa county / Tuscaloosa County
+89	null	county: ..... / Kalawao County
+90	null	county: ..... / Maui County
+91	null	county: ..... / Kauai County Kauai County
+92	null	county: ..... / Braxton County
+93	true	county: perry county / Perry County
+94	true	county: will county / Will County
+95	null	county: ..... / Sumter County
+96	true	county: polk county / Polk County
+97	null	county: ..... / Volusia County
+98	null	county: ..... / Walton County
+99	null	county: ..... / Barnstable County
+100	null	county: ..... / Berkshire County
+101	null	county: ..... / Hampden County
+102	true	county: middlesex county / Middlesex County,
+103	true	county: bibb county / Bibb County
+104	null	county: ..... / Blount County
+105	false	county: bullock county / Bullock County, Alabama
+106	null	county: ..... / Butler County
+107	null	county: ..... / Calhoun County
+108	null	county: ..... / Dale County
+109	true	county: fayette county / Fayette County
+110	null	county: ..... / Greene County
+111	null	county: ..... / Lauderdale County
+112	true	county: hill county / Hill County
+113	true	county: shelby county / Shelby County
+114	null	county: ..... / Washington County

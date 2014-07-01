@@ -1,0 +1,67 @@
+Found Not Null: 6
+Correct: 3
+Wrong: 3
+Total: 11
+-----------
+precision: 0.5
+recall: 0.2727272727272727
+F: 0.3529411764705882
+
+
+
+
+1	null	seat: ..... / Mount Pleasant.
+2	null	seat: ..... / Albany.
+3	null	seat: ..... / San
+4	null	seat: ..... / Leakey.
+5	null	seat: ..... / Glen Rose.
+6	null	seat: ..... / Stratford.
+7	null	seat: ..... / Paris.
+8	null	seat: ..... / Corpus Christi
+9	null	seat: ..... / Kingsville
+10	null	seat: ..... / Kerrville.
+11	null	seat: ..... / Greenville. Hunt
+12	null	seat: ..... / Mason.
+13	null	seat: ..... / Hallettsville.
+14	null	seat: ..... / Rankin.
+15	null	seat: ..... / Woodville. Tyler
+16	null	seat: ..... / Groveton.
+17	null	seat: ..... / Throckmorton.
+18	false	seat: sanderson / Sanderson.
+19	null	seat: ..... / Fort
+20	null	seat: ..... / Sonora.
+21	false	seat: aspermont / Aspermont.
+22	null	seat: ..... / Sterling City.
+23	true	seat: breckenridge / Breckenridge.
+24	null	seat: ..... / Center.
+25	null	seat: ..... / San Augustine.
+26	null	seat: ..... / Kaufman
+27	true	seat: livingston / Livingston.
+28	null	seat: ..... / Corsicana.
+29	null	seat: ..... / Daingerfield. Morris
+30	null	seat: ..... / Colorado City.
+31	null	seat: ..... / Goldthwaite.
+32	null	seat: ..... / Eagle
+33	null	seat: ..... / Jefferson.
+34	null	seat: ..... / Lipscomb.
+35	null	seat: ..... / Groesbeck.
+36	null	seat: ..... / Giddings.
+37	null	seat: ..... / Littlefield. Lamb
+38	null	seat: ..... / Cotulla.
+39	null	seat: ..... / Benjamin.
+40	null	seat: ..... / Brackettville. Kinney
+41	null	seat: ..... / Junction City
+42	null	seat: ..... / Jayton,
+43	true	seat: karnes city / Karnes City.
+44	null	seat: ..... / Alice.
+45	null	seat: ..... / Hebbronville.
+46	null	seat: ..... / Beaumont,
+47	false	seat: jasper / Jasper.
+48	null	seat: ..... / Edna.
+49	null	seat: ..... / Jacksboro.
+50	null	seat: ..... / Mertzon.
+51	null	seat: marfa / ..........
+52	null	seat: anson / ..........
+53	null	seat: pecos / ..........
+54	null	seat: fort stockton / ..........
+55	null	seat: fort davis / ..........

@@ -1,0 +1,40 @@
+Found Not Null: 19
+Correct: 9
+Wrong: 10
+Total: 22
+-----------
+precision: 0.47368421052631576
+recall: 0.4090909090909091
+F: 0.43902439024390244
+
+
+
+
+1	true	founded: 1993 / 1993
+2	false	founded: 1979 (as jersey european airways) / 1979
+3	null	founded: ..... / 6 October 1923,
+4	true	founded: 1973 / 1973
+5	false	founded: 1995 / 1961
+6	true	founded: 1994 / 1994
+7	null	founded: ..... / 1999
+8	false	founded: 2006 / 1970
+9	true	founded: 1955 / 1955
+10	false	founded: 24 june 1932 / 1932
+11	null	founded: ..... / 1948
+12	null	founded: ..... / 8 January 1989,
+13	null	founded: ..... / 1991
+14	true	founded: 2003 / 2003
+15	false	founded: march 15, 1941 / 1941
+16	false	founded: 1981 (as corse air international) / 1981
+17	false	founded: november 2001 / 2001
+18	false	founded: march 1961 / 1961
+19	true	founded: 2001 / 2001
+20	false	founded: 1962 / 1984
+21	true	founded: 1953 / 1953
+22	true	founded: 1988 / 1988
+23	false	founded: 17 june 1927 (as aeroput) / 1927
+24	true	founded: 1942 / 1942
+25	null	founded: ..... / 2000
+26	null	founded: 1963 / ..........
+27	null	founded: 1994 / ..........
+28	null	founded: 13 september 1991 / ..........

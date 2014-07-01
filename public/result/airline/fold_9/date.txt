@@ -1,0 +1,23 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	date: ..... / 22 June 2009,
+2	null	date: ..... / January 9, 2007,
+3	null	date: ..... / 23 September 2010,
+4	null	date: ..... / September 15, 1925,
+5	null	date: ..... / August 13, 2010,
+6	null	date: ..... / January 24, 2007,
+7	null	date: ..... / March 26, 1931,
+8	null	date: ..... / October 1, 1941,
+9	null	date: ..... / October 25, 1930,
+10	null	date: ..... / 2006, 2007, 2008
+11	null	date: ..... / 18 November 1978,
+12	null	date: ..... / December 15, 2010,
+13	null	date: ..... / April 2, 2008,
+14	null	date: ..... / 1973,

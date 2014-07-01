@@ -1,0 +1,35 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	largest city wl: ..... / Wessington
+2	null	largest city wl: ..... / Lancaster.
+3	null	largest city wl: ..... / Edmunds
+4	null	largest city wl: ..... / Clear Lake.
+5	null	largest city wl: ..... / Lake Andes.
+6	null	largest city wl: ..... / Mound City.
+7	null	largest city wl: ..... / Gann Valley,
+8	null	largest city wl: ..... / Chamberlain.
+9	null	largest city wl: ..... / Brookings
+10	null	largest city wl: ..... / Huron
+11	null	largest city wl: ..... / Charlotte
+12	null	largest city wl: ..... / Columbia,
+13	null	largest city wl: ..... / Orangeburg.
+14	null	largest city wl: ..... / McCormick.
+15	null	largest city wl: ..... / Ridgeland. Jasper
+16	null	largest city wl: ..... / Greenwood.
+17	null	largest city wl: ..... / Greenville.
+18	null	largest city wl: ..... / Georgetown.
+19	null	largest city wl: ..... / Chesterfield.
+20	null	largest city wl: ..... / Honesdale.
+21	null	largest city wl: ..... / Aiken
+22	null	largest city wl: ..... / Mason-Dixon
+23	null	largest city wl: ..... / Lewisburg.
+24	null	largest city wl: ..... / Wellsboro.
+25	null	largest city wl: ..... / Middleburg.
+26	null	largest city wl: ..... / Cumberland

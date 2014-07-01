@@ -1,0 +1,38 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 9
+-----------
+precision: 1.0
+recall: 0.1111111111111111
+F: 0.19999999999999998
+
+
+
+
+1	true	state: texas / Texas
+2	null	state: ..... / Texas
+3	null	state: ..... / Virginia
+4	null	state: ..... / Washington
+5	null	state: ..... / Texas
+6	null	state: ..... / Texas
+7	null	state: ..... / South Texas
+8	null	state: ..... / Texas
+9	null	state: ..... / Texas
+10	null	state: ..... / Texas
+11	null	state: ..... / Texas
+12	null	state: ..... / Texas
+13	null	state: ..... / Texas
+14	null	state: ..... / Texas
+15	null	state: ..... / Texas
+16	null	state: ..... / Virginia
+17	null	state: ..... / Virginia
+18	null	state: ..... / South Texas
+19	null	state: virginia / ..........
+20	null	state: virginia / ..........
+21	null	state: virginia / ..........
+22	null	state: virginia / ..........
+23	null	state: virginia / ..........
+24	null	state: virginia / ..........
+25	null	state: virginia / ..........
+26	null	state: virginia / ..........

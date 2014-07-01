@@ -1,0 +1,21 @@
+Found Not Null: 2
+Correct: 1
+Wrong: 1
+Total: 5
+-----------
+precision: 0.5
+recall: 0.2
+F: 0.28571428571428575
+
+
+
+
+1	null	commenced: ..... / December 1, 1990.
+2	null	commenced: ..... / 1965 to 1994
+3	false	commenced: 1991 / 8 April 1998.
+4	true	commenced: september 1, 1981 / September 1, 1981
+5	null	commenced: ..... / August 1, 1989.
+6	null	commenced: ..... / 1987 until 2001.
+7	null	commenced: july 1985 / ..........
+8	null	commenced: may 16, 1968 / ..........
+9	null	commenced: july 26, 1946 / ..........

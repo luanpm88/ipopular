@@ -1,0 +1,25 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 6
+-----------
+precision: 1.0
+recall: 0.16666666666666666
+F: 0.2857142857142857
+
+
+
+
+1	null	parent: ..... / Gulf American Corporation,
+2	null	parent: ..... / National Airways Corporation
+3	null	parent: ..... / British Air Transport
+4	null	parent: ..... / International Lease Finance Corporation.
+5	null	parent: ..... / Express
+6	null	parent: ..... / Indonesian Government
+7	true	parent: rpx group / RPX Group
+8	null	parent: transamerica corporation / ..........
+9	null	parent: orient thai airlines / ..........
+10	null	parent: iranian civil pension fund investment company / ..........
+11	null	parent: rpx group / ..........
+12	null	parent: airasia / ..........
+13	null	parent: iran air / ..........

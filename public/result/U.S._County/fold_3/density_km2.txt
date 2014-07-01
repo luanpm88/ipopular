@@ -1,0 +1,104 @@
+Found Not Null: 6
+Correct: 5
+Wrong: 1
+Total: 6
+-----------
+precision: 0.8333333333333334
+recall: 0.8333333333333334
+F: 0.8333333333333334
+
+
+
+
+1	true	density_km2: 25 / 25
+2	null	density_km2: ..... / 17
+3	null	density_km2: ..... / 45
+4	null	density_km2: ..... / 10
+5	null	density_km2: ..... / 15
+6	null	density_km2: ..... / 123
+7	null	density_km2: ..... / 41
+8	null	density_km2: ..... / 4
+9	null	density_km2: ..... / 1
+10	null	density_km2: ..... / 29
+11	null	density_km2: ..... / 2
+12	null	density_km2: ..... / 2
+13	null	density_km2: ..... / 14
+14	null	density_km2: ..... / 12
+15	null	density_km2: ..... / 169
+16	null	density_km2: ..... / 52
+17	null	density_km2: ..... / 11
+18	null	density_km2: ..... / 4
+19	null	density_km2: ..... / 1
+20	null	density_km2: ..... / 4
+21	null	density_km2: ..... / 5
+22	null	density_km2: ..... / 9
+23	null	density_km2: ..... / 18
+24	null	density_km2: ..... / 133
+25	null	density_km2: ..... / 1
+26	null	density_km2: ..... / 3
+27	true	density_km2: 2 / 2
+28	null	density_km2: ..... / 12
+29	null	density_km2: ..... / 14
+30	null	density_km2: ..... / 10
+31	null	density_km2: ..... / 13
+32	null	density_km2: ..... / 42
+33	null	density_km2: ..... / 222
+34	null	density_km2: ..... / 1
+35	null	density_km2: ..... / 55
+36	null	density_km2: ..... / 10
+37	null	density_km2: ..... / 3
+38	null	density_km2: ..... / 3
+39	null	density_km2: ..... / 3
+40	null	density_km2: ..... / 189
+41	null	density_km2: ..... / 9
+42	null	density_km2: ..... / 10
+43	null	density_km2: ..... / 6
+44	null	density_km2: ..... / 2
+45	null	density_km2: ..... / 0
+46	null	density_km2: ..... / 4
+47	null	density_km2: ..... / 2
+48	null	density_km2: ..... / 1
+49	null	density_km2: ..... / 17
+50	null	density_km2: ..... / 2
+51	null	density_km2: ..... / 8
+52	null	density_km2: ..... / 58
+53	null	density_km2: ..... / 10
+54	null	density_km2: ..... / 2
+55	null	density_km2: ..... / 230
+56	null	density_km2: ..... / 4
+57	null	density_km2: ..... / 3
+58	null	density_km2: ..... / 4
+59	null	density_km2: ..... / 18
+60	null	density_km2: ..... / 17
+61	null	density_km2: ..... / 4
+62	null	density_km2: ..... / 15
+63	null	density_km2: ..... / 3
+64	null	density_km2: ..... / 26
+65	null	density_km2: ..... / 132
+66	null	density_km2: ..... / 7
+67	null	density_km2: ..... / 15
+68	null	density_km2: ..... / 751
+69	true	density_km2: 2 / 2
+70	null	density_km2: ..... / 12
+71	null	density_km2: ..... / 2
+72	null	density_km2: ..... / 3
+73	null	density_km2: ..... / 18
+74	null	density_km2: ..... / 53
+75	null	density_km2: ..... / 40
+76	null	density_km2: ..... / 16
+77	false	density_km2: 15/km² / 19
+78	null	density_km2: ..... / 3
+79	null	density_km2: ..... / 1
+80	null	density_km2: ..... / 101
+81	null	density_km2: ..... / 41
+82	null	density_km2: ..... / 6
+83	null	density_km2: ..... / 88
+84	null	density_km2: ..... / 3
+85	null	density_km2: ..... / 12
+86	null	density_km2: ..... / 3
+87	null	density_km2: ..... / 16
+88	true	density_km2: 12 / 12
+89	true	density_km2: 1 / 1
+90	null	density_km2: ..... / 4
+91	null	density_km2: ..... / 51
+92	null	density_km2: ..... / 4

@@ -1,0 +1,11 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	destination: ..... / Tel Aviv, Israel.
+2	null	destination: ..... / Oslo Airport, Gardermoen and Bergen Airport, Flesland.

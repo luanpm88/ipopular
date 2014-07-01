@@ -1,0 +1,22 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	census yr: ..... / 2000
+2	null	census yr: ..... / 2000
+3	null	census yr: ..... / 2000
+4	null	census yr: ..... / 2000
+5	null	census yr: ..... / 2000
+6	null	census yr: ..... / 2000
+7	null	census yr: ..... / 2000
+8	null	census yr: ..... / 2000
+9	null	census yr: ..... / 2000
+10	null	census yr: ..... / 2000
+11	null	census yr: ..... / 2000
+12	null	census yr: ..... / 2000
+13	null	census yr: ..... / 2000

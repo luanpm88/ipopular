@@ -1,0 +1,96 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	pop: ..... / 2,295
+2	null	pop: ..... / 35,460
+3	null	pop: ..... / 369,993
+4	null	pop: ..... / 94,556
+5	null	pop: ..... / 11,276
+6	null	pop: ..... / 3,895
+7	null	pop: ..... / 24,131
+8	null	pop: ..... / 21,802
+9	null	pop: ..... / 5,815
+10	null	pop: ..... / 1,193
+11	null	pop: ..... / 2,930
+12	null	pop: ..... / 1,671
+13	null	pop: ..... / 8,075
+14	null	pop: ..... / 16,481
+15	null	pop: ..... / 2,196
+16	null	pop: ..... / 1,353
+17	null	pop: ..... / 3,139
+18	null	pop: ..... / 3,741
+19	null	pop: ..... / 5,540
+20	null	pop: ..... / 4,792
+21	null	pop: ..... / 7,847
+22	null	pop: ..... / 2,640
+23	null	pop: ..... / 7,453
+24	null	pop: ..... / 4,367
+25	null	pop: ..... / 3,458
+26	null	pop: ..... / 5,972
+27	null	pop: ..... / 4,498
+28	null	pop: ..... / 52,537
+29	null	pop: ..... / 6,267
+30	null	pop: ..... / 18,741
+31	null	pop: ..... / 7,275
+32	null	pop: ..... / 4,181
+33	null	pop: ..... / 25,897
+34	null	pop: ..... / 4,143
+35	null	pop: ..... / 9,350
+36	null	pop: ..... / 1,782
+37	null	pop: ..... / 9,094
+38	null	pop: ..... / 5,364
+39	null	pop: ..... / 28,220
+40	null	pop: ..... / 7,260
+41	null	pop: ..... / 3,574
+42	null	pop: ..... / 17,023
+43	null	pop: ..... / 3,058
+44	null	pop: ..... / 37,217
+45	null	pop: ..... / 29,881
+46	null	pop: ..... / 104,646
+47	null	pop: ..... / 275,534
+48	null	pop: ..... / 19,181
+49	null	pop: ..... / 110,757
+50	null	pop: ..... / 66,215
+51	null	pop: ..... / 69,567
+52	null	pop: ..... / 9,958
+53	null	pop: ..... / 35,466
+54	null	pop: ..... / 216,014
+55	null	pop: ..... / 20,119
+56	null	pop: ..... / 52,647
+57	null	pop: ..... / 20,678
+58	null	pop: ..... / 21,386
+59	null	pop: ..... / 66,271
+60	null	pop: ..... / 395,357
+61	null	pop: ..... / 125,761
+62	null	pop: ..... / 24,595
+63	null	pop: ..... / 30,722
+64	null	pop: ..... / 621,602
+65	null	pop: ..... / 32,502
+66	null	pop: ..... / 42,768
+67	null	pop: ..... / 34,068
+68	null	pop: ..... / 309,969
+69	null	pop: ..... / 15,185
+70	null	pop: ..... / 142,651
+71	null	pop: ..... / 155,215
+72	null	pop: ..... / 23,478
+73	null	pop: ..... / 16,658
+74	null	pop: ..... / 167,090
+75	null	pop: ..... / 50,648
+76	null	pop: ..... / 28,080
+77	null	pop: ..... / 43,863
+78	null	pop: ..... / 41,624
+79	null	pop: ..... / 41,373
+80	null	pop: ..... / 42,238
+81	null	pop: ..... / 80,023
+82	null	pop: ..... / 37,546
+83	null	pop: ..... / 18,080
+84	null	pop: ..... / 43,602
+85	null	pop: ..... / 18,236
+86	null	pop: ..... / 138,687
+87	null	pop: ..... / 46,486

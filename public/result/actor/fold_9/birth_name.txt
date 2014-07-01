@@ -1,0 +1,34 @@
+Found Not Null: 17
+Correct: 14
+Wrong: 3
+Total: 18
+-----------
+precision: 0.8235294117647058
+recall: 0.7777777777777778
+F: 0.7999999999999999
+
+
+
+
+1	true	birth_name: robert jonathan demme / Robert Jonathan Demme
+2	true	birth_name: james todd spader / James Todd Spader
+3	null	birth_name: ..... / James Maury "Jim"
+4	true	birth_name: john michael frankenheimer / John Michael Frankenheimer
+5	null	birth_name: ..... / Helene Bertha Amalie "Leni" Riefenstahl
+6	null	birth_name: ..... / Jonathan Vincent "Jon" Voight
+7	true	birth_name: julia fiona roberts / Julia Fiona Roberts
+8	true	birth_name: johann peter weißmüller / Johann Peter Weißmüller;
+9	false	birth_name: lars trier / Lars von Trier
+10	false	birth_name: clarence leroy van cleef, jr. / Lee Van Cleef
+11	true	birth_name: keanu charles reeves / Keanu Charles Reeves
+12	false	birth_name: kevin spacey fowler / Kevin Spacey, CBE
+13	true	birth_name: john adam belushi / John Adam Belushi
+14	true	birth_name: laura maureen bertram / Laura Maureen Bertram
+15	true	birth_name: leslie claire margaret caron / Leslie Claire Margaret Caron
+16	null	birth_name: ..... / Karl Gustav Ahlefeldt
+17	true	birth_name: kirsten caroline dunst / Kirsten Caroline Dunst
+18	true	birth_name: kyle merritt maclachlan / Kyle Merritt MacLachlan
+19	true	birth_name: khwaja ahmad abbas / Khwaja Ahmad Abbas
+20	true	birth_name: liv johanne ullmann / Liv Johanne Ullmann
+21	true	birth_name: richard kim milford / Richard Kim Milford
+22	null	birth_name: joseph levitch / ..........

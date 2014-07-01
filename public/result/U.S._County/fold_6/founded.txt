@@ -1,0 +1,62 @@
+Found Not Null: 5
+Correct: 5
+Wrong: 0
+Total: 9
+-----------
+precision: 1.0
+recall: 0.5555555555555556
+F: 0.7142857142857143
+
+
+
+
+1	null	founded: ..... / 1851
+2	null	founded: ..... / January 20, 1863.
+3	null	founded: ..... / February 8, 1854,
+4	null	founded: ..... / March 27, 1860,
+5	true	founded: march 9, 1854 / March 9, 1854,
+6	null	founded: ..... / March 13, 1899.
+7	null	founded: ..... / 27, 2006
+8	null	founded: ..... / February 23, 1867,
+9	null	founded: ..... / 1831
+10	null	founded: ..... / 1845
+11	null	founded: ..... / 1836
+12	null	founded: ..... / February 5, 1850
+13	true	founded: 1850 / 1850
+14	null	founded: ..... / 1798
+15	null	founded: ..... / 1871
+16	null	founded: ..... / March 11, 1856.
+17	null	founded: ..... / January 23, 1850
+18	null	founded: ..... / 1820
+19	null	founded: ..... / 1835
+20	null	founded: ..... / 1842
+21	null	founded: ..... / 1824
+22	null	founded: ..... / 1801
+23	null	founded: ..... / 1856
+24	null	founded: ..... / February 2, 1888.
+25	null	founded: ..... / December 22, 1852,
+26	true	founded: february 21, 1899 / February 21, 1899.
+27	true	founded: november 11, 1875 / November 11, 1875.
+28	null	founded: ..... / January 29, 1858.
+29	null	founded: ..... / December 13, 1753,
+30	null	founded: ..... / 1845
+31	null	founded: ..... / February 28, 1831,
+32	null	founded: ..... / 1847
+33	null	founded: ..... / 1797
+34	null	founded: ..... / April 25, 1854.
+35	null	founded: ..... / April 25, 1854.
+36	null	founded: ..... / March 9, 1854.
+37	null	founded: ..... / January 14, 1861.
+38	null	founded: ..... / November 28, 1883.
+39	null	founded: ..... / December 22, 1852,
+40	null	founded: ..... / February 4, 1851.
+41	null	founded: ..... / November 24, 1883.
+42	null	founded: ..... / December 19, 1845,
+43	null	founded: ..... / November 28, 1883.
+44	true	founded: march 1, 1911 / March 1, 1911.
+45	null	founded: ..... / December 22, 1852,
+46	null	founded: ..... / April 26, 1854.
+47	null	founded: november 28, 1883 / ..........
+48	null	founded: october 27, 1883 / ..........
+49	null	founded: november 29, 1871 / ..........
+50	null	founded: november 29, 1881 / ..........

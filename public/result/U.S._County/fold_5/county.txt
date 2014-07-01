@@ -1,0 +1,126 @@
+Found Not Null: 10
+Correct: 10
+Wrong: 0
+Total: 10
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	county: ..... / Craig County
+2	null	county: ..... / James City County
+3	null	county: ..... / Highland County
+4	null	county: ..... / Powhatan County
+5	true	county: williamson county / Williamson County
+6	null	county: ..... / Addison County
+7	null	county: ..... / right|200px|thumb|"Wilbarger County Remembers",
+8	null	county: ..... / Wichita County
+9	null	county: ..... / Nelson County
+10	null	county: ..... / Middlesex County
+11	null	county: ..... / King George County
+12	null	county: ..... / Walker County
+13	true	county: stafford county / Stafford County
+14	null	county: ..... / Rappahannock County
+15	null	county: ..... / Prince Edward County
+16	null	county: ..... / Pittsylvania County
+17	null	county: ..... / Patrick County
+18	null	county: ..... / New Kent County
+19	null	county: ..... / Mathews County
+20	true	county: fairfax county / Fairfax County
+21	null	county: ..... / Dinwiddie County
+22	null	county: ..... / King and Queen County
+23	null	county: ..... / Alleghany County
+24	true	county: roanoke county / Roanoke County
+25	null	county: ..... / Southampton County
+26	null	county: ..... / Madison County
+27	null	county: ..... / Spotsylvania County
+28	null	county: ..... / Smyth County
+29	null	county: ..... / Shenandoah County
+30	null	county: ..... / Scott County
+31	null	county: ..... / Russell County
+32	null	county: ..... / Rockingham County
+33	null	county: ..... / Rockbridge County
+34	true	county: richmond county / Richmond County
+35	null	county: ..... / Pulaski County
+36	null	county: ..... / Prince William County
+37	null	county: ..... / Prince George County
+38	null	county: ..... / Page County
+39	null	county: ..... / Orange County
+40	null	county: ..... / Nottoway County
+41	null	county: ..... / Northampton County
+42	null	county: ..... / Mecklenburg County
+43	null	county: ..... / Lunenburg County
+44	null	county: ..... / Louisa County
+45	null	county: ..... / Loudoun County
+46	null	county: ..... / Lee County
+47	null	county: ..... / Lancaster County
+48	null	county: ..... / Wight County
+49	null	county: ..... / Henry County Henry County
+50	null	county: ..... / Henrico County
+51	true	county: hanover county / Hanover County
+52	null	county: ..... / Halifax County
+53	null	county: ..... / Greensville County
+54	null	county: ..... / Grayson County. Grayson County
+55	null	county: ..... / Giles County
+56	null	county: ..... / Franklin County
+57	null	county: ..... / Fluvanna County
+58	null	county: ..... / Floyd County
+59	null	county: ..... / Fauquier County
+60	null	county: ..... / Essex County
+61	null	county: ..... / Dickenson County
+62	null	county: ..... / Cumberland County
+63	null	county: ..... / Culpeper County
+64	null	county: ..... / Clarke County
+65	null	county: ..... / Warren County
+66	null	county: ..... / Essex County
+67	null	county: ..... / Washington County
+68	null	county: ..... / Victoria County
+69	null	county: ..... / Van Zandt County
+70	null	county: ..... / Goochland County
+71	true	county: arlington county / Arlington County
+72	null	county: ..... / Zapata County
+73	null	county: ..... / Botetourt County
+74	null	county: ..... / Wharton County
+75	true	county: chesterfield county / Chesterfield County
+76	null	county: ..... / Charlotte County
+77	null	county: ..... / City County, Virginia
+78	null	county: ..... / Caroline County
+79	null	county: ..... / Campbell County
+80	null	county: ..... / Buckingham County
+81	true	county: brunswick county / Brunswick County
+82	null	county: ..... / Bland County
+83	null	county: ..... / Bath County
+84	true	county: augusta county / Augusta County
+85	null	county: ..... / Amherst County
+86	null	county: ..... / Amelia County
+87	null	county: ..... / Accomack County,
+88	null	county: ..... / Windsor County
+89	null	county: ..... / Windham County
+90	null	county: ..... / Washington County
+91	null	county: ..... / Rutland County
+92	null	county: ..... / Orleans County
+93	null	county: ..... / Orange County
+94	null	county: ..... / Lamoille County
+95	null	county: ..... / Grand Isle County
+96	null	county: ..... / Franklin County
+97	null	county: ..... / Chittenden County
+98	null	county: ..... / Caledonia County
+99	null	county: ..... / Bennington County
+100	null	county: ..... / Zavala County
+101	null	county: ..... / Young County
+102	null	county: ..... / Yoakum County
+103	null	county: ..... / Wood County
+104	null	county: ..... / Wise County
+105	null	county: ..... / Winkler County
+106	null	county: ..... / Wilson County
+107	null	county: ..... / Willacy County
+108	null	county: ..... / Wheeler County
+109	null	county: ..... / Ward County
+110	null	county: ..... / Waller County
+111	null	county: ..... / Buchanan County
+112	null	county: ..... / Bedford County
+113	null	county: ..... / Albemarle County
+114	null	county: ..... / Webb County

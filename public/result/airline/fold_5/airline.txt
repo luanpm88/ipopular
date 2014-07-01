@@ -1,0 +1,50 @@
+Found Not Null: 15
+Correct: 11
+Wrong: 4
+Total: 20
+-----------
+precision: 0.7333333333333333
+recall: 0.55
+F: 0.6285714285714286
+
+
+
+
+1	true	airline: gandalf airlines / Gandalf Airlines
+2	true	airline: lan airlines / LAN Airlines
+3	null	airline: ..... / after
+4	true	airline: carnival air lines / Carnival Air Lines
+5	true	airline: olympic aviation / Olympic Aviation
+6	null	airline: ..... / Flash Airlines
+7	null	airline: ..... / American Airlines
+8	null	airline: ..... / Libya
+9	null	airline: ..... / Japan Airlines
+10	null	airline: ..... / United Airlines
+11	true	airline: air algérie / Air Algerie
+12	true	airline: flash airlines / Flash Airlines
+13	null	airline: ..... / Nuevo Continente
+14	null	airline: ..... / UTA
+15	null	airline: ..... / Nok Air
+16	false	airline: antilliaanse luchtvaart maatschappij / ALM Antillean Airlines
+17	false	airline: union des transports aériens / Union
+18	null	airline: ..... / Gulf Air
+19	null	airline: ..... / TACA
+20	true	airline: british caledonian / British Caledonian
+21	null	airline: ..... / Iraqi Airways
+22	true	airline: royal air maroc / Royal Air Maroc
+23	true	airline: mandarin airlines / Mandarin Airlines,
+24	null	airline: ..... / Spirit Airlines
+25	null	airline: ..... / Qatar Airways
+26	false	airline: spanair / Scandinavian Airlines,
+27	false	airline: blue1 / Blue1 Oy
+28	null	airline: ..... / Avianca Airlines
+29	true	airline: bangkok airways / Bangkok Airways
+30	null	airline: ..... / Pacific Southwest Airlines
+31	true	airline: us airways shuttle / US Airways Shuttle
+32	null	airline: ..... / Aloha Airlines
+33	null	airline: ..... / Arrow Air
+34	null	airline: silkair / ..........
+35	null	airline: song / ..........
+36	null	airline: hokkaido air system / ..........
+37	null	airline: air calédonie / ..........
+38	null	airline: air berlin / ..........

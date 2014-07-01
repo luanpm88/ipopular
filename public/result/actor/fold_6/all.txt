@@ -1,0 +1,72 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 3/12
+------------
+Found: 51
+Found Not Null: 12
+Correct: 11
+Wrong: 1
+Total: 24
+-----------
+precision: 0.9166666666666666
+recall: 0.4583333333333333
+F: 0.611111111111111
+
+
+
+1	true	birth_name: cybill lynne shepherd / Cybill Lynne Shepherd
+2	null	occupation: ..... / actress
+3	null	birth_place: ..... / Memphis, Tennessee,
+4	null	occupation: ..... / actor
+5	null	birth_place: ..... / Los Angeles, California,
+6	null	birth_name: ..... / Mel Colm-Cille Gerard Gibson, AO
+7	null	occupation: ..... / film director, producer
+8	null	occupation: ..... / actress
+9	null	birth_place: ..... / Greenwich, Connecticut,
+10	true	birth_name: helen elizabeth hunt / Helen Elizabeth Hunt
+11	null	occupation: ..... / film director,
+12	null	birth_place: ..... / Culver City, California,
+13	true	birth_name: mary virginia martin / Mary Virginia Martin
+14	null	occupation: ..... / actress
+15	null	birth_name: ..... / Alfredo James "Al" Pacino
+16	null	occupation: ..... / actor
+17	true	birth_name: william clark gable / William Clark Gable
+18	true	birth_name: cameron michelle diaz / Cameron Michelle Diaz
+19	null	occupation: ..... / actress
+20	null	birth_place: ..... / San Diego, California,
+21	null	occupation: ..... / film director
+22	true	birth_name: gwyneth kate paltrow / Gwyneth Kate Paltrow
+23	null	birth_place: ..... / Los Angeles, California,
+24	true	birth_name: sophie danièle sylvie maupu / Sophie Danièle Sylvie Maupu
+25	true	birth_place: paris, france / Paris, France,
+26	true	birth_name: ashley tyler ciminella / Ashley Tyler Ciminella
+27	null	birth_name: ..... / Thomas Jeffrey "Tom"
+28	null	occupation: ..... / actor
+29	null	birth_place: ..... / Concord, California.
+30	false	birth_name: laurence kerr olivier / Laurence Kerr Olivier, Baron Olivier, OM
+31	null	occupation: ..... / actor
+32	null	birth_place: ..... / Gaffney, South Carolina,
+33	null	birth_place: ..... / Pendleton, Salford, Lancashire,
+34	null	birth_name: ..... / Vittorio Gassman Knight Grand
+35	null	occupation: ..... / actor
+36	null	occupation: ..... / actress
+37	null	birth_place: ..... / Västerås, Västmanland, Sweden
+38	null	occupation: ..... / film director, writer
+39	true	occupation: actress / actress
+40	true	birth_name: ava lavinia gardner / Ava Lavinia Gardner
+41	null	birth_name: ..... / Cecil Antonio "Tony"
+42	null	birth_date: may 24, 1925 / ..........
+43	null	death_place: london, england / ..........
+44	null	birth_name: mai elisabeth zetterling / ..........
+45	null	birth_place: stockholm, sweden / ..........
+46	null	occupation: actor / ..........
+47	null	birth_name: elizabeth rosemond taylor / ..........
+48	null	other_names: liz taylor / ..........
+49	null	occupation: actress / ..........
+50	null	occupation: actress / ..........
+51	null	occupation: actor / ..........
+52	null	birth_place: lwów, poland / ..........
+53	null	occupation: film director / ..........

@@ -1,0 +1,22 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 3
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	date: ..... / September 26, 1996,
+2	null	date: ..... / March 29, 1975,
+3	null	date: ..... / December 8, 2005,
+4	null	date: ..... / December 15, 2004,
+5	null	date: ..... / 22 June 2009,
+6	null	date: ..... / March 31, 1989,
+7	null	date: ..... / 17 July 1995,
+8	null	date: ..... / 22 June 2000,
+9	null	date: 2 september 1998 / ..........
+10	null	date: 19 september 1989 / ..........
+11	null	date: 3 march 1974 / ..........

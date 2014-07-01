@@ -1,0 +1,28 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	r accidentname: ..... / Flash Airlines Flight 604
+2	null	r accidentname: ..... / American Airlines Flight 965,
+3	null	r accidentname: ..... / EgyptAir Flight 648
+4	true	r accidentname: japan airlines flight 123 / Japan Airlines Flight 123
+5	null	r accidentname: ..... / United Airlines Flight 232
+6	null	r accidentname: ..... / UTA Flight 141
+7	null	r accidentname: ..... / Pan Am Flight
+8	null	r accidentname: ..... / Luxair Flight 9642
+9	null	r accidentname: ..... / Gulf Air Flight 771
+10	null	r accidentname: ..... / Iraqi Airways Flight 163
+11	null	r accidentname: ..... / Mandarin Airlines, Limited
+12	null	r accidentname: ..... / Avianca Airlines Flight 203
+13	null	r accidentname: ..... / Pacific Southwest Airlines Flight 1771
+14	null	r accidentname: ..... / Aloha Airlines Flight 243
+15	null	r accidentname: ..... / Arrow Air Flight 1285
+16	null	r accidentname: japan airlines flight 123 / ..........

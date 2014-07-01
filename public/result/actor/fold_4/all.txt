@@ -1,0 +1,75 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 3/12
+------------
+Found: 58
+Found Not Null: 19
+Correct: 16
+Wrong: 3
+Total: 32
+-----------
+precision: 0.8421052631578947
+recall: 0.5
+F: 0.6274509803921569
+
+
+
+1	true	birth_name: simone henriette charlotte kaminker / Simone Henriette Charlotte Kaminker
+2	true	occupation: actress / actress
+3	true	birth_name: robert james keeshan / Robert James Keeshan
+4	false	birth_name: henry warren beatty / Warren Beatty (
+5	null	occupation: ..... / actor
+6	true	birth_name: john joseph travolta / John Joseph Travolta
+7	true	birth_name: samuel leroy jackson / Samuel Leroy Jackson
+8	null	occupation: ..... / actor
+9	true	birth_name: caryn elaine johnson / Caryn Elaine Johnson;
+10	null	birth_name: ..... / Gwenyth Evelyn “Gwen”
+11	null	birth_place: ..... / Culver City, California,
+12	true	birth_name: paul edward lynde / Paul Edward Lynde
+13	true	birth_place: mount vernon, ohio,  / Mount Vernon, Ohio,
+14	null	birth_place: ..... / Leytonstone, London, Robinson
+15	null	occupation: ..... / actor
+16	null	birth_name: ..... / Mordecai Richler, CC
+17	null	occupation: ..... / actor
+18	null	birth_name: ..... / Daniel Louis "Dan" Castellaneta
+19	null	birth_place: ..... / Oak Park, Illinois,
+20	null	birth_name: ..... / Rodney Stephen "Rod"
+21	true	occupation: actor / actor
+22	null	birth_place: ..... / Westhampton, New York,
+23	null	occupation: ..... / actor
+24	false	birth_name: maurice joseph micklewhite / Sir Michael Caine,
+25	null	occupation: ..... / actor
+26	null	birth_name: ..... / Timothy Irving Frederick
+27	null	occupation: ..... / actress
+28	true	birth_name: charles robert redford jr. / Charles Robert Redford Jr.
+29	null	birth_place: ..... / Santa Monica, California,
+30	true	occupation: actor / actor
+31	true	birth_place: munich, germany / Munich, Germany,
+32	null	birth_name: ..... / Jeffrey Leon "Jeff" Bridges
+33	null	occupation: ..... / actor
+34	null	birth_place: ..... / Los Angeles, California,
+35	null	birth_name: ..... / Ronald William "Ron"
+36	null	birth_place: ..... / Duncan, Oklahoma,
+37	false	birth_name: margaret taylor rutherford / Dame Margaret Rutherford DBE
+38	true	occupation: actor / actor
+39	true	birth_name: maurice auguste chevalier / Maurice Auguste Chevalier
+40	null	occupation: ..... / actress
+41	null	birth_place: ..... / Enghien-les-Bains, Val-d'Oise, Île-de-France, France.
+42	true	birth_name: yuliy borisovich bryner / Yuliy Borisovich Bryner
+43	true	occupation: actor / actor
+44	null	occupation: actor, broadcaster and political campaigner / ..........
+45	null	birth_place: paris, france / ..........
+46	null	birth_name: eugene rubessa / ..........
+47	null	birth_name: jeanne bourgeois / ..........
+48	null	death_date: ) / ..........
+49	null	birth_name: emilie claudette chauchoin / ..........
+50	null	occupation: actress / ..........
+51	null	birth_place: toronto, ontario / ..........
+52	null	birth_place: wiesbaden, germany / ..........
+53	null	birth_name: lev milstein / ..........
+54	null	birth_name: wilhelm weiller / ..........
+55	null	occupation: director, producer / ..........
+56	null	birth_place: saint-mandé, france / ..........

@@ -1,0 +1,242 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 12/39
+------------
+Found: 179
+Found Not Null: 58
+Correct: 43
+Wrong: 15
+Total: 119
+-----------
+precision: 0.7413793103448276
+recall: 0.36134453781512604
+F: 0.48587570621468923
+
+
+
+1	null	callsign: ..... / ABX
+2	false	airline: abx air / ABX Air,
+3	null	callsign: ..... / Trans States
+4	null	headquarters: ..... / Bridgeton, Missouri.
+5	null	airline: ..... / Trans States Airlines
+6	null	callsign: ..... / Royal Tongan
+7	true	airline: royal tongan airlines / Royal Tongan Airlines
+8	null	founded: ..... / 1 April 1996
+9	null	airline: ..... / Air India
+10	null	callsign: ..... / Scenic
+11	null	headquarters: ..... / Paradise, Nevada, USA.
+12	null	operator: ..... / Scenic Airlines
+13	null	airline: ..... / Scenic Airlines
+14	null	callsign: ..... / Virgin
+15	null	headquarters: ..... / Burlingame, California,
+16	null	date: ..... / December 27, 2006.
+17	true	airline: virgin america / Virgin America,
+18	null	icao: ..... / Virgin
+19	true	callsign: empire / Empire
+20	true	headquarters: coeur d'alene, idaho, usa / Coeur d'Alene, Idaho, USA.
+21	null	hubs: ..... / Coeur d'Alene Airport
+22	null	operator: ..... / Empire Airlines
+23	true	airline: empire airlines / Empire Airlines
+24	false	icao: cfs / Empire
+25	true	callsign: cirrus / Cirrus
+26	true	headquarters: saarbrücken, germany / Saarbrücken, Germany.
+27	true	founded: 1995 / 1995
+28	true	hubs: dresden international airport / Dresden International Airport.
+29	null	operator: ..... / Cirrus Airlines
+30	false	airline: cirrus airlines / Cirrus Airlines Luftfahrtgesellschaft
+31	null	icao: ..... / Cirrus
+32	null	date: ..... / October 13, 1972.
+33	true	operator: uruguayan air force / Uruguayan Air Force
+34	null	airline: ..... / Uruguayan Air Force
+35	null	icao: ..... / Uruguayan
+36	true	airline: air europe / Air Europe
+37	null	icao: ..... / Air
+38	true	callsign: armenian / Armenian
+39	null	airline: ..... / Armenian Airlines
+40	null	icao: ..... / Airlines
+41	null	airline: ..... / East African Safari Air
+42	true	airline: air niagara / Air Niagara
+43	true	callsign: allegheny / Allegheny
+44	null	headquarters: ..... / Pittsburgh, Pennsylvania, United
+45	null	hubs: ..... / Washington National Airport
+46	true	airline: allegheny airlines / Allegheny Airlines
+47	null	icao: ..... / Allegheny
+48	null	callsign: ..... / Japan
+49	null	r accidentname: ..... / Japan Airlines Flight 350
+50	true	passengers: 166 / 166
+51	true	operator: japan airlines / Japan Airlines
+52	null	airline: ..... / Japan Airlines
+53	true	callsign: polynesian  / Polynesian
+54	null	founded: ..... / 1959
+55	null	operator: ..... / Polynesian Airlines
+56	true	airline: polynesian airlines / Polynesian Airlines
+57	null	callsign: ..... / Pacific Wings
+58	false	headquarters: dallas, texas / Dallas, Texas, United
+59	null	hubs: ..... / Kahului Airport.
+60	false	airline: pacific wings / Pacific Wings Airlines
+61	null	callsign: ..... / Omni
+62	false	headquarters: tulsa, oklahoma / Tulsa, Oklahoma, USA.
+63	true	airline: omni air international / Omni Air International
+64	null	icao: ..... / Omni
+65	true	callsign: lao / Lao
+66	true	headquarters: vientiane, laos / Vientiane, Laos.
+67	null	hubs: ..... / Wattay International Airport,
+68	null	operator: ..... / Lao Airlines
+69	null	airline: ..... / Lao Airlines
+70	null	callsign: ..... / Avianca
+71	null	operator: ..... / Avianca
+72	null	airline: ..... / Avianca
+73	null	callsign: ..... / Harbour Air
+74	false	headquarters: richmond, british columbia / Richmond, British Columbia, Canada.
+75	true	founded: 1982 / 1982
+76	null	date: ..... / March 31, 2010
+77	null	airline: ..... / Harbour Air
+78	null	icao: ..... / Harbour
+79	null	headquarters: ..... / Fairbanks, Alaska, United
+80	true	founded: 1950 / 1950
+81	null	icao: ..... / Frontier
+82	null	callsign: ..... / CityJet Limited
+83	null	headquarters: ..... / Swords, County Dublin, Ireland.
+84	null	founded: ..... / 1992
+85	false	airline: cityjet / CityJet Limited
+86	null	icao: ..... / CityJet
+87	null	callsign: ..... / Executive
+88	null	r accidentname: ..... / American Eagle Flight 5401
+89	null	operator: ..... / American Eagle
+90	null	airline: ..... / American Eagle
+91	false	callsign: scadta / Avianca
+92	null	icao: ..... / SCADTA
+93	null	callsign: ..... / Wizz
+94	true	airline: wizz air / Wizz Air
+95	null	icao: ..... / Wizz
+96	null	callsign: ..... / Brendan
+97	true	callsign: valuair / Valuair
+98	null	date: ..... / 24 July 2005,
+99	false	airline: valuair / Valuair Limited
+100	null	icao: ..... / Valuair
+101	null	callsign: ..... / El
+102	true	crew: 10 / 10
+103	null	passengers: ..... / 148
+104	true	callsign: germanwings / Germanwings
+105	true	headquarters: cologne, germany / Cologne, Germany,
+106	false	airline: germanwings / Germanwings GmbH
+107	null	callsign: ..... / HLX
+108	null	headquarters: ..... / Langenhagen, Germany.
+109	null	founded: ..... / 2002
+110	null	airline: ..... / Hapag-Lloyd Express
+111	null	icao: ..... / HLX
+112	null	callsign: ..... / Alitalia
+113	null	callsign: ..... / Saudia
+114	true	r accidentname: saudia flight 163 / Saudia Flight 163
+115	true	occurrence_type: accident / accident
+116	true	crew: 14 / 14
+117	true	passengers: 287 / 287
+118	true	operator: saudia / Saudia
+119	null	airline: ..... / Saudia
+120	null	callsign: ..... / Northwest
+121	null	r accidentname: ..... / Northwest Airlines Flight 255
+122	null	occurrence_type: ..... / m.
+123	true	date: august 16, 1987 / August 16, 1987,
+124	true	operator: northwest airlines / Northwest Airlines
+125	null	airline: ..... / Northwest Airlines
+126	null	icao: ..... / at
+127	true	date: 28 november 1987 / 28 November 1987,
+128	null	airline: ..... / Aircraft South African Airways
+129	null	hubs: ..... / Glasgow International Airport.
+130	false	airline: air 2000 / International Airways
+131	null	headquarters: ..... / Leeds/Bradford Airport, England.
+132	null	hubs: ..... / Leeds/Bradford Airport,
+133	true	callsign: mohawk / Mohawk
+134	null	date: ..... / February 11, 1958,
+135	null	operator: ..... / Mohawk Airlines
+136	true	airline: mohawk airlines / Mohawk Airlines
+137	null	icao: ..... / Mohawk
+138	null	callsign: ..... / Meridiana
+139	null	headquarters: ..... / Olbia, Sardinia, Italy.
+140	null	founded: ..... / March 29, 1963
+141	false	airline: meridiana fly / Meridiana
+142	null	icao: ..... / Meridiana
+143	null	founded: ..... / 1996
+144	null	hubs: ..... / Minsk International Airport.
+145	null	date: ..... / 7 November 1933,
+146	null	airline: ..... / Republic Unitary Enterprise
+147	null	icao: ..... / Belavia
+148	true	callsign: uzbekistan / Uzbekistan
+149	null	operator: ..... / Uzbekistan Airways
+150	null	airline: ..... / Uzbekistan Airways
+151	null	founded: ..... / 1945
+152	true	hubs: beirut rafic hariri international airport / Beirut Rafic Hariri International Airport.
+153	null	airline: ..... / Middle East Airlines
+154	true	icao: mea / MEA
+155	true	callsign: sahsa / SAHSA
+156	null	founded: ..... / January 2, 1945
+157	null	icao: ..... / Servicio
+158	false	callsign: siberian airlines / Siberia
+159	null	headquarters: ..... / Ob, Novosibirsk Oblast, Russia,
+160	null	operator: ..... / OJSC Siberia Airlines
+161	false	airline: s7 airlines / OJSC Siberia Airlines
+162	null	icao: ..... / OJSC
+163	null	parent: air france-klm / ..........
+164	null	parent: scadta / ..........
+165	null	airline: usa3000 airlines / ..........
+166	null	parent: apple vacations / ..........
+167	null	headquarters: newtown township, delaware county, pennsylvania / ..........
+168	null	headquarters: singapore / ..........
+169	null	r accidentname: el al flight 219 / ..........
+170	null	date: september 6, 1970 / ..........
+171	null	occurrence_type: hijacking / ..........
+172	null	survivors: 148 / ..........
+173	null	fleet_size: 30 / ..........
+174	null	destinations: 70 / ..........
+175	null	parent: lufthansa / ..........
+176	null	date: august 19, 1980 / ..........
+177	null	aircraft type: lockheed l1011-200 tristar / ..........
+178	null	fatalities: 24 / ..........
+179	null	aircraft type: mcdonnell douglas dc-8-61 / ..........
+180	null	crew: 8 / ..........
+181	null	type: controlled flight into terrain / ..........
+182	null	origin: montevideo, uruguay / ..........
+183	null	destination: santiago, chile / ..........
+184	null	aircraft type: fairchild fh-227d / ..........
+185	null	survivors: 16 / ..........
+186	null	parent: us airways / ..........
+187	null	founded: 1989 / ..........
+188	null	parent: government of samoa  / ..........
+189	null	company_slogan: airline of samoa  / ..........
+190	null	callsign: air europe / ..........
+191	null	hubs: zvartnots international airport / ..........
+192	null	aircraft type: boeing 747-244b combi / ..........
+193	null	operator: south african airways / ..........
+194	null	passengers: 140 / ..........
+195	null	frequent_flyer: elevate / ..........
+196	null	founded: 1987 / ..........
+197	null	founded: 1945 as robinson airlines / ..........
+198	null	founded: 1977 / ..........
+199	null	icao: abx / ..........
+200	null	founded: 1980 / ..........
+201	null	airline: dan air services / ..........
+202	null	icao: dan / ..........
+203	null	callsign: dan-air / ..........
+204	null	founded: 1953 / ..........
+205	null	hubs: fairbanks international airport / ..........
+206	null	airline: jet2 / ..........
+207	null	destinations: 54 / ..........
+208	null	parent: dart group plc / ..........
+209	null	founded: 1992 / ..........
+210	null	hubs: tashkent international airport / ..........
+211	null	hubs: niagara falls international airport / ..........
+212	null	headquarters: niagara falls / ..........
+213	null	icao: lao / ..........
+214	null	founded: 1976 / ..........
+215	null	parent: aviation investment corp. / ..........
+216	null	alliance: tan-sahsa / ..........
+217	null	parent: pan american airways / ..........
+218	null	key_people: oswaldo lópez arellano / ..........
+219	null	iata: s7 / ..........
+220	null	alliance: vg airlines (later renamed delsey airlines / ..........
+221	null	destination: john wayne airport / ..........
+222	null	commenced: august 8, 2007 / ..........
+223	null	hubs: san francisco international airport / ..........

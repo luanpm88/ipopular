@@ -1,0 +1,17 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	founded date: ..... / January 5,
+2	null	founded date: ..... / March 30,
+3	null	founded date: ..... / February 23,
+4	null	founded date: ..... / May 1,
+5	null	founded date: ..... / November 26,
+6	null	founded date: ..... / May 1,
+7	null	founded date: ..... / February 27,
+8	null	founded date: ..... / December 14,

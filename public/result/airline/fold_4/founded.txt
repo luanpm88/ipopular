@@ -1,0 +1,41 @@
+Found Not Null: 15
+Correct: 8
+Wrong: 7
+Total: 23
+-----------
+precision: 0.5333333333333333
+recall: 0.34782608695652173
+F: 0.4210526315789474
+
+
+
+
+1	true	founded: 1971 / 1971
+2	false	founded: 1958 / 1963
+3	null	founded: ..... / 15 September 1977,
+4	null	founded: ..... / 1997
+5	null	founded: ..... / 27 November 1940
+6	null	founded: ..... / 1994
+7	false	founded: 1991 / 20 September 1991
+8	false	founded: 2001 / June 12, 2001
+9	true	founded: 2003 / 2003
+10	null	founded: ..... / 29 January 1987
+11	true	founded: 1983 / 1983
+12	true	founded: 1958 / 1958
+13	true	founded: 1962 / 1962
+14	false	founded: april 1968 / 1968
+15	false	founded: august 1990 / 1990
+16	true	founded: 1951 / 1951
+17	null	founded: ..... / 1953
+18	true	founded: 1998 / 1998
+19	false	founded: 1949 (as israel inland airlines) / 1949
+20	true	founded: 1991 / 1991
+21	false	founded: 1977 / 10 March 1977
+22	null	founded: july 1979 / ..........
+23	null	founded: 1986 / ..........
+24	null	founded: 2003 / ..........
+25	null	founded: 1984 / ..........
+26	null	founded: 1961 / ..........
+27	null	founded: 1982 / ..........
+28	null	founded: 1 december 1991  / ..........
+29	null	founded: august 8, 1996 / ..........

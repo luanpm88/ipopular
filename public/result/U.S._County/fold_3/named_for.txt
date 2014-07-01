@@ -1,0 +1,71 @@
+Found Not Null: 10
+Correct: 8
+Wrong: 2
+Total: 13
+-----------
+precision: 0.8
+recall: 0.6153846153846154
+F: 0.6956521739130435
+
+
+
+
+1	null	named for: ..... / Claude Benton Hudspeth,
+2	null	named for: ..... / Rafael Gonzales,
+3	null	named for: ..... / John Bell Hood,
+4	null	named for: ..... / George Washington Hockley,
+5	null	named for: ..... / George Washington Hill,
+6	null	named for: ..... / John Hemphill,
+7	null	named for: ..... / Jonas Harrison,
+8	null	named for: ..... / Jesse Grimes,
+9	null	named for: ..... / John Gregg,
+10	null	named for: ..... / Peter Wagener Grayson,
+11	false	named for: father miguel hidalgo / Father Miguel Hidalgo; "Goliad"
+12	null	named for: ..... / George Washington Glasscock,
+13	null	named for: ..... / Robert Addison Gillespie,
+14	null	named for: ..... / Robert Levi Foard,
+15	null	named for: ..... / Dolphin Ward Floyd,
+16	true	named for: samuel rhoads fisher / Samuel Rhoads Fisher,
+17	true	named for: marquis de la fayette / Marquis de la Fayette,
+18	null	named for: ..... / James Fannin,
+19	null	named for: ..... / George Bernard Erath,
+20	null	named for: ..... / Richard Ellis,
+21	null	named for: ..... / Haden Harrison Edwards,
+22	null	named for: ..... / William Mosby Eastland,
+23	null	named for: ..... / Philip Dimmitt,
+24	true	named for: green dewitt / Green DeWitt,
+25	null	named for: ..... / Nicholas Mosby Dawson,
+26	null	named for: ..... / James Wilmer Dallam,
+27	null	named for: ..... / William Carey Crane,
+28	null	named for: ..... / George Washington Cottle,
+29	null	named for: ..... / William Gordon Cooke,
+30	null	named for: ..... / James Collinsworth,
+31	null	named for: ..... / Collin McKinney,
+32	null	named for: ..... / Robert M. Coleman,
+33	null	named for: ..... / Richard Coke,
+34	null	named for: ..... / George Campbell Childress,
+35	null	named for: ..... / Thomas Jefferson Chambers ,
+36	null	named for: ..... / Henri Castro,
+37	null	named for: ..... / Samuel Price Carson,
+38	null	named for: ..... / John Lafayette Camp,
+39	null	named for: ..... / James Hughes Callahan,
+40	null	named for: ..... / John Caldwell Calhoun,
+41	null	named for: ..... / John Richardson Harris,
+42	null	named for: ..... / Edward Burleson,
+43	null	named for: ..... / Samuel Houston,
+44	true	named for: james hamilton jr. / James Hamilton Jr.
+45	true	named for: david gouverneur burnet / David Gouverneur Burnet,
+46	true	named for: henry stevenson brown / Henry Stevenson Brown,
+47	null	named for: ..... / James Abijah Brooks,
+48	null	named for: ..... / Andrew Briscoe,
+49	null	named for: ..... / Colonel Henry Percy Brewster,
+50	null	named for: ..... / Brazos River,
+51	null	named for: ..... / James Bowie,
+52	null	named for: ..... / Peter Hansborough Bell,
+53	true	named for: henry weidner baylor / Henry Weidner Baylor,
+54	true	named for: peter james bailey / Peter James Bailey,
+55	false	named for: branch tanner archer, a commissioner for the republic of texas / Branch Tanner Archer,
+56	null	named for: ..... / Richard Andrews,
+57	null	named for: felipe enrique neri, baron de bastrop / ..........
+58	null	named for: the blanco river / ..........
+59	null	named for: the rio nuestra senora de aranzazu, a spanish outpost in early texas / ..........

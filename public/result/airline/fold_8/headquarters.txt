@@ -1,0 +1,33 @@
+Found Not Null: 7
+Correct: 3
+Wrong: 4
+Total: 12
+-----------
+precision: 0.42857142857142855
+recall: 0.25
+F: 0.3157894736842105
+
+
+
+
+1	false	headquarters: mount gambier, south australia / Mount Gambier, South Australia, Australia.
+2	null	headquarters: ..... / Dania Beach, Florida,
+3	null	headquarters: ..... / Kurmitola, Dhaka.
+4	null	headquarters: ..... / Buenos Aires, Argentina.
+5	true	headquarters: fort worth, texas / Fort Worth, Texas,
+6	null	headquarters: ..... / Eagan, Minnesota.
+7	true	headquarters: melbourne, australia / Melbourne, Australia,
+8	null	headquarters: ..... / Tallinn, Estonia.
+9	true	headquarters: palma de mallorca, spain / Palma de Mallorca, Spain.
+10	null	headquarters: ..... / Ponta Delgada,
+11	null	headquarters: ..... / Dragør, Dragør Municipality;
+12	null	headquarters: ..... / Ypsilanti Township, Michigan,
+13	false	headquarters: seatac, washington / SeaTac, Washington, United
+14	false	headquarters: barnstable, massachusetts, united states / Barnstable, Massachusetts, United
+15	null	headquarters: ..... / Hyannis, Massachusetts, United
+16	false	headquarters: miami-dade county, florida / Miami-Dade County, Florida, USA.
+17	null	headquarters: vantaa, finland / ..........
+18	null	headquarters: seatac, washington / ..........
+19	null	headquarters: calgary, alberta / ..........
+20	null	headquarters: honolulu, hawaii / ..........
+21	null	headquarters: loudoun county, virginia / ..........

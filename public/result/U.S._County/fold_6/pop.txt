@@ -1,0 +1,101 @@
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 5
+-----------
+precision: 0.6666666666666666
+recall: 0.4
+F: 0.5
+
+
+
+
+1	null	pop: ..... / 200,073
+2	null	pop: ..... / 34,453
+3	null	pop: ..... / 52,468
+4	null	pop: ..... / 23,404
+5	null	pop: ..... / 40,066
+6	true	pop: 49,597 / 49,597
+7	null	pop: ..... / 43,287
+8	null	pop: ..... / 15,674
+9	null	pop: ..... / 16,866
+10	null	pop: ..... / 42,903
+11	null	pop: ..... / 28,262
+12	null	pop: ..... / 66,616
+13	null	pop: ..... / 62,980
+14	null	pop: ..... / 19,105
+15	null	pop: ..... / 28,000
+16	null	pop: ..... / 33,557
+17	null	pop: ..... / 7,514
+18	null	pop: ..... / 5,873
+19	null	pop: ..... / 32,603
+20	null	pop: ..... / 7,403
+21	null	pop: ..... / 33,647
+22	null	pop: ..... / 10,024
+23	null	pop: ..... / 97,296
+24	null	pop: ..... / 5,088
+25	null	pop: ..... / 39,858
+26	null	pop: ..... / 85,897
+27	null	pop: ..... / 426,526
+28	null	pop: ..... / 17,243
+29	null	pop: ..... / 13,804
+30	null	pop: ..... / 226,778
+31	null	pop: ..... / 15,013
+32	null	pop: ..... / 25,709
+33	null	pop: ..... / 87,986
+34	true	pop: 9,719 / 9,719
+35	null	pop: ..... / 9,592
+36	null	pop: ..... / 12,999
+37	null	pop: ..... / 15,446
+38	null	pop: ..... / 10,343
+39	null	pop: ..... / 79,220
+40	null	pop: ..... / 29,334
+41	null	pop: ..... / 26,562
+42	null	pop: ..... / 14,943
+43	null	pop: ..... / 14,583
+44	null	pop: ..... / 81,866
+45	null	pop: ..... / 35,519
+46	null	pop: ..... / 56,598
+47	null	pop: ..... / 37,710
+48	null	pop: ..... / 16,919
+49	null	pop: ..... / 68,652
+50	null	pop: ..... / 55,195
+51	null	pop: ..... / 44,963
+52	null	pop: ..... / 17,693
+53	null	pop: ..... / 7,321
+54	null	pop: ..... / 28,253
+55	null	pop: ..... / 39,564
+56	null	pop: ..... / 7,260
+57	null	pop: ..... / 9,131
+58	null	pop: ..... / 4,064
+59	null	pop: ..... / 25,957
+60	null	pop: ..... / 8,196
+61	null	pop: ..... / 19,161
+62	false	pop: 468,684 / 417,939
+63	null	pop: ..... / 67,194
+64	null	pop: ..... / 20,203
+65	null	pop: ..... / 11,299
+66	null	pop: ..... / 7,160
+67	null	pop: ..... / 47,579
+68	null	pop: ..... / 96,784
+69	null	pop: ..... / 25,535
+70	null	pop: ..... / 40,740
+71	null	pop: ..... / 55,180
+72	null	pop: ..... / 3,824
+73	null	pop: ..... / 102,979
+74	null	pop: ..... / 700,820
+75	null	pop: ..... / 20,984
+76	null	pop: ..... / 49,405
+77	null	pop: ..... / 10,184
+78	null	pop: ..... / 33,362
+79	null	pop: ..... / 2,397
+80	null	pop: ..... / 49,347
+81	null	pop: ..... / 11,732
+82	null	pop: ..... / 64,525
+83	null	pop: ..... / 40,123
+84	null	pop: ..... / 16,718
+85	null	pop: 49,597 / ..........
+86	null	pop: 1,916,441 / ..........
+87	null	pop: 9,719 / ..........
+88	null	pop: 468,684 / ..........
+89	null	pop: 711,100 / ..........

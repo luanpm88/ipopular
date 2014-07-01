@@ -1,0 +1,82 @@
+Found Not Null: 36
+Correct: 4
+Wrong: 32
+Total: 48
+-----------
+precision: 0.1111111111111111
+recall: 0.08333333333333333
+F: 0.09523809523809525
+
+
+
+
+1	false	state: wisconsin / Wisconsin.
+2	null	state: ..... / Connecticut
+3	true	state: pennsylvania / Pennsylvania.
+4	null	state: ..... / Pennsylvania.
+5	null	state: ..... / Texas
+6	null	state: ..... / Wisconsin.
+7	null	state: ..... / Wisconsin.
+8	false	state: wisconsin / Wisconsin.
+9	false	state: wisconsin / Wisconsin.
+10	false	state: wisconsin / Wisconsin.
+11	false	state: wisconsin / Wisconsin.
+12	true	state: pennsylvania / Pennsylvania.
+13	true	state: connecticut / Connecticut
+14	true	state: connecticut / Connecticut
+15	false	state: wisconsin / Wisconsin.
+16	false	state: wisconsin / Wisconsin.
+17	null	state: ..... / Wisconsin.
+18	null	state: ..... / Wisconsin.
+19	null	state: ..... / Wisconsin.
+20	false	state: wisconsin / Wisconsin.
+21	false	state: wisconsin / Wisconsin.
+22	false	state: wisconsin / Wisconsin.
+23	false	state: wisconsin / Wisconsin.
+24	null	state: ..... / Wisconsin.
+25	null	state: ..... / Wisconsin.
+26	false	state: wisconsin / Wisconsin.
+27	false	state: wisconsin / Wisconsin.
+28	false	state: wisconsin / Wisconsin.
+29	null	state: ..... / Wisconsin.
+30	false	state: wisconsin / Wisconsin.
+31	null	state: ..... / Wisconsin.
+32	null	state: ..... / Connecticut
+33	false	state: wisconsin / Wisconsin.
+34	false	state: wisconsin / Wisconsin.
+35	null	state: ..... / Virginia
+36	false	state: wisconsin / Wisconsin.
+37	false	state: wisconsin / Wisconsin.
+38	null	state: ..... / Connecticut
+39	null	state: ..... / Wisconsin.
+40	null	state: ..... / Wisconsin.
+41	null	state: ..... / Wisconsin.
+42	false	state: wisconsin / Wisconsin.
+43	null	state: ..... / Wisconsin.
+44	null	state: ..... / Wisconsin.
+45	false	state: wisconsin / Wisconsin.
+46	null	state: ..... / Wisconsin.
+47	false	state: wisconsin / Wisconsin.
+48	false	state: wisconsin / Wisconsin.
+49	false	state: wisconsin / Wisconsin.
+50	false	state: wisconsin / Wisconsin.
+51	false	state: wisconsin / Wisconsin.
+52	false	state: wisconsin / Wisconsin.
+53	false	state: wisconsin / Wisconsin.
+54	null	state: ..... / Wisconsin.
+55	false	state: wisconsin / Wisconsin.
+56	false	state: wisconsin / Wisconsin.
+57	false	state: wisconsin / Wisconsin.
+58	false	state: wisconsin / Wisconsin.
+59	null	state: arizona / ..........
+60	null	state: arizona / ..........
+61	null	state: connecticut / ..........
+62	null	state: delaware / ..........
+63	null	state: delaware / ..........
+64	null	state: wyoming / ..........
+65	null	state: wyoming / ..........
+66	null	state: wyoming / ..........
+67	null	state: arizona / ..........
+68	null	state: arizona / ..........
+69	null	state: wyoming / ..........
+70	null	state: wyoming / ..........

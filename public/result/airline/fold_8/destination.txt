@@ -1,0 +1,11 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	destination: ..... / Kota Kinabalu International Airport
+2	null	destination: ..... / Rutland, White Plains, Allentown, Burlington,

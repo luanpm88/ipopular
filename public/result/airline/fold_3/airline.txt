@@ -1,0 +1,52 @@
+Found Not Null: 19
+Correct: 10
+Wrong: 9
+Total: 22
+-----------
+precision: 0.5263157894736842
+recall: 0.45454545454545453
+F: 0.4878048780487805
+
+
+
+
+1	false	airline: abx air / ABX Air,
+2	null	airline: ..... / Trans States Airlines
+3	true	airline: royal tongan airlines / Royal Tongan Airlines
+4	null	airline: ..... / Air India
+5	null	airline: ..... / Scenic Airlines
+6	true	airline: virgin america / Virgin America,
+7	true	airline: empire airlines / Empire Airlines
+8	false	airline: cirrus airlines / Cirrus Airlines Luftfahrtgesellschaft
+9	null	airline: ..... / Uruguayan Air Force
+10	true	airline: air europe / Air Europe
+11	null	airline: ..... / Armenian Airlines
+12	null	airline: ..... / East African Safari Air
+13	true	airline: air niagara / Air Niagara
+14	true	airline: allegheny airlines / Allegheny Airlines
+15	null	airline: ..... / Japan Airlines
+16	true	airline: polynesian airlines / Polynesian Airlines
+17	false	airline: pacific wings / Pacific Wings Airlines
+18	true	airline: omni air international / Omni Air International
+19	null	airline: ..... / Lao Airlines
+20	null	airline: ..... / Avianca
+21	null	airline: ..... / Harbour Air
+22	false	airline: cityjet / CityJet Limited
+23	null	airline: ..... / American Eagle
+24	true	airline: wizz air / Wizz Air
+25	false	airline: valuair / Valuair Limited
+26	false	airline: germanwings / Germanwings GmbH
+27	null	airline: ..... / Hapag-Lloyd Express
+28	null	airline: ..... / Saudia
+29	null	airline: ..... / Northwest Airlines
+30	null	airline: ..... / Aircraft South African Airways
+31	false	airline: air 2000 / International Airways
+32	true	airline: mohawk airlines / Mohawk Airlines
+33	false	airline: meridiana fly / Meridiana
+34	null	airline: ..... / Republic Unitary Enterprise
+35	null	airline: ..... / Uzbekistan Airways
+36	null	airline: ..... / Middle East Airlines
+37	false	airline: s7 airlines / OJSC Siberia Airlines
+38	null	airline: usa3000 airlines / ..........
+39	null	airline: dan air services / ..........
+40	null	airline: jet2 / ..........

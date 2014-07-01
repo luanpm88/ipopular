@@ -1,0 +1,31 @@
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+Total: 11
+-----------
+precision: 1.0
+recall: 0.2727272727272727
+F: 0.42857142857142855
+
+
+
+
+1	null	founded: ..... / 1 April 1996
+2	true	founded: 1995 / 1995
+3	null	founded: ..... / 1959
+4	true	founded: 1982 / 1982
+5	true	founded: 1950 / 1950
+6	null	founded: ..... / 1992
+7	null	founded: ..... / 2002
+8	null	founded: ..... / March 29, 1963
+9	null	founded: ..... / 1996
+10	null	founded: ..... / 1945
+11	null	founded: ..... / January 2, 1945
+12	null	founded: 1989 / ..........
+13	null	founded: 1987 / ..........
+14	null	founded: 1945 as robinson airlines / ..........
+15	null	founded: 1977 / ..........
+16	null	founded: 1980 / ..........
+17	null	founded: 1953 / ..........
+18	null	founded: 1992 / ..........
+19	null	founded: 1976 / ..........

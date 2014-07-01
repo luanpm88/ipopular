@@ -1,0 +1,55 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 4
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	null	founded date: ..... / March 26,
+2	null	founded date: ..... / November 1,
+3	null	founded date: ..... / February 9,
+4	null	founded date: ..... / December 26,
+5	true	founded date: february 6 / February 6,
+6	null	founded date: ..... / February 4,
+7	null	founded date: ..... / April 2,
+8	null	founded date: ..... / February 7,
+9	null	founded date: ..... / December 18,
+10	null	founded date: ..... / November 30,
+11	null	founded date: ..... / December 13,
+12	null	founded date: ..... / December 13,
+13	null	founded date: ..... / December 18,
+14	null	founded date: ..... / May 10,
+15	null	founded date: ..... / April 25,
+16	null	founded date: ..... / June 2,
+17	null	founded date: ..... / December 18,
+18	null	founded date: ..... / December 10,
+19	null	founded date: ..... / January 9,
+20	null	founded date: ..... / February 12,
+21	null	founded date: ..... / December 6,
+22	null	founded date: ..... / February 15,
+23	true	founded date: february 6 / February 6,
+24	null	founded date: ..... / December 13,
+25	null	founded date: ..... / December 13,
+26	null	founded date: ..... / December 20,
+27	null	founded date: ..... / December 18,
+28	null	founded date: ..... / December 13,
+29	null	founded date: ..... / January 20,
+30	null	founded date: ..... / December 18,
+31	null	founded date: ..... / May 10,
+32	null	founded date: ..... / December 18,
+33	null	founded date: ..... / November 21,
+34	null	founded date: ..... / May 10,
+35	null	founded date: ..... / February 7,
+36	null	founded date: ..... / February 6,
+37	null	founded date: ..... / December 18,
+38	null	founded date: ..... / December 13,
+39	null	founded date: ..... / January 15,
+40	null	founded date: february 6 / ..........
+41	null	founded date: february 6 / ..........
+42	null	founded date: january 9 / ..........
+43	null	founded date: february 6 / ..........

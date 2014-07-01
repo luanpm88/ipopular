@@ -1,0 +1,61 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 11
+-----------
+precision: 1.0
+recall: 0.09090909090909091
+F: 0.16666666666666669
+
+
+
+
+1	null	seat wl: ..... / Chipley,
+2	null	seat wl: ..... / Crestview.
+3	null	seat wl: ..... / Leominster.
+4	null	seat wl: ..... / Dadeville. Tallapoosa
+5	null	seat wl: ..... / Sarasota,
+6	null	seat wl: ..... / Scottsboro
+7	null	seat wl: ..... / Huntsville. Madison
+8	null	seat wl: ..... / Northampton. Hampshire
+9	null	seat wl: ..... / Phenix City.
+10	null	seat wl: ..... / Clearwater, Florida,
+11	null	seat wl: ..... / Enterprise
+12	null	seat wl: ..... / Dade City,
+13	null	seat wl: ..... / Clarkesville,
+14	null	seat wl: ..... / Double Springs.
+15	null	seat wl: ..... / Enterprise–Ozark
+16	null	seat wl: ..... / Crawfordville. Wakulla
+17	null	seat wl: ..... / Andalusia.
+18	null	seat wl: ..... / Fort Payne.
+19	null	seat wl: ..... / Birmingham
+20	null	seat wl: ..... / Abbeville. Henry
+21	null	seat wl: ..... / Opelika,
+22	null	seat wl: ..... / Monroeville.
+23	true	seat wl: shelbyville / Shelbyville.
+24	null	seat wl: ..... / Hayneville. Lowndes
+25	null	seat wl: ..... / Prattville. Autauga
+26	null	seat wl: ..... / Greensboro
+27	null	seat wl: ..... / Oak,
+28	null	seat wl: ..... / Stanardsville. Greene
+29	null	seat wl: ..... / Kahului–Wailuku
+30	null	seat wl: ..... / Will
+31	null	seat wl: ..... / Bushnell, Florida
+32	null	seat wl: ..... / DeLand,
+33	null	seat wl: ..... / DeFuniak Springs,
+34	null	seat wl: ..... / Barnstable. Barnstable
+35	null	seat wl: ..... / Pittsfield.
+36	null	seat wl: ..... / Springfield
+37	null	seat wl: ..... / Greenville.
+38	null	seat wl: ..... / Enterprise–Ozark
+39	null	seat wl: ..... / Harlan.
+40	null	seat wl: decatur / ..........
+41	null	seat wl: mobile / ..........
+42	null	seat wl: linden / ..........
+43	null	seat wl: bay minette / ..........
+44	null	seat wl: bridgeport / ..........
+45	null	seat wl: russellville / ..........
+46	null	seat wl: independence / ..........
+47	null	seat wl: sidney / ..........
+48	null	seat wl: guntersville / ..........
+49	null	seat wl: fayette / ..........

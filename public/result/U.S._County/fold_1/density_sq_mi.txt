@@ -1,0 +1,135 @@
+Found Not Null: 34
+Correct: 26
+Wrong: 8
+Total: 34
+-----------
+precision: 0.7647058823529411
+recall: 0.7647058823529411
+F: 0.7647058823529412
+
+
+
+
+1	false	density_sq_mi: 2 / 4
+2	null	density_sq_mi: ..... / 21
+3	null	density_sq_mi: ..... / 361
+4	null	density_sq_mi: ..... / 206
+5	null	density_sq_mi: ..... / 20
+6	false	density_sq_mi: 1 / 2
+7	true	density_sq_mi: 42 / 42
+8	false	density_sq_mi: 13 / 27
+9	false	density_sq_mi: 3 / 7
+10	true	density_sq_mi: 1 / 1
+11	null	density_sq_mi: ..... / 2
+12	false	density_sq_mi: 1 / 2
+13	false	density_sq_mi: 4 / 10
+14	true	density_sq_mi: 22 / 22
+15	true	density_sq_mi: 1 / 1
+16	true	density_sq_mi: 7 / 7
+17	true	density_sq_mi: 3 / 3
+18	false	density_sq_mi: 5 / 11
+19	false	density_sq_mi: 2 / 5
+20	true	density_sq_mi: 12 / 12
+21	true	density_sq_mi: 3 / 3
+22	true	density_sq_mi: 4 / 4
+23	true	density_sq_mi: 4 / 4
+24	null	density_sq_mi: ..... / 8
+25	true	density_sq_mi: 3 / 3
+26	true	density_sq_mi: 7 / 7
+27	null	density_sq_mi: ..... / 134
+28	true	density_sq_mi: 6 / 6
+29	null	density_sq_mi: ..... / 43
+30	null	density_sq_mi: ..... / 5
+31	true	density_sq_mi: 38 / 38
+32	true	density_sq_mi: 4 / 4
+33	true	density_sq_mi: 8 / 8
+34	true	density_sq_mi: 2 / 2
+35	true	density_sq_mi: 4 / 4
+36	true	density_sq_mi: 4 / 4
+37	true	density_sq_mi: 6 / 6
+38	true	density_sq_mi: 36 / 36
+39	true	density_sq_mi: 13 / 13
+40	true	density_sq_mi: 3 / 3
+41	true	density_sq_mi: 14 / 14
+42	true	density_sq_mi: 4 / 4
+43	null	density_sq_mi: ..... / 40
+44	null	density_sq_mi: ..... / 58
+45	null	density_sq_mi: ..... / 157
+46	null	density_sq_mi: ..... / 313
+47	null	density_sq_mi: ..... / 42
+48	null	density_sq_mi: ..... / 223
+49	null	density_sq_mi: ..... / 106
+50	null	density_sq_mi: ..... / 57
+51	null	density_sq_mi: ..... / 97
+52	null	density_sq_mi: ..... / 28
+53	null	density_sq_mi: ..... / 72
+54	null	density_sq_mi: ..... / 309
+55	null	density_sq_mi: ..... / 49
+56	null	density_sq_mi: ..... / 72
+57	null	density_sq_mi: ..... / 32
+58	null	density_sq_mi: ..... / 173
+59	null	density_sq_mi: ..... / 38
+60	null	density_sq_mi: ..... / 146
+61	null	density_sq_mi: ..... / 480
+62	null	density_sq_mi: ..... / 157
+63	null	density_sq_mi: ..... / 49
+64	null	density_sq_mi: ..... / 76
+65	null	density_sq_mi: ..... / 120
+66	null	density_sq_mi: ..... / 54
+67	null	density_sq_mi: ..... / 54
+68	null	density_sq_mi: ..... / 59
+69	null	density_sq_mi: ..... / 338
+70	null	density_sq_mi: ..... / 40
+71	null	density_sq_mi: ..... / 130
+72	null	density_sq_mi: ..... / 206
+73	null	density_sq_mi: ..... / 43
+74	null	density_sq_mi: ..... / 42
+75	null	density_sq_mi: ..... / 982
+76	null	density_sq_mi: ..... / 2,052
+77	null	density_sq_mi: ..... / 422
+78	null	density_sq_mi: ..... / 71
+79	true	density_sq_mi: 50 / 50
+80	null	density_sq_mi: ..... / 131
+81	null	density_sq_mi: ..... / 36
+82	null	density_sq_mi: ..... / 51
+83	null	density_sq_mi: ..... / 74
+84	null	density_sq_mi: ..... / 113
+85	null	density_sq_mi: ..... / 17
+86	null	density_sq_mi: ..... / 79
+87	null	density_sq_mi: ..... / 140
+88	null	density_sq_mi: ..... / 228
+89	null	density_sq_mi: ..... / 113
+90	null	density_sq_mi: 2 / ..........
+91	null	density_sq_mi: 1 / ..........
+92	null	density_sq_mi: 42 / ..........
+93	null	density_sq_mi: 13 / ..........
+94	null	density_sq_mi: 3 / ..........
+95	null	density_sq_mi: 1 / ..........
+96	null	density_sq_mi: 1 / ..........
+97	null	density_sq_mi: 4 / ..........
+98	null	density_sq_mi: 22 / ..........
+99	null	density_sq_mi: 1 / ..........
+100	null	density_sq_mi: 7 / ..........
+101	null	density_sq_mi: 3 / ..........
+102	null	density_sq_mi: 5 / ..........
+103	null	density_sq_mi: 2 / ..........
+104	null	density_sq_mi: 12 / ..........
+105	null	density_sq_mi: 3 / ..........
+106	null	density_sq_mi: 4 / ..........
+107	null	density_sq_mi: 4 / ..........
+108	null	density_sq_mi: 3 / ..........
+109	null	density_sq_mi: 7 / ..........
+110	null	density_sq_mi: 6 / ..........
+111	null	density_sq_mi: 38 / ..........
+112	null	density_sq_mi: 4 / ..........
+113	null	density_sq_mi: 8 / ..........
+114	null	density_sq_mi: 2 / ..........
+115	null	density_sq_mi: 4 / ..........
+116	null	density_sq_mi: 4 / ..........
+117	null	density_sq_mi: 6 / ..........
+118	null	density_sq_mi: 36 / ..........
+119	null	density_sq_mi: 13 / ..........
+120	null	density_sq_mi: 3 / ..........
+121	null	density_sq_mi: 14 / ..........
+122	null	density_sq_mi: 4 / ..........
+123	null	density_sq_mi: 50 / ..........

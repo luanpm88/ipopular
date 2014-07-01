@@ -1,0 +1,36 @@
+Found Not Null: 7
+Correct: 7
+Wrong: 0
+Total: 12
+-----------
+precision: 1.0
+recall: 0.5833333333333334
+F: 0.7368421052631579
+
+
+
+
+1	null	hubs: ..... / Tripoli International Airport.
+2	null	hubs: ..... / Houston Intercontinental Airport
+3	true	hubs: hong kong international airport / Hong Kong International Airport.
+4	true	hubs: helsinki-vantaa airport / Helsinki-Vantaa Airport
+5	null	hubs: ..... / Mount Gambier Airport,
+6	null	hubs: ..... / Narita International Airport
+7	null	hubs: ..... / Cincinnati-Northern Kentucky International Airport
+8	null	hubs: ..... / Fort Lauderdale-Hollywood International Airport,
+9	true	hubs: washington dulles international airport / Washington Dulles International Airport.
+10	true	hubs: shahjalal international airport / Shahjalal International Airport
+11	null	hubs: ..... / Vilnius International Airport.
+12	null	hubs: ..... / Hartsfield-Jackson Atlanta International Airport
+13	true	hubs: palma de mallorca airport / Palma de Mallorca Airport.
+14	true	hubs: bauerfield international airport / Bauerfield International Airport,
+15	null	hubs: ..... / Willow Run Airport
+16	null	hubs: ..... / Cleveland Hopkins International
+17	null	hubs: ..... / Sky Harbor International Airport
+18	true	hubs: miami international airport / Miami International Airport
+19	null	hubs: ..... / San Francisco International Airport
+20	null	hubs: copenhagen airport / ..........
+21	null	hubs: london luton airport / ..........
+22	null	hubs: london heathrow airport / ..........
+23	null	hubs: honolulu international airport / ..........
+24	null	hubs: kuala lumpur international airport / ..........

@@ -1,0 +1,22 @@
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+Total: 7
+-----------
+precision: 1.0
+recall: 0.42857142857142855
+F: 0.6
+
+
+
+
+1	null	headquarters: ..... / Miami, Florida.
+2	null	headquarters: ..... / Indianapolis, Indiana,
+3	null	headquarters: ..... / Singapore. Singapore
+4	true	headquarters: indianapolis, indiana / Indianapolis, Indiana.
+5	true	headquarters: kópavogur, iceland / Kópavogur, Iceland.
+6	true	headquarters: shinagawa, tokyo, japan / Shinagawa, Tokyo, Japan.
+7	null	headquarters: puerto rico / ..........
+8	null	headquarters: nassau, bahamas / ..........
+9	null	headquarters: santo domingo / ..........
+10	null	headquarters: bogotá, colombia / ..........

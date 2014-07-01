@@ -1,0 +1,16 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 0.6666666666666666
+F: 0.8
+
+
+
+
+1	true	passengers: 166 / 166
+2	null	passengers: ..... / 148
+3	true	passengers: 287 / 287
+4	null	passengers: 140 / ..........

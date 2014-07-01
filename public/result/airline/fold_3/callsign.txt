@@ -1,0 +1,47 @@
+Found Not Null: 13
+Correct: 11
+Wrong: 2
+Total: 15
+-----------
+precision: 0.8461538461538461
+recall: 0.7333333333333333
+F: 0.7857142857142856
+
+
+
+
+1	null	callsign: ..... / ABX
+2	null	callsign: ..... / Trans States
+3	null	callsign: ..... / Royal Tongan
+4	null	callsign: ..... / Scenic
+5	null	callsign: ..... / Virgin
+6	true	callsign: empire / Empire
+7	true	callsign: cirrus / Cirrus
+8	true	callsign: armenian / Armenian
+9	true	callsign: allegheny / Allegheny
+10	null	callsign: ..... / Japan
+11	true	callsign: polynesian  / Polynesian
+12	null	callsign: ..... / Pacific Wings
+13	null	callsign: ..... / Omni
+14	true	callsign: lao / Lao
+15	null	callsign: ..... / Avianca
+16	null	callsign: ..... / Harbour Air
+17	null	callsign: ..... / CityJet Limited
+18	null	callsign: ..... / Executive
+19	false	callsign: scadta / Avianca
+20	null	callsign: ..... / Wizz
+21	null	callsign: ..... / Brendan
+22	true	callsign: valuair / Valuair
+23	null	callsign: ..... / El
+24	true	callsign: germanwings / Germanwings
+25	null	callsign: ..... / HLX
+26	null	callsign: ..... / Alitalia
+27	null	callsign: ..... / Saudia
+28	null	callsign: ..... / Northwest
+29	true	callsign: mohawk / Mohawk
+30	null	callsign: ..... / Meridiana
+31	true	callsign: uzbekistan / Uzbekistan
+32	true	callsign: sahsa / SAHSA
+33	false	callsign: siberian airlines / Siberia
+34	null	callsign: air europe / ..........
+35	null	callsign: dan-air / ..........

@@ -1,0 +1,26 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 6
+-----------
+precision: 1.0
+recall: 0.3333333333333333
+F: 0.5
+
+
+
+
+1	null	birth_place: ..... / Culver City, California,
+2	true	birth_place: mount vernon, ohio,  / Mount Vernon, Ohio,
+3	null	birth_place: ..... / Leytonstone, London, Robinson
+4	null	birth_place: ..... / Oak Park, Illinois,
+5	null	birth_place: ..... / Westhampton, New York,
+6	null	birth_place: ..... / Santa Monica, California,
+7	true	birth_place: munich, germany / Munich, Germany,
+8	null	birth_place: ..... / Los Angeles, California,
+9	null	birth_place: ..... / Duncan, Oklahoma,
+10	null	birth_place: ..... / Enghien-les-Bains, Val-d'Oise, Île-de-France, France.
+11	null	birth_place: paris, france / ..........
+12	null	birth_place: toronto, ontario / ..........
+13	null	birth_place: wiesbaden, germany / ..........
+14	null	birth_place: saint-mandé, france / ..........

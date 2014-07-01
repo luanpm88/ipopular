@@ -1,0 +1,53 @@
+Found Not Null: 28
+Correct: 17
+Wrong: 11
+Total: 32
+-----------
+precision: 0.6071428571428571
+recall: 0.53125
+F: 0.5666666666666667
+
+
+
+
+1	true	airline: air moldova / Air Moldova
+2	true	airline: us  airways / US Airways
+3	false	airline: flybe / Flybe Limited
+4	null	airline: ..... / UTA
+5	true	airline: virgin blue / Virgin Blue
+6	true	airline: airtran airways / AirTran Airways
+7	true	airline: reeve aleutian airways / Reeve Aleutian Airways
+8	null	airline: ..... / Turkish Airlines
+9	null	airline: ..... / Czech Airlines
+10	true	airline: chautauqua airlines / Chautauqua Airlines,
+11	false	airline: moldavian airlines / thumb|Moldavian Airlines Saab 2000 Moldavian Airlines
+12	true	airline: ba connect / BA Connect
+13	false	airline: condor / Condor Flugdienst,
+14	false	airline: pulkovo aviation enterprise / Pulkovo Aviation
+15	true	airline: world airways / World Airways,
+16	null	airline: ..... / taking off
+17	true	airline: air midwest / Air Midwest
+18	false	airline: klm cityhopper / KLM
+19	true	airline: hooters air / Hooters Air
+20	true	airline: philippine airlines / Philippine Airlines,
+21	true	airline: air china / Air China
+22	true	airline: copa airlines / Copa Airlines
+23	false	airline: corsairfly / Corsair
+24	false	airline: thai airways international / Thai Airways
+25	false	airline: skyeurope / SkyEurope Airlines
+26	false	airline: air canada jazz / Air Canada
+27	true	airline: adria airways / Adria Airways
+28	false	airline: skywest / Skywest Airlines
+29	true	airline: air georgian / Air Georgian
+30	null	airline: ..... / Korean Air
+31	null	airline: ..... / EgyptAir Airlines
+32	null	airline: ..... / Wardair Canada
+33	null	airline: ..... / Asiana Airlines
+34	false	airline: air lithuania / Air Company
+35	null	airline: ..... / Lauda Air
+36	true	airline: central mountain air / Central Mountain Air
+37	true	airline: great lakes airlines / Great Lakes Airlines,
+38	null	airline: air canada tango / ..........
+39	null	airline: air santo domingo / ..........
+40	null	airline: jat airways / ..........
+41	null	airline: canadian pacific air lines / ..........

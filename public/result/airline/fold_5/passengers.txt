@@ -1,0 +1,22 @@
+Found Not Null: 2
+Correct: 2
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 0.6666666666666666
+F: 0.8
+
+
+
+
+1	null	passengers: ..... / 97
+2	null	passengers: ..... / 151
+3	null	passengers: ..... / 11
+4	null	passengers: ..... / 174
+5	null	passengers: ..... / 60
+6	true	passengers: 90 / 90
+7	true	passengers: 248 / 248
+8	null	passengers: 142 / ..........
+9	null	passengers: 90 / ..........
+10	null	passengers: 248 / ..........

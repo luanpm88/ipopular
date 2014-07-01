@@ -1,0 +1,287 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 17/39
+------------
+Found: 226
+Found Not Null: 81
+Correct: 59
+Wrong: 22
+Total: 141
+-----------
+precision: 0.7283950617283951
+recall: 0.41843971631205673
+F: 0.5315315315315315
+
+
+
+1	true	callsign: gandalf / Gandalf
+2	true	airline: gandalf airlines / Gandalf Airlines
+3	true	callsign: lan / LAN
+4	true	alliance: oneworld / Oneworld
+5	true	headquarters: santiago, chile / Santiago, Chile.
+6	null	hubs: ..... / Comodoro Arturo Merino Benítez International Airport,
+7	true	airline: lan airlines / LAN Airlines
+8	true	icao: lan / LAN
+9	false	headquarters: new chitose airport / Chitose, Hokkaidō, Japan.
+10	null	headquarters: ..... / Santo Domingo, Dominican
+11	null	date: ..... / February 15, 1970
+12	null	passengers: ..... / 97
+13	null	airline: ..... / after
+14	false	callsign: carnival air / Carnival
+15	true	headquarters: dania, florida / Dania, Florida.
+16	true	founded: 1988 / 1988
+17	null	operator: ..... / Carnival Air
+18	true	airline: carnival air lines / Carnival Air Lines
+19	null	icao: ..... / Carnival
+20	null	callsign: ..... / Olympic
+21	true	airline: olympic aviation / Olympic Aviation
+22	null	r accidentname: ..... / Flash Airlines Flight 604
+23	null	callsign: ..... / Flash
+24	true	operator: flash airlines / Flash Airlines
+25	null	airline: ..... / Flash Airlines
+26	null	r accidentname: ..... / American Airlines Flight 965,
+27	null	callsign: ..... / American
+28	null	hubs: ..... / Miami International Airport
+29	true	occurrence_type: accident / accident
+30	true	crew: 8 / 8
+31	true	date: december 20, 1995 / December 20, 1995,
+32	null	passengers: ..... / 151
+33	true	operator: american airlines / American Airlines
+34	null	airline: ..... / American Airlines
+35	null	icao: ..... / Research
+36	null	r accidentname: ..... / EgyptAir Flight 648
+37	null	callsign: ..... / Libya
+38	null	founded: ..... / 1985
+39	true	date: november 23, 1985 / November 23, 1985,
+40	null	passengers: ..... / 11
+41	true	operator: egyptair / EgyptAir
+42	null	airline: ..... / Libya
+43	null	icao: ..... / Libya
+44	true	r accidentname: japan airlines flight 123 / Japan Airlines Flight 123
+45	null	callsign: ..... / Japan
+46	false	date: 12 august 1985 / August 12, 1985.
+47	true	operator: japan airlines / Japan Airlines
+48	null	airline: ..... / Japan Airlines
+49	null	r accidentname: ..... / United Airlines Flight 232
+50	null	callsign: ..... / United
+51	null	crew: ..... / 10
+52	null	date: ..... / July 19, 1989,
+53	null	passengers: ..... / 174
+54	null	operator: ..... / United Airlines
+55	null	airline: ..... / United Airlines
+56	null	icao: ..... / Shrapnel
+57	null	alliance: ..... / SkyTeam
+58	false	founded: 15 march 1947 / 1947
+59	null	destinations: ..... / 39
+60	true	airline: air algérie / Air Algerie
+61	null	date: ..... / 26 July 2010,
+62	false	callsign: malev / Hungarian
+63	true	alliance: oneworld / Oneworld
+64	true	hubs: budapest ferihegy international airport / Budapest Ferihegy International Airport.
+65	true	destinations: 50 / 50
+66	true	callsign: flash / Flash
+67	true	founded: 1995 / 1995
+68	null	date: ..... / 3 January 2004,
+69	null	operator: ..... / Flash Airlines
+70	true	airline: flash airlines / Flash Airlines
+71	false	callsign: aero continente / Nuevo Continente
+72	true	headquarters: lima, peru / Lima, Peru.
+73	null	founded: ..... / 1992
+74	null	airline: ..... / Nuevo Continente
+75	null	founded: ..... / 5, 1990
+76	true	hubs: narita international airport / Narita International Airport
+77	null	date: ..... / February 22, 1991.
+78	false	icao: jaz / JALways
+79	null	r accidentname: ..... / UTA Flight 141
+80	null	callsign: ..... / UTA
+81	null	date: ..... / 25 December 2003
+82	null	operator: ..... / UTA
+83	null	airline: ..... / UTA
+84	null	r accidentname: ..... / Pan Am Flight
+85	null	callsign: ..... / Pan
+86	null	date: ..... / September 5, 1986,
+87	true	callsign: vasp / VASP
+88	null	headquarters: ..... / São Paulo, Brazil.
+89	false	founded: 1933 / November 4, 1933
+90	null	hubs: ..... / Congonhas-São Paulo Airport
+91	null	date: ..... / July 6, 1959,
+92	null	icao: ..... / VASP
+93	null	callsign: ..... / Nok
+94	null	headquarters: ..... / Sathorn, Bangkok, Thailand,
+95	null	founded: ..... / December 2003
+96	null	hubs: ..... / Bangkok Don Mueang Airport.
+97	null	operator: ..... / Nok Air
+98	null	airline: ..... / Nok Air
+99	null	icao: ..... / Nok
+100	true	hubs: hato international airport / Hato International Airport.
+101	null	operator: ..... / ALM Antillean
+102	false	airline: antilliaanse luchtvaart maatschappij / ALM Antillean Airlines
+103	false	callsign: silkair / Singapore
+104	false	headquarters: singapore / Singapore.
+105	true	destinations: 31 / 31
+106	null	r accidentname: ..... / Luxair Flight 9642
+107	null	callsign: ..... / Lufthansa
+108	null	hubs: ..... / Tempelhof International Airport,
+109	null	date: ..... / 6 November 2002,
+110	null	operator: ..... / Luxair
+111	true	callsign: uta / UTA
+112	true	founded: 1963 / 1963
+113	false	airline: union des transports aériens / Union
+114	false	icao: uta / Union
+115	null	r accidentname: ..... / Gulf Air Flight 771
+116	null	callsign: ..... / Gulf
+117	null	date: ..... / 23 September 1983,
+118	null	operator: ..... / Gulf Air
+119	null	airline: ..... / Gulf Air
+120	null	aircraft type: ..... / Boeing 737-2P6
+121	null	callsign: ..... / TACA
+122	null	founded: ..... / 1931
+123	null	destinations: ..... / 44
+124	null	airline: ..... / TACA
+125	null	icao: ..... / TACA
+126	false	callsign: caledonian / British
+127	true	airline: british caledonian / British Caledonian
+128	true	founded: 1954 / 1954
+129	true	hubs: magenta airport / Magenta Airport
+130	null	r accidentname: ..... / Iraqi Airways Flight 163
+131	null	callsign: ..... / Iraqi
+132	null	crew: ..... / 3
+133	true	date: 25 december 1986 / 25 December 1986,
+134	null	passengers: ..... / 60
+135	true	operator: iraqi airways / Iraqi Airways
+136	null	airline: ..... / Iraqi Airways
+137	true	aircraft type: boeing 737-270c / Boeing 737-270C,
+138	null	callsign: ..... / Royal
+139	false	founded: 1957 / 1953
+140	null	hubs: ..... / Casablanca-Anfa Airport
+141	null	operator: ..... / Royal Air
+142	true	airline: royal air maroc / Royal Air Maroc
+143	false	icao: ram / Royal
+144	null	r accidentname: ..... / Mandarin Airlines, Limited
+145	true	callsign: mandarin / Mandarin
+146	null	headquarters: ..... / Songshan District, Taipei, Taiwan.
+147	false	founded: 1991 / June 1, 1991
+148	null	hubs: ..... / Taiwan Taoyuan International Airport.
+149	null	date: ..... / 16 October 1991,
+150	true	airline: mandarin airlines / Mandarin Airlines,
+151	null	callsign: ..... / Spirit
+152	null	headquarters: ..... / Miramar, Florida,
+153	null	founded: ..... / 1980
+154	null	airline: ..... / Spirit Airlines
+155	null	icao: ..... / Spirit
+156	null	callsign: ..... / Qatar
+157	null	airline: ..... / Qatar Airways
+158	true	callsign: spanair / Spanair
+159	true	founded: 1986 / 1986
+160	null	hubs: ..... / El Prat Airport
+161	false	airline: spanair / Scandinavian Airlines,
+162	null	icao: ..... / Spanair
+163	true	alliance: star alliance / Star Alliance
+164	true	founded: 1987 / 1987
+165	null	destinations: ..... / 30
+166	false	airline: blue1 / Blue1 Oy
+167	null	icao: ..... / Blue1
+168	null	r accidentname: ..... / Avianca Airlines Flight 203
+169	null	callsign: ..... / Avianca
+170	false	origin: el dorado international airport / El Dorado International
+171	true	operator: avianca airlines / Avianca Airlines
+172	null	airline: ..... / Avianca Airlines
+173	null	callsign: ..... / Bangkok
+174	true	headquarters: chatuchak district, bangkok, thailand / Chatuchak District, Bangkok, Thailand.
+175	true	hubs: suvarnabhumi airport / Suvarnabhumi Airport,
+176	true	airline: bangkok airways / Bangkok Airways
+177	false	callsign: orient thai / Thai
+178	false	headquarters: don mueang, bangkok, thailand / Mueang, Bangkok, Thailand.
+179	null	hubs: ..... / Suvarnabhumi Airport, Bangkok.
+180	null	r accidentname: ..... / Pacific Southwest Airlines Flight 1771
+181	null	callsign: ..... / Pacific Southwest
+182	null	headquarters: ..... / Cayucos, California, United
+183	null	date: ..... / December 7, 1987,
+184	null	operator: ..... / Pacific Southwest Airlines
+185	null	airline: ..... / Pacific Southwest Airlines
+186	null	icao: ..... / Pacific
+187	true	iata: us / US
+188	null	date: ..... / 19, 1997,
+189	true	airline: us airways shuttle / US Airways Shuttle
+190	null	r accidentname: ..... / Aloha Airlines Flight 243
+191	null	iata: ..... / Hilo
+192	null	callsign: ..... / Aloha
+193	null	founded: ..... / the
+194	null	date: ..... / April 28, 1988,
+195	true	passengers: 90 / 90
+196	true	operator: aloha airlines / Aloha Airlines
+197	null	airline: ..... / Aloha Airlines
+198	null	icao: ..... / 28
+199	null	r accidentname: ..... / Arrow Air Flight 1285
+200	null	callsign: ..... / Arrow
+201	true	date: december 12, 1985 / December 12, 1985,
+202	true	passengers: 248 / 248
+203	true	operator: arrow air / Arrow Air
+204	null	airline: ..... / Arrow Air
+205	true	aircraft type: mcdonnell douglas dc-8-63cf / McDonnell Douglas DC-8-63CF
+206	null	headquarters: ..... / Naha, Okinawa Prefecture, Japan.
+207	null	founded: ..... / 1967 as ,
+208	null	hubs: ..... / Naha Airport.
+209	null	airline: silkair / ..........
+210	null	hubs: singapore changi airport / ..........
+211	null	iata: ut / ..........
+212	null	parent: viação aérea são paulo / ..........
+213	null	airline: song / ..........
+214	null	logo_size: 200 / ..........
+215	null	fleet_size: 48 / ..........
+216	null	callsign: delta / ..........
+217	null	founded: 2003 / ..........
+218	null	commenced: april 15, 2003 / ..........
+219	null	site: buga, colombia / ..........
+220	null	origin: miami international airport / ..........
+221	null	destination: alfonso bonilla aragón international airport / ..........
+222	null	founded: 1970 / ..........
+223	null	type: hijacking / ..........
+224	null	occurrence_type: hijacking / ..........
+225	null	parent: flash group / ..........
+226	null	headquarters: cairo, egypt / ..........
+227	null	occurrence_type: accident / ..........
+228	null	passengers: 142 / ..........
+229	null	crew: 6 / ..........
+230	null	founded: 1929 / ..........
+231	null	occurrence_type: accident / ..........
+232	null	fatalities: 520 / ..........
+233	null	aircraft type: boeing 747-146sr / ..........
+234	null	crew: 15 / ..........
+235	null	callsign: jalways / ..........
+236	null	commenced: february 22, 1991 / ..........
+237	null	ceased: december 1, 2010 / ..........
+238	null	parent: japan airlines / ..........
+239	null	destinations: 15 / ..........
+240	null	airline: hokkaido air system / ..........
+241	null	hubs: okadama airport / ..........
+242	null	airline: air calédonie / ..........
+243	null	parent: carnival cruise lines / ..........
+244	null	ceased: 1998 / ..........
+245	null	fleet_size: 39 / ..........
+246	null	callsign: air algerie / ..........
+247	null	hubs: houari boumediene airport / ..........
+248	null	parent: china airlines / ..........
+249	null	founded: november 22, 1993 / ..........
+250	null	parent: government of qatar / ..........
+251	null	alliance: star alliance / ..........
+252	null	airline: air berlin / ..........
+253	null	callsign: air berlin / ..........
+254	null	hubs: helsinki-vantaa airport / ..........
+255	null	icao: alm / ..........
+256	null	callsign: antillean / ..........
+257	null	founded: 1964 / ..........
+258	null	date: november 27, 1989 / ..........
+259	null	injuries: 65 / ..........
+260	null	aircraft type: boeing 737-297 / ..........
+261	null	origin: hilo international airport / ..........
+262	null	occurrence_type: accident / ..........
+263	null	fatalities: 256 / ..........
+264	null	destination: fort campbell / ..........
+265	null	occurrence_type: hijacking / ..........
+266	null	site: arar, saudi arabia / ..........
+267	null	aircraft type: boeing 737-200 / ..........
+268	null	destination: alfonso bonilla aragón international airport / ..........

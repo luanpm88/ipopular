@@ -1,0 +1,32 @@
+Found Not Null: 9
+Correct: 9
+Wrong: 0
+Total: 13
+-----------
+precision: 1.0
+recall: 0.6923076923076923
+F: 0.8181818181818181
+
+
+
+
+1	true	occupation: actor / actor
+2	true	occupation: actor / actor
+3	true	occupation: actor / actor
+4	true	occupation: actress / actress
+5	null	occupation: ..... / actor
+6	true	occupation: actress / Actress
+7	true	occupation: actor / actor
+8	true	occupation: actor / actor
+9	null	occupation: ..... / actor
+10	true	occupation: actress / Actress
+11	true	occupation: actor / actor
+12	null	occupation: ..... / actress
+13	null	occupation: ..... / Actress
+14	null	occupation: ..... / actor
+15	null	occupation: ..... / film actress
+16	null	occupation: ..... / actor
+17	null	occupation: actor / ..........
+18	null	occupation: actor / ..........
+19	null	occupation: film director / ..........
+20	null	occupation: actor / ..........

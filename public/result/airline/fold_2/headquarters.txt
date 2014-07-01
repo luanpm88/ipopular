@@ -1,0 +1,27 @@
+Found Not Null: 5
+Correct: 5
+Wrong: 0
+Total: 10
+-----------
+precision: 1.0
+recall: 0.5
+F: 0.6666666666666666
+
+
+
+
+1	true	headquarters: antananarivo, madagascar / Antananarivo, Madagascar.
+2	null	headquarters: ..... / Bao'an District, Shenzhen, Guangdong,
+3	true	headquarters: magadan, russia / Magadan, Russia,
+4	true	headquarters: singapore / Singapore
+5	true	headquarters: singapore / Singapore
+6	null	headquarters: ..... / Innsbruck, Austria.
+7	null	headquarters: ..... / Sioux Lookout, Ontario, Canada.
+8	null	headquarters: ..... / London Gatwick Airport
+9	true	headquarters: mumbai, india / Mumbai, India.
+10	null	headquarters: ..... / Glasgow, Scotland.
+11	null	headquarters: ouagadougou, burkina faso / ..........
+12	null	headquarters: meyrin, switzerland / ..........
+13	null	headquarters: lima / ..........
+14	null	headquarters: fukuoka, fukuoka prefecture, japan / ..........
+15	null	headquarters: villafranca di verona, italy / ..........

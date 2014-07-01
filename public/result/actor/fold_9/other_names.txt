@@ -1,0 +1,16 @@
+Found Not Null: 1
+Correct: 0
+Wrong: 1
+Total: 1
+-----------
+precision: 0.0
+recall: 0.0
+F: NaN
+
+
+
+
+1	false	other_names: kimberly beck-hilton / Kimberly Beck
+2	null	other_names: ..... / John Fink
+3	null	other_names: ..... / Jeannine Taylor
+4	null	other_names: kimberly beck-hilton / ..........

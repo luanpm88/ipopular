@@ -1,0 +1,36 @@
+Found Not Null: 15
+Correct: 10
+Wrong: 5
+Total: 15
+-----------
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+F: 0.6666666666666666
+
+
+
+
+1	true	hubs: brunei international airport / Brunei International Airport
+2	true	hubs: hong kong international airport / Hong Kong International Airport,
+3	null	hubs: ..... / Baghdad International Airport
+4	null	hubs: ..... / Riga International Airport
+5	null	hubs: ..... / Calgary International Airport,
+6	true	hubs: kabul international airport / Kabul International Airport.
+7	true	hubs: sir seewoosagur ramgoolam international airport / Sir Seewoosagur Ramgoolam International Airport,
+8	null	hubs: ..... / Jorge Wilstermann International Airport,
+9	true	hubs: zurich airport / Zurich Airport
+10	false	hubs: brussels airport / Brussels National Airport.
+11	true	hubs: london heathrow airport / London Heathrow Airport
+12	null	hubs: ..... / El Dorado International Airport
+13	null	hubs: ..... / Jinnah International Airport
+14	null	hubs: ..... / Zurich Airport
+15	true	hubs: honolulu international airport / Honolulu International Airport
+16	false	hubs: atatürk international airport / Atatürk Airport
+17	null	hubs: ..... / Soekarno-Hatta International Airport
+18	false	hubs: euro-airport basel-mulhouse-freiburg / Zürich International Airport
+19	false	hubs: keflavík international airport / Reykjavík Airport
+20	true	hubs: henri coandă international airport / Henri Coandă International Airport.
+21	null	hubs: ..... / Mehrabad Airport
+22	true	hubs: keflavík international airport / Keflavík International Airport.
+23	false	hubs: london gatwick / London Gatwick Airport and Entebbe International Airport,
+24	true	hubs: lynden pindling international airport / Lynden Pindling International Airport.

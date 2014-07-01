@@ -1,0 +1,65 @@
+Found Not Null: 1
+Correct: 1
+Wrong: 0
+Total: 1
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	null	seat wl: ..... / Flandreau.
+2	null	seat wl: ..... / Sevierville,
+3	null	seat wl: ..... / Woonsocket.
+4	null	seat wl: ..... / Rogersville, Tennessee's
+5	null	seat wl: ..... / Henderson.
+6	null	seat wl: ..... / Knoxville,
+7	null	seat wl: ..... / Shelbyville.
+8	null	seat wl: ..... / McMinnville.
+9	null	seat wl: ..... / Knoxville,
+10	null	seat wl: ..... / Hartsville,
+11	null	seat wl: ..... / Covington. Tipton
+12	null	seat wl: ..... / Gallatin,
+13	null	seat wl: ..... / Blountville. Sullivan
+14	null	seat wl: ..... / Carthage. Smith
+15	null	seat wl: ..... / Memphis. Shelby
+16	null	seat wl: ..... / Dunlap. Sequatchie
+17	true	seat wl: murfreesboro / Murfreesboro,
+18	null	seat wl: ..... / Livingston. Overton
+19	null	seat wl: ..... / Lynchburg. Moore
+20	null	seat wl: ..... / Madisonville.
+21	null	seat wl: ..... / Lafayette. Macon
+22	null	seat wl: ..... / Lawrenceburg.
+23	null	seat wl: ..... / Tiptonville.
+24	null	seat wl: ..... / Mountain City.
+25	null	seat wl: ..... / Gainesboro. Jackson
+26	null	seat wl: ..... / Centerville. Hickman
+27	null	seat wl: ..... / Paris.
+28	null	seat wl: ..... / Lexington.
+29	null	seat wl: ..... / Brownsville.
+30	null	seat wl: ..... / Bolivar.
+31	null	seat wl: ..... / Sneedville.
+32	null	seat wl: ..... / Chattanooga. Hamilton
+33	null	seat wl: ..... / Morristown. Hamblen
+34	null	seat wl: ..... / Altamont.
+35	null	seat wl: ..... / Greeneville,
+36	null	seat wl: ..... / Winchester. Franklin
+37	null	seat wl: ..... / Jamestown.
+38	null	seat wl: ..... / Somerville. Fayette
+39	null	seat wl: ..... / Dyersburg.
+40	null	seat wl: ..... / Decaturville.
+41	null	seat wl: ..... / Crossville.
+42	null	seat wl: ..... / Manchester. Coffee
+43	null	seat wl: ..... / Ashland City.
+44	null	seat wl: ..... / Huntingdon.
+45	null	seat wl: ..... / Woodbury. Cannon
+46	null	seat wl: ..... / Jacksboro.
+47	null	seat wl: ..... / Cleveland.
+48	null	seat wl: ..... / Pikeville.
+49	null	seat wl: ..... / Yankton
+50	null	seat wl: ..... / Elk Point.
+51	null	seat wl: ..... / Fort Pierre.
+52	null	seat wl: ..... / Rapid
+53	null	seat wl: ..... / White River.

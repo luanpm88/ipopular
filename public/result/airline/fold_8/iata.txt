@@ -1,0 +1,23 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 6
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	iata: ..... / US
+2	null	iata: ..... / US
+3	null	iata: ..... / US
+4	null	iata: ..... / US
+5	null	iata: ..... / Nantucket
+6	null	iata: ..... / US
+7	null	iata: cy / ..........
+8	null	iata: of / ..........
+9	null	iata: nf / ..........
+10	null	iata: nh / ..........
+11	null	iata: as / ..........
+12	null	iata: an / ..........

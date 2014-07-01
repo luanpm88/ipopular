@@ -1,0 +1,20 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 6
+-----------
+recall: 0.0
+F: NaN
+
+
+
+
+1	null	commenced: ..... / 23 May 1923
+2	null	commenced: ..... / October 6, 1929
+3	null	commenced: ..... / 2006, 2007, 2008
+4	null	commenced: august 1972 / ..........
+5	null	commenced: 1995 / ..........
+6	null	commenced: 1 april 1969 / ..........
+7	null	commenced: 1998 / ..........
+8	null	commenced: 7 june 1973  / ..........
+9	null	commenced: 29 january 1949 / ..........

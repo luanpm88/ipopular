@@ -1,0 +1,25 @@
+Found Not Null: 4
+Correct: 2
+Wrong: 2
+Total: 6
+-----------
+precision: 0.5
+recall: 0.3333333333333333
+F: 0.4
+
+
+
+
+1	true	birth_place: coatzacoalcos, veracruz, mexico / Coatzacoalcos, Veracruz, Mexico,
+2	false	birth_place: emden, lower saxony, germany / Emden, Lower Saxony,
+3	null	birth_place: ..... / Street, King's Cross, London,
+4	null	birth_place: ..... / Arlington, Virginia,
+5	null	birth_place: ..... / Long Beach, California,
+6	null	birth_place: ..... / Athens, Greece, as Thomas Lee Bass,
+7	null	birth_place: ..... / Syracuse, New York,
+8	true	birth_place: breukelen, netherlands / Breukelen, Netherlands,
+9	null	birth_place: ..... / Columbus, Ohio,
+10	false	birth_place: detroit, michigan, usa / Detroit, Michigan,
+11	null	birth_place: ..... / Los Angeles, California,
+12	null	birth_place: copenhagen, denmark / ..........
+13	null	birth_place: hall green, birmingham, england / ..........

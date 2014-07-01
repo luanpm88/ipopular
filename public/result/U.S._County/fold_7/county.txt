@@ -1,0 +1,123 @@
+Found Not Null: 49
+Correct: 47
+Wrong: 2
+Total: 49
+-----------
+precision: 0.9591836734693877
+recall: 0.9591836734693877
+F: 0.9591836734693877
+
+
+
+
+1	true	county: oconto county / Oconto County
+2	null	county: ..... / Pinal County
+3	null	county: ..... / Haines Borough
+4	null	county: ..... / Kenai Peninsula Borough
+5	null	county: ..... / Ketchikan Gateway Borough
+6	null	county: ..... / Matanuska-Susitna Borough
+7	null	county: ..... / North Slope Borough
+8	null	county: ..... / Northwest Arctic Borough
+9	null	county: ..... / Churchill County
+10	null	county: ..... / Coconino County
+11	null	county: ..... / Cochise County
+12	null	county: ..... / Gila County
+13	null	county: ..... / Graham County
+14	false	county: la paz county / Paz County La Paz County
+15	true	county: mohave county / Mohave County
+16	null	county: ..... / Navajo County
+17	null	county: ..... / Pima County
+18	null	county: ..... / Santa Cruz
+19	null	county: ..... / Douglas County
+20	true	county: fairfield county / Fairfield County
+21	null	county: ..... / Middlesex County
+22	null	county: ..... / New Haven County
+23	null	county: ..... / Kent County
+24	true	county: new castle county / New Castle County
+25	true	county: sussex county / Sussex County
+26	true	county: mccracken county / McCracken County
+27	true	county: allegheny county / Allegheny County
+28	null	county: ..... / Armstrong County
+29	null	county: ..... / Weston County
+30	null	county: ..... / Washakie County
+31	true	county: uinta county / Uinta County
+32	true	county: teton county / Teton County
+33	null	county: ..... / Sheridan County
+34	null	county: ..... / Platte County
+35	null	county: ..... / Park County
+36	null	county: ..... / Niobrara County
+37	true	county: laramie county / Laramie County
+38	null	county: ..... / Springs County
+39	null	county: ..... / Goshen County
+40	null	county: ..... / Yuma County
+41	null	county: ..... / Fremont County
+42	null	county: ..... / Converse County
+43	null	county: ..... / Carbon County
+44	null	county: ..... / Big Horn County
+45	null	county: ..... / Albany County
+46	null	county: ..... / Winnebago County
+47	null	county: ..... / Washington County
+48	true	county: washburn county / Washburn County
+49	true	county: vernon county / Vernon County
+50	true	county: trempealeau county / Trempealeau County
+51	true	county: taylor county / Taylor County
+52	null	county: ..... / Fairbanks North Star Borough
+53	null	county: ..... / Bristol Bay Borough
+54	true	county: apache county / Apache County
+55	null	county: ..... / Greenlee County
+56	null	county: ..... / Yavapai County
+57	true	county: bedford county / Bedford County
+58	true	county: litchfield county / Litchfield County
+59	true	county: new london county / New London County
+60	null	county: ..... / Lincoln County
+61	true	county: waupaca county / Waupaca County
+62	true	county: walworth county / Walworth County
+63	null	county: ..... / Denali Borough
+64	null	county: ..... / Milwaukee County
+65	null	county: ..... / Marathon County
+66	null	county: ..... / Tolland County
+67	null	county: ..... / Sheboygan County
+68	true	county: lafayette county / Lafayette County
+69	true	county: vilas county / Vilas County
+70	true	county: sawyer county / Sawyer County
+71	true	county: iron county / Iron County
+72	null	county: ..... / St. Croix County
+73	true	county: maricopa county / Maricopa County
+74	null	county: ..... / Waushara County
+75	true	county: marinette county / Marinette County
+76	true	county: portage county / Portage County
+77	true	county: rusk county / Rusk County
+78	null	county: ..... / Menominee County
+79	null	county: ..... / Sweetwater County
+80	true	county: richland county / Richland County
+81	null	county: ..... / Wood County
+82	null	county: ..... / Campbell County
+83	null	county: ..... / Windham County
+84	true	county: pierce county / Pierce County
+85	true	county: sauk county / Sauk County
+86	null	county: ..... / Gloucester County
+87	true	county: shawano county / Shawano County
+88	true	county: waukesha county / Waukesha County
+89	null	county: ..... / Hartford County
+90	null	county: ..... / Rock County
+91	null	county: ..... / La Crosse County
+92	null	county: ..... / Racine County
+93	true	county: price county / Price County
+94	null	county: ..... / Polk County
+95	null	county: ..... / Pepin County
+96	true	county: ozaukee county / Ozaukee County
+97	null	county: ..... / Outagamie County,
+98	true	county: oneida county / Oneida County
+99	true	county: monroe county / Monroe County
+100	true	county: marquette county / Marquette County
+101	true	county: manitowoc county / Manitowoc County
+102	true	county: lincoln county / Lincoln County
+103	true	county: langlade county / Langlade County
+104	true	county: kewaunee county / Kewaunee County
+105	null	county: ..... / Kenosha County
+106	true	county: juneau county / Juneau County
+107	true	county: jefferson county / Jefferson County
+108	true	county: jackson county / Jackson County
+109	true	county: iowa county / Iowa County
+110	true	county: natrona county / Natrona County
+111	false	county: crook county / Crook County, Wyoming Crook County

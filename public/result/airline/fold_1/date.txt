@@ -1,0 +1,27 @@
+Found Not Null: 3
+Correct: 3
+Wrong: 0
+Total: 3
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	true	date: 26 may 1991 / 26 May 1991,
+2	null	date: ..... / 24 November 2005
+3	null	date: ..... / December 28, 1941,
+4	null	date: ..... / December 17, 1973,
+5	true	date: december 29, 1991 / December 29, 1991
+6	null	date: ..... / 3 March 1991,
+7	null	date: ..... / April 16, 2008,
+8	null	date: ..... / 16 September, 2009
+9	null	date: ..... / July 25, 1984
+10	null	date: ..... / March 27, 1987,
+11	null	date: ..... / March 27, 2007,
+12	true	date: february 21, 1970 / February 21, 1970,
+13	null	date: december 29, 1991 / ..........
+14	null	date: 26 may 1991 / ..........
+15	null	date: february 21, 1970 / ..........

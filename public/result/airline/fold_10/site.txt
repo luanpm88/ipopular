@@ -1,0 +1,14 @@
+Found Not Null: 0
+Correct: 0
+Wrong: 0
+Total: 0
+-----------
+
+
+
+
+1	null	site: ..... / Gurion International Airport.
+2	null	site: ..... / Atlanta, Georgia.
+3	null	site: ..... / Western Hemisphere.
+4	null	site: ..... / "DC-10 Spaceships".
+5	null	site: ..... / Pasco, Washington,

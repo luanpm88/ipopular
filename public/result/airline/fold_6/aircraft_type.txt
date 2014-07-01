@@ -1,0 +1,18 @@
+Found Not Null: 3
+Correct: 2
+Wrong: 1
+Total: 6
+-----------
+precision: 0.6666666666666666
+recall: 0.3333333333333333
+F: 0.4444444444444444
+
+
+
+
+1	true	aircraft type: boeing 767-260er / Boeing 767-260ER,
+2	true	aircraft type: mcdonnell douglas md-82 / McDonnell Douglas MD-82
+3	false	aircraft type: mcdonnell douglas md-11 / McDonnell Douglas
+4	null	aircraft type: boeing 747-283b / ..........
+5	null	aircraft type: boeing 727 / ..........
+6	null	aircraft type: airbus a300b2-203 / ..........

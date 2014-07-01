@@ -1,0 +1,59 @@
+Total articles: 312
+Articles for test: 281
+Articles for train: 31
+Total attributes: 64
+Attributes with high occurrences: 12/64
+Attributes with high precision: 2/12
+------------
+Found: 51
+Found Not Null: 18
+Correct: 13
+Wrong: 5
+Total: 27
+-----------
+precision: 0.7222222222222222
+recall: 0.48148148148148145
+F: 0.5777777777777777
+
+
+
+1	true	birth_name: michael kirk douglas / Michael Kirk Douglas
+2	null	occupation: ..... / actor
+3	true	birth_name: june rosemary whitfield / June Rosemary Whitfield,
+4	true	birth_name: uma karuna thurman / Uma Karuna Thurman
+5	true	birth_name: isidore louis bernard edmon van dommelen / Isidore Louis Bernard Edmon van Dommelen,
+6	null	birth_name: ..... / Katherine Kiernan Maria
+7	true	birth_name: friedrich wilhelm plumpe / Friedrich Wilhelm Plumpe
+8	false	birth_name: margaret natalie smith cross / Dame Margaret Natalie Smith Cross, DBE
+9	true	occupation: actress / actress
+10	true	birth_name: george campbell scott / George Campbell Scott
+11	true	birth_name: jean dorothy seberg / Jean Dorothy Seberg
+12	false	birth_name: jane mallory birkin / Jane Mallory Birkin, OBE
+13	null	occupation: ..... / actress
+14	false	birth_name: john eric bartholomew / John Eric Bartholomew OBE
+15	null	birth_name: ..... / James Eugene "Jim" Carrey
+16	null	occupation: ..... / actor
+17	null	birth_name: ..... / Robert Charles Durman Mitchum
+18	null	occupation: ..... / actor
+19	false	birth_name: wendy margaret hiller / Dame Wendy Margaret Hiller
+20	null	occupation: ..... / actress
+21	null	birth_name: ..... / Mary Margaret “Peggy”
+22	true	birth_name: ashley fuller olsen / Ashley Fuller Olsen
+23	true	birth_name: neve adrianne campbell / Neve Adrianne Campbell
+24	null	birth_name: ..... / Jessie Alice "Jessica"
+25	true	birth_name: norvell hardy / Norvell Hardy
+26	true	occupation: actor / actor
+27	false	birth_name: levardis robert martyn burton, jr. / Levardis Robert Martyn
+28	null	occupation: ..... / actress
+29	null	birth_name: ..... / Joseph Alberic Twisleton-Wykeham-Fiennes
+30	true	birth_name: jonathan scott frakes / Jonathan Scott Frakes
+31	null	occupation: ..... / actor, author
+32	null	occupation: actress / ..........
+33	null	occupation: film director / ..........
+34	null	birth_name: ernst lubitsch / ..........
+35	null	occupation: actress / ..........
+36	null	children: finty williams / ..........
+37	null	other_names: levar burton / ..........
+38	null	birth_place: durban, south africa / ..........
+39	null	occupation: actor / ..........
+40	null	birth_name: maría susana giménez aubert / ..........

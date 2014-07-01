@@ -1,0 +1,25 @@
+Found Not Null: 4
+Correct: 3
+Wrong: 1
+Total: 8
+-----------
+precision: 0.75
+recall: 0.375
+F: 0.5
+
+
+
+
+1	true	occupation: film director / film director
+2	null	occupation: ..... / actor
+3	null	occupation: ..... / actress
+4	null	occupation: ..... / actress
+5	null	occupation: ..... / actor
+6	false	occupation: actor / actress
+7	true	occupation: actress / actress
+8	null	occupation: ..... / actor
+9	true	occupation: actor / actor
+10	null	occupation: actor, singer, composer / ..........
+11	null	occupation: actor, musician / ..........
+12	null	occupation: film director / ..........
+13	null	occupation: actor / ..........

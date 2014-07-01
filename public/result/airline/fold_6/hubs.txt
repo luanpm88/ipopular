@@ -1,0 +1,29 @@
+Found Not Null: 10
+Correct: 10
+Wrong: 0
+Total: 10
+-----------
+precision: 1.0
+recall: 1.0
+F: 1.0
+
+
+
+
+1	true	hubs: pointe-à-pitre international airport / Pointe-à-Pitre International Airport,
+2	true	hubs: simon bolivar international airport / Simon Bolivar International Airport
+3	true	hubs: ulyanovsk vostochny airport / Ulyanovsk Vostochny Airport
+4	true	hubs: boryspil international airport / Boryspil International Airport
+5	null	hubs: ..... / Tokyo International Airport.
+6	true	hubs: tunis-carthage international airport / Tunis-Carthage International Airport.
+7	true	hubs: sunan international airport / Sunan International Airport
+8	true	hubs: bole international airport / Bole International Airport
+9	true	hubs: gostomel airport / Hostomel Airport
+10	null	hubs: ..... / Windhoek Hosea Kutako International Airport
+11	null	hubs: ..... / Imam Khomeini International Airport,
+12	true	hubs: kuwait international airport / Kuwait International Airport
+13	true	hubs: bahrain international airport / Bahrain International Airport.
+14	null	hubs: ..... / Damascus International Airport.
+15	null	hubs: ..... / Dallas-Fort Worth International Airport.
+16	null	hubs: ..... / Ninoy Aquino International Airport
+17	null	hubs: ..... / Seinäjoki Airport

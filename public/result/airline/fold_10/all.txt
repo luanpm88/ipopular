@@ -1,0 +1,266 @@
+Total articles: 456
+Articles for test: 411
+Articles for train: 45
+Total attributes: 140
+Attributes with high occurrences: 39/140
+Attributes with high precision: 14/39
+------------
+Found: 205
+Found Not Null: 83
+Correct: 61
+Wrong: 22
+Total: 144
+-----------
+precision: 0.7349397590361446
+recall: 0.4236111111111111
+F: 0.5374449339207048
+
+
+
+1	null	founded: ..... / March 14, 1927,
+2	false	airline: pan american world airways / Pan American
+3	null	icao: ..... / Trippe
+4	true	founded: 1971 / 1971
+5	null	operator: ..... / Air Florida
+6	true	airline: air florida / Air Florida
+7	null	icao: ..... / Air
+8	true	alliance: skyteam / SkyTeam
+9	null	date: ..... / 15 September 1934,
+10	true	callsign: aeromexico / Aeromexico
+11	true	hubs: mexico city international airport / Mexico City International Airport,
+12	null	destinations: ..... / 63
+13	null	icao: ..... / Aeroméxico
+14	null	callsign: ..... / British
+15	true	airline: go fly / Go Fly
+16	null	icao: ..... / Fly
+17	true	hubs: ben gurion international airport / Ben Gurion International Airport.
+18	true	callsign: klm / KLM
+19	null	airline: ..... / Air France-KLM
+20	true	icao: klm / KLM
+21	true	callsign: qantas / Qantas
+22	null	hubs: ..... / Sydney Airport.
+23	null	operator: ..... / Qantas Airways
+24	true	airline: qantas airways / Qantas Airways
+25	null	icao: ..... / Qantas
+26	null	date: ..... / October 29, 2008,
+27	true	callsign: northwest / Northwest
+28	null	hubs: ..... / Narita International Airport
+29	true	airline: northwest airlines / Northwest Airlines,
+30	false	icao: nwa / Northwest
+31	null	alliance: ..... / Oneworld
+32	true	callsign: american / American
+33	null	hubs: ..... / Dallas/Fort Worth International Airport.
+34	false	parent: amr corporation / American's parent, AMR Corporation
+35	true	airline: american airlines / American Airlines,
+36	null	icao: ..... / American
+37	true	callsign: kenya / Kenya
+38	null	headquarters: ..... / Embakasi, Nairobi,
+39	null	founded: ..... / 1977
+40	null	hubs: ..... / Jomo Kenyatta International Airport.
+41	true	airline: kenya airways / Kenya Airways
+42	null	commenced: ..... / February 4, 1977.
+43	true	callsign: delta / Delta
+44	null	destinations: ..... / 348
+45	false	airline: delta air lines / Delta Air
+46	null	icao: ..... / Delta
+47	null	date: ..... / November 12, 2001,
+48	null	callsign: ..... / American
+49	null	operator: ..... / American Airlines
+50	null	airline: ..... / American Airlines
+51	false	callsign: springbok / SAA
+52	true	founded: 1934 / 1934
+53	false	airline: south african airways / African Airways
+54	true	alliance: star alliance / Star Alliance,
+55	true	callsign: lufthansa / Lufthansa
+56	null	founded: ..... / 1926
+57	null	parent: ..... / Lufthansa Group
+58	null	airline: ..... / Lufthansa Group
+59	false	callsign: argentina / ALFA
+60	null	headquarters: ..... / Buenos Aires,
+61	true	airline: aerolíneas argentinas / Aerolíneas Argentinas
+62	true	date: 1 september 1983 / 1 September 1983,
+63	null	callsign: ..... / Korean Air
+64	null	hubs: ..... / Anchorage International Airport
+65	true	passengers: 246 / 246
+66	true	operator: korean air lines / Korean Air Lines
+67	true	crew: 23 / 23
+68	null	airline: ..... / Korean Air Lines
+69	null	icao: ..... / Korean
+70	null	alliance: ..... / Star Alliance
+71	null	date: ..... / 21 December 2010,
+72	null	founded: ..... / 1940
+73	null	parent: ..... / New Zealand
+74	false	airline: air new zealand / Air
+75	null	callsign: ..... / Saudi Arabian
+76	true	destinations: 90 / 90
+77	null	operator: ..... / Saudi Arabian
+78	null	airline: ..... / Saudi Arabian Airlines
+79	null	date: ..... / April 26, 2010,
+80	false	callsign: avianca / OceanAir
+81	null	hubs: ..... / El Dorado International Airport.
+82	null	airline: ..... / Avianca
+83	false	callsign: virgin / Singapore
+84	false	airline: virgin atlantic airways / Virgin Atlantic
+85	null	icao: ..... / Virgin
+86	true	callsign: gol / Gol
+87	null	icao: ..... / Gol
+88	true	alliance: star alliance / Star Alliance
+89	true	callsign: croatia / Croatia
+90	null	founded: ..... / 1989
+91	true	hubs: zagreb airport / Zagreb Airport,
+92	null	operator: ..... / Croatia
+93	true	airline: croatia airlines / Croatia Airlines
+94	null	callsign: ..... / Silver City
+95	null	parent: ..... / Silver City Airways
+96	true	airline: silver city airways / Silver City Airways
+97	true	callsign: lot / LOT
+98	false	founded: 1 january 1929 / 1929
+99	true	destinations: 60 / 60
+100	null	airline: ..... / Polskie Linie Lotnicze
+101	true	icao: lot / LOT
+102	false	callsign: eastern / Eastern Air
+103	null	headquarters: ..... / Miami-Dade County, Florida.
+104	null	founded: ..... / 1926
+105	true	airline: eastern air lines / Eastern Air Lines
+106	null	icao: ..... / Keys
+107	true	callsign: vieques / Vieques
+108	null	operator: ..... / Vieques Air
+109	false	airline: vieques air link / Vieques Air
+110	null	date: ..... / 31 March 1974
+111	null	callsign: ..... / British
+112	null	hubs: ..... / London Heathrow Airport.
+113	null	parent: ..... / British Airways
+114	null	operator: ..... / British Airways
+115	true	airline: british airways / British Airways
+116	null	callsign: ..... / America West
+117	null	parent: ..... / US Airways Group
+118	null	operator: ..... / America West Airlines
+119	true	airline: america west airlines / America West Airlines
+120	false	commenced: august 1, 1983 / 1, 1983
+121	null	date: ..... / April 13, 2010,
+122	null	callsign: ..... / Midwest
+123	true	headquarters: oak creek, wisconsin / Oak Creek, Wisconsin.
+124	true	parent: republic airways holdings / Republic Airways Holdings
+125	true	airline: midwest airlines / Midwest Airlines
+126	true	callsign: western / Western
+127	null	founded: ..... / 1928
+128	true	airline: western airlines / Western Airlines
+129	false	icao: wal / Western
+130	null	callsign: ..... / Martinair
+131	null	founded: ..... / 24 May 1958
+132	null	hubs: ..... / Amsterdam Airport
+133	null	airline: ..... / Martinair
+134	null	icao: ..... / Martinair
+135	false	callsign: jordanian / Royal Jordanian
+136	null	founded: ..... / 1963
+137	true	hubs: queen alia international airport / Queen Alia International Airport
+138	null	operator: ..... / Royal Jordanian Airlines
+139	null	airline: ..... / Royal Jordanian Airlines
+140	null	icao: ..... / Alia
+141	null	commenced: ..... / 15 December 1963
+142	null	date: ..... / October 1, 2010,
+143	true	callsign: continental / Continental
+144	true	airline: continental airlines / Continental Airlines
+145	null	callsign: ..... / Aer
+146	true	founded: 15 april 1936 / 15 April 1936,
+147	null	hubs: ..... / Dublin Airport.
+148	true	airline: aer lingus / Aer Lingus
+149	null	icao: ..... / Aer
+150	null	alliance: ..... / Star
+151	true	callsign: united / United
+152	false	airline: united airlines / United Air
+153	false	icao: ual / United
+154	true	alliance: star alliance / Star Alliance,
+155	false	callsign: air canada / TCA
+156	true	airline: air canada / Air Canada
+157	null	icao: ..... / Air
+158	null	callsign: ..... / Nippon Cargo
+159	null	headquarters: ..... / Minato, Tokyo, Japan.
+160	null	founded: ..... / 1978
+161	null	hubs: ..... / Narita International Airport
+162	null	airline: ..... / Nippon Cargo Airlines
+163	null	icao: ..... / CargoB
+164	true	alliance: oneworld / Oneworld
+165	false	callsign: finnair / Skytrax
+166	true	hubs: helsinki-vantaa airport / Helsinki-Vantaa Airport
+167	null	icao: ..... / Lucander
+168	true	callsign: southwest / Southwest
+169	null	headquarters: ..... / Dallas, Texas.
+170	null	operator: ..... / Southwest Airlines
+171	true	airline: southwest airlines / Southwest Airlines
+172	null	icao: ..... / TJ
+173	true	callsign: aeroflot / Aeroflot
+174	true	hubs: sheremetyevo international airport / Sheremetyevo International Airport,
+175	true	destinations: 97 / 97
+176	null	alliance: ..... / SkyTeam
+177	null	callsign: ..... / China
+178	true	parent: china aviation development foundation / China Aviation Development Foundation
+179	null	operator: ..... / China Airlines
+180	null	airline: ..... / China Airlines
+181	false	icao: cal / China
+182	null	callsign: ..... / Skyservice
+183	null	founded: ..... / 2010
+184	null	operator: ..... / Skyservice
+185	null	airline: ..... / Skyservice Airlines
+186	null	icao: ..... / Skyservice
+187	null	iata: aa / ..........
+188	null	headquarters: fort worth, texas / ..........
+189	null	iata: ba / ..........
+190	null	alliance: oneworld / ..........
+191	null	parent: air france-klm / ..........
+192	null	founded: 7 october 1919 / ..........
+193	null	commenced: 17 may 1920 / ..........
+194	null	hubs: amsterdam airport schiphol / ..........
+195	null	alliance: skyteam / ..........
+196	null	founded: 1920 / ..........
+197	null	founded: 1946 / ..........
+198	null	iata: go / ..........
+199	null	founded: 1998 / ..........
+200	null	parent: british airways / ..........
+201	null	headquarters: tempe, arizona / ..........
+202	null	ceased: december 4, 1991 / ..........
+203	null	parent: avianca-taca ltd. / ..........
+204	null	airline: aeroméxico / ..........
+205	null	hubs: warsaw chopin airport / ..........
+206	null	airline: gol linhas aéreas inteligentes s.a / ..........
+207	null	alliance: skyteam / ..........
+208	null	parent: virgin group / ..........
+209	null	callsign: mexicana / ..........
+210	null	ceased: august 28, 2010 / ..........
+211	null	airline: iberia / ..........
+212	null	callsign: iberia / ..........
+213	null	founded: 28 june 1927 / ..........
+214	null	hubs: madrid-barajas airport / ..........
+215	null	focus_cities: barcelona el prat airport / ..........
+216	null	parent: international airlines group / ..........
+217	null	callsign: el al / ..........
+218	null	founded: 1948 / ..........
+219	null	iata: sa / ..........
+220	null	icao: saa / ..........
+221	null	hubs: or tambo international airport / ..........
+222	null	alliance: star alliance / ..........
+223	null	headquarters: puerto rico / ..........
+224	null	iata: rj / ..........
+225	null	fatalities: 269 / ..........
+226	null	alliance: star alliance / ..........
+227	null	company_slogan: work hard. fly right. / ..........
+228	null	parent: united continental holdings, inc. / ..........
+229	null	commenced: 27 may 1936 / ..........
+230	null	callsign: new zealand / ..........
+231	null	hubs: auckland airport / ..........
+232	null	airline: emirates / ..........
+233	null	callsign: emirates / ..........
+234	null	parent: the emirates group / ..........
+235	null	founded: 1985 / ..........
+236	null	hubs: dubai international airport  / ..........
+237	null	company_slogan: the best care in the air / ..........
+238	null	airline: finnair / ..........
+239	null	fleet_size: 30 / ..........
+240	null	destinations: 178 / ..........
+241	null	frequent_flyer: worldperks / ..........
+242	null	company_slogan: now you're flying smart / ..........
+243	null	headquarters: eagan, minnesota / ..........
+244	null	headquarters: miami-dade county, florida / ..........
+245	null	founded: february 1981 / ..........
+246	null	iata: ay / ..........
+247	null	hubs: miami international airport / ..........
